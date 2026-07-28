@@ -39,7 +39,7 @@
         "https://danielgabela.itch.io/bobodogo",
         "https://grassydev29.itch.io/flight-bombardment"
       ],
-      "scannedAt": "2026-07-28T05:58:09.287Z",
+      "scannedAt": "2026-07-28T06:01:10.175Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,7 +81,7 @@
         "https://rolandkissgames.itch.io/atomgrad",
         "https://ldevoto.itch.io/digger"
       ],
-      "scannedAt": "2026-07-28T05:58:09.340Z",
+      "scannedAt": "2026-07-28T06:01:10.278Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -123,7 +123,7 @@
         "https://kotailri.itch.io/vtubers-with-propeller-hats",
         "https://mingdaok.itch.io/afterzero"
       ],
-      "scannedAt": "2026-07-28T05:58:09.507Z",
+      "scannedAt": "2026-07-28T06:01:10.462Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T05:58:09.555Z",
+      "scannedAt": "2026-07-28T06:01:10.571Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T05:58:11.034Z",
+      "scannedAt": "2026-07-28T06:01:14.711Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T05:58:11.375Z",
+      "scannedAt": "2026-07-28T06:01:14.790Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,12 +441,11 @@
         "https://www.y8.com/games/blockcraft",
         "https://www.y8.com/games/obby_parkour_escape_prison"
       ],
-      "scannedAt": "2026-07-28T05:58:12.161Z",
+      "scannedAt": "2026-07-28T06:01:15.069Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
-        "https://www.gamepix.com/play/freight",
         "https://www.gamepix.com/play/wolfoo-unblock-car",
         "https://www.gamepix.com/play/lexonaut",
         "https://www.gamepix.com/play/domino-peak",
@@ -505,9 +504,10 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
+        "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T05:58:12.295Z",
+      "scannedAt": "2026-07-28T06:01:15.177Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T05:58:12.484Z",
+      "scannedAt": "2026-07-28T06:01:15.305Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,7 +650,7 @@
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T05:58:09.890Z",
+      "scannedAt": "2026-07-28T06:01:10.819Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -706,7 +706,7 @@
         "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T05:58:10.125Z",
+      "scannedAt": "2026-07-28T06:01:11.066Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -739,7 +739,7 @@
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T05:58:09.152Z",
+  "lastScan": "2026-07-28T06:01:09.750Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z",
   "lastTrendBatch": "2026-07-28T05:58:09.152Z"
 }
