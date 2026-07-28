@@ -1,20 +1,32 @@
 {
-  "scannedAt": "2026-07-28T05:34:41.151Z",
-  "totalAdded": 2,
+  "scannedAt": "2026-07-28T05:45:45.410Z",
+  "totalAdded": 27,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 1
+    },
+    {
+      "ok": false,
+      "sourceId": "itch-jam-newest-html5",
+      "sourceName": "itch.io Game Jam 最新HTML5",
+      "error": "远程站点返回 403"
+    },
+    {
+      "ok": false,
+      "sourceId": "itch-jam-popular-html5",
+      "sourceName": "itch.io Game Jam 热门HTML5",
+      "error": "远程站点返回 403"
     },
     {
       "ok": true,
@@ -29,6 +41,34 @@
       "sourceName": "itch.io Featured Feed",
       "total": 10,
       "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "steam-popular-new",
+      "sourceName": "Steam 热门新发行",
+      "total": 0,
+      "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "steam-latest-indie",
+      "sourceName": "Steam 最新独立游戏",
+      "total": 0,
+      "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "newgrounds-daily-top",
+      "sourceName": "Newgrounds Daily Top Five",
+      "total": 5,
+      "added": 5
+    },
+    {
+      "ok": true,
+      "sourceId": "newgrounds-latest",
+      "sourceName": "Newgrounds 最新通过作品",
+      "total": 12,
+      "added": 12
     },
     {
       "ok": true,
@@ -49,14 +89,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -68,16 +108,16 @@
   ],
   "seoVerified": 18,
   "seoErrors": 0,
-  "trendsVerified": 0,
-  "trendErrors": 1,
+  "trendsVerified": 1,
+  "trendErrors": 0,
   "seoModelVersion": 2,
   "trendModelVersion": 1,
   "recommendationCounts": {
     "independent": 0,
     "page": 0,
     "watch": 2,
-    "reject": 83,
-    "pending": 487,
+    "reject": 98,
+    "pending": 496,
     "error": 0
   }
 }

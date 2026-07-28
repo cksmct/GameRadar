@@ -2,6 +2,9 @@
   "snapshots": {
     "itch-newest-web": {
       "urls": [
+        "https://rat-house.itch.io/strapped-for-time",
+        "https://bitsofwisdom.itch.io/seat-and-destroy-web",
+        "https://madebymacky.itch.io/road-to-mexico",
         "https://alhasan-games.itch.io/sabb-color-puzzle",
         "https://spelltale-interactive.itch.io/dress-me-please",
         "https://slothmonster.itch.io/brackish-banneret",
@@ -34,12 +37,9 @@
         "https://grassydev29.itch.io/flight-bombardment",
         "https://fabioalves.itch.io/quem-faz-este-som",
         "https://stoneyplusone.itch.io/sokocross-painter",
-        "https://daviroque.itch.io/futecabra",
-        "https://xererukruk.itch.io/magicbounds",
-        "https://thestopper.itch.io/investiboxv1",
-        "https://project-create-games.itch.io/turn-base-frieren"
+        "https://daviroque.itch.io/futecabra"
       ],
-      "scannedAt": "2026-07-28T05:34:41.516Z",
+      "scannedAt": "2026-07-28T05:45:45.750Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -76,16 +76,17 @@
         "https://beagleguy.itch.io/streetlight-syndicate",
         "https://peepops.itch.io/the-peg-mines",
         "https://boidbwain.itch.io/dr-werewolf",
+        "https://idlejourney.itch.io/idle-journey",
         "https://rolandkissgames.itch.io/atomgrad",
         "https://ldevoto.itch.io/digger",
-        "https://failboatcoding.itch.io/cata-bomb-v14",
-        "https://daysgobye.itch.io/corporate-capital"
+        "https://failboatcoding.itch.io/cata-bomb-v14"
       ],
-      "scannedAt": "2026-07-28T05:34:41.616Z",
+      "scannedAt": "2026-07-28T05:45:45.846Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://rat-house.itch.io/strapped-for-time",
         "https://bitsofwisdom.itch.io/seat-and-destroy-web",
         "https://madebymacky.itch.io/road-to-mexico",
         "https://alhasan-games.itch.io/sabb-color-puzzle",
@@ -120,10 +121,9 @@
         "https://runradiant.itch.io/dread-below-demo",
         "https://robotor231.itch.io/grow-carrots",
         "https://isaac-mexico.itch.io/fly-fever",
-        "https://foxwaves7.itch.io/whereiamnot",
-        "https://montg9032.itch.io/landon-tycoon-5-preview-edition-050"
+        "https://foxwaves7.itch.io/whereiamnot"
       ],
-      "scannedAt": "2026-07-28T05:34:41.720Z",
+      "scannedAt": "2026-07-28T05:45:46.118Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T05:34:41.841Z",
+      "scannedAt": "2026-07-28T05:45:46.296Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T05:34:42.212Z",
+      "scannedAt": "2026-07-28T05:45:47.255Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,86 +362,86 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T05:34:42.313Z",
+      "scannedAt": "2026-07-28T05:45:47.406Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
       "urls": [
         "https://www.y8.com/games/interstellar_legends?utm_source=IL_logo_banner",
-        "https://www.y8.com/games/no_i_m_not_a_plankton",
-        "https://www.y8.com/games/slide_rabbit",
         "https://www.y8.com/games/high_school_girls_classroom_life",
         "https://www.y8.com/games/gun_merge_mr_bullet",
-        "https://www.y8.com/games/monster_high_glam_of_venice",
-        "https://www.y8.com/games/granny_simulator",
         "https://www.y8.com/games/military_strike",
-        "https://www.y8.com/games/formula_car_circuit_racing",
-        "https://www.y8.com/games/frost_wing_hopper",
-        "https://www.y8.com/games/ball_sort_",
-        "https://www.y8.com/games/eating_simulator_physics_food",
-        "https://www.y8.com/games/bolts_nuts_sorting_master",
-        "https://www.y8.com/games/elixir_drop",
-        "https://www.y8.com/games/3d_chess_room",
-        "https://www.y8.com/games/angry_zombies_in_sight",
-        "https://www.y8.com/games/pin_spin_master_puzzle",
-        "https://www.y8.com/games/abc_pizza_maker",
+        "https://www.y8.com/games/no_i_m_not_a_plankton",
         "https://www.y8.com/games/wild_drift_on_the_bmw_m5_f90",
-        "https://www.y8.com/games/bike_stunt_",
-        "https://www.y8.com/games/mansion_story_match",
-        "https://www.y8.com/games/word_solitare_puzzle",
-        "https://www.y8.com/games/mine_shooter_3d",
         "https://www.y8.com/games/obby_pump_up_your_muscles",
-        "https://www.y8.com/games/world_cup_eye_art",
-        "https://www.y8.com/games/mazoo",
-        "https://www.y8.com/games/dream_puppy_spot_the_differences",
-        "https://www.y8.com/games/gridlock_traffic_escape",
-        "https://www.y8.com/games/coral_maze_diver",
-        "https://www.y8.com/games/snake_lands_io",
-        "https://www.y8.com/games/color_war_rainbow",
-        "https://www.y8.com/games/word_search_universe_animals",
-        "https://www.y8.com/games/turn_and_hit",
-        "https://www.y8.com/games/dragon_egg_catapult",
-        "https://www.y8.com/games/wordvine",
+        "https://www.y8.com/games/formula_car_circuit_racing",
         "https://www.y8.com/games/maria_s_vacation_seasons_dress_up",
-        "https://www.y8.com/games/submarine_rampage_deep_sea",
-        "https://www.y8.com/games/monopoly_webgl",
+        "https://www.y8.com/games/ball_sort_",
+        "https://www.y8.com/games/word_solitare_puzzle",
+        "https://www.y8.com/games/3d_chess_room",
+        "https://www.y8.com/games/granny_simulator",
+        "https://www.y8.com/games/pin_spin_master_puzzle",
+        "https://www.y8.com/games/monster_high_glam_of_venice",
+        "https://www.y8.com/games/eating_simulator_physics_food",
+        "https://www.y8.com/games/dream_puppy_spot_the_differences",
+        "https://www.y8.com/games/animals_merge_",
+        "https://www.y8.com/games/frost_wing_hopper",
+        "https://www.y8.com/games/angry_zombies_in_sight",
+        "https://www.y8.com/games/mansion_story_match",
+        "https://www.y8.com/games/abc_pizza_maker",
+        "https://www.y8.com/games/word_search_universe_animals",
+        "https://www.y8.com/games/offroad_crash_climber_4x4",
+        "https://www.y8.com/games/world_cup_eye_art",
+        "https://www.y8.com/games/mine_shooter_3d",
+        "https://www.y8.com/games/midnight_diamond_3d_mahjong_classic_tiles",
+        "https://www.y8.com/games/car_and_truck_parking",
+        "https://www.y8.com/games/solve_the_arrow_cube",
+        "https://www.y8.com/games/haaland_coloring_book",
         "https://www.y8.com/games/penalty_shooter_soccer_cup_2026",
-        "https://www.y8.com/games/trickpool",
-        "https://www.y8.com/games/snake_power-up_arena",
-        "https://www.y8.com/games/the_machinegg",
+        "https://www.y8.com/games/gridlock_traffic_escape",
+        "https://www.y8.com/games/color_war_rainbow",
+        "https://www.y8.com/games/cannon_shot_3d",
         "https://www.y8.com/games/haaland_funny_face",
+        "https://www.y8.com/games/bracket_burger",
+        "https://www.y8.com/games/submarine_rampage_deep_sea",
+        "https://www.y8.com/games/snake_lands_io",
+        "https://www.y8.com/games/99_nights_surviving_the_forest",
+        "https://www.y8.com/games/petal_pop",
+        "https://www.y8.com/games/dragon_egg_catapult",
+        "https://www.y8.com/games/chain_pop",
+        "https://www.y8.com/games/slide_rabbit",
+        "https://www.y8.com/games/good_to_drive",
+        "https://www.y8.com/games/quick_draw_duel",
+        "https://www.y8.com/games/football_marble_shooter",
+        "https://www.y8.com/games/pony_color_fun",
+        "https://www.y8.com/games/holler_star_rush",
+        "https://www.y8.com/games/skyhook",
+        "https://www.y8.com/games/car_quiz",
+        "https://www.y8.com/games/turn_and_hit",
+        "https://www.y8.com/games/the_machinegg",
+        "https://www.y8.com/games/bolts_nuts_sorting_master",
+        "https://www.y8.com/games/monopoly_webgl",
+        "https://www.y8.com/games/elixir_drop",
+        "https://www.y8.com/games/coral_maze_diver",
+        "https://www.y8.com/games/snake_power-up_arena",
+        "https://www.y8.com/games/eternal_skate_clicker",
+        "https://www.y8.com/games/italian_brainrot_merge_clicker",
+        "https://www.y8.com/games/bike_stunt_",
+        "https://www.y8.com/games/mazoo",
+        "https://www.y8.com/games/wordvine",
+        "https://www.y8.com/games/trickpool",
         "https://www.y8.com/games/orbit_scavenger",
         "https://www.y8.com/games/racing_in_city",
-        "https://www.y8.com/games/good_to_drive",
-        "https://www.y8.com/games/eternal_skate_clicker",
-        "https://www.y8.com/games/cannon_shot_3d",
-        "https://www.y8.com/games/midnight_diamond_3d_mahjong_classic_tiles",
-        "https://www.y8.com/games/football_marble_shooter",
         "https://www.y8.com/games/a_perfect_dodge",
-        "https://www.y8.com/games/chain_pop",
-        "https://www.y8.com/games/quick_draw_duel",
-        "https://www.y8.com/games/holler_star_rush",
-        "https://www.y8.com/games/italian_brainrot_merge_clicker",
-        "https://www.y8.com/games/animals_merge_",
         "https://www.y8.com/games/adventure_capitalist",
         "https://www.y8.com/games/blockcraft",
         "https://www.y8.com/games/obby_parkour_escape_prison",
-        "https://www.y8.com/games/solve_the_arrow_cube",
         "https://www.y8.com/games/grow_a_garden_for_brainrots",
-        "https://www.y8.com/games/car_and_truck_parking",
-        "https://www.y8.com/games/offroad_crash_climber_4x4",
         "https://www.y8.com/games/shithead",
         "https://www.y8.com/games/catching_piglets",
-        "https://www.y8.com/games/pony_color_fun",
-        "https://www.y8.com/games/10_bottles_shatter_pro",
-        "https://www.y8.com/games/checkers_with_trump",
-        "https://www.y8.com/games/prismroll_3d",
-        "https://www.y8.com/games/glam_guru_puzzle_collection",
-        "https://www.y8.com/games/jump_to_the_rhythm_of_songs_musical_ball",
-        "https://www.y8.com/games/tusg_io",
-        "https://www.y8.com/games/haaland_coloring_book"
+        "https://www.y8.com/games/10_bottles_shatter_pro"
       ],
-      "scannedAt": "2026-07-28T05:34:42.819Z",
+      "scannedAt": "2026-07-28T05:45:49.057Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -507,7 +507,7 @@
         "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
         "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T05:34:42.976Z",
+      "scannedAt": "2026-07-28T05:45:49.164Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,9 +595,48 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T05:34:43.039Z",
+      "scannedAt": "2026-07-28T05:45:49.206Z",
       "detectedType": "lagged-listing"
+    },
+    "steam-popular-new": {
+      "urls": [],
+      "scannedAt": "2026-07-28T05:45:46.546Z",
+      "detectedType": "itch-listing"
+    },
+    "steam-latest-indie": {
+      "urls": [],
+      "scannedAt": "2026-07-28T05:45:46.769Z",
+      "detectedType": "itch-listing"
+    },
+    "newgrounds-daily-top": {
+      "urls": [
+        "https://www.newgrounds.com/portal/view/1043982",
+        "https://www.newgrounds.com/portal/view/1044010",
+        "https://www.newgrounds.com/portal/view/1043988",
+        "https://www.newgrounds.com/portal/view/1043978",
+        "https://www.newgrounds.com/portal/view/1043962"
+      ],
+      "scannedAt": "2026-07-28T05:45:46.974Z",
+      "detectedType": "feed"
+    },
+    "newgrounds-latest": {
+      "urls": [
+        "https://www.newgrounds.com/portal/view/1044060",
+        "https://www.newgrounds.com/portal/view/1044062",
+        "https://www.newgrounds.com/portal/view/1044083",
+        "https://www.newgrounds.com/portal/view/1044084",
+        "https://www.newgrounds.com/portal/view/1044090",
+        "https://www.newgrounds.com/portal/view/1044096",
+        "https://www.newgrounds.com/portal/view/1044097",
+        "https://www.newgrounds.com/portal/view/1044106",
+        "https://www.newgrounds.com/portal/view/1044114",
+        "https://www.newgrounds.com/portal/view/1044116",
+        "https://www.newgrounds.com/portal/view/1044134",
+        "https://www.newgrounds.com/portal/view/1044170"
+      ],
+      "scannedAt": "2026-07-28T05:45:46.995Z",
+      "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T05:34:41.151Z"
+  "lastScan": "2026-07-28T05:45:45.410Z"
 }
