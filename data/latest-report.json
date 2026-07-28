@@ -1,13 +1,13 @@
 {
-  "scannedAt": "2026-07-28T06:01:09.750Z",
-  "totalAdded": 1,
+  "scannedAt": "2026-07-28T06:04:35.952Z",
+  "totalAdded": 3,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -33,7 +33,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -57,16 +57,18 @@
       "added": 0
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
-      "error": "fetch failed"
+      "total": 5,
+      "added": 0
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
-      "error": "fetch failed"
+      "total": 12,
+      "added": 0
     },
     {
       "ok": true,
@@ -104,20 +106,20 @@
       "added": 0
     }
   ],
-  "seoVerified": 0,
+  "seoVerified": 22,
   "seoErrors": 0,
   "trendsVerified": 0,
   "trendErrors": 0,
   "trendBatchRan": false,
   "risingDiscoveryRan": false,
-  "seoModelVersion": 2,
+  "seoModelVersion": 3,
   "trendModelVersion": 2,
   "recommendationCounts": {
-    "independent": 1,
-    "page": 0,
+    "independent": 0,
+    "page": 1,
     "watch": 0,
-    "reject": 188,
-    "pending": 523,
+    "reject": 190,
+    "pending": 522,
     "error": 0
   }
 }

@@ -2,9 +2,9 @@
   "snapshots": {
     "itch-newest-web": {
       "urls": [
+        "https://tanvirahmedarnab.itch.io/solar-system-simulation",
         "https://kiharasota.itch.io/katagakidakedeha-tsurikirenainode",
         "https://blablablatheking.itch.io/the-dash-for-infinity-pt1",
-        "https://wuhard19900104.itch.io/cook-and-match-html5-game-for-websiteincluded-html5-only",
         "https://rat-house.itch.io/strapped-for-time",
         "https://bitsofwisdom.itch.io/seat-and-destroy-web",
         "https://madebymacky.itch.io/road-to-mexico",
@@ -39,7 +39,7 @@
         "https://danielgabela.itch.io/bobodogo",
         "https://grassydev29.itch.io/flight-bombardment"
       ],
-      "scannedAt": "2026-07-28T06:01:10.175Z",
+      "scannedAt": "2026-07-28T06:04:36.275Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -56,36 +56,37 @@
         "https://elrosso.itch.io/fun-video-store",
         "https://justcamh.itch.io/tiny-homes",
         "https://tayl1r.itch.io/systan-restore",
-        "https://anamerzlaya.itch.io/having-fun-mochi",
         "https://sirmilkman.itch.io/rpg-brokendepths",
+        "https://anamerzlaya.itch.io/having-fun-mochi",
         "https://featurekreep.itch.io/dear-mom",
         "https://transmutrix.itch.io/ducky-sokoban-dx",
         "https://punkcake.itch.io/bees-wax",
         "https://twotinydice.itch.io/rolande",
         "https://jokupelle.itch.io/ages-of-conflict",
-        "https://nulledwine.itch.io/hickory",
         "https://zino21.itch.io/skillforge",
-        "https://dylntsu.itch.io/tocho-flag-tactics",
         "https://cr0xx.itch.io/clear-the-table",
+        "https://dylntsu.itch.io/tocho-flag-tactics",
+        "https://nulledwine.itch.io/hickory",
         "https://marytheproducer.itch.io/count-my-coins-coin-counter",
         "https://yarrichar.itch.io/one-trillion-blocks",
-        "https://beagleguy.itch.io/streetlight-syndicate",
         "https://nachogames.itch.io/a-few-clicks-left",
         "https://soshingames.itch.io/oops-wrong-button",
+        "https://beagleguy.itch.io/streetlight-syndicate",
         "https://elitogame.itch.io/bunny-loot",
         "https://filgreen3.itch.io/gazzilion-boxes",
         "https://peepops.itch.io/the-peg-mines",
-        "https://daysgobye.itch.io/corporate-capital",
         "https://boidbwain.itch.io/dr-werewolf",
+        "https://ldevoto.itch.io/digger",
+        "https://daysgobye.itch.io/corporate-capital",
         "https://idlejourney.itch.io/idle-journey",
-        "https://rolandkissgames.itch.io/atomgrad",
-        "https://ldevoto.itch.io/digger"
+        "https://rolandkissgames.itch.io/atomgrad"
       ],
-      "scannedAt": "2026-07-28T06:01:10.278Z",
+      "scannedAt": "2026-07-28T06:04:36.339Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://tanvirahmedarnab.itch.io/solar-system-simulation",
         "https://mintbyte.itch.io/a-bottles-story",
         "https://kiharasota.itch.io/katagakidakedeha-tsurikirenainode",
         "https://blablablatheking.itch.io/the-dash-for-infinity-pt1",
@@ -120,10 +121,9 @@
         "https://salmongamez773.itch.io/russian-roulette-14",
         "https://fearvrred426.itch.io/gorillataghorror-redfear-edition",
         "https://ccb-dev.itch.io/tomb-of-nassak-an-rah",
-        "https://kotailri.itch.io/vtubers-with-propeller-hats",
-        "https://mingdaok.itch.io/afterzero"
+        "https://kotailri.itch.io/vtubers-with-propeller-hats"
       ],
-      "scannedAt": "2026-07-28T06:01:10.462Z",
+      "scannedAt": "2026-07-28T06:04:36.500Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T06:01:10.571Z",
+      "scannedAt": "2026-07-28T06:04:36.554Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T06:01:14.711Z",
+      "scannedAt": "2026-07-28T06:04:38.110Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T06:01:14.790Z",
+      "scannedAt": "2026-07-28T06:04:38.235Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,11 +441,12 @@
         "https://www.y8.com/games/blockcraft",
         "https://www.y8.com/games/obby_parkour_escape_prison"
       ],
-      "scannedAt": "2026-07-28T06:01:15.069Z",
+      "scannedAt": "2026-07-28T06:04:38.956Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
+        "https://www.gamepix.com/play/freight",
         "https://www.gamepix.com/play/wolfoo-unblock-car",
         "https://www.gamepix.com/play/lexonaut",
         "https://www.gamepix.com/play/domino-peak",
@@ -504,10 +505,9 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
-        "https://www.gamepix.com/play/dna-evolution-3d"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
       ],
-      "scannedAt": "2026-07-28T06:01:15.177Z",
+      "scannedAt": "2026-07-28T06:04:39.090Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T06:01:15.305Z",
+      "scannedAt": "2026-07-28T06:04:39.202Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,7 +650,7 @@
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T06:01:10.819Z",
+      "scannedAt": "2026-07-28T06:04:36.912Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -706,7 +706,7 @@
         "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T06:01:11.066Z",
+      "scannedAt": "2026-07-28T06:04:37.164Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -717,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T05:58:10.699Z",
+      "scannedAt": "2026-07-28T06:04:37.741Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -735,11 +735,11 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T05:58:10.777Z",
+      "scannedAt": "2026-07-28T06:04:37.826Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T06:01:09.750Z",
+  "lastScan": "2026-07-28T06:04:35.952Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z",
   "lastTrendBatch": "2026-07-28T05:58:09.152Z"
 }
