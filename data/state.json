@@ -39,7 +39,7 @@
         "https://stoneyplusone.itch.io/sokocross-painter",
         "https://daviroque.itch.io/futecabra"
       ],
-      "scannedAt": "2026-07-28T05:47:08.541Z",
+      "scannedAt": "2026-07-28T05:48:22.587Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,11 +81,13 @@
         "https://ldevoto.itch.io/digger",
         "https://failboatcoding.itch.io/cata-bomb-v14"
       ],
-      "scannedAt": "2026-07-28T05:47:08.678Z",
+      "scannedAt": "2026-07-28T05:48:22.615Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://blablablatheking.itch.io/the-dash-for-infinity-pt1",
+        "https://wuhard19900104.itch.io/cook-and-match-html5-game-for-websiteincluded-html5-only",
         "https://rat-house.itch.io/strapped-for-time",
         "https://bitsofwisdom.itch.io/seat-and-destroy-web",
         "https://madebymacky.itch.io/road-to-mexico",
@@ -119,11 +121,9 @@
         "https://kotailri.itch.io/vtubers-with-propeller-hats",
         "https://mingdaok.itch.io/afterzero",
         "https://runradiant.itch.io/dread-below-demo",
-        "https://robotor231.itch.io/grow-carrots",
-        "https://isaac-mexico.itch.io/fly-fever",
-        "https://foxwaves7.itch.io/whereiamnot"
+        "https://robotor231.itch.io/grow-carrots"
       ],
-      "scannedAt": "2026-07-28T05:47:08.814Z",
+      "scannedAt": "2026-07-28T05:48:22.721Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T05:47:08.867Z",
+      "scannedAt": "2026-07-28T05:48:22.741Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T05:47:10.045Z",
+      "scannedAt": "2026-07-28T05:48:24.010Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T05:47:10.802Z",
+      "scannedAt": "2026-07-28T05:48:24.083Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,22 +441,11 @@
         "https://www.y8.com/games/catching_piglets",
         "https://www.y8.com/games/10_bottles_shatter_pro"
       ],
-      "scannedAt": "2026-07-28T05:47:11.973Z",
+      "scannedAt": "2026-07-28T05:48:25.024Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
-        "https://www.gamepix.com/play/freight",
-        "https://www.gamepix.com/play/wolfoo-unblock-car",
-        "https://www.gamepix.com/play/lexonaut",
-        "https://www.gamepix.com/play/domino-peak",
-        "https://www.gamepix.com/play/balloon-color-mania",
-        "https://www.gamepix.com/play/cricket-battle-cards",
-        "https://www.gamepix.com/play/skyline-siege-city-air-defense",
-        "https://www.gamepix.com/play/mountain-bike-xtreme",
-        "https://www.gamepix.com/play/garuda-fly",
-        "https://www.gamepix.com/play/pizza-dash",
-        "https://www.gamepix.com/play/signal-hop",
         "https://www.gamepix.com/play/chinchilla-trails",
         "https://www.gamepix.com/play/barah-gashta",
         "https://www.gamepix.com/play/mega-digger-ecavation-fun",
@@ -505,9 +494,20 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
+        "https://www.gamepix.com/play/dna-evolution-3d",
+        "https://www.gamepix.com/play/craft-magic-world-escape",
+        "https://www.gamepix.com/play/jewel-coloring",
+        "https://www.gamepix.com/play/dockmaster",
+        "https://www.gamepix.com/play/glowknot",
+        "https://www.gamepix.com/play/plush-merge",
+        "https://www.gamepix.com/play/silent-fogs-echoes-of-evil",
+        "https://www.gamepix.com/play/earn-your-food",
+        "https://www.gamepix.com/play/car-parking-puzzle",
+        "https://www.gamepix.com/play/teddy-drop",
+        "https://www.gamepix.com/play/level-rage"
       ],
-      "scannedAt": "2026-07-28T05:47:12.244Z",
+      "scannedAt": "2026-07-28T05:48:25.101Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T05:47:12.338Z",
+      "scannedAt": "2026-07-28T05:48:25.164Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,7 +650,7 @@
         "https://store.steampowered.com/app/3337380/Tabletop_Tavern/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T05:47:09.155Z",
+      "scannedAt": "2026-07-28T05:48:23.071Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -706,7 +706,7 @@
         "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4317900/Infinite_Ruins/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T05:47:09.359Z",
+      "scannedAt": "2026-07-28T05:48:23.283Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -717,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T05:47:09.754Z",
+      "scannedAt": "2026-07-28T05:48:23.729Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -735,10 +735,10 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T05:47:09.830Z",
+      "scannedAt": "2026-07-28T05:48:23.815Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T05:47:08.403Z",
+  "lastScan": "2026-07-28T05:48:22.338Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z"
 }
