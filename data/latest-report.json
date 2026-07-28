@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-28T20:06:40.303Z",
+  "scannedAt": "2026-07-28T21:31:09.621Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 54,
+  "totalAdded": 75,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 8
+      "added": 19
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 34
+      "added": 36
     },
     {
       "ok": true,
@@ -38,7 +38,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 2
+      "added": 3
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
@@ -80,32 +80,32 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 4
+      "added": 12
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 1
+      "added": 0
     }
   ],
-  "seoVerified": 26,
-  "seoErrors": 4,
+  "seoVerified": 27,
+  "seoErrors": 3,
   "fastModelVersion": 2,
   "fastPassedCount": 2,
   "fastWatchCount": 1,
-  "fastRejectedCount": 184,
+  "fastRejectedCount": 211,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
-  "youtubeVerified": 1,
+  "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
   "trendErrors": 0,
@@ -124,8 +124,8 @@
     "independent": 1,
     "page": 0,
     "watch": 1,
-    "reject": 184,
-    "pending": 959,
-    "error": 23
+    "reject": 211,
+    "pending": 975,
+    "error": 26
   }
 }
