@@ -1,4 +1,329 @@
 {
-  "updatedAt": null,
-  "candidates": []
+  "updatedAt": "2026-07-28T03:20:00.000Z",
+  "candidates": [
+    {
+      "id": "seed-bWlsaXRhcnkgc3RyaWtl",
+      "gameName": "Military Strike",
+      "normalizedName": "military strike",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "y8-new|https://www.y8.com/games/military_strike",
+          "sourceId": "y8-new",
+          "name": "Y8 新游戏",
+          "kind": "y8-new",
+          "url": "https://www.y8.com/games/military_strike",
+          "date": "2026-07-28T03:20:00.000Z"
+        },
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/military-strike",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/military-strike",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 14,
+      "level": "hot"
+    },
+    {
+      "id": "seed-Y2FyIGFuZCB0cnVjayBwYXJr",
+      "gameName": "Car And Truck Parking",
+      "normalizedName": "car and truck parking",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "y8-new|https://www.y8.com/games/car_and_truck_parking",
+          "sourceId": "y8-new",
+          "name": "Y8 新游戏",
+          "kind": "y8-new",
+          "url": "https://www.y8.com/games/car_and_truck_parking",
+          "date": "2026-07-28T03:20:00.000Z"
+        },
+        {
+          "key": "lagged-new|https://lagged.com/en/g/car-and-truck-parking",
+          "sourceId": "lagged-new",
+          "name": "Lagged 新游戏",
+          "kind": "lagged-new",
+          "url": "https://lagged.com/en/g/car-and-truck-parking",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 14,
+      "level": "hot"
+    },
+    {
+      "id": "seed-Zm9vdGJhbGwgbWFyYmxlIHNo",
+      "gameName": "Football Marble Shooter",
+      "normalizedName": "football marble shooter",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "y8-new|https://www.y8.com/games/football_marble_shooter",
+          "sourceId": "y8-new",
+          "name": "Y8 新游戏",
+          "kind": "y8-new",
+          "url": "https://www.y8.com/games/football_marble_shooter",
+          "date": "2026-07-28T03:20:00.000Z"
+        },
+        {
+          "key": "lagged-new|https://lagged.com/en/g/football-marble-shooter",
+          "sourceId": "lagged-new",
+          "name": "Lagged 新游戏",
+          "kind": "lagged-new",
+          "url": "https://lagged.com/en/g/football-marble-shooter",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 14,
+      "level": "hot"
+    },
+    {
+      "id": "seed-YnViYmxlc2hvb3RlciB4IGJh",
+      "gameName": "Bubbleshooter x Basketball 3D",
+      "normalizedName": "bubbleshooter x basketball 3d",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "poki-new|https://poki.com/en/g/bubbleshooter-x-basketball-3d",
+          "sourceId": "poki-new",
+          "name": "Poki 新游戏",
+          "kind": "poki-new",
+          "url": "https://poki.com/en/g/bubbleshooter-x-basketball-3d",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-YmxvY2sgZm9yIGJsb29k",
+      "gameName": "Block for Blood",
+      "normalizedName": "block for blood",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "poki-new|https://poki.com/en/g/block-for-blood",
+          "sourceId": "poki-new",
+          "name": "Poki 新游戏",
+          "kind": "poki-new",
+          "url": "https://poki.com/en/g/block-for-blood",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-Y2l0eSBjYWIgcnVzaA",
+      "gameName": "City Cab Rush",
+      "normalizedName": "city cab rush",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "poki-new|https://poki.com/en/g/city-cab-rush",
+          "sourceId": "poki-new",
+          "name": "Poki 新游戏",
+          "kind": "poki-new",
+          "url": "https://poki.com/en/g/city-cab-rush",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-ZHJlc3MgdXAgcGFydHk",
+      "gameName": "Dress Up Party",
+      "normalizedName": "dress up party",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "poki-new|https://poki.com/en/g/dress-up-party",
+          "sourceId": "poki-new",
+          "name": "Poki 新游戏",
+          "kind": "poki-new",
+          "url": "https://poki.com/en/g/dress-up-party",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-ZWF0aW5nIHNpbXVsYXRvciBw",
+      "gameName": "Eating Simulator: Physics Food",
+      "normalizedName": "eating simulator physics food",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "y8-new|https://www.y8.com/games/eating_simulator_physics_food",
+          "sourceId": "y8-new",
+          "name": "Y8 新游戏",
+          "kind": "y8-new",
+          "url": "https://www.y8.com/games/eating_simulator_physics_food",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-Zm9ybXVsYSBjYXIgY2lyY3Vp",
+      "gameName": "Formula Car Circuit Racing",
+      "normalizedName": "formula car circuit racing",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "y8-new|https://www.y8.com/games/formula_car_circuit_racing",
+          "sourceId": "y8-new",
+          "name": "Y8 新游戏",
+          "kind": "y8-new",
+          "url": "https://www.y8.com/games/formula_car_circuit_racing",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-Y2hpbmNoaWxsYSB0cmFpbHM",
+      "gameName": "Chinchilla Trails",
+      "normalizedName": "chinchilla trails",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/chinchilla-trails",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/chinchilla-trails",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-YmFyYWggZ2FzaHRh",
+      "gameName": "Barah Gashta",
+      "normalizedName": "barah gashta",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/barah-gashta",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/barah-gashta",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-bWVnYSBkaWdnZXIgZXhjYXZh",
+      "gameName": "Mega Digger - Excavation Fun",
+      "normalizedName": "mega digger excavation fun",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/mega-digger-ecavation-fun",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/mega-digger-ecavation-fun",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-ZnVubnkgYWxpZW4gamlnc2F3",
+      "gameName": "Funny Alien Jigsaw",
+      "normalizedName": "funny alien jigsaw",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "lagged-new|https://lagged.com/en/g/funny-alien-jigsaw",
+          "sourceId": "lagged-new",
+          "name": "Lagged 新游戏",
+          "kind": "lagged-new",
+          "url": "https://lagged.com/en/g/funny-alien-jigsaw",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-d29vbCBydXNo",
+      "gameName": "Wool Rush",
+      "normalizedName": "wool rush",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "lagged-new|https://lagged.com/en/g/wool-rush",
+          "sourceId": "lagged-new",
+          "name": "Lagged 新游戏",
+          "kind": "lagged-new",
+          "url": "https://lagged.com/en/g/wool-rush",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    },
+    {
+      "id": "seed-c3VwZXJtYXJrZXQgZW1waXJl",
+      "gameName": "Supermarket Empire",
+      "normalizedName": "supermarket empire",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T03:20:00.000Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "lagged-new|https://lagged.com/en/g/supermarket-empire",
+          "sourceId": "lagged-new",
+          "name": "Lagged 新游戏",
+          "kind": "lagged-new",
+          "url": "https://lagged.com/en/g/supermarket-empire",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 7,
+      "level": "verify"
+    }
+  ]
 }
