@@ -39,7 +39,7 @@
         "https://michaelihc.itch.io/deep-surveillance-aurora",
         "https://michaelihc.itch.io/pixel-detective-six-mysteries"
       ],
-      "scannedAt": "2026-07-28T06:24:11.647Z",
+      "scannedAt": "2026-07-28T06:25:12.203Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,7 +81,7 @@
         "https://idlejourney.itch.io/idle-journey",
         "https://rolandkissgames.itch.io/atomgrad"
       ],
-      "scannedAt": "2026-07-28T06:24:11.743Z",
+      "scannedAt": "2026-07-28T06:25:12.308Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -123,7 +123,7 @@
         "https://arsjobus.itch.io/mine-out-sfml",
         "https://emmadmaurer.itch.io/the-missing-magic-crown"
       ],
-      "scannedAt": "2026-07-28T06:24:12.002Z",
+      "scannedAt": "2026-07-28T06:25:12.386Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T06:24:12.103Z",
+      "scannedAt": "2026-07-28T06:25:12.460Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T06:24:13.105Z",
+      "scannedAt": "2026-07-28T06:25:13.701Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T06:24:13.244Z",
+      "scannedAt": "2026-07-28T06:25:13.846Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,11 +441,12 @@
         "https://www.y8.com/games/elixir_drop",
         "https://www.y8.com/games/coral_maze_diver"
       ],
-      "scannedAt": "2026-07-28T06:24:13.637Z",
+      "scannedAt": "2026-07-28T06:25:14.412Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
+        "https://www.gamepix.com/play/freight",
         "https://www.gamepix.com/play/wolfoo-unblock-car",
         "https://www.gamepix.com/play/lexonaut",
         "https://www.gamepix.com/play/domino-peak",
@@ -504,10 +505,9 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
-        "https://www.gamepix.com/play/dna-evolution-3d"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
       ],
-      "scannedAt": "2026-07-28T06:24:13.742Z",
+      "scannedAt": "2026-07-28T06:25:14.563Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T06:24:13.847Z",
+      "scannedAt": "2026-07-28T06:25:14.668Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,7 +650,7 @@
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T06:24:12.404Z",
+      "scannedAt": "2026-07-28T06:25:12.779Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -706,7 +706,7 @@
         "https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T06:24:12.661Z",
+      "scannedAt": "2026-07-28T06:25:13.059Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -717,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T06:24:12.811Z",
+      "scannedAt": "2026-07-28T06:25:13.358Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -735,11 +735,11 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T06:24:12.831Z",
+      "scannedAt": "2026-07-28T06:25:13.389Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T06:24:11.485Z",
+  "lastScan": "2026-07-28T06:25:11.874Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z",
   "lastTrendBatch": "2026-07-28T05:58:09.152Z"
 }
