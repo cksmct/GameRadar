@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-07-28T04:32:05.711Z",
-  "totalAdded": 11,
+  "scannedAt": "2026-07-28T04:33:21.117Z",
+  "totalAdded": 10,
   "sources": [
     {
       "ok": true,
@@ -21,7 +21,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -66,14 +66,15 @@
       "added": 0
     }
   ],
-  "seoVerified": 12,
+  "seoVerified": 18,
   "seoErrors": 0,
+  "seoModelVersion": 2,
   "recommendationCounts": {
-    "independent": 2,
+    "independent": 1,
     "page": 0,
-    "watch": 1,
-    "reject": 33,
-    "pending": 514,
+    "watch": 0,
+    "reject": 45,
+    "pending": 494,
     "error": 0
   }
 }

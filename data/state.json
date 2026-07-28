@@ -39,7 +39,7 @@
         "https://hizzoniel.itch.io/drive-it",
         "https://solarflar3w4.itch.io/titanfall-kit"
       ],
-      "scannedAt": "2026-07-28T04:32:05.998Z",
+      "scannedAt": "2026-07-28T04:33:21.447Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,7 +81,7 @@
         "https://failboatcoding.itch.io/cata-bomb-v14",
         "https://daysgobye.itch.io/corporate-capital"
       ],
-      "scannedAt": "2026-07-28T04:32:06.049Z",
+      "scannedAt": "2026-07-28T04:33:21.550Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -123,7 +123,7 @@
         "https://inykazlyka.itch.io/synth-and-the-frog-collection",
         "https://bolttracks.itch.io/untitled-drum-kit"
       ],
-      "scannedAt": "2026-07-28T04:32:06.084Z",
+      "scannedAt": "2026-07-28T04:33:21.649Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T04:32:06.109Z",
+      "scannedAt": "2026-07-28T04:33:21.770Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T04:32:06.292Z",
+      "scannedAt": "2026-07-28T04:33:22.048Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T04:32:06.386Z",
+      "scannedAt": "2026-07-28T04:33:22.150Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,11 +441,21 @@
         "https://www.y8.com/games/wolfoo_block_blast",
         "https://www.y8.com/games/shithead"
       ],
-      "scannedAt": "2026-07-28T04:32:07.377Z",
+      "scannedAt": "2026-07-28T04:33:22.799Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
+        "https://www.gamepix.com/play/wolfoo-unblock-car",
+        "https://www.gamepix.com/play/lexonaut",
+        "https://www.gamepix.com/play/domino-peak",
+        "https://www.gamepix.com/play/balloon-color-mania",
+        "https://www.gamepix.com/play/cricket-battle-cards",
+        "https://www.gamepix.com/play/skyline-siege-city-air-defense",
+        "https://www.gamepix.com/play/mountain-bike-xtreme",
+        "https://www.gamepix.com/play/garuda-fly",
+        "https://www.gamepix.com/play/pizza-dash",
+        "https://www.gamepix.com/play/signal-hop",
         "https://www.gamepix.com/play/chinchilla-trails",
         "https://www.gamepix.com/play/barah-gashta",
         "https://www.gamepix.com/play/mega-digger-ecavation-fun",
@@ -495,19 +505,9 @@
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
         "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
-        "https://www.gamepix.com/play/dna-evolution-3d",
-        "https://www.gamepix.com/play/craft-magic-world-escape",
-        "https://www.gamepix.com/play/jewel-coloring",
-        "https://www.gamepix.com/play/dockmaster",
-        "https://www.gamepix.com/play/glowknot",
-        "https://www.gamepix.com/play/plush-merge",
-        "https://www.gamepix.com/play/silent-fogs-echoes-of-evil",
-        "https://www.gamepix.com/play/earn-your-food",
-        "https://www.gamepix.com/play/car-parking-puzzle",
-        "https://www.gamepix.com/play/teddy-drop",
-        "https://www.gamepix.com/play/level-rage"
+        "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T04:32:07.498Z",
+      "scannedAt": "2026-07-28T04:33:22.922Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,9 +595,9 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T04:32:07.562Z",
+      "scannedAt": "2026-07-28T04:33:22.982Z",
       "detectedType": "lagged-listing"
     }
   },
-  "lastScan": "2026-07-28T04:32:05.711Z"
+  "lastScan": "2026-07-28T04:33:21.117Z"
 }
