@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-07-28T05:56:17.171Z",
-  "totalAdded": 4,
+  "scannedAt": "2026-07-28T05:58:09.152Z",
+  "totalAdded": 2,
   "sources": [
     {
       "ok": true,
@@ -33,7 +33,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -54,7 +54,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -89,14 +89,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -106,18 +106,20 @@
       "added": 0
     }
   ],
-  "seoVerified": 9,
+  "seoVerified": 1,
   "seoErrors": 0,
-  "trendsVerified": 1,
+  "trendsVerified": 0,
   "trendErrors": 0,
+  "trendBatchRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 2,
   "trendModelVersion": 2,
   "recommendationCounts": {
     "independent": 1,
     "page": 0,
     "watch": 0,
-    "reject": 187,
-    "pending": 522,
+    "reject": 188,
+    "pending": 523,
     "error": 0
   }
 }
