@@ -1,20 +1,20 @@
 {
-  "scannedAt": "2026-07-28T05:52:39.400Z",
-  "totalAdded": 13,
+  "scannedAt": "2026-07-28T05:54:00.723Z",
+  "totalAdded": 2,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": false,
@@ -47,7 +47,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
@@ -96,7 +96,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 10
+      "added": 0
     },
     {
       "ok": true,
@@ -109,15 +109,15 @@
   "seoVerified": 22,
   "seoErrors": 0,
   "trendsVerified": 0,
-  "trendErrors": 1,
+  "trendErrors": 0,
   "seoModelVersion": 2,
   "trendModelVersion": 2,
   "recommendationCounts": {
     "independent": 0,
     "page": 0,
     "watch": 0,
-    "reject": 169,
-    "pending": 539,
+    "reject": 186,
+    "pending": 522,
     "error": 0
   }
 }

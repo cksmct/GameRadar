@@ -2,6 +2,9 @@
   "snapshots": {
     "itch-newest-web": {
       "urls": [
+        "https://kiharasota.itch.io/katagakidakedeha-tsurikirenainode",
+        "https://blablablatheking.itch.io/the-dash-for-infinity-pt1",
+        "https://wuhard19900104.itch.io/cook-and-match-html5-game-for-websiteincluded-html5-only",
         "https://rat-house.itch.io/strapped-for-time",
         "https://bitsofwisdom.itch.io/seat-and-destroy-web",
         "https://madebymacky.itch.io/road-to-mexico",
@@ -34,12 +37,9 @@
         "https://michaelihc.itch.io/arsenal-ascendant",
         "https://michaelihc.itch.io/rogue-arsenal-pet-squad",
         "https://danielgabela.itch.io/bobodogo",
-        "https://grassydev29.itch.io/flight-bombardment",
-        "https://fabioalves.itch.io/quem-faz-este-som",
-        "https://stoneyplusone.itch.io/sokocross-painter",
-        "https://daviroque.itch.io/futecabra"
+        "https://grassydev29.itch.io/flight-bombardment"
       ],
-      "scannedAt": "2026-07-28T05:52:39.574Z",
+      "scannedAt": "2026-07-28T05:54:01.083Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,7 +81,7 @@
         "https://rolandkissgames.itch.io/atomgrad",
         "https://ldevoto.itch.io/digger"
       ],
-      "scannedAt": "2026-07-28T05:52:39.703Z",
+      "scannedAt": "2026-07-28T05:54:01.173Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -123,7 +123,7 @@
         "https://mingdaok.itch.io/afterzero",
         "https://runradiant.itch.io/dread-below-demo"
       ],
-      "scannedAt": "2026-07-28T05:52:39.887Z",
+      "scannedAt": "2026-07-28T05:54:01.398Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T05:52:40.042Z",
+      "scannedAt": "2026-07-28T05:54:01.509Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T05:52:41.133Z",
+      "scannedAt": "2026-07-28T05:54:02.567Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T05:52:41.236Z",
+      "scannedAt": "2026-07-28T05:54:02.639Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,7 +441,7 @@
         "https://www.y8.com/games/catching_piglets",
         "https://www.y8.com/games/10_bottles_shatter_pro"
       ],
-      "scannedAt": "2026-07-28T05:52:41.782Z",
+      "scannedAt": "2026-07-28T05:54:02.836Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -507,7 +507,7 @@
         "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
         "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T05:52:41.939Z",
+      "scannedAt": "2026-07-28T05:54:02.926Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T05:52:42.067Z",
+      "scannedAt": "2026-07-28T05:54:03.025Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,7 +650,7 @@
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T05:52:40.337Z",
+      "scannedAt": "2026-07-28T05:54:01.830Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -706,7 +706,7 @@
         "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4317900/Infinite_Ruins/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T05:52:40.659Z",
+      "scannedAt": "2026-07-28T05:54:02.119Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -717,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T05:52:40.957Z",
+      "scannedAt": "2026-07-28T05:54:02.351Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -735,10 +735,10 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T05:52:40.984Z",
+      "scannedAt": "2026-07-28T05:54:02.371Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T05:52:39.400Z",
+  "lastScan": "2026-07-28T05:54:00.723Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z"
 }
