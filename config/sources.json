@@ -1,0 +1,38 @@
+[
+  {
+    "id": "itch-newest-web",
+    "name": "itch.io 最新网页游戏",
+    "url": "https://itch.io/games/newest/platform-web",
+    "kind": "itch-new",
+    "fetchKind": "itch-listing",
+    "enabled": true,
+    "baselineOnly": false
+  },
+  {
+    "id": "itch-new-popular-web",
+    "name": "itch.io New & Popular",
+    "url": "https://itch.io/games/new-and-popular/platform-web",
+    "kind": "itch-popular",
+    "fetchKind": "itch-listing",
+    "enabled": true,
+    "baselineOnly": false
+  },
+  {
+    "id": "itch-new-feed",
+    "name": "itch.io New Feed",
+    "url": "https://itch.io/feed/new.xml",
+    "kind": "itch-new",
+    "fetchKind": "feed",
+    "enabled": true,
+    "baselineOnly": false
+  },
+  {
+    "id": "itch-featured-feed",
+    "name": "itch.io Featured Feed",
+    "url": "https://itch.io/feed/featured.xml",
+    "kind": "itch-featured",
+    "fetchKind": "feed",
+    "enabled": true,
+    "baselineOnly": false
+  }
+]
