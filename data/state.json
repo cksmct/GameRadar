@@ -39,7 +39,7 @@
         "https://danielgabela.itch.io/bobodogo",
         "https://grassydev29.itch.io/flight-bombardment"
       ],
-      "scannedAt": "2026-07-28T06:04:36.275Z",
+      "scannedAt": "2026-07-28T06:05:43.779Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,11 +81,12 @@
         "https://idlejourney.itch.io/idle-journey",
         "https://rolandkissgames.itch.io/atomgrad"
       ],
-      "scannedAt": "2026-07-28T06:04:36.339Z",
+      "scannedAt": "2026-07-28T06:05:43.872Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://marmaladium.itch.io/miskatonicslop",
         "https://tanvirahmedarnab.itch.io/solar-system-simulation",
         "https://mintbyte.itch.io/a-bottles-story",
         "https://kiharasota.itch.io/katagakidakedeha-tsurikirenainode",
@@ -120,10 +121,9 @@
         "https://gilmagalesh.itch.io/chainjump",
         "https://salmongamez773.itch.io/russian-roulette-14",
         "https://fearvrred426.itch.io/gorillataghorror-redfear-edition",
-        "https://ccb-dev.itch.io/tomb-of-nassak-an-rah",
-        "https://kotailri.itch.io/vtubers-with-propeller-hats"
+        "https://ccb-dev.itch.io/tomb-of-nassak-an-rah"
       ],
-      "scannedAt": "2026-07-28T06:04:36.500Z",
+      "scannedAt": "2026-07-28T06:05:44.032Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T06:04:36.554Z",
+      "scannedAt": "2026-07-28T06:05:44.223Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T06:04:38.110Z",
+      "scannedAt": "2026-07-28T06:05:46.051Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T06:04:38.235Z",
+      "scannedAt": "2026-07-28T06:05:46.401Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,7 +441,7 @@
         "https://www.y8.com/games/blockcraft",
         "https://www.y8.com/games/obby_parkour_escape_prison"
       ],
-      "scannedAt": "2026-07-28T06:04:38.956Z",
+      "scannedAt": "2026-07-28T06:05:47.112Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -507,7 +507,7 @@
         "https://www.gamepix.com/play/naughty-baby-prankster",
         "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
       ],
-      "scannedAt": "2026-07-28T06:04:39.090Z",
+      "scannedAt": "2026-07-28T06:05:47.274Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T06:04:39.202Z",
+      "scannedAt": "2026-07-28T06:05:47.422Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,7 +650,7 @@
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T06:04:36.912Z",
+      "scannedAt": "2026-07-28T06:05:44.581Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -706,7 +706,7 @@
         "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T06:04:37.164Z",
+      "scannedAt": "2026-07-28T06:05:44.884Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -717,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T06:04:37.741Z",
+      "scannedAt": "2026-07-28T06:05:45.277Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -735,11 +735,11 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T06:04:37.826Z",
+      "scannedAt": "2026-07-28T06:05:45.334Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T06:04:35.952Z",
+  "lastScan": "2026-07-28T06:05:43.534Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z",
   "lastTrendBatch": "2026-07-28T05:58:09.152Z"
 }

@@ -1,13 +1,13 @@
 {
-  "scannedAt": "2026-07-28T06:04:35.952Z",
-  "totalAdded": 3,
+  "scannedAt": "2026-07-28T06:05:43.534Z",
+  "totalAdded": 1,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -15,18 +15,6 @@
       "sourceName": "itch.io New & Popular",
       "total": 36,
       "added": 0
-    },
-    {
-      "ok": false,
-      "sourceId": "itch-jam-newest-html5",
-      "sourceName": "itch.io Game Jam 最新HTML5",
-      "error": "远程站点返回 403"
-    },
-    {
-      "ok": false,
-      "sourceId": "itch-jam-popular-html5",
-      "sourceName": "itch.io Game Jam 热门HTML5",
-      "error": "远程站点返回 403"
     },
     {
       "ok": true,
@@ -96,7 +84,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -118,7 +106,7 @@
     "independent": 0,
     "page": 1,
     "watch": 0,
-    "reject": 190,
+    "reject": 191,
     "pending": 522,
     "error": 0
   }
