@@ -1,13 +1,13 @@
 {
-  "scannedAt": "2026-07-28T04:35:42.430Z",
-  "totalAdded": 1,
+  "scannedAt": "2026-07-28T05:30:08.968Z",
+  "totalAdded": 49,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 8
     },
     {
       "ok": true,
@@ -21,7 +21,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 18
     },
     {
       "ok": true,
@@ -49,14 +49,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 0
+      "added": 22
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -68,13 +68,16 @@
   ],
   "seoVerified": 18,
   "seoErrors": 0,
+  "trendsVerified": 2,
+  "trendErrors": 0,
   "seoModelVersion": 2,
+  "trendModelVersion": 1,
   "recommendationCounts": {
-    "independent": 2,
+    "independent": 0,
     "page": 0,
-    "watch": 0,
-    "reject": 54,
-    "pending": 476,
+    "watch": 2,
+    "reject": 68,
+    "pending": 501,
     "error": 0
   }
 }
