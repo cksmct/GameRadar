@@ -39,7 +39,7 @@
         "https://stoneyplusone.itch.io/sokocross-painter",
         "https://daviroque.itch.io/futecabra"
       ],
-      "scannedAt": "2026-07-28T05:45:45.750Z",
+      "scannedAt": "2026-07-28T05:47:08.541Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,7 +81,7 @@
         "https://ldevoto.itch.io/digger",
         "https://failboatcoding.itch.io/cata-bomb-v14"
       ],
-      "scannedAt": "2026-07-28T05:45:45.846Z",
+      "scannedAt": "2026-07-28T05:47:08.678Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -123,7 +123,7 @@
         "https://isaac-mexico.itch.io/fly-fever",
         "https://foxwaves7.itch.io/whereiamnot"
       ],
-      "scannedAt": "2026-07-28T05:45:46.118Z",
+      "scannedAt": "2026-07-28T05:47:08.814Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T05:45:46.296Z",
+      "scannedAt": "2026-07-28T05:47:08.867Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T05:45:47.255Z",
+      "scannedAt": "2026-07-28T05:47:10.045Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T05:45:47.406Z",
+      "scannedAt": "2026-07-28T05:47:10.802Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,11 +441,12 @@
         "https://www.y8.com/games/catching_piglets",
         "https://www.y8.com/games/10_bottles_shatter_pro"
       ],
-      "scannedAt": "2026-07-28T05:45:49.057Z",
+      "scannedAt": "2026-07-28T05:47:11.973Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
+        "https://www.gamepix.com/play/freight",
         "https://www.gamepix.com/play/wolfoo-unblock-car",
         "https://www.gamepix.com/play/lexonaut",
         "https://www.gamepix.com/play/domino-peak",
@@ -504,10 +505,9 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
-        "https://www.gamepix.com/play/dna-evolution-3d"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
       ],
-      "scannedAt": "2026-07-28T05:45:49.164Z",
+      "scannedAt": "2026-07-28T05:47:12.244Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,18 +595,119 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T05:45:49.206Z",
+      "scannedAt": "2026-07-28T05:47:12.338Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
-      "urls": [],
-      "scannedAt": "2026-07-28T05:45:46.546Z",
-      "detectedType": "itch-listing"
+      "urls": [
+        "https://store.steampowered.com/app/1165870/Mahou_Arms/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2133850/Broken_Reality_2000/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/951770/Forsaken_Realms_Vahrins_Call/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2684630/Endacopia/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2479090/Prelude_Dark_Pain/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3330210/Kinny_and_the_Cosmic_Cauldron/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3894850/Nothing_To_Declare/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/387990/Scrap_Mechanic/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3683770/Boba_Cafe_Simulator/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3440070/Dinoblade/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2424420/Avatar_Legends_The_Fighting_Game/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2803490/Atomcraft/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4570720/DragonSword__Awakening/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3561220/Pass_the_Fear/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4282500/hololive_Dreams/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/1845250/Rubinite/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3722330/Shift_At_Midnight/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/1913120/Tears_of_Metal/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4468030/OFFBEAT/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4324480/Dirty_Business/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/1553260/Scarlet_Deer_Inn/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3590290/DIVE_or_DIE__Children_of_Rain/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3279440/Drone_Sector/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/1605850/ZeroSpace/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4134600/EverRail/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2527160/Desktop_Explorer/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2195120/GoGo_Town/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/1696770/The_Mermaid_Mask/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3712080/Funnel_Runners/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4210580/Ore_Factory_Squad/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3808690/Pathogenic/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2524850/Denshattack/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4512570/A_Game_About_Chopping_Trees/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2569760/The_Mound_Omen_of_Cthulhu/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/367270/Angels_Fall_First/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/1623730/Palworld/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4380490/Cat_Mail_Co/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3935020/Backyard_Baseball/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2209900/Moonlight_Peaks/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4800590/Supermarket_Chaos/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4165910/Steam_Machine/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2211170/Unrailed_2_Back_on_Track/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/3337380/Tabletop_Tavern/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1"
+      ],
+      "scannedAt": "2026-07-28T05:47:09.155Z",
+      "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
-      "urls": [],
-      "scannedAt": "2026-07-28T05:45:46.769Z",
-      "detectedType": "itch-listing"
+      "urls": [
+        "https://store.steampowered.com/app/4056490/Convent_Chronicles_Revelation/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4667910/Secret_Dice/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4259520/Hamster_Eat_Run/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4824830/The_Last_Factory/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/3160090/Slot__Dungeons/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4932470/TacTums_DreamQuest/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/1165870/Mahou_Arms/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4194860/Dungeon_Tactics_Idle_Incremental_Autobattler/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4429960/Academy_of_Samsara/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4147420/Office_Ladies/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4235700/Utopia_Birth_of_The_Heroes/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4739690/Immortal_Generals/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4613900/Nightmare_Hospital/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4644050/Viking_Vending/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4834880/Echos_of_the_Dark_Part_2_Escaping_From_Asylum/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4480590/Squbeat/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4912850/Eyedle/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/2892200/VectaGuard/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4887740/Project_Deep_Nexus/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4410680/Rites__Receipts/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4341450/OFFICE_KEEPER/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4302940/Corner_Market/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4581810/Scrap_Yard_Idle/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/3966540/Kioskeria_Summer_Breeze/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4601390/Twin_Stick_Checkers/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4901910/Moon_Miner/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4080870/bobanook/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4575870/Spheroll/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/2901380/Tile_Trials/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4058190/Streetlight_Syndicate/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/3080560/Graphite/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4910450/Blobkey/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4434520/Office_Leveling/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4492260/Ducks_in_Disguise/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/3891880/Orbital/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4845430/BEHIND_THE_WALLS/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/3199870/Road_Diner_Simulator_Prologue/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/1092050/Fire_On_Fight__Online_Multiplayer_Shooter/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4785610/Descent_of_Yomi/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4915810/The_Fall_of_Zorata/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4882970/Last_Hope_Zombie_Autobattler/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4856060/Rubber_Duck_Survival/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4908570/Card_Count_Coach/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4920820/Slime_Jump/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4336290/Tyrania_Enforcers__Visual_Novel/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/3997210/Backfire_Brigade/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1",
+        "https://store.steampowered.com/app/4317900/Infinite_Ruins/?snr=1_7_7_240_150_1"
+      ],
+      "scannedAt": "2026-07-28T05:47:09.359Z",
+      "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
       "urls": [
@@ -616,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T05:45:46.974Z",
+      "scannedAt": "2026-07-28T05:47:09.754Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -634,9 +735,10 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T05:45:46.995Z",
+      "scannedAt": "2026-07-28T05:47:09.830Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T05:45:45.410Z"
+  "lastScan": "2026-07-28T05:47:08.403Z",
+  "lastRisingDiscovery": "2026-07-28T05:47:08.403Z"
 }
