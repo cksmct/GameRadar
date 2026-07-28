@@ -39,7 +39,7 @@
         "https://hizzoniel.itch.io/drive-it",
         "https://solarflar3w4.itch.io/titanfall-kit"
       ],
-      "scannedAt": "2026-07-28T04:33:21.447Z",
+      "scannedAt": "2026-07-28T04:35:42.741Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,11 +81,12 @@
         "https://failboatcoding.itch.io/cata-bomb-v14",
         "https://daysgobye.itch.io/corporate-capital"
       ],
-      "scannedAt": "2026-07-28T04:33:21.550Z",
+      "scannedAt": "2026-07-28T04:35:42.850Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://emmadmaurer.itch.io/the-missing-magic-crown",
         "https://watecompany.itch.io/the-mirror-lied",
         "https://protocol-unknown.itch.io/safecracker",
         "https://ahhceyden.itch.io/depth",
@@ -94,7 +95,6 @@
         "https://posthumousstudio.itch.io/empire-of-deccan",
         "https://gilmagalesh.itch.io/chainjump",
         "https://salmongamez773.itch.io/russian-roulette-14",
-        "https://dalandlord-games.itch.io/bootkick-plus-legacy",
         "https://fearvrred426.itch.io/gorillataghorror-redfear-edition",
         "https://ccb-dev.itch.io/tomb-of-nassak-an-rah",
         "https://kotailri.itch.io/vtubers-with-propeller-hats",
@@ -123,7 +123,7 @@
         "https://inykazlyka.itch.io/synth-and-the-frog-collection",
         "https://bolttracks.itch.io/untitled-drum-kit"
       ],
-      "scannedAt": "2026-07-28T04:33:21.649Z",
+      "scannedAt": "2026-07-28T04:35:42.970Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T04:33:21.770Z",
+      "scannedAt": "2026-07-28T04:35:43.072Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T04:33:22.048Z",
+      "scannedAt": "2026-07-28T04:35:43.149Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T04:33:22.150Z",
+      "scannedAt": "2026-07-28T04:35:43.292Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,7 +441,7 @@
         "https://www.y8.com/games/wolfoo_block_blast",
         "https://www.y8.com/games/shithead"
       ],
-      "scannedAt": "2026-07-28T04:33:22.799Z",
+      "scannedAt": "2026-07-28T04:35:43.796Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -507,7 +507,7 @@
         "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
         "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T04:33:22.922Z",
+      "scannedAt": "2026-07-28T04:35:43.967Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,9 +595,9 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T04:33:22.982Z",
+      "scannedAt": "2026-07-28T04:35:44.087Z",
       "detectedType": "lagged-listing"
     }
   },
-  "lastScan": "2026-07-28T04:33:21.117Z"
+  "lastScan": "2026-07-28T04:35:42.430Z"
 }
