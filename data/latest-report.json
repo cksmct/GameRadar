@@ -1,6 +1,6 @@
 {
-  "scannedAt": "2026-07-28T04:29:14.149Z",
-  "totalAdded": 1,
+  "scannedAt": "2026-07-28T04:32:05.711Z",
+  "totalAdded": 11,
   "sources": [
     {
       "ok": true,
@@ -21,7 +21,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -56,7 +56,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 1
+      "added": 10
     },
     {
       "ok": true,
@@ -69,11 +69,11 @@
   "seoVerified": 12,
   "seoErrors": 0,
   "recommendationCounts": {
-    "independent": 0,
+    "independent": 2,
     "page": 0,
     "watch": 1,
-    "reject": 23,
-    "pending": 515,
+    "reject": 33,
+    "pending": 514,
     "error": 0
   }
 }

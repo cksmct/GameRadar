@@ -1,12 +1,120 @@
 {
-  "updatedAt": "2026-07-28T04:29:14.149Z",
+  "updatedAt": "2026-07-28T04:32:05.711Z",
   "candidates": [
+    {
+      "id": "seed-c3VwZXJtYXJrZXQgZW1waXJl",
+      "gameName": "Supermarket Empire",
+      "normalizedName": "supermarket empire",
+      "firstSeen": "2026-07-28T03:20:00.000Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "lagged-new|https://lagged.com/en/g/supermarket-empire",
+          "sourceId": "lagged-new",
+          "name": "Lagged 新游戏",
+          "kind": "lagged-new",
+          "url": "https://lagged.com/en/g/supermarket-empire",
+          "date": "2026-07-28T03:20:00.000Z"
+        }
+      ],
+      "score": 77,
+      "level": "independent",
+      "discoveryScore": 7,
+      "discoveryLevel": "verify",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:08.323Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Supermarket Empire",
+        "score": 77,
+        "classification": "independent",
+        "reasons": [
+          "适合独立站验证",
+          "主词搜索结果以游戏内容为主",
+          "添加 game 后搜索意图明确",
+          "自动补全出现 2 个游戏长尾"
+        ],
+        "exactGameRatio": 1,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 1,
+        "suggestionGameCount": 2,
+        "suggestions": [
+          "supermarket empire",
+          "supermarket empire game",
+          "supermarket empire idle tycoon",
+          "supermarket empire tycoon",
+          "supermarket empire subang",
+          "supermarket empire game online",
+          "supermarket empire city",
+          "supermarket empire idle",
+          "supermarket empire damansara",
+          "empire supermarket flyer"
+        ],
+        "nameRisk": 17,
+        "exactResultCount": 3,
+        "gameResultCount": 3
+      }
+    },
+    {
+      "id": "auto-dGhlIG1pcnJvciBsaWVk",
+      "gameName": "The Mirror Lied [Free]",
+      "normalizedName": "the mirror lied",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-feed|https://watecompany.itch.io/the-mirror-lied",
+          "sourceId": "itch-new-feed",
+          "name": "itch.io New Feed",
+          "kind": "itch-new",
+          "url": "https://watecompany.itch.io/the-mirror-lied",
+          "date": "Tue, 28 Jul 2026 02:11:02 GMT"
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:09.948Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "The Mirror Lied",
+        "score": 72,
+        "classification": "independent",
+        "reasons": [
+          "适合独立站验证",
+          "主词搜索结果以游戏内容为主",
+          "添加 game 后搜索意图明确",
+          "自动补全出现 2 个游戏长尾"
+        ],
+        "exactGameRatio": 1,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0.67,
+        "suggestionGameCount": 2,
+        "suggestions": [
+          "the mirror lies",
+          "the mirror lied game",
+          "the mirror lied book",
+          "the mirror lies chinese drama",
+          "the mirror lied walkthrough",
+          "the mirror lied explained",
+          "the mirror song",
+          "the mirror song lyrics",
+          "the mirror song thomas dolby",
+          "the mirror song toys"
+        ],
+        "nameRisk": 6,
+        "exactResultCount": 3,
+        "gameResultCount": 3
+      },
+      "score": 72,
+      "level": "independent"
+    },
     {
       "id": "auto-cm9sbGEgYWN0aW9uIHdpbmRv",
       "gameName": "ROLLA [Free] [Action] [Windows]",
       "normalizedName": "rolla action windows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -41,341 +149,11 @@
       "level": "watch"
     },
     {
-      "id": "seed-c3VwZXJtYXJrZXQgZW1waXJl",
-      "gameName": "Supermarket Empire",
-      "normalizedName": "supermarket empire",
-      "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "lagged-new|https://lagged.com/en/g/supermarket-empire",
-          "sourceId": "lagged-new",
-          "name": "Lagged 新游戏",
-          "kind": "lagged-new",
-          "url": "https://lagged.com/en/g/supermarket-empire",
-          "date": "2026-07-28T03:20:00.000Z"
-        }
-      ],
-      "score": 0,
-      "level": "pending",
-      "discoveryScore": 7,
-      "discoveryLevel": "verify",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      }
-    },
-    {
-      "id": "auto-bGVnZW5kdW0",
-      "gameName": "Legendum",
-      "normalizedName": "legendum",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://vadeum.itch.io/legendum",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://vadeum.itch.io/legendum",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-aW5uIG92ZXIgeW91ciBoZWFk",
-      "gameName": "Inn Over Your Head",
-      "normalizedName": "inn over your head",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://minmaxwell.itch.io/inn-over-your-head",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://minmaxwell.itch.io/inn-over-your-head",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-a2VlcGluZyB5b3UgY2xvc2U",
-      "gameName": "Keeping You Close",
-      "normalizedName": "keeping you close",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://aiainaine.itch.io/keeping-you-close",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://aiainaine.itch.io/keeping-you-close",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-cGV0YWw",
-      "gameName": "Petal",
-      "normalizedName": "petal",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://13-23.itch.io/petal",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://13-23.itch.io/petal",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-bGVnZW5kIG9mIGlkbGU",
-      "gameName": "Legend of Idle",
-      "normalizedName": "legend of idle",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://activedev.itch.io/legend-of-idle-playtest-demo",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://activedev.itch.io/legend-of-idle-playtest-demo",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-Ymxvb2QgdGVtcGxl",
-      "gameName": "Blood Temple",
-      "normalizedName": "blood temple",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://galengames.itch.io/blood-temple",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://galengames.itch.io/blood-temple",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-YXZlcmFnZSByb3V0aW5l",
-      "gameName": "Average Routine",
-      "normalizedName": "average routine",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://colorlesswing-studio.itch.io/average-routine",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://colorlesswing-studio.itch.io/average-routine",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-Z2FsYXh5IGJhbGxlcmluYQ",
-      "gameName": "galaxy ballerina",
-      "normalizedName": "galaxy ballerina",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://miraongchua.itch.io/galaxy-ballerina",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://miraongchua.itch.io/galaxy-ballerina",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-ZnVuIHZpZGVvIHN0b3Jl",
-      "gameName": "FUN VIDEO STORE",
-      "normalizedName": "fun video store",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://elrosso.itch.io/fun-video-store",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://elrosso.itch.io/fun-video-store",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
-      "id": "auto-c3lzIHRhbiByZXN0b3Jl",
-      "gameName": "sys:tan restore",
-      "normalizedName": "sys tan restore",
-      "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
-      "status": "new",
-      "sources": [
-        {
-          "key": "itch-new-popular-web|https://tayl1r.itch.io/systan-restore",
-          "sourceId": "itch-new-popular-web",
-          "name": "itch.io New & Popular",
-          "kind": "itch-popular",
-          "url": "https://tayl1r.itch.io/systan-restore",
-          "date": ""
-        }
-      ],
-      "discoveryScore": 6,
-      "discoveryLevel": "watch",
-      "seo": {
-        "status": "pending",
-        "classification": "pending",
-        "score": 0,
-        "reasons": [
-          "等待自动搜索意图验证"
-        ]
-      },
-      "score": 0,
-      "level": "pending"
-    },
-    {
       "id": "auto-dGlueSBob21lcyBmb3IgbGl0",
       "gameName": "Tiny Homes for Little Gnomes",
       "normalizedName": "tiny homes for little gnomes",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -405,7 +183,7 @@
       "gameName": "Broken Depths RPG",
       "normalizedName": "broken depths rpg",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -435,7 +213,7 @@
       "gameName": "Having fun, Mochi?",
       "normalizedName": "having fun mochi",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -465,7 +243,7 @@
       "gameName": "Dear Mom",
       "normalizedName": "dear mom",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -495,7 +273,7 @@
       "gameName": "Ducky Sokoban DX",
       "normalizedName": "ducky sokoban dx",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -525,7 +303,7 @@
       "gameName": "Bees Wax",
       "normalizedName": "bees wax",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -555,7 +333,7 @@
       "gameName": "Rolande",
       "normalizedName": "rolande",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -585,7 +363,7 @@
       "gameName": "Ages of Conflict: World War Simulator",
       "normalizedName": "ages of conflict world war simulator",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -615,7 +393,7 @@
       "gameName": "Skillforge",
       "normalizedName": "skillforge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -645,7 +423,7 @@
       "gameName": "Tocho Flag Tactics",
       "normalizedName": "tocho flag tactics",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -675,7 +453,7 @@
       "gameName": "Hickory",
       "normalizedName": "hickory",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -705,7 +483,7 @@
       "gameName": "Clear the Table!",
       "normalizedName": "clear the table",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -735,7 +513,7 @@
       "gameName": "Count My Coins, Coin Counter!",
       "normalizedName": "count my coins coin counter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -765,7 +543,7 @@
       "gameName": "One Trillion Blocks",
       "normalizedName": "one trillion blocks",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -795,7 +573,7 @@
       "gameName": "A Few Clicks Left",
       "normalizedName": "a few clicks left",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -825,7 +603,7 @@
       "gameName": "Oops! Wrong Button",
       "normalizedName": "oops wrong button",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -855,7 +633,7 @@
       "gameName": "Bunny Loot",
       "normalizedName": "bunny loot",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -885,7 +663,7 @@
       "gameName": "Gazzilion Boxes",
       "normalizedName": "gazzilion boxes",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -915,7 +693,7 @@
       "gameName": "Streetlight Syndicate [DEMO]",
       "normalizedName": "streetlight syndicate demo",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -945,7 +723,7 @@
       "gameName": "The Peg Mines",
       "normalizedName": "the peg mines",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -975,7 +753,7 @@
       "gameName": "Dr. Werewolf's Nocturnal Shift",
       "normalizedName": "dr werewolfs nocturnal shift",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1005,7 +783,7 @@
       "gameName": "AtomGrad",
       "normalizedName": "atomgrad",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1035,7 +813,7 @@
       "gameName": "Digger ATR",
       "normalizedName": "digger atr",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1065,7 +843,7 @@
       "gameName": "The Cata-Bomb",
       "normalizedName": "the cata bomb",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1095,7 +873,7 @@
       "gameName": "Corporate Capital",
       "normalizedName": "corporate capital",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1125,7 +903,7 @@
       "gameName": "SafeCracker [Free] [Simulation]",
       "normalizedName": "safecracker simulation",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1155,7 +933,7 @@
       "gameName": "Depth [Free]",
       "normalizedName": "depth",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1185,7 +963,7 @@
       "gameName": "ZooDuku [Free] [Puzzle]",
       "normalizedName": "zooduku puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1215,7 +993,7 @@
       "gameName": "Mando Monks [Free]",
       "normalizedName": "mando monks",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1245,7 +1023,7 @@
       "gameName": "Empire of Deccan [Free]",
       "normalizedName": "empire of deccan",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1275,7 +1053,7 @@
       "gameName": "Russian Roulette 14+ [Free] [Action]",
       "normalizedName": "russian roulette 14 action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1305,7 +1083,7 @@
       "gameName": "Gorilla Tag Horror Redfear Edition [Free]",
       "normalizedName": "gorilla tag horror redfear edition",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1335,7 +1113,7 @@
       "gameName": "Vtubers With Propeller Hats [Free] [Action]",
       "normalizedName": "vtubers with propeller hats action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1365,7 +1143,7 @@
       "gameName": "Dread Below Demo [Free] [Action] [Windows]",
       "normalizedName": "dread below demo action windows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1395,7 +1173,7 @@
       "gameName": "carrot garden [Free] [Windows]",
       "normalizedName": "carrot garden windows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1425,7 +1203,7 @@
       "gameName": "Fly FEVER! [Free] [Adventure]",
       "normalizedName": "fly fever adventure",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1455,7 +1233,7 @@
       "gameName": "Grand Chess [Free] [Strategy]",
       "normalizedName": "grand chess strategy",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1485,7 +1263,7 @@
       "gameName": "25PS 2 [Free] [Action] [Linux]",
       "normalizedName": "25ps 2 action linux",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1515,7 +1293,7 @@
       "gameName": "Project Revenge(WIP) [Free] [Action]",
       "normalizedName": "project revenge wip action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1545,7 +1323,7 @@
       "gameName": "Golden Hour [Free] [Simulation]",
       "normalizedName": "golden hour simulation",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1575,7 +1353,7 @@
       "gameName": "El viaje espacial [Free]",
       "normalizedName": "el viaje espacial",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1605,7 +1383,7 @@
       "gameName": "Bobo Dogo [Free] [Platformer]",
       "normalizedName": "bobo dogo platformer",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1635,7 +1413,7 @@
       "gameName": "Paragon Breakout [Free]",
       "normalizedName": "paragon breakout",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1691,11 +1469,311 @@
       "level": "pending"
     },
     {
+      "id": "auto-Y3JhZnQgbWFnaWMgd29ybGQg",
+      "gameName": "Craft Magic World Escape",
+      "normalizedName": "craft magic world escape",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/craft-magic-world-escape",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/craft-magic-world-escape",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-amV3ZWwgY29sb3Jpbmc",
+      "gameName": "Jewel Coloring",
+      "normalizedName": "jewel coloring",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/jewel-coloring",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/jewel-coloring",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-ZG9ja21hc3Rlcg",
+      "gameName": "Dockmaster",
+      "normalizedName": "dockmaster",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/dockmaster",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/dockmaster",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-Z2xvd2tub3Q",
+      "gameName": "Glowknot",
+      "normalizedName": "glowknot",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/glowknot",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/glowknot",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-cGx1c2ggbWVyZ2U",
+      "gameName": "Plush Merge",
+      "normalizedName": "plush merge",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/plush-merge",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/plush-merge",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-c2lsZW50IGZvZ3MgZWNob2Vz",
+      "gameName": "Silent Fogs: Echoes of Evil",
+      "normalizedName": "silent fogs echoes of evil",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/silent-fogs-echoes-of-evil",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/silent-fogs-echoes-of-evil",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-ZWFybiB5b3VyIGZvb2Q",
+      "gameName": "Earn Your Food",
+      "normalizedName": "earn your food",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/earn-your-food",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/earn-your-food",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-Y2FyIHBhcmtpbmcgcHV6emxl",
+      "gameName": "Car Parking Puzzle",
+      "normalizedName": "car parking puzzle",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/car-parking-puzzle",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/car-parking-puzzle",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-dGVkZHkgZHJvcA",
+      "gameName": "Teddy Drop",
+      "normalizedName": "teddy drop",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/teddy-drop",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/teddy-drop",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
+      "id": "auto-bGV2ZWwgcmFnZQ",
+      "gameName": "Level Rage",
+      "normalizedName": "level rage",
+      "firstSeen": "2026-07-28T04:32:05.711Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "gamepix-new|https://www.gamepix.com/play/level-rage",
+          "sourceId": "gamepix-new",
+          "name": "GamePix 新游戏",
+          "kind": "gamepix-new",
+          "url": "https://www.gamepix.com/play/level-rage",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 5,
+      "discoveryLevel": "watch",
+      "seo": {
+        "status": "pending",
+        "classification": "pending",
+        "score": 0,
+        "reasons": [
+          "等待自动搜索意图验证"
+        ]
+      },
+      "score": 0,
+      "level": "pending"
+    },
+    {
       "id": "auto-ZG5hIGV2b2x1dGlvbiAzZA",
       "gameName": "DNA Evolution 3D",
       "normalizedName": "dna evolution 3d",
       "firstSeen": "2026-07-28T04:29:14.149Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1725,7 +1803,7 @@
       "gameName": "Midnight Scenes: The Highway [$3.99] [Adventure] [Windows]",
       "normalizedName": "midnight scenes the highway 3 99 adventure windows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1755,7 +1833,7 @@
       "gameName": "The Hive [75% Off] [$4.99] [Strategy] [Windows] [macOS] [Linux]",
       "normalizedName": "the hive 75 off 4 99 strategy windows macos linux",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1785,7 +1863,7 @@
       "gameName": "In Their Shoes [$10.49] [Visual Novel] [Windows] [macOS]",
       "normalizedName": "in their shoes 10 49 visual novel windows macos",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1815,7 +1893,7 @@
       "gameName": "Case Simulator: Cars",
       "normalizedName": "case simulator cars",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1845,7 +1923,7 @@
       "gameName": "K-Pop: Dimension Slayer - Idle RPG",
       "normalizedName": "k pop dimension slayer idle rpg",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1875,7 +1953,7 @@
       "gameName": "Ten Million Clicks Together",
       "normalizedName": "ten million clicks together",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1905,7 +1983,7 @@
       "gameName": "Card Billionaire: Idle Tycoon",
       "normalizedName": "card billionaire idle tycoon",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1935,7 +2013,7 @@
       "gameName": "Maldives Hidden Objects",
       "normalizedName": "maldives hidden objects",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1965,7 +2043,7 @@
       "gameName": "Stealth Room 3D Escape Puzzle",
       "normalizedName": "stealth room 3d escape puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -1995,7 +2073,7 @@
       "gameName": "Merge and Play",
       "normalizedName": "merge and",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2025,7 +2103,7 @@
       "gameName": "Feed the Alien",
       "normalizedName": "feed the alien",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2055,7 +2133,7 @@
       "gameName": "Monster Merge Battle 3D",
       "normalizedName": "monster merge battle 3d",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2085,7 +2163,7 @@
       "gameName": "Collect Brainrot Arena",
       "normalizedName": "collect brainrot arena",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2115,7 +2193,7 @@
       "gameName": "All Out",
       "normalizedName": "all out",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2145,7 +2223,7 @@
       "gameName": "Deep Delve",
       "normalizedName": "deep delve",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2175,7 +2253,7 @@
       "gameName": "Color Block",
       "normalizedName": "color block",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2205,7 +2283,7 @@
       "gameName": "Tennis Bits",
       "normalizedName": "tennis bits",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2235,7 +2313,7 @@
       "gameName": "UnderDark: Defense",
       "normalizedName": "underdark defense",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2265,7 +2343,7 @@
       "gameName": "Help Me: Tricky Puzzle Games",
       "normalizedName": "help me tricky puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2295,7 +2373,7 @@
       "gameName": "Base Defence",
       "normalizedName": "base defence",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2325,7 +2403,7 @@
       "gameName": "Slurp",
       "normalizedName": "slurp",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2355,7 +2433,7 @@
       "gameName": "Need for Sheep: Idle Clicker",
       "normalizedName": "need for sheep idle clicker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2385,7 +2463,7 @@
       "gameName": "Knights & Brides",
       "normalizedName": "knights brides",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2415,7 +2493,7 @@
       "gameName": "Escape from Vlogger: Runaway",
       "normalizedName": "escape from vlogger runaway",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2445,7 +2523,7 @@
       "gameName": "MagnetArrow",
       "normalizedName": "magnetarrow",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2475,7 +2553,7 @@
       "gameName": "Obby: Supercar Race on Keyboard",
       "normalizedName": "obby supercar race on keyboard",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2505,7 +2583,7 @@
       "gameName": "putt.day",
       "normalizedName": "putt day",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2535,7 +2613,7 @@
       "gameName": "Sweetjong",
       "normalizedName": "sweetjong",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2565,7 +2643,7 @@
       "gameName": "Scratch Card Kingdom",
       "normalizedName": "scratch card kingdom",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2595,7 +2673,7 @@
       "gameName": "Unmatched Ego",
       "normalizedName": "unmatched ego",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2625,7 +2703,7 @@
       "gameName": "Dig Drop Merge",
       "normalizedName": "dig drop merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2655,7 +2733,7 @@
       "gameName": "Pew Pew",
       "normalizedName": "pew pew",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2685,7 +2763,7 @@
       "gameName": "Obby: Dig Down",
       "normalizedName": "obby dig down",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2715,7 +2793,7 @@
       "gameName": "Crystal Saga: Nova",
       "normalizedName": "crystal saga nova",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2745,7 +2823,7 @@
       "gameName": "Grass Cutter",
       "normalizedName": "grass cutter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2775,7 +2853,7 @@
       "gameName": "Build A Plane",
       "normalizedName": "build a plane",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2805,7 +2883,7 @@
       "gameName": "Reckon Days",
       "normalizedName": "reckon days",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2835,7 +2913,7 @@
       "gameName": "Clash",
       "normalizedName": "clash",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2865,7 +2943,7 @@
       "gameName": "Sportia Football Cup",
       "normalizedName": "sportia football cup",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2895,7 +2973,7 @@
       "gameName": "Traffic Racer",
       "normalizedName": "traffic racer",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2925,7 +3003,7 @@
       "gameName": "International Cup Football 2026",
       "normalizedName": "international cup football 2026",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2955,7 +3033,7 @@
       "gameName": "DropTen",
       "normalizedName": "dropten",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -2985,7 +3063,7 @@
       "gameName": "Snake Attack Shooter",
       "normalizedName": "snake attack shooter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3015,7 +3093,7 @@
       "gameName": "Quantum Rush",
       "normalizedName": "quantum rush",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3045,7 +3123,7 @@
       "gameName": "Memory Grid Words",
       "normalizedName": "memory grid words",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3075,7 +3153,7 @@
       "gameName": "Waddle&#x27;s Quest",
       "normalizedName": "waddle x27 s quest",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3105,7 +3183,7 @@
       "gameName": "Idle Car Service: Tycoon",
       "normalizedName": "idle car service tycoon",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3135,7 +3213,7 @@
       "gameName": "Smashing Bottles",
       "normalizedName": "smashing bottles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3165,7 +3243,7 @@
       "gameName": "Drone Delivery Chaos",
       "normalizedName": "drone delivery chaos",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3195,7 +3273,7 @@
       "gameName": "Carrom Stars.io",
       "normalizedName": "carrom stars io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3225,7 +3303,7 @@
       "gameName": "Chicken Hell",
       "normalizedName": "chicken hell",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3255,7 +3333,7 @@
       "gameName": "Zombie Lab Escape",
       "normalizedName": "zombie lab escape",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3285,7 +3363,7 @@
       "gameName": "Escape from School: Runaway",
       "normalizedName": "escape from school runaway",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3315,7 +3393,7 @@
       "gameName": "Strange Mazes",
       "normalizedName": "strange mazes",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3345,7 +3423,7 @@
       "gameName": "Home Makeover Cleaning",
       "normalizedName": "home makeover cleaning",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3375,7 +3453,7 @@
       "gameName": "Craft 4eva",
       "normalizedName": "craft 4eva",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3405,7 +3483,7 @@
       "gameName": "Fishing Anomaly",
       "normalizedName": "fishing anomaly",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3435,7 +3513,7 @@
       "gameName": "Wizard Puppy: Magic Sort",
       "normalizedName": "wizard puppy magic sort",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3465,7 +3543,7 @@
       "gameName": "Catch&#x27;N&#x27;Merge",
       "normalizedName": "catch x27 n x27 merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3495,7 +3573,7 @@
       "gameName": "8 Ball Merge",
       "normalizedName": "8 ball merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3525,7 +3603,7 @@
       "gameName": "Brick Bounce Idle",
       "normalizedName": "brick bounce idle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3555,7 +3633,7 @@
       "gameName": "Merge Clash",
       "normalizedName": "merge clash",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3585,7 +3663,7 @@
       "gameName": "Farm Mayhem Merge",
       "normalizedName": "farm mayhem merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3615,7 +3693,7 @@
       "gameName": "Recoil Rumble",
       "normalizedName": "recoil rumble",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3645,7 +3723,7 @@
       "gameName": "Panic Patrol",
       "normalizedName": "panic patrol",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3675,7 +3753,7 @@
       "gameName": "Divine Clash",
       "normalizedName": "divine clash",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3705,7 +3783,7 @@
       "gameName": "Alphablitz",
       "normalizedName": "alphablitz",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3735,7 +3813,7 @@
       "gameName": "OreCrusher",
       "normalizedName": "orecrusher",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3765,7 +3843,7 @@
       "gameName": "Downhill Racer",
       "normalizedName": "downhill racer",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3795,7 +3873,7 @@
       "gameName": "Unscrambled",
       "normalizedName": "unscrambled",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3825,7 +3903,7 @@
       "gameName": "Block Sort - Jigsaw Puzzle Journey",
       "normalizedName": "block sort jigsaw puzzle journey",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3855,7 +3933,7 @@
       "gameName": "Pixel World",
       "normalizedName": "pixel world",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3885,7 +3963,7 @@
       "gameName": "The Flowers Merge and Sell Bouquets",
       "normalizedName": "the flowers merge and sell bouquets",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3915,7 +3993,7 @@
       "gameName": "GoBattle",
       "normalizedName": "gobattle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3945,7 +4023,7 @@
       "gameName": "Hide and Paint",
       "normalizedName": "hide and paint",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -3975,7 +4053,7 @@
       "gameName": "Subway Surfers",
       "normalizedName": "subway surfers",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4005,7 +4083,7 @@
       "gameName": "Rainbow Obby",
       "normalizedName": "rainbow obby",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4035,7 +4113,7 @@
       "gameName": "MineFun.io",
       "normalizedName": "minefun io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4065,7 +4143,7 @@
       "gameName": "Drift Boss",
       "normalizedName": "drift boss",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4095,7 +4173,7 @@
       "gameName": "Retro Bowl",
       "normalizedName": "retro bowl",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4125,7 +4203,7 @@
       "gameName": "Stickman Hook",
       "normalizedName": "stickman hook",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4155,7 +4233,7 @@
       "gameName": "Monkey Mart",
       "normalizedName": "monkey mart",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4185,7 +4263,7 @@
       "gameName": "Blocky Blast Puzzle",
       "normalizedName": "blocky blast puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4215,7 +4293,7 @@
       "gameName": "Level Devil",
       "normalizedName": "level devil",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4245,7 +4323,7 @@
       "gameName": "Kitty Loves Birds",
       "normalizedName": "kitty loves birds",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4275,7 +4353,7 @@
       "gameName": "Critter Chaos",
       "normalizedName": "critter chaos",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4305,7 +4383,7 @@
       "gameName": "Happy Tidy Time",
       "normalizedName": "happy tidy time",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4335,7 +4413,7 @@
       "gameName": "Soccer League",
       "normalizedName": "soccer league",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4365,7 +4443,7 @@
       "gameName": "Moto Trap",
       "normalizedName": "moto trap",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4395,7 +4473,7 @@
       "gameName": "Escape from Scary Teacher",
       "normalizedName": "escape from scary teacher",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4425,7 +4503,7 @@
       "gameName": "Ball vs Block",
       "normalizedName": "ball vs block",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4455,7 +4533,7 @@
       "gameName": "Planet Merge",
       "normalizedName": "planet merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4485,7 +4563,7 @@
       "gameName": "Stickman Merge",
       "normalizedName": "stickman merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4515,7 +4593,7 @@
       "gameName": "Upgrade the CARS",
       "normalizedName": "upgrade the cars",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4545,7 +4623,7 @@
       "gameName": "Trapped in the Dollhouse",
       "normalizedName": "trapped in the dollhouse",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4575,7 +4653,7 @@
       "gameName": "Mad Skills Rallycross",
       "normalizedName": "mad skills rallycross",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4605,7 +4683,7 @@
       "gameName": "Soccer REAL",
       "normalizedName": "soccer real",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4635,7 +4713,7 @@
       "gameName": "Tower Destiny Survive",
       "normalizedName": "tower destiny survive",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4665,7 +4743,7 @@
       "gameName": "Fight and Loot",
       "normalizedName": "fight and loot",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4695,7 +4773,7 @@
       "gameName": "Oozy's Lab",
       "normalizedName": "oozys lab",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4725,7 +4803,7 @@
       "gameName": "Clash of Cards",
       "normalizedName": "clash of cards",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4755,7 +4833,7 @@
       "gameName": "Dan The Man",
       "normalizedName": "dan the man",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4785,7 +4863,7 @@
       "gameName": "Samurai Sam",
       "normalizedName": "samurai sam",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4815,7 +4893,7 @@
       "gameName": "Punch Master",
       "normalizedName": "punch master",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4845,7 +4923,7 @@
       "gameName": "Soccer",
       "normalizedName": "soccer",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4875,7 +4953,7 @@
       "gameName": "Hero VS Criminal",
       "normalizedName": "hero vs criminal",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4905,7 +4983,7 @@
       "gameName": "Smash Room",
       "normalizedName": "smash room",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4935,7 +5013,7 @@
       "gameName": "Numbers Match 2448",
       "normalizedName": "numbers match 2448",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4965,7 +5043,7 @@
       "gameName": "Brain Test",
       "normalizedName": "brain test",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -4995,7 +5073,7 @@
       "gameName": "Battle Blast",
       "normalizedName": "battle blast",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5025,7 +5103,7 @@
       "gameName": "SuperWEIRD",
       "normalizedName": "superweird",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5055,7 +5133,7 @@
       "gameName": "Car Circle",
       "normalizedName": "car circle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5085,7 +5163,7 @@
       "gameName": "Make Brainrots",
       "normalizedName": "make brainrots",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5115,7 +5193,7 @@
       "gameName": "Home Builder Clicker",
       "normalizedName": "home builder clicker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5145,7 +5223,7 @@
       "gameName": "Sea Catcher",
       "normalizedName": "sea catcher",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5175,7 +5253,7 @@
       "gameName": "Phone CASE DIY",
       "normalizedName": "phone case diy",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5205,7 +5283,7 @@
       "gameName": "Marina Club Rush",
       "normalizedName": "marina club rush",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5235,7 +5313,7 @@
       "gameName": "Airplane Manager",
       "normalizedName": "airplane manager",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5265,7 +5343,7 @@
       "gameName": "Lafufu Blind Box Dress Up",
       "normalizedName": "lafufu blind box dress up",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5295,7 +5373,7 @@
       "gameName": "Stunt Protocol",
       "normalizedName": "stunt protocol",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5325,7 +5403,7 @@
       "gameName": "GunForce",
       "normalizedName": "gunforce",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5355,7 +5433,7 @@
       "gameName": "Veggie Merge",
       "normalizedName": "veggie merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5385,7 +5463,7 @@
       "gameName": "Spacebar Clicker",
       "normalizedName": "spacebar clicker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5415,7 +5493,7 @@
       "gameName": "Stickman Fury",
       "normalizedName": "stickman fury",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5445,7 +5523,7 @@
       "gameName": "Monkey Tag IO",
       "normalizedName": "monkey tag io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5475,7 +5553,7 @@
       "gameName": "Tens!",
       "normalizedName": "tens",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5505,7 +5583,7 @@
       "gameName": "A Small World Cup",
       "normalizedName": "a small world cup",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5535,7 +5613,7 @@
       "gameName": "Sushi Situation",
       "normalizedName": "sushi situation",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5565,7 +5643,7 @@
       "gameName": "Find it!",
       "normalizedName": "find it",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5595,7 +5673,7 @@
       "gameName": "Draft Wars",
       "normalizedName": "draft wars",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5625,7 +5703,7 @@
       "gameName": "Tiger Tank",
       "normalizedName": "tiger tank",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5655,7 +5733,7 @@
       "gameName": "Annoying Teacher Punch",
       "normalizedName": "annoying teacher punch",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5685,7 +5763,7 @@
       "gameName": "Duck Merge",
       "normalizedName": "duck merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5715,7 +5793,7 @@
       "gameName": "Blumgi Splash",
       "normalizedName": "blumgi splash",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5745,7 +5823,7 @@
       "gameName": "School Cleaning",
       "normalizedName": "school cleaning",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5775,7 +5853,7 @@
       "gameName": "Basketball REAL",
       "normalizedName": "basketball real",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5805,7 +5883,7 @@
       "gameName": "Talking Tom Gold Run",
       "normalizedName": "talking tom gold run",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5835,7 +5913,7 @@
       "gameName": "Cozyville - Find Hidden Objects",
       "normalizedName": "cozyville find hidden objects",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5865,7 +5943,7 @@
       "gameName": "Bunny Miner",
       "normalizedName": "bunny miner",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5895,7 +5973,7 @@
       "gameName": "Guns Guns Guns",
       "normalizedName": "guns guns guns",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5925,7 +6003,7 @@
       "gameName": "World of Yarn",
       "normalizedName": "world of yarn",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5955,7 +6033,7 @@
       "gameName": "Zombit",
       "normalizedName": "zombit",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -5985,7 +6063,7 @@
       "gameName": "Supercar Legends",
       "normalizedName": "supercar legends",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6015,7 +6093,7 @@
       "gameName": "Carnado Bike Stunt",
       "normalizedName": "carnado bike stunt",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6045,7 +6123,7 @@
       "gameName": "Goal Gang",
       "normalizedName": "goal gang",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6075,7 +6153,7 @@
       "gameName": "Bubble Tower",
       "normalizedName": "bubble tower",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6105,7 +6183,7 @@
       "gameName": "Snacky Snake",
       "normalizedName": "snacky snake",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6135,7 +6213,7 @@
       "gameName": "Wheel Master",
       "normalizedName": "wheel master",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6165,7 +6243,7 @@
       "gameName": "Satisbox Builder",
       "normalizedName": "satisbox builder",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6195,7 +6273,7 @@
       "gameName": "Astro Rancher",
       "normalizedName": "astro rancher",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6225,7 +6303,7 @@
       "gameName": "DIY Desk Designer",
       "normalizedName": "diy desk designer",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6255,7 +6333,7 @@
       "gameName": "Lips Diy Master",
       "normalizedName": "lips diy master",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6285,7 +6363,7 @@
       "gameName": "Blast Buddies",
       "normalizedName": "blast buddies",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6315,7 +6393,7 @@
       "gameName": "Count War",
       "normalizedName": "count war",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6345,7 +6423,7 @@
       "gameName": "Going Up Rooftop",
       "normalizedName": "going up rooftop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6375,7 +6453,7 @@
       "gameName": "Rail in the Air",
       "normalizedName": "rail in the air",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6405,7 +6483,7 @@
       "gameName": "Soccer Skills 2 World Cup",
       "normalizedName": "soccer skills 2 world cup",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6435,7 +6513,7 @@
       "gameName": "Dino Fighter",
       "normalizedName": "dino fighter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6465,7 +6543,7 @@
       "gameName": "Cleanup Crew",
       "normalizedName": "cleanup crew",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6495,7 +6573,7 @@
       "gameName": "Pixel Perfect",
       "normalizedName": "pixel perfect",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6525,7 +6603,7 @@
       "gameName": "Crazy Merge",
       "normalizedName": "crazy merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6555,7 +6633,7 @@
       "gameName": "Zombie Merge",
       "normalizedName": "zombie merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6585,7 +6663,7 @@
       "gameName": "Tricky Witch",
       "normalizedName": "tricky witch",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6615,7 +6693,7 @@
       "gameName": "KPop Concert Dress Up",
       "normalizedName": "kpop concert dress up",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6645,7 +6723,7 @@
       "gameName": "Punchy Guy",
       "normalizedName": "punchy guy",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6675,7 +6753,7 @@
       "gameName": "Decor Life",
       "normalizedName": "decor life",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6705,7 +6783,7 @@
       "gameName": "Push Titans",
       "normalizedName": "push titans",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6735,7 +6813,7 @@
       "gameName": "Tower Emoji Defense",
       "normalizedName": "tower emoji defense",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6765,7 +6843,7 @@
       "gameName": "Real City Bikes",
       "normalizedName": "real city bikes",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6795,7 +6873,7 @@
       "gameName": "Knockout Penguins",
       "normalizedName": "knockout penguins",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6825,7 +6903,7 @@
       "gameName": "Jane's Fashion Studio",
       "normalizedName": "janes fashion studio",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6855,7 +6933,7 @@
       "gameName": "Jelly Fruit Merge",
       "normalizedName": "jelly fruit merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6885,7 +6963,7 @@
       "gameName": "Freaky Clown Town Mystery",
       "normalizedName": "freaky clown town mystery",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6915,7 +6993,7 @@
       "gameName": "Fashion Tour Simulator",
       "normalizedName": "fashion tour simulator",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6945,7 +7023,7 @@
       "gameName": "Skill Knight",
       "normalizedName": "skill knight",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -6975,7 +7053,7 @@
       "gameName": "Wreck The Robot",
       "normalizedName": "wreck the robot",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7005,7 +7083,7 @@
       "gameName": "Magic Battleground",
       "normalizedName": "magic battleground",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7035,7 +7113,7 @@
       "gameName": "Free Skate",
       "normalizedName": "skate",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7065,7 +7143,7 @@
       "gameName": "Tictoc Catwalk Fashion",
       "normalizedName": "tictoc catwalk fashion",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7095,7 +7173,7 @@
       "gameName": "Tuning Car Racing",
       "normalizedName": "tuning car racing",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7125,7 +7203,7 @@
       "gameName": "Alien Raid Monster Evolution",
       "normalizedName": "alien raid monster evolution",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7155,7 +7233,7 @@
       "gameName": "Sword Road",
       "normalizedName": "sword road",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7185,7 +7263,7 @@
       "gameName": "Metamon",
       "normalizedName": "metamon",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7215,7 +7293,7 @@
       "gameName": "Flat Baseball",
       "normalizedName": "flat baseball",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7245,7 +7323,7 @@
       "gameName": "Crazy Race",
       "normalizedName": "crazy race",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7275,7 +7353,7 @@
       "gameName": "Diva Makeup Studio",
       "normalizedName": "diva makeup studio",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7305,7 +7383,7 @@
       "gameName": "Cat Simulator",
       "normalizedName": "cat simulator",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7335,7 +7413,7 @@
       "gameName": "Fashion Legends",
       "normalizedName": "fashion legends",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7365,7 +7443,7 @@
       "gameName": "Bot Crash Combat Arena",
       "normalizedName": "bot crash combat arena",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7395,7 +7473,7 @@
       "gameName": "Snow Riders",
       "normalizedName": "snow riders",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7425,7 +7503,7 @@
       "gameName": "You Monster!",
       "normalizedName": "you monster",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7455,7 +7533,7 @@
       "gameName": "Ludo King",
       "normalizedName": "ludo king",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7485,7 +7563,7 @@
       "gameName": "Chef Bacon",
       "normalizedName": "chef bacon",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7515,7 +7593,7 @@
       "gameName": "Idle Spinner Factory Builder",
       "normalizedName": "idle spinner factory builder",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7545,7 +7623,7 @@
       "gameName": "Mr. Squarely",
       "normalizedName": "mr squarely",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7575,7 +7653,7 @@
       "gameName": "Mine and Dig",
       "normalizedName": "mine and dig",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7605,7 +7683,7 @@
       "gameName": "Apocalypse Merge",
       "normalizedName": "apocalypse merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7635,7 +7713,7 @@
       "gameName": "Tank Stars",
       "normalizedName": "tank stars",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7665,7 +7743,7 @@
       "gameName": "Deadrise.io",
       "normalizedName": "deadrise io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7695,7 +7773,7 @@
       "gameName": "4th and Goal 2026",
       "normalizedName": "4th and goal 2026",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7725,7 +7803,7 @@
       "gameName": "First and Ten",
       "normalizedName": "first and ten",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7755,7 +7833,7 @@
       "gameName": "Neon Challenge Legends",
       "normalizedName": "neon challenge legends",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7785,7 +7863,7 @@
       "gameName": "Speed Stars",
       "normalizedName": "speed stars",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7815,7 +7893,7 @@
       "gameName": "Pizza Planet",
       "normalizedName": "pizza planet",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7845,7 +7923,7 @@
       "gameName": "Collect n Evolve",
       "normalizedName": "collect n evolve",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7875,7 +7953,7 @@
       "gameName": "Gas Station",
       "normalizedName": "gas station",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7905,7 +7983,7 @@
       "gameName": "Slime Dunk!",
       "normalizedName": "slime dunk",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7935,7 +8013,7 @@
       "gameName": "Interstellar Legends",
       "normalizedName": "interstellar legends",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7965,7 +8043,7 @@
       "gameName": "Mine Shooter 3D",
       "normalizedName": "mine shooter 3d",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -7995,7 +8073,7 @@
       "gameName": "Slide Rabbit",
       "normalizedName": "slide rabbit",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8025,7 +8103,7 @@
       "gameName": "High School Girls Classroom Life",
       "normalizedName": "high school girls classroom life",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8055,7 +8133,7 @@
       "gameName": "Bolts & Nuts: Sorting Master",
       "normalizedName": "bolts nuts sorting master",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8085,7 +8163,7 @@
       "gameName": "Mansion Story Match",
       "normalizedName": "mansion story match",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8115,7 +8193,7 @@
       "gameName": "Monster High Glam of Venice",
       "normalizedName": "monster high glam of venice",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8145,7 +8223,7 @@
       "gameName": "Word Search Universe Animals",
       "normalizedName": "word search universe animals",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8175,7 +8253,7 @@
       "gameName": "Penalty Shooter: Soccer Cup 2026",
       "normalizedName": "penalty shooter soccer cup 2026",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8205,7 +8283,7 @@
       "gameName": "Animals Merge",
       "normalizedName": "animals merge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8235,7 +8313,7 @@
       "gameName": "Solve the Arrow Cube",
       "normalizedName": "solve the arrow cube",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8265,7 +8343,7 @@
       "gameName": "Midnight Diamond 3D Mahjong: Classic Tiles",
       "normalizedName": "midnight diamond 3d mahjong classic tiles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8295,7 +8373,7 @@
       "gameName": "3D Chess Room",
       "normalizedName": "3d chess room",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8325,7 +8403,7 @@
       "gameName": "ABC Pizza Maker",
       "normalizedName": "abc pizza maker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8355,7 +8433,7 @@
       "gameName": "Checkers with Trump",
       "normalizedName": "checkers with trump",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8385,7 +8463,7 @@
       "gameName": "Catching Piglets",
       "normalizedName": "catching piglets",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8415,7 +8493,7 @@
       "gameName": "Grow a Garden for Brainrots",
       "normalizedName": "grow a garden for brainrots",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8445,7 +8523,7 @@
       "gameName": "Pin Spin Master Puzzle",
       "normalizedName": "pin spin master puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8475,7 +8553,7 @@
       "gameName": "Obby Parkour Escape Prison",
       "normalizedName": "obby parkour escape prison",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8505,7 +8583,7 @@
       "gameName": "PrismRoll 3D",
       "normalizedName": "prismroll 3d",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8535,7 +8613,7 @@
       "gameName": "Racing in City",
       "normalizedName": "racing in city",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8565,7 +8643,7 @@
       "gameName": "Submarine Rampage: Deep Sea",
       "normalizedName": "submarine rampage deep sea",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8595,7 +8673,7 @@
       "gameName": "Granny Simulator",
       "normalizedName": "granny simulator",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8625,7 +8703,7 @@
       "gameName": "Pony Color Fun",
       "normalizedName": "pony color fun",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8655,7 +8733,7 @@
       "gameName": "Glam Guru: Puzzle Collection",
       "normalizedName": "glam guru puzzle collection",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8685,7 +8763,7 @@
       "gameName": "Chain Pop",
       "normalizedName": "chain pop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8715,7 +8793,7 @@
       "gameName": "Monopoly",
       "normalizedName": "monopoly",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8745,7 +8823,7 @@
       "gameName": "Trickpool",
       "normalizedName": "trickpool",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8775,7 +8853,7 @@
       "gameName": "Tusg io",
       "normalizedName": "tusg io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8805,7 +8883,7 @@
       "gameName": "Fruit Cafe: Match",
       "normalizedName": "fruit cafe match",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8835,7 +8913,7 @@
       "gameName": "Rota: Bend Gravity",
       "normalizedName": "rota bend gravity",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8865,7 +8943,7 @@
       "gameName": "Turn and Hit",
       "normalizedName": "turn and hit",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8895,7 +8973,7 @@
       "gameName": "Animal Klotski",
       "normalizedName": "animal klotski",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8925,7 +9003,7 @@
       "gameName": "Mazoo",
       "normalizedName": "mazoo",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8955,7 +9033,7 @@
       "gameName": "Toy Builder Factory",
       "normalizedName": "toy builder factory",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -8985,7 +9063,7 @@
       "gameName": "Cake Puzzle",
       "normalizedName": "cake puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9015,7 +9093,7 @@
       "gameName": "Mahjong Bird Tiles",
       "normalizedName": "mahjong bird tiles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9045,7 +9123,7 @@
       "gameName": "Snake Power-Up Arena",
       "normalizedName": "snake power up arena",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9075,7 +9153,7 @@
       "gameName": "Haaland Hidden Balls",
       "normalizedName": "haaland hidden balls",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9105,7 +9183,7 @@
       "gameName": "Helltyres",
       "normalizedName": "helltyres",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9135,7 +9213,7 @@
       "gameName": "Luma Bubbles",
       "normalizedName": "luma bubbles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9165,7 +9243,7 @@
       "gameName": "Offroad Crash Climber 4X4",
       "normalizedName": "offroad crash climber 4x4",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9195,7 +9273,7 @@
       "gameName": "Obby: Pump Up Your Muscles",
       "normalizedName": "obby pump up your muscles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9225,7 +9303,7 @@
       "gameName": "Good to Drive",
       "normalizedName": "good to drive",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9255,7 +9333,7 @@
       "gameName": "Bike Stunt",
       "normalizedName": "bike stunt",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9285,7 +9363,7 @@
       "gameName": "Dream Puppy: Spot the Differences",
       "normalizedName": "dream puppy spot the differences",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9315,7 +9393,7 @@
       "gameName": "Elixir Drop",
       "normalizedName": "elixir drop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9345,7 +9423,7 @@
       "gameName": "African Princesses: Style Island",
       "normalizedName": "african princesses style island",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9375,7 +9453,7 @@
       "gameName": "BlockCraft",
       "normalizedName": "blockcraft",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9405,7 +9483,7 @@
       "gameName": "Wordvine",
       "normalizedName": "wordvine",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9435,7 +9513,7 @@
       "gameName": "Lazy Dog",
       "normalizedName": "lazy dog",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9465,7 +9543,7 @@
       "gameName": "Book of Proverbs",
       "normalizedName": "book of proverbs",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9495,7 +9573,7 @@
       "gameName": "Animal Puzzle Deluxe",
       "normalizedName": "animal puzzle deluxe",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9525,7 +9603,7 @@
       "gameName": "No, I'm not a Plankton",
       "normalizedName": "no im not a plankton",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9555,7 +9633,7 @@
       "gameName": "Delhi Hidden Objects",
       "normalizedName": "delhi hidden objects",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9585,7 +9663,7 @@
       "gameName": "Mochi Go",
       "normalizedName": "mochi go",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9615,7 +9693,7 @@
       "gameName": "Merge the Presidents",
       "normalizedName": "merge the presidents",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9645,7 +9723,7 @@
       "gameName": "Haaland Funny Face",
       "normalizedName": "haaland funny face",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9675,7 +9753,7 @@
       "gameName": "Ravenhaul",
       "normalizedName": "ravenhaul",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9705,7 +9783,7 @@
       "gameName": "Spin Thru",
       "normalizedName": "spin thru",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9735,7 +9813,7 @@
       "gameName": "Memory Tiles",
       "normalizedName": "memory tiles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9765,7 +9843,7 @@
       "gameName": "Piano Tiles Beat",
       "normalizedName": "piano tiles beat",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9795,7 +9873,7 @@
       "gameName": "Mirror Shape",
       "normalizedName": "mirror shape",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9825,7 +9903,7 @@
       "gameName": "Wolfoo Block Blast",
       "normalizedName": "wolfoo block blast",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -9855,7 +9933,7 @@
       "gameName": "Shithead",
       "normalizedName": "shithead",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10215,7 +10293,7 @@
       "gameName": "Mega Voxels IO",
       "normalizedName": "mega voxels io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10245,7 +10323,7 @@
       "gameName": "Block the View",
       "normalizedName": "block the view",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10275,7 +10353,7 @@
       "gameName": "Ninja Horde Invasion",
       "normalizedName": "ninja horde invasion",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10305,7 +10383,7 @@
       "gameName": "Sleepy Flock",
       "normalizedName": "sleepy flock",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10335,7 +10413,7 @@
       "gameName": "Yarn Art Loop",
       "normalizedName": "yarn art loop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10365,7 +10443,7 @@
       "gameName": "Chess Board",
       "normalizedName": "chess board",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10395,7 +10473,7 @@
       "gameName": "UFO IO Armada!",
       "normalizedName": "ufo io armada",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10425,7 +10503,7 @@
       "gameName": "Paradise Journey Match3",
       "normalizedName": "paradise journey match3",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10455,7 +10533,7 @@
       "gameName": "Psychic Mage",
       "normalizedName": "psychic mage",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10485,7 +10563,7 @@
       "gameName": "Bus Parking",
       "normalizedName": "bus parking",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10515,7 +10593,7 @@
       "gameName": "Paintch",
       "normalizedName": "paintch",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10545,7 +10623,7 @@
       "gameName": "Bikkings - Brothers to Valhalla",
       "normalizedName": "bikkings brothers to valhalla",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10575,7 +10653,7 @@
       "gameName": "Unseal the Yokai!",
       "normalizedName": "unseal the yokai",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10605,7 +10683,7 @@
       "gameName": "Frogie - Cross the Roads",
       "normalizedName": "frogie cross the roads",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10635,7 +10713,7 @@
       "gameName": "Frog Adventure Big Hops Inspired Journey",
       "normalizedName": "frog adventure big hops inspired journey",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10665,7 +10743,7 @@
       "gameName": "Lemonade Empire",
       "normalizedName": "lemonade empire",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10695,7 +10773,7 @@
       "gameName": "Tower Slicer",
       "normalizedName": "tower slicer",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10725,7 +10803,7 @@
       "gameName": "Up Hero",
       "normalizedName": "up hero",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10755,7 +10833,7 @@
       "gameName": "Angry Bubble",
       "normalizedName": "angry bubble",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10785,7 +10863,7 @@
       "gameName": "Wolfoo Tangram",
       "normalizedName": "wolfoo tangram",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10815,7 +10893,7 @@
       "gameName": "Recoil Brawler",
       "normalizedName": "recoil brawler",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10845,7 +10923,7 @@
       "gameName": "Wordquest Hangman",
       "normalizedName": "wordquest hangman",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10875,7 +10953,7 @@
       "gameName": "Astramatter",
       "normalizedName": "astramatter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10905,7 +10983,7 @@
       "gameName": "Gravity Sweeper",
       "normalizedName": "gravity sweeper",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10935,7 +11013,7 @@
       "gameName": "The Greedy Crow",
       "normalizedName": "the greedy crow",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10965,7 +11043,7 @@
       "gameName": "Twist and Roll",
       "normalizedName": "twist and roll",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -10995,7 +11073,7 @@
       "gameName": "Mini Car Coin Collector",
       "normalizedName": "mini car coin collector",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11025,7 +11103,7 @@
       "gameName": "SnakeUnwind",
       "normalizedName": "snakeunwind",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11055,7 +11133,7 @@
       "gameName": "Food Bounce",
       "normalizedName": "food bounce",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11085,7 +11163,7 @@
       "gameName": "Neon Ball Rush",
       "normalizedName": "neon ball rush",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11115,7 +11193,7 @@
       "gameName": "Glim & Glo",
       "normalizedName": "glim glo",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11145,7 +11223,7 @@
       "gameName": "Archer Dungeon Hero",
       "normalizedName": "archer dungeon hero",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11175,7 +11253,7 @@
       "gameName": "Blade Heroes",
       "normalizedName": "blade heroes",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11205,7 +11283,7 @@
       "gameName": "Craftocracy",
       "normalizedName": "craftocracy",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11235,7 +11313,7 @@
       "gameName": "Neon Gravity Rush",
       "normalizedName": "neon gravity rush",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11265,7 +11343,7 @@
       "gameName": "Lua Lander",
       "normalizedName": "lua lander",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11295,7 +11373,7 @@
       "gameName": "Neon Ruins TD",
       "normalizedName": "neon ruins td",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11325,7 +11403,7 @@
       "gameName": "Bunny Burrows",
       "normalizedName": "bunny burrows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11355,7 +11433,7 @@
       "gameName": "PipeLink",
       "normalizedName": "pipelink",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11385,7 +11463,7 @@
       "gameName": "Elemental Archers",
       "normalizedName": "elemental archers",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11415,7 +11493,7 @@
       "gameName": "Theme Word Search",
       "normalizedName": "theme word search",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11445,7 +11523,7 @@
       "gameName": "Beat Blader 3D EDM Music Race",
       "normalizedName": "beat blader 3d edm music race",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11475,7 +11553,7 @@
       "gameName": "Naughty Baby Prankster",
       "normalizedName": "naughty baby prankster",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11505,7 +11583,7 @@
       "gameName": "One Shot Duel Snipe Hide",
       "normalizedName": "one shot duel snipe hide",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11535,7 +11613,7 @@
       "gameName": "Be like a Lucky Block",
       "normalizedName": "be like a lucky block",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11565,7 +11643,7 @@
       "gameName": "Obby: Save the Brainrots",
       "normalizedName": "obby save the brainrots",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11595,7 +11673,7 @@
       "gameName": "Long Drive to Horizons Sim",
       "normalizedName": "long drive to horizons sim",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11625,7 +11703,7 @@
       "gameName": "World War Camp Company",
       "normalizedName": "world war camp company",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11655,7 +11733,7 @@
       "gameName": "Bedevil's Hidden Objects 1 - Farm",
       "normalizedName": "bedevils hidden objects 1 farm",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11685,7 +11763,7 @@
       "gameName": "Trash Master",
       "normalizedName": "trash master",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11715,7 +11793,7 @@
       "gameName": "Ultimate Dino Run",
       "normalizedName": "ultimate dino run",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11745,7 +11823,7 @@
       "gameName": "Trash Baron",
       "normalizedName": "trash baron",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11775,7 +11853,7 @@
       "gameName": "Capybara Stack",
       "normalizedName": "capybara stack",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11805,7 +11883,7 @@
       "gameName": "Durak 3-in-1: Draw, Transfer & Classic",
       "normalizedName": "durak 3 in 1 draw transfer classic",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11835,7 +11913,7 @@
       "gameName": "Formula 1 Car Racing",
       "normalizedName": "formula 1 car racing",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11865,7 +11943,7 @@
       "gameName": "Real Animal Transport Cargo",
       "normalizedName": "real animal transport cargo",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11895,7 +11973,7 @@
       "gameName": "Monster Truck Stunt Game Racing",
       "normalizedName": "monster truck stunt racing",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11925,7 +12003,7 @@
       "gameName": "Car Stunt Racing",
       "normalizedName": "car stunt racing",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11955,7 +12033,7 @@
       "gameName": "Home Make Over Cleaning",
       "normalizedName": "home make over cleaning",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -11985,7 +12063,7 @@
       "gameName": "Trucktopolis Cooking Chaos",
       "normalizedName": "trucktopolis cooking chaos",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12015,7 +12093,7 @@
       "gameName": "Juggle Stars",
       "normalizedName": "juggle stars",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12045,7 +12123,7 @@
       "gameName": "Hospital Surgeon Doctor",
       "normalizedName": "hospital surgeon doctor",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12075,7 +12153,7 @@
       "gameName": "Pirate Jigsaw Puzzle",
       "normalizedName": "pirate jigsaw puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12105,7 +12183,7 @@
       "gameName": "Mine Shooter",
       "normalizedName": "mine shooter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12135,7 +12213,7 @@
       "gameName": "Dinosaur Shifting Run",
       "normalizedName": "dinosaur shifting run",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12165,7 +12243,7 @@
       "gameName": "Haaaland Arrow Shooter",
       "normalizedName": "haaaland arrow shooter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12195,7 +12273,7 @@
       "gameName": "Idle Pizza Business",
       "normalizedName": "idle pizza business",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12225,7 +12303,7 @@
       "gameName": "Bomb The Bridge 2026",
       "normalizedName": "bomb the bridge 2026",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12255,7 +12333,7 @@
       "gameName": "Blocky Guns",
       "normalizedName": "blocky guns",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12285,7 +12363,7 @@
       "gameName": "Geometry Goal Dash 2026",
       "normalizedName": "geometry goal dash 2026",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12315,7 +12393,7 @@
       "gameName": "Kitty Jewel Quest",
       "normalizedName": "kitty jewel quest",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12345,7 +12423,7 @@
       "gameName": "Mixaria",
       "normalizedName": "mixaria",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12375,7 +12453,7 @@
       "gameName": "Dessert Maker",
       "normalizedName": "dessert maker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12405,7 +12483,7 @@
       "gameName": "Breakshot.io",
       "normalizedName": "breakshot io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12435,7 +12513,7 @@
       "gameName": "Turbo Descent: Extreme",
       "normalizedName": "turbo descent extreme",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12465,7 +12543,7 @@
       "gameName": "DashMash.io",
       "normalizedName": "dashmash io",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12495,7 +12573,7 @@
       "gameName": "Red-Blue Forge",
       "normalizedName": "red blue forge",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12525,7 +12603,7 @@
       "gameName": "Champions FC",
       "normalizedName": "champions fc",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12555,7 +12633,7 @@
       "gameName": "Mine Obby 3D: Minigame World",
       "normalizedName": "mine obby 3d minigame world",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12585,7 +12663,7 @@
       "gameName": "Hyper Cars Ramp Crash",
       "normalizedName": "hyper cars ramp crash",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12615,7 +12693,7 @@
       "gameName": "Car Cargo Ship Simulator",
       "normalizedName": "car cargo ship simulator",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12645,7 +12723,7 @@
       "gameName": "GT Cars Mega Ramps",
       "normalizedName": "gt cars mega ramps",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12675,7 +12753,7 @@
       "gameName": "Draw Action Freestyle Fight",
       "normalizedName": "draw action freestyle fight",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12705,7 +12783,7 @@
       "gameName": "Monster Truck Stunt",
       "normalizedName": "monster truck stunt",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12735,7 +12813,7 @@
       "gameName": "Precise Shooting",
       "normalizedName": "precise shooting",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12765,7 +12843,7 @@
       "gameName": "Passing Master 3D",
       "normalizedName": "passing master 3d",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12795,7 +12873,7 @@
       "gameName": "Break The Car Completely",
       "normalizedName": "break the car completely",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12825,7 +12903,7 @@
       "gameName": "JigRot",
       "normalizedName": "jigrot",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12855,7 +12933,7 @@
       "gameName": "Road Fury - Racing",
       "normalizedName": "road fury racing",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12885,7 +12963,7 @@
       "gameName": "Balloon Shooter Archery",
       "normalizedName": "balloon shooter archery",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12915,7 +12993,7 @@
       "gameName": "Obby Toilet Line",
       "normalizedName": "obby toilet line",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12945,7 +13023,7 @@
       "gameName": "Bounce TD",
       "normalizedName": "bounce td",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -12975,7 +13053,7 @@
       "gameName": "Monkey Bubble Defense",
       "normalizedName": "monkey bubble defense",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13005,7 +13083,7 @@
       "gameName": "Modern Sniper Gun Game Sniper 3D",
       "normalizedName": "modern sniper gun sniper 3d",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13035,7 +13113,7 @@
       "gameName": "Obby: Extreme Cart Ride",
       "normalizedName": "obby extreme cart ride",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13065,7 +13143,7 @@
       "gameName": "Obby mine",
       "normalizedName": "obby mine",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13095,7 +13173,7 @@
       "gameName": "Shape Dudes",
       "normalizedName": "shape dudes",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13125,7 +13203,7 @@
       "gameName": "Catch a Fish Obby",
       "normalizedName": "catch a fish obby",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13155,7 +13233,7 @@
       "gameName": "Zestful Match",
       "normalizedName": "zestful match",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13185,7 +13263,7 @@
       "gameName": "Obby: Make It Home!",
       "normalizedName": "obby make it home",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13215,7 +13293,7 @@
       "gameName": "Matekai: Art of the Final Move",
       "normalizedName": "matekai art of the final move",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13245,7 +13323,7 @@
       "gameName": "Coffee Match: Block Puzzle",
       "normalizedName": "coffee match block puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13275,7 +13353,7 @@
       "gameName": "Don't Open That Door...Seriosly!",
       "normalizedName": "dont open that door seriosly",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13305,7 +13383,7 @@
       "gameName": "Going Balls",
       "normalizedName": "going balls",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13335,7 +13413,7 @@
       "gameName": "Elastic Man",
       "normalizedName": "elastic man",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13365,7 +13443,7 @@
       "gameName": "Magic Piano Tiles",
       "normalizedName": "magic piano tiles",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13395,7 +13473,7 @@
       "gameName": "Barry Prison: Parkour Escape",
       "normalizedName": "barry prison parkour escape",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13425,7 +13503,7 @@
       "gameName": "Hide the Evidence",
       "normalizedName": "hide the evidence",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13455,7 +13533,7 @@
       "gameName": "Ragdoll Playground",
       "normalizedName": "ragdoll playground",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13485,7 +13563,7 @@
       "gameName": "Blob Opera",
       "normalizedName": "blob opera",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13515,7 +13593,7 @@
       "gameName": "Sprunki",
       "normalizedName": "sprunki",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13545,7 +13623,7 @@
       "gameName": "Ice Cream Stack Run",
       "normalizedName": "ice cream stack run",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13575,7 +13653,7 @@
       "gameName": "Dino Dash",
       "normalizedName": "dino dash",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13605,7 +13683,7 @@
       "gameName": "Obby: Theme Park World",
       "normalizedName": "obby theme park world",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13635,7 +13713,7 @@
       "gameName": "Bikini for Love",
       "normalizedName": "bikini for love",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13665,7 +13743,7 @@
       "gameName": "Stair Race 3D",
       "normalizedName": "stair race 3d",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13695,7 +13773,7 @@
       "gameName": "Sandwich Runner",
       "normalizedName": "sandwich runner",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13725,7 +13803,7 @@
       "gameName": "Choir",
       "normalizedName": "choir",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13755,7 +13833,7 @@
       "gameName": "Obby: +1 Jump per Click",
       "normalizedName": "obby 1 jump per click",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13785,7 +13863,7 @@
       "gameName": "SafeCracker",
       "normalizedName": "safecracker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13815,7 +13893,7 @@
       "gameName": "ZooDuku",
       "normalizedName": "zooduku",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13845,7 +13923,7 @@
       "gameName": "ChainJump",
       "normalizedName": "chainjump",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13875,7 +13953,7 @@
       "gameName": "Russian Roulette 14+",
       "normalizedName": "russian roulette 14",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13905,7 +13983,7 @@
       "gameName": "Tomb of Nassak An-Rah",
       "normalizedName": "tomb of nassak an rah",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13935,7 +14013,7 @@
       "gameName": "Vtubers With Propeller Hats",
       "normalizedName": "vtubers with propeller hats",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13965,7 +14043,7 @@
       "gameName": "Fly FEVER!",
       "normalizedName": "fly fever",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -13995,7 +14073,7 @@
       "gameName": "Grand Chess",
       "normalizedName": "grand chess",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14025,7 +14103,7 @@
       "gameName": "rip to orpheus but i'm different",
       "normalizedName": "rip to orpheus but im different",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14055,7 +14133,7 @@
       "gameName": "Project Revenge(WIP)",
       "normalizedName": "project revenge wip",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14085,7 +14163,7 @@
       "gameName": "The LEX Icon",
       "normalizedName": "the lex icon",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14115,7 +14193,7 @@
       "gameName": "Golden Hour",
       "normalizedName": "golden hour",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14145,7 +14223,7 @@
       "gameName": "Otherworld Rogue Adventure / 异世界肉鸽大冒险 [slop]",
       "normalizedName": "otherworld rogue adventure slop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14175,7 +14253,7 @@
       "gameName": "Arsenal Ascendant / 终极武库幸存者 [slop]",
       "normalizedName": "arsenal ascendant slop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14205,7 +14283,7 @@
       "gameName": "Bobo Dogo",
       "normalizedName": "bobo dogo",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14235,7 +14313,7 @@
       "gameName": "Flight Bombardment",
       "normalizedName": "flight bombardment",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14265,7 +14343,7 @@
       "gameName": "Quem Faz Este Som",
       "normalizedName": "quem faz este som",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14295,7 +14373,7 @@
       "gameName": "SokoCross Painter",
       "normalizedName": "sokocross painter",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14325,7 +14403,7 @@
       "gameName": "Futecabra",
       "normalizedName": "futecabra",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14355,7 +14433,7 @@
       "gameName": "magic bounds [Lite]",
       "normalizedName": "magic bounds lite",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14385,7 +14463,7 @@
       "gameName": "INVESTIBOX: THE HAUNTED MANSION.",
       "normalizedName": "investibox the haunted mansion",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14415,7 +14493,7 @@
       "gameName": "The Final Secret",
       "normalizedName": "the final secret",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14445,7 +14523,7 @@
       "gameName": "Exorscape",
       "normalizedName": "exorscape",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14475,7 +14553,7 @@
       "gameName": "Balloonatic",
       "normalizedName": "balloonatic",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14505,7 +14583,7 @@
       "gameName": "Cheese Clicker",
       "normalizedName": "cheese clicker",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14535,7 +14613,7 @@
       "gameName": "UnVeil",
       "normalizedName": "unveil",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14565,7 +14643,7 @@
       "gameName": "Crossite II Definitive Edition DEMO",
       "normalizedName": "crossite ii definitive edition demo",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14595,7 +14673,7 @@
       "gameName": "Drive-it",
       "normalizedName": "drive it",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14625,7 +14703,7 @@
       "gameName": "Titanfall Kit",
       "normalizedName": "titanfall kit",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14655,7 +14733,7 @@
       "gameName": "Bloody Flower of Teyvat [Genshin Impact Fangame]",
       "normalizedName": "bloody flower of teyvat genshin impact fangame",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14685,7 +14763,7 @@
       "gameName": "ChainJump [Free] [Action]",
       "normalizedName": "chainjump action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14715,7 +14793,7 @@
       "gameName": "BootKick's Basics Plus Legacy [Free] [Survival]",
       "normalizedName": "bootkicks basics plus legacy survival",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14745,7 +14823,7 @@
       "gameName": "Tomb of Nassak An-Rah [Free] [Interactive Fiction]",
       "normalizedName": "tomb of nassak an rah interactive fiction",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14775,7 +14853,7 @@
       "gameName": "Where I Am Not | Visual Novel [ENG/RU] [Free] [Visual Novel] [Windows] [macOS] [Linux]",
       "normalizedName": "where i am not visual novel eng ru visual novel windows macos linux",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14805,7 +14883,7 @@
       "gameName": "Landon Tycoon 5 Preview Edition 0.5.0 [$1.00]",
       "normalizedName": "landon tycoon 5 preview edition 0 5 0 1 00",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14835,7 +14913,7 @@
       "gameName": "rip to orpheus but i'm different [Free] [Interactive Fiction]",
       "normalizedName": "rip to orpheus but im different interactive fiction",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14865,7 +14943,7 @@
       "gameName": "The LEX Icon [Free] [Simulation]",
       "normalizedName": "the lex icon simulation",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14895,7 +14973,7 @@
       "gameName": "Otherworld Rogue Adventure / 异世界肉鸽大冒险 [slop] [Free] [Role Playing]",
       "normalizedName": "otherworld rogue adventure slop role playing",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14925,7 +15003,7 @@
       "gameName": "Deep Surveillance: Aurora Protocol / 深度监控：极光协议 [slop] [Free] [Simulation]",
       "normalizedName": "deep surveillance aurora protocol slop simulation",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14955,7 +15033,7 @@
       "gameName": "Pixel Detective: Sixfold Mysteries / 像素侦探：六重谜案 [slop] [Free] [Puzzle]",
       "normalizedName": "pixel detective sixfold mysteries slop puzzle",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -14985,7 +15063,7 @@
       "gameName": "Fog & Rain Files: Echoes After Midnight / 雾雨档案：深夜回声 [slop] [Free] [Adventure]",
       "normalizedName": "fog rain files echoes after midnight slop adventure",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15015,7 +15093,7 @@
       "gameName": "Arsenal Ascendant / 终极武库幸存者 [slop] [Free] [Action]",
       "normalizedName": "arsenal ascendant slop action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15045,7 +15123,7 @@
       "gameName": "Rogue Arsenal: Pet Squad / 肉鸽武库：宠物战队 [slop] [Free] [Action]",
       "normalizedName": "rogue arsenal pet squad slop action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15075,7 +15153,7 @@
       "gameName": "Synth and The Frog Collection [Free] [Windows]",
       "normalizedName": "synth and the frog collection windows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15105,7 +15183,7 @@
       "gameName": "Untitled Drum Kit | Modern Knock / Trap / Hip Hop Drums [Free]",
       "normalizedName": "untitled drum kit modern knock trap hip hop drums",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15135,7 +15213,7 @@
       "gameName": "Tag",
       "normalizedName": "tag",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15165,7 +15243,7 @@
       "gameName": "Ogus",
       "normalizedName": "ogus",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15195,7 +15273,7 @@
       "gameName": "67",
       "normalizedName": "67",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15225,7 +15303,7 @@
       "gameName": "Wild Drift on the BMW M5 F90",
       "normalizedName": "wild drift on the bmw m5 f90",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15255,7 +15333,7 @@
       "gameName": "Jump to the Rhythm of Songs: Musical Ball",
       "normalizedName": "jump to the rhythm of songs musical ball",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15285,7 +15363,7 @@
       "gameName": "Red & Blue: Online. Build! Destroy! Fight!",
       "normalizedName": "red blue build destroy fight",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15315,7 +15393,7 @@
       "gameName": "25PS",
       "normalizedName": "25ps",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15345,7 +15423,7 @@
       "gameName": "Deep Surveillance: Aurora Protocol / 深度监控：极光协议 [slop]",
       "normalizedName": "deep surveillance aurora protocol slop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15375,7 +15453,7 @@
       "gameName": "Pixel Detective: Sixfold Mysteries / 像素侦探：六重谜案 [slop]",
       "normalizedName": "pixel detective sixfold mysteries slop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15405,7 +15483,7 @@
       "gameName": "Fog & Rain Files: Echoes After Midnight / 雾雨档案：深夜回声 [slop]",
       "normalizedName": "fog rain files echoes after midnight slop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15435,7 +15513,7 @@
       "gameName": "Rogue Arsenal: Pet Squad / 肉鸽武库：宠物战队 [slop]",
       "normalizedName": "rogue arsenal pet squad slop",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15465,7 +15543,7 @@
       "gameName": "A Wild Game Appears [Free] [Action] [Windows]",
       "normalizedName": "a wild appears action windows",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15491,11 +15569,62 @@
       "level": "pending"
     },
     {
+      "id": "auto-YXZlcmFnZSByb3V0aW5l",
+      "gameName": "Average Routine",
+      "normalizedName": "average routine",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://colorlesswing-studio.itch.io/average-routine",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://colorlesswing-studio.itch.io/average-routine",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:16.763Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Average Routine",
+        "score": 14,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "自动补全出现 2 个游戏长尾",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 2,
+        "suggestions": [
+          "average routine",
+          "average routine game",
+          "average routine apk",
+          "average daily routine",
+          "what is a good daily average of steps",
+          "what is the perfect daily schedule",
+          "normal day routine"
+        ],
+        "nameRisk": 0,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 14,
+      "level": "reject"
+    },
+    {
       "id": "auto-aGFhbGFuZCBjb2xvcmluZyBi",
       "gameName": "Haaland Coloring Book",
       "normalizedName": "haaland coloring book",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15542,11 +15671,119 @@
       "level": "reject"
     },
     {
+      "id": "auto-bGVnZW5kdW0",
+      "gameName": "Legendum",
+      "normalizedName": "legendum",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://vadeum.itch.io/legendum",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://vadeum.itch.io/legendum",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:10.922Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Legendum",
+        "score": 10,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "自动补全出现 3 个游戏长尾",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 3,
+        "suggestions": [
+          "legendum",
+          "legendum game",
+          "legendum steam",
+          "legendum font",
+          "legendum itch.io",
+          "legendum meaning",
+          "legendum latin",
+          "legendum capital ab",
+          "legendum papa thronus",
+          "legendum md"
+        ],
+        "nameRisk": 5,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 10,
+      "level": "reject"
+    },
+    {
+      "id": "auto-aW5uIG92ZXIgeW91ciBoZWFk",
+      "gameName": "Inn Over Your Head",
+      "normalizedName": "inn over your head",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://minmaxwell.itch.io/inn-over-your-head",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://minmaxwell.itch.io/inn-over-your-head",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:11.897Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Inn Over Your Head",
+        "score": 10,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "自动补全出现 4 个游戏长尾",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 4,
+        "suggestions": [
+          "inn over your head",
+          "inn over your head game",
+          "inn over your head itch",
+          "inn over your head steam",
+          "inn over your head itch io",
+          "inn over your head demo",
+          "inn over my head branson",
+          "in over my head",
+          "inn above your head",
+          "inn over his head"
+        ],
+        "nameRisk": 5,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 10,
+      "level": "reject"
+    },
+    {
       "id": "auto-Z3VuIG1lcmdlIG1yIGJ1bGxl",
       "gameName": "Gun Merge: Mr. Bullet",
       "normalizedName": "gun merge mr bullet",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15590,11 +15827,65 @@
       "level": "reject"
     },
     {
+      "id": "auto-bGVnZW5kIG9mIGlkbGU",
+      "gameName": "Legend of Idle",
+      "normalizedName": "legend of idle",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://activedev.itch.io/legend-of-idle-playtest-demo",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://activedev.itch.io/legend-of-idle-playtest-demo",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:14.817Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Legend of Idle",
+        "score": 5,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "自动补全出现 2 个游戏长尾",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 2,
+        "suggestions": [
+          "legend of idleon",
+          "legend of idleon wiki",
+          "legend of idle",
+          "legend of idleon classes",
+          "legend of idleon guide",
+          "legend of idleon sushi",
+          "legend of idleon stamps",
+          "legend of idleon secret class",
+          "legend of idleon research",
+          "legend of idleon best class"
+        ],
+        "nameRisk": 12,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 5,
+      "level": "reject"
+    },
+    {
       "id": "seed-bWlsaXRhcnkgc3RyaWtl",
       "gameName": "Military Strike",
       "normalizedName": "military strike",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15656,7 +15947,7 @@
       "gameName": "AfterZero",
       "normalizedName": "afterzero",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15708,7 +15999,7 @@
       "gameName": "Death Spiral [Free] [Action]",
       "normalizedName": "death spiral action",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15748,7 +16039,7 @@
       "gameName": "Punch Dungeon [Free] [Strategy]",
       "normalizedName": "punch dungeon strategy",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15788,7 +16079,7 @@
       "gameName": "Chinchilla Trails",
       "normalizedName": "chinchilla trails",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15828,7 +16119,7 @@
       "gameName": "Barah Gashta",
       "normalizedName": "barah gashta",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15868,7 +16159,7 @@
       "gameName": "Wool Rush",
       "normalizedName": "wool rush",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15921,7 +16212,7 @@
       "gameName": "Behind the Broadcast: The Director's Cut [Free] [Visual Novel] [Windows] [macOS] [Linux]",
       "normalizedName": "behind the broadcast the directors cut visual novel windows macos linux",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -15961,7 +16252,7 @@
       "gameName": "Car And Truck Parking",
       "normalizedName": "car and truck parking",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16021,7 +16312,7 @@
       "gameName": "Football Marble Shooter",
       "normalizedName": "football marble shooter",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16070,7 +16361,7 @@
       "gameName": "Lazy Kickers [$2.99] [Sports]",
       "normalizedName": "lazy kickers 2 99 sports",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16110,7 +16401,7 @@
       "gameName": "Scritchy Scratchy [$6.99] [Simulation]",
       "normalizedName": "scritchy scratchy 6 99 simulation",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16150,7 +16441,7 @@
       "gameName": "Super Coupon Club [Free] [Card Game]",
       "normalizedName": "super coupon club card",
       "firstSeen": "2026-07-28T04:26:38.909Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16190,7 +16481,7 @@
       "gameName": "Bubbleshooter x Basketball 3D",
       "normalizedName": "bubbleshooter x basketball 3d",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16230,7 +16521,7 @@
       "gameName": "Block for Blood",
       "normalizedName": "block for blood",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16282,7 +16573,7 @@
       "gameName": "City Cab Rush",
       "normalizedName": "city cab rush",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16326,7 +16617,7 @@
       "gameName": "Dress Up Party",
       "normalizedName": "dress up party",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16378,7 +16669,7 @@
       "gameName": "Eating Simulator: Physics Food",
       "normalizedName": "eating simulator physics food",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16429,7 +16720,7 @@
       "gameName": "Formula Car Circuit Racing",
       "normalizedName": "formula car circuit racing",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16475,7 +16766,7 @@
       "gameName": "Mega Digger - Excavation Fun",
       "normalizedName": "mega digger excavation fun",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16515,7 +16806,7 @@
       "gameName": "Funny Alien Jigsaw",
       "normalizedName": "funny alien jigsaw",
       "firstSeen": "2026-07-28T03:20:00.000Z",
-      "lastSeen": "2026-07-28T04:29:14.149Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
       "status": "new",
       "sources": [
         {
@@ -16550,6 +16841,309 @@
         "exactResultCount": 1,
         "gameResultCount": 1
       }
+    },
+    {
+      "id": "auto-a2VlcGluZyB5b3UgY2xvc2U",
+      "gameName": "Keeping You Close",
+      "normalizedName": "keeping you close",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://aiainaine.itch.io/keeping-you-close",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://aiainaine.itch.io/keeping-you-close",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:12.867Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Keeping You Close",
+        "score": 0,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 0,
+        "suggestions": [
+          "keeping you close to my heart",
+          "keeping you close in prayer",
+          "keeping you close in thought and prayer",
+          "keeping you close to my heart meaning",
+          "keeping you close shouldn't be hard",
+          "keeping you close at heart",
+          "keeping you close",
+          "keeping you close in my thoughts",
+          "keeping you close shouldn't be hard chords",
+          "keeping you close falling behind"
+        ],
+        "nameRisk": 0,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 0,
+      "level": "reject"
+    },
+    {
+      "id": "auto-cGV0YWw",
+      "gameName": "Petal",
+      "normalizedName": "petal",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://13-23.itch.io/petal",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://13-23.itch.io/petal",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:13.841Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Petal",
+        "score": 0,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 0,
+        "suggestions": [
+          "petaluma",
+          "petaluma weather",
+          "petaluma health center",
+          "petaluma theater",
+          "petaluma outlets",
+          "petaluma imax",
+          "petaluma market",
+          "petal and pup",
+          "petaluma fair",
+          "petaluma movie theater"
+        ],
+        "nameRisk": 5,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 0,
+      "level": "reject"
+    },
+    {
+      "id": "auto-Ymxvb2QgdGVtcGxl",
+      "gameName": "Blood Temple",
+      "normalizedName": "blood temple",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://galengames.itch.io/blood-temple",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://galengames.itch.io/blood-temple",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:15.792Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "Blood Temple",
+        "score": 0,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 0,
+        "suggestions": [
+          "blood temple",
+          "blood temple movie",
+          "blood temple kyoto",
+          "blood temple cast",
+          "blood temple sonic.exe",
+          "blood temple 28 years later",
+          "blood temple kush strain",
+          "blood temple rogue trader",
+          "blood temple in minecraft",
+          "blood temple exetior"
+        ],
+        "nameRisk": 9,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 0,
+      "level": "reject"
+    },
+    {
+      "id": "auto-Z2FsYXh5IGJhbGxlcmluYQ",
+      "gameName": "galaxy ballerina",
+      "normalizedName": "galaxy ballerina",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://miraongchua.itch.io/galaxy-ballerina",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://miraongchua.itch.io/galaxy-ballerina",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:17.739Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "galaxy ballerina",
+        "score": 0,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 0,
+        "suggestions": [
+          "galaxy ballerina",
+          "galaxy ballerina cappuccina",
+          "galaxy ballerina lololo",
+          "ballerina galaxy theater",
+          "galaxy cinema ballerina",
+          "galaxy extinct ballerina"
+        ],
+        "nameRisk": 0,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 0,
+      "level": "reject"
+    },
+    {
+      "id": "auto-ZnVuIHZpZGVvIHN0b3Jl",
+      "gameName": "FUN VIDEO STORE",
+      "normalizedName": "fun video store",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://elrosso.itch.io/fun-video-store",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://elrosso.itch.io/fun-video-store",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:18.718Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "FUN VIDEO STORE",
+        "score": 0,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 0,
+        "suggestions": [
+          "fun video store names",
+          "fun video store",
+          "funny video store names",
+          "funny video store names generator",
+          "funny video store names reddit",
+          "funny video store",
+          "fun hospital video store",
+          "fun video rental store names",
+          "funny video rental store names",
+          "funny video game store names"
+        ],
+        "nameRisk": 0,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 0,
+      "level": "reject"
+    },
+    {
+      "id": "auto-c3lzIHRhbiByZXN0b3Jl",
+      "gameName": "sys:tan restore",
+      "normalizedName": "sys tan restore",
+      "firstSeen": "2026-07-28T04:26:38.909Z",
+      "lastSeen": "2026-07-28T04:32:05.711Z",
+      "status": "new",
+      "sources": [
+        {
+          "key": "itch-new-popular-web|https://tayl1r.itch.io/systan-restore",
+          "sourceId": "itch-new-popular-web",
+          "name": "itch.io New & Popular",
+          "kind": "itch-popular",
+          "url": "https://tayl1r.itch.io/systan-restore",
+          "date": ""
+        }
+      ],
+      "discoveryScore": 6,
+      "discoveryLevel": "watch",
+      "seo": {
+        "checkedAt": "2026-07-28T04:32:19.692Z",
+        "provider": "duckduckgo+autocomplete",
+        "queryName": "sys:tan restore",
+        "score": 0,
+        "classification": "reject",
+        "reasons": [
+          "不建议购买独立域名",
+          "主词前列没有明显游戏结果",
+          "可用于判断的搜索结果太少"
+        ],
+        "exactGameRatio": 0,
+        "exactNewsRatio": 0,
+        "gameQueryGameRatio": 0,
+        "suggestionGameCount": 0,
+        "suggestions": [],
+        "nameRisk": 0,
+        "exactResultCount": 0,
+        "gameResultCount": 0
+      },
+      "score": 0,
+      "level": "reject"
     }
   ]
 }
