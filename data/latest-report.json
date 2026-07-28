@@ -1,5 +1,34 @@
 {
-  "scannedAt": null,
-  "totalAdded": 0,
-  "sources": []
+  "scannedAt": "2026-07-28T03:20:00.000Z",
+  "totalAdded": 15,
+  "sources": [
+    {
+      "ok": true,
+      "sourceId": "poki-new",
+      "sourceName": "Poki 新游戏",
+      "total": 4,
+      "added": 4
+    },
+    {
+      "ok": true,
+      "sourceId": "y8-new",
+      "sourceName": "Y8 新游戏",
+      "total": 5,
+      "added": 5
+    },
+    {
+      "ok": true,
+      "sourceId": "gamepix-new",
+      "sourceName": "GamePix 新游戏",
+      "total": 4,
+      "added": 4
+    },
+    {
+      "ok": true,
+      "sourceId": "lagged-new",
+      "sourceName": "Lagged 新游戏",
+      "total": 5,
+      "added": 5
+    }
+  ]
 }
