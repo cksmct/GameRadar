@@ -2,6 +2,10 @@
   "snapshots": {
     "itch-newest-web": {
       "urls": [
+        "https://vibegtag.itch.io/orens-massacre",
+        "https://raposa-do-deserto.itch.io/thermal-beam",
+        "https://crownedduck.itch.io/saturday-mystery-puzzle",
+        "https://marmaladium.itch.io/miskatonicslop",
         "https://tanvirahmedarnab.itch.io/solar-system-simulation",
         "https://kiharasota.itch.io/katagakidakedeha-tsurikirenainode",
         "https://blablablatheking.itch.io/the-dash-for-infinity-pt1",
@@ -9,6 +13,7 @@
         "https://bitsofwisdom.itch.io/seat-and-destroy-web",
         "https://madebymacky.itch.io/road-to-mexico",
         "https://alhasan-games.itch.io/sabb-color-puzzle",
+        "https://ze0tech.itch.io/rescyou",
         "https://spelltale-interactive.itch.io/dress-me-please",
         "https://slothmonster.itch.io/brackish-banneret",
         "https://moonxgames.itch.io/cluster-rush",
@@ -32,14 +37,9 @@
         "https://mombotro.itch.io/golden-hour",
         "https://michaelihc.itch.io/otherworld-rogue-adventure",
         "https://michaelihc.itch.io/deep-surveillance-aurora",
-        "https://michaelihc.itch.io/pixel-detective-six-mysteries",
-        "https://michaelihc.itch.io/fog-rain-files",
-        "https://michaelihc.itch.io/arsenal-ascendant",
-        "https://michaelihc.itch.io/rogue-arsenal-pet-squad",
-        "https://danielgabela.itch.io/bobodogo",
-        "https://grassydev29.itch.io/flight-bombardment"
+        "https://michaelihc.itch.io/pixel-detective-six-mysteries"
       ],
-      "scannedAt": "2026-07-28T06:05:43.779Z",
+      "scannedAt": "2026-07-28T06:24:11.647Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,11 +81,19 @@
         "https://idlejourney.itch.io/idle-journey",
         "https://rolandkissgames.itch.io/atomgrad"
       ],
-      "scannedAt": "2026-07-28T06:05:43.872Z",
+      "scannedAt": "2026-07-28T06:24:11.743Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://badim.itch.io/millenniumconflict",
+        "https://studiochronicles.itch.io/chronicles-briefs",
+        "https://verskors.itch.io/wob3",
+        "https://wuhard19900104.itch.io/royal-pin-html5-game-for-websiteincluded-html5-only",
+        "https://vibegtag.itch.io/orens-massacre",
+        "https://raposa-do-deserto.itch.io/thermal-beam",
+        "https://hppppk.itch.io/canaltd",
+        "https://crownedduck.itch.io/saturday-mystery-puzzle",
         "https://marmaladium.itch.io/miskatonicslop",
         "https://tanvirahmedarnab.itch.io/solar-system-simulation",
         "https://mintbyte.itch.io/a-bottles-story",
@@ -98,6 +106,7 @@
         "https://alhasan-games.itch.io/sabb-color-puzzle",
         "https://pizzaguy48394-svg.itch.io/rec-frogs",
         "https://splatswitcher.itch.io/corrupted-company",
+        "https://ze0tech.itch.io/rescyou",
         "https://spelltale-interactive.itch.io/dress-me-please",
         "https://slothmonster.itch.io/brackish-banneret",
         "https://moonxgames.itch.io/cluster-rush",
@@ -112,18 +121,9 @@
         "https://tonkeng-studio-th.itch.io/twine-game-rivers-of-life-2026",
         "https://amongthecouch23.itch.io/hexesandohs",
         "https://arsjobus.itch.io/mine-out-sfml",
-        "https://emmadmaurer.itch.io/the-missing-magic-crown",
-        "https://protocol-unknown.itch.io/safecracker",
-        "https://ahhceyden.itch.io/depth",
-        "https://pakin929.itch.io/zooduku",
-        "https://qurillyyt.itch.io/mando-monks",
-        "https://posthumousstudio.itch.io/empire-of-deccan",
-        "https://gilmagalesh.itch.io/chainjump",
-        "https://salmongamez773.itch.io/russian-roulette-14",
-        "https://fearvrred426.itch.io/gorillataghorror-redfear-edition",
-        "https://ccb-dev.itch.io/tomb-of-nassak-an-rah"
+        "https://emmadmaurer.itch.io/the-missing-magic-crown"
       ],
-      "scannedAt": "2026-07-28T06:05:44.032Z",
+      "scannedAt": "2026-07-28T06:24:12.002Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T06:05:44.223Z",
+      "scannedAt": "2026-07-28T06:24:12.103Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T06:05:46.051Z",
+      "scannedAt": "2026-07-28T06:24:13.105Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,60 +362,73 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T06:05:46.401Z",
+      "scannedAt": "2026-07-28T06:24:13.244Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
       "urls": [
         "https://www.y8.com/games/interstellar_legends?utm_source=IL_logo_banner",
+        "https://www.y8.com/games/slide_rabbit",
         "https://www.y8.com/games/high_school_girls_classroom_life",
-        "https://www.y8.com/games/military_strike",
         "https://www.y8.com/games/formula_car_circuit_racing",
-        "https://www.y8.com/games/no_i_m_not_a_plankton",
-        "https://www.y8.com/games/wild_drift_on_the_bmw_m5_f90",
-        "https://www.y8.com/games/snake_lands_io",
-        "https://www.y8.com/games/eating_simulator_physics_food",
+        "https://www.y8.com/games/military_strike",
         "https://www.y8.com/games/ball_sort_",
-        "https://www.y8.com/games/word_solitare_puzzle",
-        "https://www.y8.com/games/3d_chess_room",
-        "https://www.y8.com/games/granny_simulator",
-        "https://www.y8.com/games/pin_spin_master_puzzle",
-        "https://www.y8.com/games/word_search_universe_animals",
+        "https://www.y8.com/games/eating_simulator_physics_food",
+        "https://www.y8.com/games/mob_rush",
+        "https://www.y8.com/games/petal_pop",
+        "https://www.y8.com/games/mine_shooter_3d",
+        "https://www.y8.com/games/mansion_story_match",
+        "https://www.y8.com/games/wild_drift_on_the_bmw_m5_f90",
+        "https://www.y8.com/games/color_war_rainbow",
+        "https://www.y8.com/games/no_i_m_not_a_plankton",
+        "https://www.y8.com/games/solve_the_arrow_cube",
+        "https://www.y8.com/games/wolfoo_word_search",
         "https://www.y8.com/games/dream_puppy_spot_the_differences",
         "https://www.y8.com/games/animals_merge_",
-        "https://www.y8.com/games/mansion_story_match",
-        "https://www.y8.com/games/abc_pizza_maker",
-        "https://www.y8.com/games/gun_merge_mr_bullet",
-        "https://www.y8.com/games/color_war_rainbow",
-        "https://www.y8.com/games/offroad_crash_climber_4x4",
-        "https://www.y8.com/games/world_cup_eye_art",
-        "https://www.y8.com/games/mine_shooter_3d",
-        "https://www.y8.com/games/midnight_diamond_3d_mahjong_classic_tiles",
-        "https://www.y8.com/games/car_and_truck_parking",
-        "https://www.y8.com/games/solve_the_arrow_cube",
-        "https://www.y8.com/games/frost_wing_hopper",
-        "https://www.y8.com/games/haaland_coloring_book",
-        "https://www.y8.com/games/penalty_shooter_soccer_cup_2026",
-        "https://www.y8.com/games/gridlock_traffic_escape",
-        "https://www.y8.com/games/cannon_shot_3d",
-        "https://www.y8.com/games/up_hero",
-        "https://www.y8.com/games/obby_pump_up_your_muscles",
-        "https://www.y8.com/games/haaland_funny_face",
-        "https://www.y8.com/games/bracket_burger",
         "https://www.y8.com/games/99_nights_surviving_the_forest",
-        "https://www.y8.com/games/petal_pop",
-        "https://www.y8.com/games/grow_a_garden_for_brainrots",
+        "https://www.y8.com/games/word_search_universe_animals",
+        "https://www.y8.com/games/granny_simulator",
+        "https://www.y8.com/games/park_and_ride_solitaire",
+        "https://www.y8.com/games/car_and_truck_parking",
+        "https://www.y8.com/games/penalty_shooter_soccer_cup_2026",
+        "https://www.y8.com/games/haaland_hidden_balls",
+        "https://www.y8.com/games/wordvine",
+        "https://www.y8.com/games/gun_merge_mr_bullet",
+        "https://www.y8.com/games/3d_chess_room",
+        "https://www.y8.com/games/up_hero",
+        "https://www.y8.com/games/abc_pizza_maker",
+        "https://www.y8.com/games/bracket_burger",
+        "https://www.y8.com/games/fruit_cafe_match_3",
         "https://www.y8.com/games/chain_pop",
+        "https://www.y8.com/games/cannon_shot_3d",
+        "https://www.y8.com/games/haaland_funny_face",
+        "https://www.y8.com/games/haaland_coloring_book",
+        "https://www.y8.com/games/grow_a_garden_for_brainrots",
+        "https://www.y8.com/games/the_snake_collection",
         "https://www.y8.com/games/spike_rally",
+        "https://www.y8.com/games/helltyres",
         "https://www.y8.com/games/skyhook",
-        "https://www.y8.com/games/slide_rabbit",
-        "https://www.y8.com/games/good_to_drive",
+        "https://www.y8.com/games/blockcraft",
+        "https://www.y8.com/games/tokyo_mahjong",
+        "https://www.y8.com/games/prismroll_3d",
         "https://www.y8.com/games/who_loves_you_from_attack_on_titan",
-        "https://www.y8.com/games/quick_draw_duel",
-        "https://www.y8.com/games/football_marble_shooter",
+        "https://www.y8.com/games/slap_battle",
+        "https://www.y8.com/games/bullseye_",
+        "https://www.y8.com/games/word_solitare_puzzle",
+        "https://www.y8.com/games/offroad_crash_climber_4x4",
+        "https://www.y8.com/games/midnight_diamond_3d_mahjong_classic_tiles",
+        "https://www.y8.com/games/obby_pump_up_your_muscles",
+        "https://www.y8.com/games/frost_wing_hopper",
         "https://www.y8.com/games/pony_color_fun",
         "https://www.y8.com/games/holler_star_rush",
         "https://www.y8.com/games/car_quiz",
+        "https://www.y8.com/games/snake_lands_io",
+        "https://www.y8.com/games/pin_spin_master_puzzle",
+        "https://www.y8.com/games/good_to_drive",
+        "https://www.y8.com/games/quick_draw_duel",
+        "https://www.y8.com/games/world_cup_eye_art",
+        "https://www.y8.com/games/gridlock_traffic_escape",
+        "https://www.y8.com/games/football_marble_shooter",
         "https://www.y8.com/games/turn_and_hit",
         "https://www.y8.com/games/maria_s_vacation_seasons_dress_up",
         "https://www.y8.com/games/monster_high_glam_of_venice",
@@ -426,27 +439,13 @@
         "https://www.y8.com/games/bolts_nuts_sorting_master",
         "https://www.y8.com/games/monopoly_webgl",
         "https://www.y8.com/games/elixir_drop",
-        "https://www.y8.com/games/coral_maze_diver",
-        "https://www.y8.com/games/snake_power-up_arena",
-        "https://www.y8.com/games/eternal_skate_clicker",
-        "https://www.y8.com/games/italian_brainrot_merge_clicker",
-        "https://www.y8.com/games/bike_stunt_",
-        "https://www.y8.com/games/mazoo",
-        "https://www.y8.com/games/wordvine",
-        "https://www.y8.com/games/trickpool",
-        "https://www.y8.com/games/orbit_scavenger",
-        "https://www.y8.com/games/racing_in_city",
-        "https://www.y8.com/games/a_perfect_dodge",
-        "https://www.y8.com/games/adventure_capitalist",
-        "https://www.y8.com/games/blockcraft",
-        "https://www.y8.com/games/obby_parkour_escape_prison"
+        "https://www.y8.com/games/coral_maze_diver"
       ],
-      "scannedAt": "2026-07-28T06:05:47.112Z",
+      "scannedAt": "2026-07-28T06:24:13.637Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
-        "https://www.gamepix.com/play/freight",
         "https://www.gamepix.com/play/wolfoo-unblock-car",
         "https://www.gamepix.com/play/lexonaut",
         "https://www.gamepix.com/play/domino-peak",
@@ -505,9 +504,10 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
+        "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T06:05:47.274Z",
+      "scannedAt": "2026-07-28T06:24:13.742Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,7 +595,7 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T06:05:47.422Z",
+      "scannedAt": "2026-07-28T06:24:13.847Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -650,11 +650,12 @@
         "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1"
       ],
-      "scannedAt": "2026-07-28T06:05:44.581Z",
+      "scannedAt": "2026-07-28T06:24:12.404Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
       "urls": [
+        "https://store.steampowered.com/app/4826690/Paironix/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4893170/The_Unshared/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4056490/Convent_Chronicles_Revelation/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4667910/Secret_Dice/?snr=1_7_7_240_150_1",
@@ -703,10 +704,9 @@
         "https://store.steampowered.com/app/4336290/Tyrania_Enforcers__Visual_Novel/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/3997210/Backfire_Brigade/?snr=1_7_7_240_150_1",
         "https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?snr=1_7_7_240_150_1",
-        "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1",
-        "https://store.steampowered.com/app/4898840/Dsorient/?snr=1_7_7_240_150_1"
+        "https://store.steampowered.com/app/4432910/Spell_Knight_Abyss_Cleaver/?snr=1_7_7_240_150_1"
       ],
-      "scannedAt": "2026-07-28T06:05:44.884Z",
+      "scannedAt": "2026-07-28T06:24:12.661Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -717,7 +717,7 @@
         "https://www.newgrounds.com/portal/view/1043978",
         "https://www.newgrounds.com/portal/view/1043962"
       ],
-      "scannedAt": "2026-07-28T06:05:45.277Z",
+      "scannedAt": "2026-07-28T06:24:12.811Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -735,11 +735,11 @@
         "https://www.newgrounds.com/portal/view/1044134",
         "https://www.newgrounds.com/portal/view/1044170"
       ],
-      "scannedAt": "2026-07-28T06:05:45.334Z",
+      "scannedAt": "2026-07-28T06:24:12.831Z",
       "detectedType": "feed"
     }
   },
-  "lastScan": "2026-07-28T06:05:43.534Z",
+  "lastScan": "2026-07-28T06:24:11.485Z",
   "lastRisingDiscovery": "2026-07-28T05:47:08.403Z",
   "lastTrendBatch": "2026-07-28T05:58:09.152Z"
 }
