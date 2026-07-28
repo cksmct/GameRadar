@@ -39,7 +39,7 @@
         "https://hizzoniel.itch.io/drive-it",
         "https://solarflar3w4.itch.io/titanfall-kit"
       ],
-      "scannedAt": "2026-07-28T04:26:39.255Z",
+      "scannedAt": "2026-07-28T04:29:14.449Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -81,7 +81,7 @@
         "https://failboatcoding.itch.io/cata-bomb-v14",
         "https://daysgobye.itch.io/corporate-capital"
       ],
-      "scannedAt": "2026-07-28T04:26:39.328Z",
+      "scannedAt": "2026-07-28T04:29:14.558Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -123,7 +123,7 @@
         "https://bolttracks.itch.io/untitled-drum-kit",
         "https://scarlemonty.itch.io/gate"
       ],
-      "scannedAt": "2026-07-28T04:26:39.409Z",
+      "scannedAt": "2026-07-28T04:29:14.734Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -139,7 +139,7 @@
         "https://wearemuesli.itch.io/its",
         "https://pantaloon-io.itch.io/rolla"
       ],
-      "scannedAt": "2026-07-28T04:26:39.605Z",
+      "scannedAt": "2026-07-28T04:29:14.834Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -215,7 +215,7 @@
         "https://www.crazygames.com/game/pixel-world-uyv",
         "https://www.crazygames.com/game/the-flowers-merge-and-sell-bouquets"
       ],
-      "scannedAt": "2026-07-28T04:26:39.862Z",
+      "scannedAt": "2026-07-28T04:29:15.054Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -362,7 +362,7 @@
         "https://poki.com/en/g/gas-station",
         "https://poki.com/en/g/slime-dunk"
       ],
-      "scannedAt": "2026-07-28T04:26:40.073Z",
+      "scannedAt": "2026-07-28T04:29:15.139Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -441,12 +441,11 @@
         "https://www.y8.com/games/wolfoo_block_blast",
         "https://www.y8.com/games/shithead"
       ],
-      "scannedAt": "2026-07-28T04:26:40.955Z",
+      "scannedAt": "2026-07-28T04:29:15.680Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
-        "https://www.gamepix.com/play/freight",
         "https://www.gamepix.com/play/wolfoo-unblock-car",
         "https://www.gamepix.com/play/lexonaut",
         "https://www.gamepix.com/play/domino-peak",
@@ -505,9 +504,10 @@
         "https://www.gamepix.com/play/theme-word-search",
         "https://www.gamepix.com/play/beat-blader-3d-edm-music-race",
         "https://www.gamepix.com/play/naughty-baby-prankster",
-        "https://www.gamepix.com/play/one-shot-duel-snipe-hide"
+        "https://www.gamepix.com/play/one-shot-duel-snipe-hide",
+        "https://www.gamepix.com/play/dna-evolution-3d"
       ],
-      "scannedAt": "2026-07-28T04:26:41.216Z",
+      "scannedAt": "2026-07-28T04:29:15.810Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -595,9 +595,9 @@
         "https://lagged.com/en/g/choir",
         "https://lagged.com/en/g/obby-1-jump-per-click"
       ],
-      "scannedAt": "2026-07-28T04:26:41.316Z",
+      "scannedAt": "2026-07-28T04:29:15.884Z",
       "detectedType": "lagged-listing"
     }
   },
-  "lastScan": "2026-07-28T04:26:38.909Z"
+  "lastScan": "2026-07-28T04:29:14.149Z"
 }
