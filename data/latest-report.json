@@ -1,34 +1,79 @@
 {
-  "scannedAt": "2026-07-28T03:20:00.000Z",
-  "totalAdded": 15,
+  "scannedAt": "2026-07-28T04:26:38.909Z",
+  "totalAdded": 543,
   "sources": [
+    {
+      "ok": true,
+      "sourceId": "itch-newest-web",
+      "sourceName": "itch.io 最新网页游戏",
+      "total": 36,
+      "added": 35
+    },
+    {
+      "ok": true,
+      "sourceId": "itch-new-popular-web",
+      "sourceName": "itch.io New & Popular",
+      "total": 36,
+      "added": 36
+    },
+    {
+      "ok": true,
+      "sourceId": "itch-new-feed",
+      "sourceName": "itch.io New Feed",
+      "total": 36,
+      "added": 36
+    },
+    {
+      "ok": true,
+      "sourceId": "itch-featured-feed",
+      "sourceName": "itch.io Featured Feed",
+      "total": 10,
+      "added": 10
+    },
+    {
+      "ok": true,
+      "sourceId": "crazygames-new",
+      "sourceName": "CrazyGames 新游戏",
+      "total": 70,
+      "added": 70
+    },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 4,
-      "added": 4
+      "total": 141,
+      "added": 141
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
-      "total": 5,
-      "added": 5
+      "total": 73,
+      "added": 73
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
-      "total": 4,
-      "added": 4
+      "total": 60,
+      "added": 60
     },
     {
       "ok": true,
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
-      "total": 5,
-      "added": 5
+      "total": 82,
+      "added": 82
     }
-  ]
+  ],
+  "seoVerified": 12,
+  "seoErrors": 0,
+  "recommendationCounts": {
+    "independent": 0,
+    "page": 0,
+    "watch": 0,
+    "reject": 12,
+    "pending": 526,
+    "error": 0
+  }
 }
