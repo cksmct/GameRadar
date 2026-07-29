@@ -2,10 +2,12 @@
   "snapshots": {
     "itch-newest-web": {
       "urls": [
+        "https://granjerosdlg.itch.io/barewalls",
         "https://noobygrinds.itch.io/super-hexagon-web-edition",
         "https://lecesiaaa.itch.io/rampage-stickman",
         "https://alvaroh.itch.io/gaea-i",
         "https://shenkar-college.itch.io/axis-aegis",
+        "https://ajoshisan.itch.io/othello-fall",
         "https://jellyfishdeveloper.itch.io/bit-em-up",
         "https://atelierkorben.itch.io/winters-embrace",
         "https://stage-whisper.itch.io/hoshizora-publishing",
@@ -35,49 +37,47 @@
         "https://flying-moose.itch.io/rolling-over-it-with-suzanne",
         "https://sora66dev.itch.io/dsfcsza",
         "https://samuel-meunier.itch.io/robot-runner",
-        "https://coffeecabinet.itch.io/speedrunner",
-        "https://jobro100.itch.io/grimnights",
-        "https://gavinzwicked.itch.io/fallenland"
+        "https://coffeecabinet.itch.io/speedrunner"
       ],
       "positions": {
-        "https://noobygrinds.itch.io/super-hexagon-web-edition": 1,
-        "https://lecesiaaa.itch.io/rampage-stickman": 2,
-        "https://alvaroh.itch.io/gaea-i": 3,
-        "https://shenkar-college.itch.io/axis-aegis": 4,
-        "https://jellyfishdeveloper.itch.io/bit-em-up": 5,
-        "https://atelierkorben.itch.io/winters-embrace": 6,
-        "https://stage-whisper.itch.io/hoshizora-publishing": 7,
-        "https://inspiration-beggar.itch.io/incretop": 8,
-        "https://yeisongomez0703.itch.io/conspiracionenelarea511": 9,
-        "https://outside-perdition.itch.io/thousands-of-monkeys": 10,
-        "https://masalt.itch.io/words-game-2": 11,
-        "https://cbelon2.itch.io/catpocalypse": 12,
-        "https://evand1.itch.io/protect-the-big-dog": 13,
-        "https://datetr.itch.io/darklabyrinth": 14,
-        "https://crimzonusingitch.itch.io/watts-updated-yet-again": 15,
-        "https://leesanghyun.itch.io/shibatruck": 16,
-        "https://dragonperson.itch.io/for-the-love-of-ys": 17,
-        "https://kali81.itch.io/last-light": 18,
-        "https://captainwick.itch.io/time-rewind-sprint": 19,
-        "https://mariogames14.itch.io/chronicles": 20,
-        "https://mkunscripted.itch.io/the-last-harvest": 21,
-        "https://everett-rees.itch.io/dungeon-run": 22,
-        "https://huazzers.itch.io/big-guy": 23,
-        "https://j3rzyc41n3.itch.io/catskills": 24,
-        "https://sirgogo95.itch.io/tower-sway": 25,
-        "https://wawithecutiepie.itch.io/midnight-shift": 26,
-        "https://shoobox.itch.io/exo-rail": 27,
-        "https://novabycreativerobot.itch.io/block-rush": 28,
-        "https://aringan.itch.io/suho-manhunt": 29,
-        "https://santii7.itch.io/panchoparkour": 30,
-        "https://flying-moose.itch.io/rolling-over-it-with-suzanne": 31,
-        "https://sora66dev.itch.io/dsfcsza": 32,
-        "https://samuel-meunier.itch.io/robot-runner": 33,
-        "https://coffeecabinet.itch.io/speedrunner": 34,
-        "https://jobro100.itch.io/grimnights": 35,
-        "https://gavinzwicked.itch.io/fallenland": 36
+        "https://granjerosdlg.itch.io/barewalls": 1,
+        "https://noobygrinds.itch.io/super-hexagon-web-edition": 2,
+        "https://lecesiaaa.itch.io/rampage-stickman": 3,
+        "https://alvaroh.itch.io/gaea-i": 4,
+        "https://shenkar-college.itch.io/axis-aegis": 5,
+        "https://ajoshisan.itch.io/othello-fall": 6,
+        "https://jellyfishdeveloper.itch.io/bit-em-up": 7,
+        "https://atelierkorben.itch.io/winters-embrace": 8,
+        "https://stage-whisper.itch.io/hoshizora-publishing": 9,
+        "https://inspiration-beggar.itch.io/incretop": 10,
+        "https://yeisongomez0703.itch.io/conspiracionenelarea511": 11,
+        "https://outside-perdition.itch.io/thousands-of-monkeys": 12,
+        "https://masalt.itch.io/words-game-2": 13,
+        "https://cbelon2.itch.io/catpocalypse": 14,
+        "https://evand1.itch.io/protect-the-big-dog": 15,
+        "https://datetr.itch.io/darklabyrinth": 16,
+        "https://crimzonusingitch.itch.io/watts-updated-yet-again": 17,
+        "https://leesanghyun.itch.io/shibatruck": 18,
+        "https://dragonperson.itch.io/for-the-love-of-ys": 19,
+        "https://kali81.itch.io/last-light": 20,
+        "https://captainwick.itch.io/time-rewind-sprint": 21,
+        "https://mariogames14.itch.io/chronicles": 22,
+        "https://mkunscripted.itch.io/the-last-harvest": 23,
+        "https://everett-rees.itch.io/dungeon-run": 24,
+        "https://huazzers.itch.io/big-guy": 25,
+        "https://j3rzyc41n3.itch.io/catskills": 26,
+        "https://sirgogo95.itch.io/tower-sway": 27,
+        "https://wawithecutiepie.itch.io/midnight-shift": 28,
+        "https://shoobox.itch.io/exo-rail": 29,
+        "https://novabycreativerobot.itch.io/block-rush": 30,
+        "https://aringan.itch.io/suho-manhunt": 31,
+        "https://santii7.itch.io/panchoparkour": 32,
+        "https://flying-moose.itch.io/rolling-over-it-with-suzanne": 33,
+        "https://sora66dev.itch.io/dsfcsza": 34,
+        "https://samuel-meunier.itch.io/robot-runner": 35,
+        "https://coffeecabinet.itch.io/speedrunner": 36
       },
-      "scannedAt": "2026-07-29T08:20:44.983Z",
+      "scannedAt": "2026-07-29T08:22:51.927Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,11 +157,12 @@
         "https://idlejourney.itch.io/idle-journey": 35,
         "https://daysgobye.itch.io/corporate-capital": 36
       },
-      "scannedAt": "2026-07-29T08:20:45.016Z",
+      "scannedAt": "2026-07-29T08:22:52.010Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://myorinn.itch.io/shattered-heart",
         "https://sworddev.itch.io/queens-of-hearts",
         "https://granjerosdlg.itch.io/barewalls",
         "https://noobygrinds.itch.io/super-hexagon-web-edition",
@@ -196,48 +197,47 @@
         "https://keepernovaice.itch.io/frostbite",
         "https://cafepancake.itch.io/she-stares-at-me",
         "https://hawkeyegames.itch.io/prism-panic",
-        "https://zamaoz98.itch.io/dectectivejam",
-        "https://cbelon2.itch.io/catpocalypse"
+        "https://zamaoz98.itch.io/dectectivejam"
       ],
       "positions": {
-        "https://sworddev.itch.io/queens-of-hearts": 1,
-        "https://granjerosdlg.itch.io/barewalls": 2,
-        "https://noobygrinds.itch.io/super-hexagon-web-edition": 3,
-        "https://lecesiaaa.itch.io/rampage-stickman": 4,
-        "https://pizzapizza9.itch.io/chin-ga-ling": 5,
-        "https://dimathekotik.itch.io/flower-in-the-wind": 6,
-        "https://kevindu.itch.io/digital-waste": 7,
-        "https://alvaroh.itch.io/gaea-i": 8,
-        "https://mrlimfish.itch.io/dont-sleep": 9,
-        "https://shenkar-college.itch.io/axis-aegis": 10,
-        "https://ajoshisan.itch.io/othello-fall": 11,
-        "https://kotmstudios.itch.io/netagents-survivors": 12,
-        "https://mottledelm.itch.io/untitled-bus-game": 13,
-        "https://blocksuponblocks.itch.io/korvenia": 14,
-        "https://niko09994.itch.io/northland-mleme": 15,
-        "https://bitmanger.itch.io/hope": 16,
-        "https://jellyfishdeveloper.itch.io/bit-em-up": 17,
-        "https://noctis-3107.itch.io/what-else-to-lose": 18,
-        "https://atelierkorben.itch.io/winters-embrace": 19,
-        "https://juneydev.itch.io/kil": 20,
-        "https://stage-whisper.itch.io/hoshizora-publishing": 21,
-        "https://psychotoke.itch.io/toothin": 22,
-        "https://deasfulf.itch.io/dark-and-light-thread-of-the-worlds": 23,
-        "https://laurencelopez.itch.io/visionhuntduckdnsorg": 24,
-        "https://inspiration-beggar.itch.io/incretop": 25,
-        "https://oldmanraisinbrand.itch.io/tank-assault": 26,
-        "https://tenthgames.itch.io/breach": 27,
-        "https://yeisongomez0703.itch.io/conspiracionenelarea511": 28,
-        "https://outside-perdition.itch.io/thousands-of-monkeys": 29,
-        "https://elrodan.itch.io/the-village-alchemist": 30,
-        "https://masalt.itch.io/words-game-2": 31,
-        "https://keepernovaice.itch.io/frostbite": 32,
-        "https://cafepancake.itch.io/she-stares-at-me": 33,
-        "https://hawkeyegames.itch.io/prism-panic": 34,
-        "https://zamaoz98.itch.io/dectectivejam": 35,
-        "https://cbelon2.itch.io/catpocalypse": 36
+        "https://myorinn.itch.io/shattered-heart": 1,
+        "https://sworddev.itch.io/queens-of-hearts": 2,
+        "https://granjerosdlg.itch.io/barewalls": 3,
+        "https://noobygrinds.itch.io/super-hexagon-web-edition": 4,
+        "https://lecesiaaa.itch.io/rampage-stickman": 5,
+        "https://pizzapizza9.itch.io/chin-ga-ling": 6,
+        "https://dimathekotik.itch.io/flower-in-the-wind": 7,
+        "https://kevindu.itch.io/digital-waste": 8,
+        "https://alvaroh.itch.io/gaea-i": 9,
+        "https://mrlimfish.itch.io/dont-sleep": 10,
+        "https://shenkar-college.itch.io/axis-aegis": 11,
+        "https://ajoshisan.itch.io/othello-fall": 12,
+        "https://kotmstudios.itch.io/netagents-survivors": 13,
+        "https://mottledelm.itch.io/untitled-bus-game": 14,
+        "https://blocksuponblocks.itch.io/korvenia": 15,
+        "https://niko09994.itch.io/northland-mleme": 16,
+        "https://bitmanger.itch.io/hope": 17,
+        "https://jellyfishdeveloper.itch.io/bit-em-up": 18,
+        "https://noctis-3107.itch.io/what-else-to-lose": 19,
+        "https://atelierkorben.itch.io/winters-embrace": 20,
+        "https://juneydev.itch.io/kil": 21,
+        "https://stage-whisper.itch.io/hoshizora-publishing": 22,
+        "https://psychotoke.itch.io/toothin": 23,
+        "https://deasfulf.itch.io/dark-and-light-thread-of-the-worlds": 24,
+        "https://laurencelopez.itch.io/visionhuntduckdnsorg": 25,
+        "https://inspiration-beggar.itch.io/incretop": 26,
+        "https://oldmanraisinbrand.itch.io/tank-assault": 27,
+        "https://tenthgames.itch.io/breach": 28,
+        "https://yeisongomez0703.itch.io/conspiracionenelarea511": 29,
+        "https://outside-perdition.itch.io/thousands-of-monkeys": 30,
+        "https://elrodan.itch.io/the-village-alchemist": 31,
+        "https://masalt.itch.io/words-game-2": 32,
+        "https://keepernovaice.itch.io/frostbite": 33,
+        "https://cafepancake.itch.io/she-stares-at-me": 34,
+        "https://hawkeyegames.itch.io/prism-panic": 35,
+        "https://zamaoz98.itch.io/dectectivejam": 36
       },
-      "scannedAt": "2026-07-29T08:20:45.041Z",
+      "scannedAt": "2026-07-29T08:22:52.075Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-07-29T08:20:45.069Z",
+      "scannedAt": "2026-07-29T08:22:52.170Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/farm-mayhem-merge": 69,
         "https://www.crazygames.com/game/recoil-rumble-knp": 70
       },
-      "scannedAt": "2026-07-29T08:20:46.441Z",
+      "scannedAt": "2026-07-29T08:22:53.397Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -703,7 +703,7 @@
         "https://poki.com/en/g/pizza-planet": 140,
         "https://poki.com/en/g/collect-n-evolve": 141
       },
-      "scannedAt": "2026-07-29T08:20:46.547Z",
+      "scannedAt": "2026-07-29T08:22:53.529Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -857,7 +857,7 @@
         "https://www.y8.com/games/tap_out_puzzle": 72,
         "https://www.y8.com/games/cars_vs_zombies_webgl": 73
       },
-      "scannedAt": "2026-07-29T08:20:47.654Z",
+      "scannedAt": "2026-07-29T08:22:54.592Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -985,7 +985,7 @@
         "https://www.gamepix.com/play/the-greedy-crow": 59,
         "https://www.gamepix.com/play/twist-and-roll": 60
       },
-      "scannedAt": "2026-07-29T08:20:47.754Z",
+      "scannedAt": "2026-07-29T08:22:54.687Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1157,7 +1157,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/thief-puzzle": 82
       },
-      "scannedAt": "2026-07-29T08:20:47.847Z",
+      "scannedAt": "2026-07-29T08:22:54.766Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1263,7 +1263,7 @@
         "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/?snr=1_7_7_popularnew_150_1": 48,
         "https://store.steampowered.com/app/1805110/Solarpunk/?snr=1_7_7_popularnew_150_1": 49
       },
-      "scannedAt": "2026-07-29T08:20:45.385Z",
+      "scannedAt": "2026-07-29T08:22:52.418Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1371,7 +1371,7 @@
         "https://store.steampowered.com/app/4820790/Family_Office_Simulator/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/3682650/Skyward_Bastion/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-07-29T08:20:45.615Z",
+      "scannedAt": "2026-07-29T08:22:52.602Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1389,7 +1389,7 @@
         "https://www.newgrounds.com/portal/view/1044306": 4,
         "https://www.newgrounds.com/portal/view/1044270": 5
       },
-      "scannedAt": "2026-07-29T08:20:46.171Z",
+      "scannedAt": "2026-07-29T08:22:53.198Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1421,7 +1421,7 @@
         "https://www.newgrounds.com/portal/view/1044335": 11,
         "https://www.newgrounds.com/portal/view/1044344": 12
       },
-      "scannedAt": "2026-07-29T08:20:46.251Z",
+      "scannedAt": "2026-07-29T08:22:53.287Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1483,7 +1483,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-07-29T08:20:44.910Z",
+  "lastScan": "2026-07-29T08:22:51.604Z",
   "lastRisingDiscovery": "2026-07-29T06:49:14.010Z",
-  "lastTrendBatch": "2026-07-29T08:20:44.910Z"
+  "lastTrendBatch": "2026-07-29T08:22:51.604Z"
 }
