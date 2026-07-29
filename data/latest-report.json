@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-29T08:14:26.299Z",
+  "scannedAt": "2026-07-29T08:15:40.619Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 39,
+  "totalAdded": 1,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 10
+      "added": 1
     },
     {
       "ok": true,
@@ -38,14 +38,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 19
+      "added": 0
     },
     {
       "ok": true,
@@ -98,11 +98,11 @@
     }
   ],
   "seoVerified": 5,
-  "seoErrors": 133,
-  "fastModelVersion": 2,
-  "fastPassedCount": 21,
-  "fastWatchCount": 13,
-  "fastRejectedCount": 428,
+  "seoErrors": 130,
+  "fastModelVersion": 3,
+  "fastPassedCount": 32,
+  "fastWatchCount": 15,
+  "fastRejectedCount": 420,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
@@ -114,19 +114,19 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 42,
-  "trendEligibleCount": 11,
-  "trendPendingCount": 1,
+  "seoPassedCount": 43,
+  "trendEligibleCount": 14,
+  "trendPendingCount": 2,
   "trendValidatedCount": 21,
   "risingCount": 8,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 3,
-    "page": 1,
-    "watch": 16,
-    "reject": 431,
-    "pending": 935,
-    "error": 133
+    "page": 2,
+    "watch": 19,
+    "reject": 423,
+    "pending": 942,
+    "error": 130
   },
   "seoProvider": "serper-google-search",
   "serperConfigured": true,
@@ -147,7 +147,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:14:46.254Z"
+    "ranAt": "2026-07-29T08:15:59.542Z"
   },
   "googleCseConfiguredSlots": 0,
   "googleCseUsage": {
@@ -167,7 +167,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:14:46.487Z"
+    "ranAt": "2026-07-29T08:15:59.846Z"
   },
   "serpApiUsage": {
     "enabled": true,
@@ -212,7 +212,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:14:47.016Z"
+    "updatedAt": "2026-07-29T08:16:00.702Z"
   },
   "serpApiQuotaFill": {
     "enabled": true,
@@ -228,9 +228,9 @@
       "strategic": 0
     },
     "pendingByTier": {
-      "strong": 1,
-      "secondary": 0,
-      "strategic": 10
+      "strong": 2,
+      "secondary": 1,
+      "strategic": 9
     },
     "verifiedNames": [],
     "caps": {
@@ -272,7 +272,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T08:14:46.833Z"
+    "ranAt": "2026-07-29T08:16:00.401Z"
   },
   "trendProvider": "serpapi",
   "serpApiConfigured": true,
@@ -320,14 +320,14 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:14:47.016Z"
+    "updatedAt": "2026-07-29T08:16:00.702Z"
   },
   "trendProviderCounts": {
     "serpapi": 21
   },
   "seoProviderCounts": {
     "serper+autocomplete": 100,
-    "duckduckgo+autocomplete": 397
+    "duckduckgo+autocomplete": 402
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
