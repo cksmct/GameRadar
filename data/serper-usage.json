@@ -1,9 +1,9 @@
 {
-  "totalUsed": 100,
+  "totalUsed": 899,
   "day": "2026-07-29",
-  "dayUsed": 100,
-  "totalLimit": 2400,
-  "dailyLimit": 100,
-  "updatedAt": "2026-07-29T06:51:20.084Z",
+  "dayUsed": 899,
+  "totalLimit": 2450,
+  "dailyLimit": 2450,
+  "updatedAt": "2026-07-29T09:02:17.499Z",
   "lastError": null
 }
