@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-07-29T16:38:28.880Z",
+  "scannedAt": "2026-07-29T17:54:57.033Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 101,
+  "totalAdded": 68,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 28
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 36
+      "added": 34
     },
     {
       "ok": true,
@@ -37,7 +37,7 @@
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
-      "total": 48,
+      "total": 49,
       "added": 3
     },
     {
@@ -45,19 +45,21 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 9
+      "added": 8
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
-      "error": "远程站点返回 503"
+      "total": 5,
+      "added": 0
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
-      "error": "远程站点返回 503"
+      "total": 12,
+      "added": 1
     },
     {
       "ok": true,
@@ -70,15 +72,15 @@
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 143,
-      "added": 2
+      "total": 144,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 23
+      "added": 10
     },
     {
       "ok": true,
@@ -95,49 +97,49 @@
       "added": 0
     }
   ],
-  "seoVerified": 69,
+  "seoVerified": 55,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 143,
-  "fastWatchCount": 232,
-  "fastRejectedCount": 1368,
+  "fastPassedCount": 136,
+  "fastWatchCount": 241,
+  "fastRejectedCount": 1416,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
   "youtubeErrors": 0,
-  "trendsVerified": 9,
-  "trendErrors": 2,
+  "trendsVerified": 3,
+  "trendErrors": 1,
   "trendBatchRan": true,
-  "trendQueueSize": 1,
+  "trendQueueSize": 0,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 352,
-  "trendEligibleCount": 88,
-  "trendPendingCount": 2,
-  "trendValidatedCount": 306,
+  "seoPassedCount": 358,
+  "trendEligibleCount": 85,
+  "trendPendingCount": 0,
+  "trendValidatedCount": 309,
   "risingCount": 4,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 322,
-    "reject": 1166,
-    "pending": 268,
+    "watch": 327,
+    "reject": 1207,
+    "pending": 272,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 306
+    "serpapi": 309
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-07",
-    "monthUsed": 351,
+    "monthUsed": 355,
     "day": "2026-07-29",
-    "dayUsed": 351,
+    "dayUsed": 355,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -151,11 +153,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 90,
-        "dayUsed": 90,
+        "monthUsed": 94,
+        "dayUsed": 94,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T16:45:11.341Z"
+        "updatedAt": "2026-07-29T17:57:28.845Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -174,22 +176,22 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T16:45:24.713Z"
+    "updatedAt": "2026-07-29T17:57:43.129Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 1743,
+    "serper+autocomplete": 1793,
     "duckduckgo+autocomplete": 4
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 1743,
+    "totalUsed": 1793,
     "day": "2026-07-29",
-    "dayUsed": 1743,
+    "dayUsed": 1793,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-29T16:40:01.454Z",
+    "updatedAt": "2026-07-29T17:56:06.238Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -208,91 +210,77 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1168,
-    "wiki": 204,
-    "pending": 390
+    "online": 1182,
+    "wiki": 214,
+    "pending": 416
   },
   "serperVerification": {
     "rushMode": true,
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 65,
-    "verified": 64,
+    "queueSize": 51,
+    "verified": 50,
     "verifiedByChannel": {
-      "online": 33,
+      "online": 14,
       "wiki": 10,
-      "pending": 21
+      "pending": 26
     },
     "errors": 1,
     "quotaStopped": false,
     "verifiedNames": [
-      "Ride Together",
-      "Kick Brainrot Balls",
-      "Abakus Bilangan Bulat",
-      "Dark Souls Roulette",
-      "Cosmo Sprint",
-      "Uzaylı_Avcısı",
-      "Apex Career",
-      "Inkdrift",
-      "Platformer",
-      "Hands off the remote",
-      "icolink",
-      "Triple Shelf Match",
-      "Russian is Easy",
-      "Astro Chickens",
-      "IA COMPLEX SIMULATOR",
-      "Block Blast Pro",
-      "Balance Up",
-      "Vega Mix 2 Wild West",
-      "Her Majesty’s Decree",
-      "FUSE",
-      "Psyclone",
-      "Ellia's Phantasm",
-      "Rage Room",
-      "xxsiege-en",
-      "xxsiege-ch",
-      "Aura Farm",
-      "Noches en vela",
-      "No Time to Doubt (PC)",
-      "No Time to Doubt (mobile)",
-      "ARKAKITTENS",
-      "Refracto",
-      "FastType",
-      "Hit the little bird.",
-      "Truck-kun is Supporting Me from Another World?!",
-      "Dante's RUMBA",
-      "Tank Tower Defense 坦克塔防",
-      "Grid Grind",
-      "Joy Malignant",
-      "Squoids",
-      "Rleotha: Trial of Gods",
-      "VoidEvolve",
-      "Outfield",
-      "Market Chain 98",
-      "FAILING TURING",
-      "Duck Quest",
-      "Cargo Routers",
-      "Baldi School At Night Android",
-      "El Sapo - Novela gráfica",
-      "Shadex Taggers",
-      "ARKAKITTENS-DESKTOP",
-      "mad knight",
-      "Backrooms: Epstein Escape",
-      "Project Aurora",
-      "Rvs Taggers",
-      "Echoes Beyond the Hills",
-      "Sprunki Phase 6 Fanmade",
-      "reunion",
-      "APARTMENT231",
-      "TRAINCORE",
-      "Escape The River",
-      "2084: Archivist",
-      "Rat & Slash",
-      "VideoGram",
-      "Fly!"
+      "Clean House",
+      "Eco da Luz",
+      "Banca Rota",
+      "Sprunki Pre-pyramixed Electer's take",
+      "Garden Drop",
+      "IT201 Project 3 - Alexander Rivera",
+      "Last Year of Carbon",
+      "Ice Sweeper",
+      "Pixel City Plus",
+      "Dungeon For Two",
+      "Dress Up: Outfit Match",
+      "Can I have Some Sarosa?",
+      "Pepito Ball",
+      "1996 recreation (discontinued)",
+      "Below, Rusted Gods",
+      "Company of Heroes 3: Final Stand",
+      "Keyboard Warrior",
+      "Wizard Tournament",
+      "Crescent Creek: Survival Horror",
+      "Bills Must Be Paid",
+      "Butts in Space: Porcelain Peril",
+      "Scuttle",
+      "Powerplay",
+      "Mischief Moves In",
+      "Twin Stick Japanese",
+      "Pac clon python",
+      "Piranha Panels",
+      "Cosmic ronald boss fight",
+      "Homicide Desk",
+      "Fartfling taggers modded",
+      "APPLE TAG",
+      "Biblioteca Mágica con Lectuboy",
+      "Limbo Puckery",
+      "goop tag slop",
+      "Bike Man",
+      "Vuelo Bajo Fuego",
+      "Very first version of cube runners",
+      "Rise of Dominion - APLHA Test",
+      "Dead Plate: Table for One",
+      "ChromaticTale",
+      "Echoes from the River",
+      "Robot de montaña",
+      "PixelMars",
+      "Pepito Ball 2",
+      "Deksy Shooter REMAKE",
+      "kill the dummy",
+      "El món dels barrufets: El joc de rol",
+      "Palaria Chapter 1",
+      "1001 Histoires - Night of Nights",
+      "Shadow of the Matrix"
     ],
-    "ranAt": "2026-07-29T16:40:01.529Z"
+    "ranAt": "2026-07-29T17:56:06.315Z"
   },
   "googleCseVerification": {
     "limit": 180,
@@ -302,16 +290,16 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T16:40:01.751Z"
+    "ranAt": "2026-07-29T17:56:06.554Z"
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 259,
+      "validated": 260,
       "rising": 0,
       "recommended": 0
     },
     "wiki": {
-      "validated": 41,
+      "validated": 43,
       "rising": 2,
       "recommended": 1
     },
@@ -324,19 +312,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 639,
-    "queueSize": 10,
-    "verified": 9,
+    "remainingAtStart": 629,
+    "queueSize": 4,
+    "verified": 3,
     "errors": 1,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 3,
-      "secondary": 5,
-      "strategic": 1
+      "strong": 0,
+      "secondary": 1,
+      "strategic": 2
     },
     "channelVerified": {
-      "online": 8,
-      "wiki": 1,
+      "online": 1,
+      "wiki": 2,
       "pending": 0
     },
     "pendingByTier": {
@@ -349,15 +337,9 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Tic Tac Toe",
-      "Platformer",
-      "Air Hockey",
-      "Fill the Glass Puzzle",
-      "Jelly Monsters Link Puzzle",
-      "Triple Shelf Match",
-      "3d pong",
-      "Pegfinity",
-      "Monslice"
+      "Color Clash",
+      "Keyboard Warrior",
+      "Bills Must Be Paid"
     ],
     "caps": {
       "online": 999,
@@ -383,10 +365,10 @@
         "envName": "SERPAPI_API_KEY_2",
         "ok": true,
         "error": null,
-        "verified": 9,
+        "verified": 3,
         "channelVerified": {
-          "online": 8,
-          "wiki": 1,
+          "online": 1,
+          "wiki": 2,
           "pending": 0
         },
         "errors": 1,
@@ -419,16 +401,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T16:45:24.333Z"
+    "ranAt": "2026-07-29T17:57:42.742Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-07",
-    "monthUsed": 351,
+    "monthUsed": 355,
     "day": "2026-07-29",
-    "dayUsed": 351,
+    "dayUsed": 355,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -442,11 +424,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 90,
-        "dayUsed": 90,
+        "monthUsed": 94,
+        "dayUsed": 94,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T16:45:11.341Z"
+        "updatedAt": "2026-07-29T17:57:28.845Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -465,6 +447,6 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T16:45:24.713Z"
+    "updatedAt": "2026-07-29T17:57:43.129Z"
   }
 }
