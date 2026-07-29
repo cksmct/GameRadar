@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-07-29T17:54:57.033Z",
+  "scannedAt": "2026-07-29T19:41:56.278Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 68,
+  "totalAdded": 97,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 10
+      "added": 26
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
@@ -38,14 +38,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 3
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 8
+      "added": 4
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 6
     },
     {
       "ok": true,
@@ -73,14 +73,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 144,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 10
+      "added": 15
     },
     {
       "ok": true,
@@ -95,51 +95,88 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "total": 8,
+      "added": 8
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
-  "seoVerified": 55,
+  "seoVerified": 68,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 136,
-  "fastWatchCount": 241,
-  "fastRejectedCount": 1416,
+  "fastPassedCount": 138,
+  "fastWatchCount": 249,
+  "fastRejectedCount": 1469,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
   "youtubeErrors": 0,
-  "trendsVerified": 3,
+  "trendsVerified": 2,
   "trendErrors": 1,
   "trendBatchRan": true,
-  "trendQueueSize": 0,
-  "risingDiscoveryRan": false,
+  "trendQueueSize": 1,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 358,
-  "trendEligibleCount": 85,
+  "seoPassedCount": 366,
+  "trendEligibleCount": 83,
   "trendPendingCount": 0,
-  "trendValidatedCount": 309,
+  "trendValidatedCount": 311,
   "risingCount": 4,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 327,
-    "reject": 1207,
-    "pending": 272,
+    "watch": 333,
+    "reject": 1258,
+    "pending": 278,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 309
+    "serpapi": 311
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-07",
-    "monthUsed": 355,
+    "monthUsed": 357,
     "day": "2026-07-29",
-    "dayUsed": 355,
+    "dayUsed": 357,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -153,11 +190,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 94,
-        "dayUsed": 94,
+        "monthUsed": 96,
+        "dayUsed": 96,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T17:57:28.845Z"
+        "updatedAt": "2026-07-29T19:43:43.898Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -176,22 +213,22 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T17:57:43.129Z"
+    "updatedAt": "2026-07-29T19:43:46.891Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 1793,
+    "serper+autocomplete": 1856,
     "duckduckgo+autocomplete": 4
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 1793,
+    "totalUsed": 1856,
     "day": "2026-07-29",
-    "dayUsed": 1793,
+    "dayUsed": 1856,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-29T17:56:06.238Z",
+    "updatedAt": "2026-07-29T19:43:39.889Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -210,77 +247,90 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1182,
-    "wiki": 214,
-    "pending": 416
+    "online": 1216,
+    "wiki": 219,
+    "pending": 440
   },
   "serperVerification": {
     "rushMode": true,
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 51,
-    "verified": 50,
+    "queueSize": 64,
+    "verified": 63,
     "verifiedByChannel": {
-      "online": 14,
-      "wiki": 10,
-      "pending": 26
+      "online": 31,
+      "wiki": 5,
+      "pending": 27
     },
     "errors": 1,
     "quotaStopped": false,
     "verifiedNames": [
-      "Clean House",
-      "Eco da Luz",
-      "Banca Rota",
-      "Sprunki Pre-pyramixed Electer's take",
-      "Garden Drop",
-      "IT201 Project 3 - Alexander Rivera",
-      "Last Year of Carbon",
-      "Ice Sweeper",
-      "Pixel City Plus",
-      "Dungeon For Two",
-      "Dress Up: Outfit Match",
-      "Can I have Some Sarosa?",
-      "Pepito Ball",
-      "1996 recreation (discontinued)",
-      "Below, Rusted Gods",
-      "Company of Heroes 3: Final Stand",
-      "Keyboard Warrior",
-      "Wizard Tournament",
-      "Crescent Creek: Survival Horror",
-      "Bills Must Be Paid",
-      "Butts in Space: Porcelain Peril",
-      "Scuttle",
-      "Powerplay",
-      "Mischief Moves In",
-      "Twin Stick Japanese",
-      "Pac clon python",
-      "Piranha Panels",
-      "Cosmic ronald boss fight",
-      "Homicide Desk",
-      "Fartfling taggers modded",
-      "APPLE TAG",
-      "Biblioteca Mágica con Lectuboy",
-      "Limbo Puckery",
-      "goop tag slop",
-      "Bike Man",
-      "Vuelo Bajo Fuego",
-      "Very first version of cube runners",
-      "Rise of Dominion - APLHA Test",
-      "Dead Plate: Table for One",
-      "ChromaticTale",
-      "Echoes from the River",
-      "Robot de montaña",
-      "PixelMars",
-      "Pepito Ball 2",
-      "Deksy Shooter REMAKE",
-      "kill the dummy",
-      "El món dels barrufets: El joc de rol",
-      "Palaria Chapter 1",
-      "1001 Histoires - Night of Nights",
-      "Shadow of the Matrix"
+      "Speed Collect",
+      "Spaced Out: Math Gym — Mobile",
+      "Fine watchmaker",
+      "Frontline Commander",
+      "Pong Is You",
+      "Dungeon Master :)",
+      "Custom Bird",
+      "Plappy Burb",
+      "Five Nights With Boxes (Old Beta)",
+      "Gnome Quest IV",
+      "Metrocity Escape Prototype",
+      "Pixel Car Memory Quest",
+      "Draw Logic Puzzle",
+      "The Forgotten Heroes",
+      "The Stellar Score",
+      "cat vs snow reanimated",
+      "Deer Family is Forever... Or Something",
+      "Chowder - The Toots (Reanimated)",
+      "My Big Nose Doctor",
+      "Final Facility",
+      "Torque It Out",
+      "Double Map Maker",
+      "planet jumper",
+      "Hue: ch1&ch2 demo",
+      "Desafio do Mago",
+      "Submarine Mission",
+      "Spincremental",
+      "DEADKEYS",
+      "Capri-Sun Liquid Adventure",
+      "\"can we please not have this discussion?!\"",
+      "Super Mario Shorts: Violence isn't the Answer!",
+      "Case Solved: The London Files",
+      "Senseless Cooking",
+      "Solitaire Deck",
+      "Cedric's Quest — The Waning Ward",
+      "Batya in the Building: 10 Years Later",
+      "devolver digital",
+      "indie games list",
+      "dear passengers",
+      "unity",
+      "card game with hidden rules crossword",
+      "game awards best indie game nominees",
+      "indie game discoverability on",
+      "SDRUNKI REVISITED",
+      "Rogue Chess",
+      "Mass Penguin Happy Ending Sim",
+      "Silly PFP maker!",
+      "La Orden Del Plan 48K",
+      "I Promise I Can Fly",
+      "Linked Wheels",
+      "POKETALE demo",
+      "Destiny Tag",
+      "Salón Tesorería - Palacio Nacional",
+      "Hexapawn",
+      "Spheric: Rotate picture puzzle",
+      "Un Pression 3D",
+      "starman - the shortstory",
+      "Jamie and Marley Die A Lot",
+      "THE LEGEND OF SATYR",
+      "Seraph's Kiss",
+      "Basketball Vs Bot (ScratchJr)",
+      "ZDoom Wars 2",
+      "Sprunki phase 3 the start of gore"
     ],
-    "ranAt": "2026-07-29T17:56:06.315Z"
+    "ranAt": "2026-07-29T19:43:39.963Z"
   },
   "googleCseVerification": {
     "limit": 180,
@@ -290,16 +340,16 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T17:56:06.554Z"
+    "ranAt": "2026-07-29T19:43:40.188Z"
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 260,
+      "validated": 261,
       "rising": 0,
       "recommended": 0
     },
     "wiki": {
-      "validated": 43,
+      "validated": 44,
       "rising": 2,
       "recommended": 1
     },
@@ -312,19 +362,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 629,
-    "queueSize": 4,
-    "verified": 3,
-    "errors": 1,
+    "remainingAtStart": 625,
+    "queueSize": 2,
+    "verified": 2,
+    "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
       "strong": 0,
       "secondary": 1,
-      "strategic": 2
+      "strategic": 1
     },
     "channelVerified": {
       "online": 1,
-      "wiki": 2,
+      "wiki": 1,
       "pending": 0
     },
     "pendingByTier": {
@@ -337,9 +387,8 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Color Clash",
-      "Keyboard Warrior",
-      "Bills Must Be Paid"
+      "Spincremental",
+      "Below, Rusted Gods"
     ],
     "caps": {
       "online": 999,
@@ -365,13 +414,13 @@
         "envName": "SERPAPI_API_KEY_2",
         "ok": true,
         "error": null,
-        "verified": 3,
+        "verified": 2,
         "channelVerified": {
           "online": 1,
-          "wiki": 2,
+          "wiki": 1,
           "pending": 0
         },
-        "errors": 1,
+        "errors": 0,
         "quotaStopped": false
       },
       "3": {
@@ -401,16 +450,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T17:57:42.742Z"
+    "ranAt": "2026-07-29T19:43:46.512Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-07",
-    "monthUsed": 355,
+    "monthUsed": 357,
     "day": "2026-07-29",
-    "dayUsed": 355,
+    "dayUsed": 357,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -424,11 +473,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 94,
-        "dayUsed": 94,
+        "monthUsed": 96,
+        "dayUsed": 96,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T17:57:28.845Z"
+        "updatedAt": "2026-07-29T19:43:43.898Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -447,6 +496,6 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T17:57:43.129Z"
+    "updatedAt": "2026-07-29T19:43:46.891Z"
   }
 }
