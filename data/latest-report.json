@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-29T07:21:00.916Z",
+  "scannedAt": "2026-07-29T07:30:48.428Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 22,
+  "totalAdded": 4,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 2
+      "added": 3
     },
     {
       "ok": true,
@@ -45,7 +45,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 9
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 6
+      "added": 0
     },
     {
       "ok": true,
@@ -100,23 +100,23 @@
   "seoVerified": 5,
   "seoErrors": 134,
   "fastModelVersion": 2,
-  "fastPassedCount": 17,
-  "fastWatchCount": 14,
-  "fastRejectedCount": 421,
+  "fastPassedCount": 19,
+  "fastWatchCount": 13,
+  "fastRejectedCount": 425,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
   "youtubeErrors": 0,
-  "trendsVerified": 16,
+  "trendsVerified": 0,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 40,
-  "trendEligibleCount": 7,
-  "trendPendingCount": 2,
+  "seoPassedCount": 41,
+  "trendEligibleCount": 9,
+  "trendPendingCount": 1,
   "trendValidatedCount": 21,
   "risingCount": 8,
   "globalRisingCount": 0,
@@ -124,7 +124,7 @@
     "independent": 2,
     "page": 0,
     "watch": 16,
-    "reject": 424,
+    "reject": 428,
     "pending": 924,
     "error": 134
   },
@@ -147,7 +147,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-29T07:21:20.485Z"
+    "ranAt": "2026-07-29T07:31:08.394Z"
   },
   "googleCseConfiguredSlots": 0,
   "googleCseUsage": {
@@ -167,7 +167,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T07:21:20.731Z"
+    "ranAt": "2026-07-29T07:31:08.685Z"
   },
   "serpApiUsage": {
     "enabled": true,
@@ -212,44 +212,27 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T07:24:25.475Z"
+    "updatedAt": "2026-07-29T07:31:09.451Z"
   },
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 24,
-    "queueSize": 31,
-    "verified": 16,
+    "remainingAtStart": 0,
+    "queueSize": 0,
+    "verified": 0,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 2,
-      "secondary": 4,
-      "strategic": 10
+      "strong": 0,
+      "secondary": 0,
+      "strategic": 0
     },
     "pendingByTier": {
-      "strong": 0,
+      "strong": 1,
       "secondary": 0,
       "strategic": 10
     },
-    "verifiedNames": [
-      "homicipher",
-      "Jewel Coloring",
-      "Average Routine",
-      "Funnel Runners",
-      "Lazy Kickers",
-      "Scritchy Scratchy",
-      "My Infamous Dungeon",
-      "Moonlight Peaks",
-      "hololive Dreams",
-      "Streetlight Syndicate",
-      "Desktop Explorer",
-      "Scrap Mechanic",
-      "MECCHA CHAMELEON",
-      "Assassin's Creed Black Flag Resynced",
-      "Drone Sector",
-      "Punch Dungeon"
-    ],
+    "verifiedNames": [],
     "caps": {
       "strong": 8,
       "secondary": 8,
@@ -268,28 +251,28 @@
         "envName": "SERPAPI_API_KEY_2",
         "ok": true,
         "error": null,
-        "verified": 5,
+        "verified": 0,
         "errors": 0,
-        "quotaStopped": true
+        "quotaStopped": false
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
         "ok": true,
         "error": null,
-        "verified": 5,
+        "verified": 0,
         "errors": 0,
-        "quotaStopped": true
+        "quotaStopped": false
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
         "ok": true,
         "error": null,
-        "verified": 6,
+        "verified": 0,
         "errors": 0,
-        "quotaStopped": true
+        "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T07:24:25.247Z"
+    "ranAt": "2026-07-29T07:31:09.172Z"
   },
   "trendProvider": "serpapi",
   "serpApiConfigured": true,
@@ -337,14 +320,14 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T07:24:25.475Z"
+    "updatedAt": "2026-07-29T07:31:09.451Z"
   },
   "trendProviderCounts": {
     "serpapi": 21
   },
   "seoProviderCounts": {
     "serper+autocomplete": 100,
-    "duckduckgo+autocomplete": 390
+    "duckduckgo+autocomplete": 392
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
@@ -353,7 +336,7 @@
   "siteTypeModelVersion": 1,
   "siteTypeCounts": {
     "online": 1010,
-    "wiki": 173,
-    "pending": 317
+    "wiki": 174,
+    "pending": 320
   }
 }

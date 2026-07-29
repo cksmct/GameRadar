@@ -77,7 +77,7 @@
         "https://wacha-world.itch.io/sen-no-rikyu-in-wonderland": 35,
         "https://onkolabo.itch.io/jibu-no-tenbin": 36
       },
-      "scannedAt": "2026-07-29T07:21:01.282Z",
+      "scannedAt": "2026-07-29T07:30:48.691Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,12 +157,15 @@
         "https://idlejourney.itch.io/idle-journey": 35,
         "https://daysgobye.itch.io/corporate-capital": 36
       },
-      "scannedAt": "2026-07-29T07:21:01.360Z",
+      "scannedAt": "2026-07-29T07:30:48.819Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://kotmstudios.itch.io/netagents-survivors",
+        "https://mottledelm.itch.io/untitled-bus-game",
         "https://blocksuponblocks.itch.io/korvenia",
+        "https://niko09994.itch.io/northland-mleme",
         "https://bitmanger.itch.io/hope",
         "https://jellyfishdeveloper.itch.io/bit-em-up",
         "https://noctis-3107.itch.io/what-else-to-lose",
@@ -194,50 +197,47 @@
         "https://glouss.itch.io/flanthrio",
         "https://outer0-0.itch.io/project-spook",
         "https://cailabration.itch.io/farm-acy",
-        "https://languageofempires.itch.io/acute-dawn-demo",
-        "https://brunobrasil.itch.io/perpetum-hunt",
-        "https://crimzonusingitch.itch.io/watts-updated-yet-again",
-        "https://studio273.itch.io/urban-explorer-baldwin"
+        "https://languageofempires.itch.io/acute-dawn-demo"
       ],
       "positions": {
-        "https://blocksuponblocks.itch.io/korvenia": 1,
-        "https://bitmanger.itch.io/hope": 2,
-        "https://jellyfishdeveloper.itch.io/bit-em-up": 3,
-        "https://noctis-3107.itch.io/what-else-to-lose": 4,
-        "https://atelierkorben.itch.io/winters-embrace": 5,
-        "https://juneydev.itch.io/kil": 6,
-        "https://stage-whisper.itch.io/hoshizora-publishing": 7,
-        "https://psychotoke.itch.io/toothin": 8,
-        "https://deasfulf.itch.io/dark-and-light-thread-of-the-worlds": 9,
-        "https://laurencelopez.itch.io/visionhuntduckdnsorg": 10,
-        "https://inspiration-beggar.itch.io/incretop": 11,
-        "https://oldmanraisinbrand.itch.io/tank-assault": 12,
-        "https://tenthgames.itch.io/breach": 13,
-        "https://yeisongomez0703.itch.io/conspiracionenelarea511": 14,
-        "https://outside-perdition.itch.io/thousands-of-monkeys": 15,
-        "https://elrodan.itch.io/the-village-alchemist": 16,
-        "https://masalt.itch.io/words-game-2": 17,
-        "https://keepernovaice.itch.io/frostbite": 18,
-        "https://cafepancake.itch.io/she-stares-at-me": 19,
-        "https://hawkeyegames.itch.io/prism-panic": 20,
-        "https://zamaoz98.itch.io/dectectivejam": 21,
-        "https://cbelon2.itch.io/catpocalypse": 22,
-        "https://evand1.itch.io/protect-the-big-dog": 23,
-        "https://datetr.itch.io/darklabyrinth": 24,
-        "https://xiy2xiy.itch.io/sideboob-souls-blade-of-the-fallen": 25,
-        "https://royardray.itch.io/new-world-order-the-game": 26,
-        "https://jennnefier.itch.io/project-devv": 27,
-        "https://joel-laax.itch.io/family-echoes-4": 28,
-        "https://aroccia.itch.io/gate-guardian-prototype": 29,
-        "https://glouss.itch.io/flanthrio": 30,
-        "https://outer0-0.itch.io/project-spook": 31,
-        "https://cailabration.itch.io/farm-acy": 32,
-        "https://languageofempires.itch.io/acute-dawn-demo": 33,
-        "https://brunobrasil.itch.io/perpetum-hunt": 34,
-        "https://crimzonusingitch.itch.io/watts-updated-yet-again": 35,
-        "https://studio273.itch.io/urban-explorer-baldwin": 36
+        "https://kotmstudios.itch.io/netagents-survivors": 1,
+        "https://mottledelm.itch.io/untitled-bus-game": 2,
+        "https://blocksuponblocks.itch.io/korvenia": 3,
+        "https://niko09994.itch.io/northland-mleme": 4,
+        "https://bitmanger.itch.io/hope": 5,
+        "https://jellyfishdeveloper.itch.io/bit-em-up": 6,
+        "https://noctis-3107.itch.io/what-else-to-lose": 7,
+        "https://atelierkorben.itch.io/winters-embrace": 8,
+        "https://juneydev.itch.io/kil": 9,
+        "https://stage-whisper.itch.io/hoshizora-publishing": 10,
+        "https://psychotoke.itch.io/toothin": 11,
+        "https://deasfulf.itch.io/dark-and-light-thread-of-the-worlds": 12,
+        "https://laurencelopez.itch.io/visionhuntduckdnsorg": 13,
+        "https://inspiration-beggar.itch.io/incretop": 14,
+        "https://oldmanraisinbrand.itch.io/tank-assault": 15,
+        "https://tenthgames.itch.io/breach": 16,
+        "https://yeisongomez0703.itch.io/conspiracionenelarea511": 17,
+        "https://outside-perdition.itch.io/thousands-of-monkeys": 18,
+        "https://elrodan.itch.io/the-village-alchemist": 19,
+        "https://masalt.itch.io/words-game-2": 20,
+        "https://keepernovaice.itch.io/frostbite": 21,
+        "https://cafepancake.itch.io/she-stares-at-me": 22,
+        "https://hawkeyegames.itch.io/prism-panic": 23,
+        "https://zamaoz98.itch.io/dectectivejam": 24,
+        "https://cbelon2.itch.io/catpocalypse": 25,
+        "https://evand1.itch.io/protect-the-big-dog": 26,
+        "https://datetr.itch.io/darklabyrinth": 27,
+        "https://xiy2xiy.itch.io/sideboob-souls-blade-of-the-fallen": 28,
+        "https://royardray.itch.io/new-world-order-the-game": 29,
+        "https://jennnefier.itch.io/project-devv": 30,
+        "https://joel-laax.itch.io/family-echoes-4": 31,
+        "https://aroccia.itch.io/gate-guardian-prototype": 32,
+        "https://glouss.itch.io/flanthrio": 33,
+        "https://outer0-0.itch.io/project-spook": 34,
+        "https://cailabration.itch.io/farm-acy": 35,
+        "https://languageofempires.itch.io/acute-dawn-demo": 36
       },
-      "scannedAt": "2026-07-29T07:21:01.544Z",
+      "scannedAt": "2026-07-29T07:30:48.881Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-07-29T07:21:01.627Z",
+      "scannedAt": "2026-07-29T07:30:48.943Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/divine-clash": 69,
         "https://www.crazygames.com/game/alphablitz-wty": 70
       },
-      "scannedAt": "2026-07-29T07:21:02.759Z",
+      "scannedAt": "2026-07-29T07:30:50.599Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -703,7 +703,7 @@
         "https://poki.com/en/g/pizza-planet": 140,
         "https://poki.com/en/g/collect-n-evolve": 141
       },
-      "scannedAt": "2026-07-29T07:21:02.907Z",
+      "scannedAt": "2026-07-29T07:30:50.829Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -857,7 +857,7 @@
         "https://www.y8.com/games/car_quiz": 72,
         "https://www.y8.com/games/spin_thru": 73
       },
-      "scannedAt": "2026-07-29T07:21:04.247Z",
+      "scannedAt": "2026-07-29T07:30:51.884Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -985,7 +985,7 @@
         "https://www.gamepix.com/play/the-greedy-crow": 59,
         "https://www.gamepix.com/play/twist-and-roll": 60
       },
-      "scannedAt": "2026-07-29T07:21:04.420Z",
+      "scannedAt": "2026-07-29T07:30:52.091Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1157,7 +1157,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/thief-puzzle": 82
       },
-      "scannedAt": "2026-07-29T07:21:04.623Z",
+      "scannedAt": "2026-07-29T07:30:52.226Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1184,7 +1184,6 @@
         "https://store.steampowered.com/app/4468030/OFFBEAT/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/4324480/Dirty_Business/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/3590290/DIVE_or_DIE__Children_of_Rain/?snr=1_7_7_popularnew_150_1",
-        "https://store.steampowered.com/app/3279440/Drone_Sector/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/1605850/ZeroSpace/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2527160/Desktop_Explorer/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/2195120/GoGo_Town/?snr=1_7_7_popularnew_150_1",
@@ -1210,7 +1209,8 @@
         "https://store.steampowered.com/app/3844970/Burglin_Gnomes/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/?snr=1_7_7_popularnew_150_1",
         "https://store.steampowered.com/app/1805110/Solarpunk/?snr=1_7_7_popularnew_150_1",
-        "https://store.steampowered.com/app/1297900/Gothic_1_Remake/?snr=1_7_7_popularnew_150_1"
+        "https://store.steampowered.com/app/1297900/Gothic_1_Remake/?snr=1_7_7_popularnew_150_1",
+        "https://store.steampowered.com/app/2186990/Fatekeeper/?snr=1_7_7_popularnew_150_1"
       ],
       "positions": {
         "https://store.steampowered.com/app/3136320/My_Infamous_Dungeon/?snr=1_7_7_popularnew_150_1": 1,
@@ -1235,35 +1235,35 @@
         "https://store.steampowered.com/app/4468030/OFFBEAT/?snr=1_7_7_popularnew_150_1": 20,
         "https://store.steampowered.com/app/4324480/Dirty_Business/?snr=1_7_7_popularnew_150_1": 21,
         "https://store.steampowered.com/app/3590290/DIVE_or_DIE__Children_of_Rain/?snr=1_7_7_popularnew_150_1": 22,
-        "https://store.steampowered.com/app/3279440/Drone_Sector/?snr=1_7_7_popularnew_150_1": 23,
-        "https://store.steampowered.com/app/1605850/ZeroSpace/?snr=1_7_7_popularnew_150_1": 24,
-        "https://store.steampowered.com/app/2527160/Desktop_Explorer/?snr=1_7_7_popularnew_150_1": 25,
-        "https://store.steampowered.com/app/2195120/GoGo_Town/?snr=1_7_7_popularnew_150_1": 26,
-        "https://store.steampowered.com/app/3712080/Funnel_Runners/?snr=1_7_7_popularnew_150_1": 27,
-        "https://store.steampowered.com/app/4210580/Ore_Factory_Squad/?snr=1_7_7_popularnew_150_1": 28,
-        "https://store.steampowered.com/app/3808690/Pathogenic/?snr=1_7_7_popularnew_150_1": 29,
-        "https://store.steampowered.com/app/2524850/Denshattack/?snr=1_7_7_popularnew_150_1": 30,
-        "https://store.steampowered.com/app/2569760/The_Mound_Omen_of_Cthulhu/?snr=1_7_7_popularnew_150_1": 31,
-        "https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/?snr=1_7_7_popularnew_150_1": 32,
-        "https://store.steampowered.com/app/367270/Angels_Fall_First/?snr=1_7_7_popularnew_150_1": 33,
-        "https://store.steampowered.com/app/1623730/Palworld/?snr=1_7_7_popularnew_150_1": 34,
-        "https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/?snr=1_7_7_popularnew_150_1": 35,
-        "https://store.steampowered.com/app/4380490/Cat_Mail_Co/?snr=1_7_7_popularnew_150_1": 36,
-        "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/?snr=1_7_7_popularnew_150_1": 37,
-        "https://store.steampowered.com/app/3935020/Backyard_Baseball/?snr=1_7_7_popularnew_150_1": 38,
-        "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/?snr=1_7_7_popularnew_150_1": 39,
-        "https://store.steampowered.com/app/2209900/Moonlight_Peaks/?snr=1_7_7_popularnew_150_1": 40,
-        "https://store.steampowered.com/app/4165910/Steam_Machine/?snr=1_7_7_popularnew_150_1": 41,
-        "https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/?snr=1_7_7_popularnew_150_1": 42,
-        "https://store.steampowered.com/app/3337380/Tabletop_Tavern/?snr=1_7_7_popularnew_150_1": 43,
-        "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1": 44,
-        "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1": 45,
-        "https://store.steampowered.com/app/3844970/Burglin_Gnomes/?snr=1_7_7_popularnew_150_1": 46,
-        "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/?snr=1_7_7_popularnew_150_1": 47,
-        "https://store.steampowered.com/app/1805110/Solarpunk/?snr=1_7_7_popularnew_150_1": 48,
-        "https://store.steampowered.com/app/1297900/Gothic_1_Remake/?snr=1_7_7_popularnew_150_1": 49
+        "https://store.steampowered.com/app/1605850/ZeroSpace/?snr=1_7_7_popularnew_150_1": 23,
+        "https://store.steampowered.com/app/2527160/Desktop_Explorer/?snr=1_7_7_popularnew_150_1": 24,
+        "https://store.steampowered.com/app/2195120/GoGo_Town/?snr=1_7_7_popularnew_150_1": 25,
+        "https://store.steampowered.com/app/3712080/Funnel_Runners/?snr=1_7_7_popularnew_150_1": 26,
+        "https://store.steampowered.com/app/4210580/Ore_Factory_Squad/?snr=1_7_7_popularnew_150_1": 27,
+        "https://store.steampowered.com/app/3808690/Pathogenic/?snr=1_7_7_popularnew_150_1": 28,
+        "https://store.steampowered.com/app/2524850/Denshattack/?snr=1_7_7_popularnew_150_1": 29,
+        "https://store.steampowered.com/app/2569760/The_Mound_Omen_of_Cthulhu/?snr=1_7_7_popularnew_150_1": 30,
+        "https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/?snr=1_7_7_popularnew_150_1": 31,
+        "https://store.steampowered.com/app/367270/Angels_Fall_First/?snr=1_7_7_popularnew_150_1": 32,
+        "https://store.steampowered.com/app/1623730/Palworld/?snr=1_7_7_popularnew_150_1": 33,
+        "https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/?snr=1_7_7_popularnew_150_1": 34,
+        "https://store.steampowered.com/app/4380490/Cat_Mail_Co/?snr=1_7_7_popularnew_150_1": 35,
+        "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/?snr=1_7_7_popularnew_150_1": 36,
+        "https://store.steampowered.com/app/3935020/Backyard_Baseball/?snr=1_7_7_popularnew_150_1": 37,
+        "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/?snr=1_7_7_popularnew_150_1": 38,
+        "https://store.steampowered.com/app/2209900/Moonlight_Peaks/?snr=1_7_7_popularnew_150_1": 39,
+        "https://store.steampowered.com/app/4165910/Steam_Machine/?snr=1_7_7_popularnew_150_1": 40,
+        "https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/?snr=1_7_7_popularnew_150_1": 41,
+        "https://store.steampowered.com/app/3337380/Tabletop_Tavern/?snr=1_7_7_popularnew_150_1": 42,
+        "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_popularnew_150_1": 43,
+        "https://store.steampowered.com/app/2679100/Witchspire/?snr=1_7_7_popularnew_150_1": 44,
+        "https://store.steampowered.com/app/3844970/Burglin_Gnomes/?snr=1_7_7_popularnew_150_1": 45,
+        "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/?snr=1_7_7_popularnew_150_1": 46,
+        "https://store.steampowered.com/app/1805110/Solarpunk/?snr=1_7_7_popularnew_150_1": 47,
+        "https://store.steampowered.com/app/1297900/Gothic_1_Remake/?snr=1_7_7_popularnew_150_1": 48,
+        "https://store.steampowered.com/app/2186990/Fatekeeper/?snr=1_7_7_popularnew_150_1": 49
       },
-      "scannedAt": "2026-07-29T07:21:01.924Z",
+      "scannedAt": "2026-07-29T07:30:49.203Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1371,7 +1371,7 @@
         "https://store.steampowered.com/app/3682650/Skyward_Bastion/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/3041730/Go_North/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-07-29T07:21:02.148Z",
+      "scannedAt": "2026-07-29T07:30:49.568Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1389,7 +1389,7 @@
         "https://www.newgrounds.com/portal/view/1044306": 4,
         "https://www.newgrounds.com/portal/view/1044270": 5
       },
-      "scannedAt": "2026-07-29T07:21:02.412Z",
+      "scannedAt": "2026-07-29T07:30:50.255Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1421,7 +1421,7 @@
         "https://www.newgrounds.com/portal/view/1044335": 11,
         "https://www.newgrounds.com/portal/view/1044344": 12
       },
-      "scannedAt": "2026-07-29T07:21:02.447Z",
+      "scannedAt": "2026-07-29T07:30:50.341Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1483,7 +1483,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-07-29T07:21:00.916Z",
+  "lastScan": "2026-07-29T07:30:48.428Z",
   "lastRisingDiscovery": "2026-07-29T06:49:14.010Z",
-  "lastTrendBatch": "2026-07-29T07:21:00.916Z"
+  "lastTrendBatch": "2026-07-29T07:30:48.428Z"
 }
