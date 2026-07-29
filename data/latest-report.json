@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-29T08:18:37.733Z",
+  "scannedAt": "2026-07-29T08:19:43.800Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
@@ -102,10 +102,10 @@
   "fastModelVersion": 3,
   "fastPassedCount": 37,
   "fastWatchCount": 10,
-  "fastRejectedCount": 435,
+  "fastRejectedCount": 440,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
-  "youtubeVerified": 3,
+  "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
   "trendErrors": 1,
@@ -124,8 +124,8 @@
     "independent": 2,
     "page": 1,
     "watch": 22,
-    "reject": 418,
-    "pending": 946,
+    "reject": 422,
+    "pending": 942,
     "error": 130
   },
   "seoProvider": "serper-google-search",
@@ -142,12 +142,19 @@
   },
   "serperVerification": {
     "limit": 100,
+    "onlineLimit": 70,
+    "wikiLimit": 30,
     "queueSize": 100,
     "verified": 0,
+    "verifiedByChannel": {
+      "online": 0,
+      "wiki": 0,
+      "pending": 0
+    },
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:18:57.609Z"
+    "ranAt": "2026-07-29T08:19:59.839Z"
   },
   "googleCseConfiguredSlots": 0,
   "googleCseUsage": {
@@ -167,7 +174,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:18:57.921Z"
+    "ranAt": "2026-07-29T08:20:00.068Z"
   },
   "channelOpportunityCounts": {
     "online": {
@@ -229,7 +236,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:18:58.731Z"
+    "updatedAt": "2026-07-29T08:20:00.734Z"
   },
   "serpApiQuotaFill": {
     "enabled": true,
@@ -289,7 +296,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T08:18:58.456Z"
+    "ranAt": "2026-07-29T08:20:00.510Z"
   },
   "trendProvider": "serpapi",
   "serpApiConfigured": true,
@@ -337,14 +344,14 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:18:58.731Z"
+    "updatedAt": "2026-07-29T08:20:00.734Z"
   },
   "trendProviderCounts": {
     "serpapi": 21
   },
   "seoProviderCounts": {
     "serper+autocomplete": 100,
-    "duckduckgo+autocomplete": 417
+    "duckduckgo+autocomplete": 422
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
