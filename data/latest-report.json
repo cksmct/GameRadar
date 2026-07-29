@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-07-29T20:35:58.937Z",
+  "scannedAt": "2026-07-29T21:36:16.778Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 63,
+  "totalAdded": 74,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 17
+      "added": 21
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 31
+      "added": 36
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 3
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 9
+      "added": 8
     },
     {
       "ok": true,
@@ -97,49 +97,49 @@
       "added": 0
     }
   ],
-  "seoVerified": 43,
+  "seoVerified": 52,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 135,
-  "fastWatchCount": 256,
-  "fastRejectedCount": 1503,
+  "fastPassedCount": 143,
+  "fastWatchCount": 249,
+  "fastRejectedCount": 1549,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
   "youtubeErrors": 0,
-  "trendsVerified": 1,
+  "trendsVerified": 2,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 370,
+  "seoPassedCount": 373,
   "trendEligibleCount": 87,
   "trendPendingCount": 3,
-  "trendValidatedCount": 312,
+  "trendValidatedCount": 314,
   "risingCount": 4,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 339,
-    "reject": 1289,
-    "pending": 279,
+    "watch": 333,
+    "reject": 1332,
+    "pending": 291,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 312
+    "serpapi": 314
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-07",
-    "monthUsed": 358,
+    "monthUsed": 360,
     "day": "2026-07-29",
-    "dayUsed": 358,
+    "dayUsed": 360,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -153,11 +153,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 97,
-        "dayUsed": 97,
+        "monthUsed": 99,
+        "dayUsed": 99,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T20:37:03.836Z"
+        "updatedAt": "2026-07-29T21:37:31.970Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -176,22 +176,22 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T20:37:19.522Z"
+    "updatedAt": "2026-07-29T21:37:35.081Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 1894,
+    "serper+autocomplete": 1941,
     "duckduckgo+autocomplete": 4
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 1894,
+    "totalUsed": 1941,
     "day": "2026-07-29",
-    "dayUsed": 1894,
+    "dayUsed": 1941,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-29T20:37:02.773Z",
+    "updatedAt": "2026-07-29T21:37:28.184Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -210,65 +210,74 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1237,
-    "wiki": 222,
-    "pending": 454
+    "online": 1261,
+    "wiki": 226,
+    "pending": 475
   },
   "serperVerification": {
     "rushMode": true,
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 39,
-    "verified": 38,
+    "queueSize": 48,
+    "verified": 47,
     "verifiedByChannel": {
-      "online": 19,
-      "wiki": 3,
-      "pending": 16
+      "online": 22,
+      "wiki": 4,
+      "pending": 21
     },
     "errors": 1,
     "quotaStopped": false,
     "verifiedNames": [
-      "Brew Story",
-      "Neon Dodge",
-      "Project Leeroy",
-      "うしリクレイムushi-reclaim",
-      "Hotel \"Forgotten Paradise\"",
-      "SOLIS AWESOME GAM",
-      "Splunko Marshy Take (Version 2)",
-      "City by Michael Heizer",
-      "Fractalier",
-      "MideGame",
-      "Hawaii Match",
-      "Orbital Nexus",
-      "Target Rush! Plus",
-      "tech_demo_2026",
-      "Block Forge",
-      "Moonlight Flight",
-      "zap Testing HTML",
-      "Babaylan: Horde of the Aswang",
-      "MADTOWN - Shapes of Wrath",
-      "You had a bad dream",
-      "Subsurface",
-      "Fishing Together: Idle Island",
-      "Pinball Kart",
-      "golden taggers",
-      "Cold taggeryns",
-      "Espacio Umbral",
-      "verity imit",
-      "Space Colony",
-      "Dark Deception: Alpha Build Archive",
-      "Sunken Cost",
-      "poppy playtime",
-      "Hulon",
-      "Escapism",
-      "300 km/h",
-      "Edge of Skyline",
-      "SPACE RACE",
-      "The Lart Game",
-      "HDMP"
+      "Sweet Desire",
+      "Air Plane",
+      "Balloon Smacker",
+      "Twinlight",
+      "My Little Island (es)",
+      "Cookie Adventure (Actualización)",
+      "Giley",
+      "Desconfio",
+      "Space TimeLine: When & Where",
+      "Sell your Dreams to Make Cash",
+      "GO WITH ME TO HEAVEN",
+      "Moza Aquarium",
+      "Window Moza",
+      "AROMA",
+      "FAKE IDs",
+      "Can I Help You?",
+      "Twins at the carousel",
+      "Heliolescent sprint",
+      "All About Show",
+      "NEON DASH X",
+      "Simply Business",
+      "APP AJEDREZ.3D",
+      "Archon Soul",
+      "Project manager SIM",
+      "Londoleon: not a single penny",
+      "Gritrunner",
+      "Hell's Gate",
+      "Mochi Tag",
+      "Finding Secrets",
+      "Space Defence",
+      "MIDNIGHT TAGGERS",
+      "Kare wa Kanojo PSVita Port",
+      "Stupid Monkey Shenanigans",
+      "One Night At Furry´s",
+      "project IDK",
+      "Asteroid",
+      "titin",
+      "Plaguefirmary",
+      "Casually Casual Sliding Puzzle",
+      "DrakenBond",
+      "device",
+      "Chargoggagoggmanchauggagoggchaubunagungamaugg",
+      "OnlyChance: Hentai RPG Visual Novel",
+      "Billionaire Banshee",
+      "Escape 1.0",
+      "Hotel Mario 6 Nicola De Rey Edition (Reupload)",
+      "Brainrot Capture: Steal a Brainrot Counterfeit edition"
     ],
-    "ranAt": "2026-07-29T20:37:02.847Z"
+    "ranAt": "2026-07-29T21:37:28.264Z"
   },
   "googleCseVerification": {
     "limit": 180,
@@ -278,7 +287,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T20:37:03.079Z"
+    "ranAt": "2026-07-29T21:37:28.492Z"
   },
   "channelOpportunityCounts": {
     "online": {
@@ -287,7 +296,7 @@
       "recommended": 0
     },
     "wiki": {
-      "validated": 44,
+      "validated": 46,
       "rising": 2,
       "recommended": 1
     },
@@ -300,19 +309,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 623,
-    "queueSize": 1,
-    "verified": 1,
+    "remainingAtStart": 622,
+    "queueSize": 2,
+    "verified": 2,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
       "strong": 0,
       "secondary": 1,
-      "strategic": 0
+      "strategic": 1
     },
     "channelVerified": {
-      "online": 1,
-      "wiki": 0,
+      "online": 0,
+      "wiki": 2,
       "pending": 0
     },
     "pendingByTier": {
@@ -325,7 +334,8 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Hawaii Match"
+      "Project manager SIM",
+      "Archon Soul"
     ],
     "caps": {
       "online": 999,
@@ -351,10 +361,10 @@
         "envName": "SERPAPI_API_KEY_2",
         "ok": true,
         "error": null,
-        "verified": 1,
+        "verified": 2,
         "channelVerified": {
-          "online": 1,
-          "wiki": 0,
+          "online": 0,
+          "wiki": 2,
           "pending": 0
         },
         "errors": 0,
@@ -387,16 +397,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T20:37:19.156Z"
+    "ranAt": "2026-07-29T21:37:34.713Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-07",
-    "monthUsed": 358,
+    "monthUsed": 360,
     "day": "2026-07-29",
-    "dayUsed": 358,
+    "dayUsed": 360,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -410,11 +420,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 97,
-        "dayUsed": 97,
+        "monthUsed": 99,
+        "dayUsed": 99,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T20:37:03.836Z"
+        "updatedAt": "2026-07-29T21:37:31.970Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -433,6 +443,6 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T20:37:19.522Z"
+    "updatedAt": "2026-07-29T21:37:35.081Z"
   }
 }
