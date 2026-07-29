@@ -77,7 +77,7 @@
         "https://jobro100.itch.io/grimnights": 35,
         "https://gavinzwicked.itch.io/fallenland": 36
       },
-      "scannedAt": "2026-07-29T08:16:21.352Z",
+      "scannedAt": "2026-07-29T08:17:43.909Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,7 +157,7 @@
         "https://idlejourney.itch.io/idle-journey": 35,
         "https://daysgobye.itch.io/corporate-capital": 36
       },
-      "scannedAt": "2026-07-29T08:16:21.428Z",
+      "scannedAt": "2026-07-29T08:17:44.060Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -237,7 +237,7 @@
         "https://zamaoz98.itch.io/dectectivejam": 35,
         "https://cbelon2.itch.io/catpocalypse": 36
       },
-      "scannedAt": "2026-07-29T08:16:21.599Z",
+      "scannedAt": "2026-07-29T08:17:44.233Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-07-29T08:16:21.764Z",
+      "scannedAt": "2026-07-29T08:17:44.330Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/farm-mayhem-merge": 69,
         "https://www.crazygames.com/game/recoil-rumble-knp": 70
       },
-      "scannedAt": "2026-07-29T08:16:22.888Z",
+      "scannedAt": "2026-07-29T08:17:45.140Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -703,7 +703,7 @@
         "https://poki.com/en/g/pizza-planet": 140,
         "https://poki.com/en/g/collect-n-evolve": 141
       },
-      "scannedAt": "2026-07-29T08:16:23.039Z",
+      "scannedAt": "2026-07-29T08:17:45.277Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -857,7 +857,7 @@
         "https://www.y8.com/games/tap_out_puzzle": 72,
         "https://www.y8.com/games/cars_vs_zombies_webgl": 73
       },
-      "scannedAt": "2026-07-29T08:16:24.289Z",
+      "scannedAt": "2026-07-29T08:17:45.762Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -985,7 +985,7 @@
         "https://www.gamepix.com/play/the-greedy-crow": 59,
         "https://www.gamepix.com/play/twist-and-roll": 60
       },
-      "scannedAt": "2026-07-29T08:16:24.447Z",
+      "scannedAt": "2026-07-29T08:17:45.921Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1157,7 +1157,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/thief-puzzle": 82
       },
-      "scannedAt": "2026-07-29T08:16:24.680Z",
+      "scannedAt": "2026-07-29T08:17:45.972Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1263,7 +1263,7 @@
         "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/?snr=1_7_7_popularnew_150_1": 48,
         "https://store.steampowered.com/app/1805110/Solarpunk/?snr=1_7_7_popularnew_150_1": 49
       },
-      "scannedAt": "2026-07-29T08:16:22.085Z",
+      "scannedAt": "2026-07-29T08:17:44.558Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1371,7 +1371,7 @@
         "https://store.steampowered.com/app/4820790/Family_Office_Simulator/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/3682650/Skyward_Bastion/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-07-29T08:16:22.351Z",
+      "scannedAt": "2026-07-29T08:17:44.796Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1389,7 +1389,7 @@
         "https://www.newgrounds.com/portal/view/1044306": 4,
         "https://www.newgrounds.com/portal/view/1044270": 5
       },
-      "scannedAt": "2026-07-29T08:16:22.657Z",
+      "scannedAt": "2026-07-29T08:17:44.975Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1421,7 +1421,7 @@
         "https://www.newgrounds.com/portal/view/1044335": 11,
         "https://www.newgrounds.com/portal/view/1044344": 12
       },
-      "scannedAt": "2026-07-29T08:16:22.693Z",
+      "scannedAt": "2026-07-29T08:17:44.996Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1483,7 +1483,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-07-29T08:16:21.187Z",
+  "lastScan": "2026-07-29T08:17:43.692Z",
   "lastRisingDiscovery": "2026-07-29T06:49:14.010Z",
-  "lastTrendBatch": "2026-07-29T08:16:21.187Z"
+  "lastTrendBatch": "2026-07-29T08:17:43.692Z"
 }

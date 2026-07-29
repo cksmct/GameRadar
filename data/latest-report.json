@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-29T08:16:21.187Z",
+  "scannedAt": "2026-07-29T08:17:43.692Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
@@ -100,9 +100,9 @@
   "seoVerified": 5,
   "seoErrors": 130,
   "fastModelVersion": 3,
-  "fastPassedCount": 33,
-  "fastWatchCount": 14,
-  "fastRejectedCount": 425,
+  "fastPassedCount": 35,
+  "fastWatchCount": 12,
+  "fastRejectedCount": 430,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
@@ -114,18 +114,18 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 44,
-  "trendEligibleCount": 15,
+  "seoPassedCount": 45,
+  "trendEligibleCount": 17,
   "trendPendingCount": 2,
   "trendValidatedCount": 21,
   "risingCount": 8,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 3,
-    "page": 2,
-    "watch": 19,
-    "reject": 428,
-    "pending": 937,
+    "page": 4,
+    "watch": 17,
+    "reject": 433,
+    "pending": 932,
     "error": 130
   },
   "seoProvider": "serper-google-search",
@@ -147,7 +147,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:16:41.476Z"
+    "ranAt": "2026-07-29T08:18:02.273Z"
   },
   "googleCseConfiguredSlots": 0,
   "googleCseUsage": {
@@ -167,7 +167,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:16:41.744Z"
+    "ranAt": "2026-07-29T08:18:02.548Z"
   },
   "serpApiUsage": {
     "enabled": true,
@@ -212,7 +212,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:16:42.393Z"
+    "updatedAt": "2026-07-29T08:18:03.322Z"
   },
   "serpApiQuotaFill": {
     "enabled": true,
@@ -228,8 +228,8 @@
       "strategic": 0
     },
     "pendingByTier": {
-      "strong": 12,
-      "secondary": 10,
+      "strong": 14,
+      "secondary": 8,
       "strategic": 11
     },
     "verifiedNames": [],
@@ -272,7 +272,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T08:16:42.173Z"
+    "ranAt": "2026-07-29T08:18:03.046Z"
   },
   "trendProvider": "serpapi",
   "serpApiConfigured": true,
@@ -320,14 +320,14 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:16:42.393Z"
+    "updatedAt": "2026-07-29T08:18:03.322Z"
   },
   "trendProviderCounts": {
     "serpapi": 21
   },
   "seoProviderCounts": {
     "serper+autocomplete": 100,
-    "duckduckgo+autocomplete": 407
+    "duckduckgo+autocomplete": 412
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
