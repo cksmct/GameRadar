@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-29T07:30:48.428Z",
+  "scannedAt": "2026-07-29T08:14:26.299Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 4,
+  "totalAdded": 39,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 3
+      "added": 10
     },
     {
       "ok": true,
@@ -38,14 +38,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 0
+      "added": 19
     },
     {
       "ok": true,
@@ -98,11 +98,11 @@
     }
   ],
   "seoVerified": 5,
-  "seoErrors": 134,
+  "seoErrors": 133,
   "fastModelVersion": 2,
-  "fastPassedCount": 19,
+  "fastPassedCount": 21,
   "fastWatchCount": 13,
-  "fastRejectedCount": 425,
+  "fastRejectedCount": 428,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
@@ -114,19 +114,19 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 41,
-  "trendEligibleCount": 9,
+  "seoPassedCount": 42,
+  "trendEligibleCount": 11,
   "trendPendingCount": 1,
   "trendValidatedCount": 21,
   "risingCount": 8,
   "globalRisingCount": 0,
   "recommendationCounts": {
-    "independent": 2,
-    "page": 0,
+    "independent": 3,
+    "page": 1,
     "watch": 16,
-    "reject": 428,
-    "pending": 924,
-    "error": 134
+    "reject": 431,
+    "pending": 935,
+    "error": 133
   },
   "seoProvider": "serper-google-search",
   "serperConfigured": true,
@@ -147,7 +147,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-29T07:31:08.394Z"
+    "ranAt": "2026-07-29T08:14:46.254Z"
   },
   "googleCseConfiguredSlots": 0,
   "googleCseUsage": {
@@ -167,7 +167,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T07:31:08.685Z"
+    "ranAt": "2026-07-29T08:14:46.487Z"
   },
   "serpApiUsage": {
     "enabled": true,
@@ -212,7 +212,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T07:31:09.451Z"
+    "updatedAt": "2026-07-29T08:14:47.016Z"
   },
   "serpApiQuotaFill": {
     "enabled": true,
@@ -272,7 +272,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T07:31:09.172Z"
+    "ranAt": "2026-07-29T08:14:46.833Z"
   },
   "trendProvider": "serpapi",
   "serpApiConfigured": true,
@@ -320,23 +320,23 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T07:31:09.451Z"
+    "updatedAt": "2026-07-29T08:14:47.016Z"
   },
   "trendProviderCounts": {
     "serpapi": 21
   },
   "seoProviderCounts": {
     "serper+autocomplete": 100,
-    "duckduckgo+autocomplete": 392
+    "duckduckgo+autocomplete": 397
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
     "enabled": false
   },
-  "siteTypeModelVersion": 1,
+  "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1010,
-    "wiki": 174,
-    "pending": 320
+    "online": 1018,
+    "wiki": 175,
+    "pending": 326
   }
 }
