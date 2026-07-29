@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-07-29T08:15:40.619Z",
+  "scannedAt": "2026-07-29T08:16:21.187Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 1,
+  "totalAdded": 0,
   "sources": [
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -100,9 +100,9 @@
   "seoVerified": 5,
   "seoErrors": 130,
   "fastModelVersion": 3,
-  "fastPassedCount": 32,
-  "fastWatchCount": 15,
-  "fastRejectedCount": 420,
+  "fastPassedCount": 33,
+  "fastWatchCount": 14,
+  "fastRejectedCount": 425,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 3,
@@ -114,8 +114,8 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 43,
-  "trendEligibleCount": 14,
+  "seoPassedCount": 44,
+  "trendEligibleCount": 15,
   "trendPendingCount": 2,
   "trendValidatedCount": 21,
   "risingCount": 8,
@@ -124,8 +124,8 @@
     "independent": 3,
     "page": 2,
     "watch": 19,
-    "reject": 423,
-    "pending": 942,
+    "reject": 428,
+    "pending": 937,
     "error": 130
   },
   "seoProvider": "serper-google-search",
@@ -147,7 +147,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:15:59.542Z"
+    "ranAt": "2026-07-29T08:16:41.476Z"
   },
   "googleCseConfiguredSlots": 0,
   "googleCseUsage": {
@@ -167,7 +167,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T08:15:59.846Z"
+    "ranAt": "2026-07-29T08:16:41.744Z"
   },
   "serpApiUsage": {
     "enabled": true,
@@ -212,7 +212,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:16:00.702Z"
+    "updatedAt": "2026-07-29T08:16:42.393Z"
   },
   "serpApiQuotaFill": {
     "enabled": true,
@@ -228,9 +228,9 @@
       "strategic": 0
     },
     "pendingByTier": {
-      "strong": 2,
-      "secondary": 1,
-      "strategic": 9
+      "strong": 12,
+      "secondary": 10,
+      "strategic": 11
     },
     "verifiedNames": [],
     "caps": {
@@ -272,7 +272,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-29T08:16:00.401Z"
+    "ranAt": "2026-07-29T08:16:42.173Z"
   },
   "trendProvider": "serpapi",
   "serpApiConfigured": true,
@@ -320,14 +320,14 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-29T08:16:00.702Z"
+    "updatedAt": "2026-07-29T08:16:42.393Z"
   },
   "trendProviderCounts": {
     "serpapi": 21
   },
   "seoProviderCounts": {
     "serper+autocomplete": 100,
-    "duckduckgo+autocomplete": 402
+    "duckduckgo+autocomplete": 407
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
