@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-29T05:17:33.887Z",
+  "scannedAt": "2026-07-29T05:57:07.410Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 41,
+  "totalAdded": 24,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 6
+      "added": 3
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 19
+      "added": 6
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
@@ -86,7 +86,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 10
+      "added": 13
     },
     {
       "ok": true,
@@ -99,33 +99,33 @@
   "seoVerified": 27,
   "seoErrors": 53,
   "fastModelVersion": 2,
-  "fastPassedCount": 6,
+  "fastPassedCount": 7,
   "fastWatchCount": 4,
-  "fastRejectedCount": 390,
+  "fastRejectedCount": 416,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
-  "youtubeVerified": 1,
+  "youtubeVerified": 3,
   "youtubeErrors": 0,
-  "trendsVerified": 2,
+  "trendsVerified": 1,
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 5,
-  "trendEligibleCount": 2,
+  "seoPassedCount": 6,
+  "trendEligibleCount": 3,
   "trendPendingCount": 0,
-  "trendValidatedCount": 3,
+  "trendValidatedCount": 4,
   "risingCount": 1,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 1,
     "page": 0,
     "watch": 4,
-    "reject": 391,
-    "pending": 969,
-    "error": 84
+    "reject": 418,
+    "pending": 898,
+    "error": 137
   },
   "seoExpansionLimit": 30,
   "seoExpansionQueueSize": 30,
@@ -134,23 +134,23 @@
   "serpApiUsage": {
     "enabled": true,
     "month": "2026-07",
-    "monthUsed": 5,
+    "monthUsed": 7,
     "day": "2026-07-29",
-    "dayUsed": 5,
-    "updatedAt": "2026-07-29T05:24:32.840Z",
+    "dayUsed": 7,
+    "updatedAt": "2026-07-29T05:58:18.410Z",
     "monthlyLimit": 220,
     "dailyLimit": 8
   },
   "serpApiQuotaFill": {
     "enabled": true,
-    "remainingAtStart": 5,
-    "queueSize": 1,
-    "verified": 1,
+    "remainingAtStart": 1,
+    "queueSize": 0,
+    "verified": 0,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
       "strong": 0,
-      "secondary": 1,
+      "secondary": 0,
       "strategic": 0
     },
     "pendingByTier": {
@@ -158,25 +158,35 @@
       "secondary": 0,
       "strategic": 0
     },
-    "verifiedNames": [
-      "Drift Bound"
-    ],
+    "verifiedNames": [],
     "caps": {
       "strong": 3,
       "secondary": 3,
       "strategic": 2
     },
-    "ranAt": "2026-07-29T05:24:37.407Z"
+    "ranAt": "2026-07-29T05:59:17.191Z"
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 3
+    "serpapi": 4
   },
   "serpApiConfigured": true,
+  "seoProvider": "duckduckgo-html",
+  "seoProviderCounts": {
+    "duckduckgo+autocomplete": 472
+  },
+  "braveSearchConfigured": false,
+  "braveSearchUsage": {
+    "enabled": false,
+    "monthUsed": 0,
+    "dayUsed": 0,
+    "monthlyLimit": 900,
+    "dailyLimit": 30
+  },
   "siteTypeModelVersion": 1,
   "siteTypeCounts": {
-    "online": 976,
-    "wiki": 166,
-    "pending": 307
+    "online": 979,
+    "wiki": 168,
+    "pending": 311
   }
 }
