@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-07-29T06:27:34.843Z",
+  "scannedAt": "2026-07-29T06:29:13.076Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 44,
+  "totalAdded": 6,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 6
+      "added": 0
     },
     {
       "ok": true,
@@ -38,7 +38,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 28
+      "added": 0
     },
     {
       "ok": true,
@@ -102,7 +102,7 @@
   "fastModelVersion": 2,
   "fastPassedCount": 7,
   "fastWatchCount": 4,
-  "fastRejectedCount": 421,
+  "fastRejectedCount": 426,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
@@ -124,8 +124,8 @@
     "independent": 1,
     "page": 0,
     "watch": 4,
-    "reject": 423,
-    "pending": 914,
+    "reject": 428,
+    "pending": 909,
     "error": 137
   },
   "seoProvider": "duckduckgo-html",
@@ -147,7 +147,7 @@
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-29T06:27:45.801Z"
+    "ranAt": "2026-07-29T06:29:21.339Z"
   },
   "serpApiUsage": {
     "enabled": true,
@@ -182,7 +182,7 @@
       "secondary": 3,
       "strategic": 2
     },
-    "ranAt": "2026-07-29T06:27:45.919Z"
+    "ranAt": "2026-07-29T06:29:21.460Z"
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
@@ -190,7 +190,7 @@
   },
   "serpApiConfigured": true,
   "seoProviderCounts": {
-    "duckduckgo+autocomplete": 477
+    "duckduckgo+autocomplete": 482
   },
   "braveSearchConfigured": false,
   "braveSearchUsage": {
