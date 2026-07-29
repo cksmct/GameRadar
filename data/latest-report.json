@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-29T03:49:53.217Z",
+  "scannedAt": "2026-07-29T04:30:38.518Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 4,
+  "totalAdded": 36,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 17
     },
     {
       "ok": true,
@@ -38,7 +38,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -52,21 +52,21 @@
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
@@ -102,14 +102,14 @@
   "fastModelVersion": 2,
   "fastPassedCount": 5,
   "fastWatchCount": 4,
-  "fastRejectedCount": 337,
+  "fastRejectedCount": 364,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
-  "youtubeVerified": 1,
+  "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
   "trendErrors": 0,
-  "trendBatchRan": false,
+  "trendBatchRan": true,
   "trendQueueSize": 0,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
@@ -124,9 +124,9 @@
     "independent": 1,
     "page": 0,
     "watch": 4,
-    "reject": 337,
-    "pending": 1028,
-    "error": 31
+    "reject": 364,
+    "pending": 1022,
+    "error": 34
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
@@ -145,8 +145,8 @@
   },
   "siteTypeModelVersion": 1,
   "siteTypeCounts": {
-    "online": 955,
+    "online": 966,
     "wiki": 165,
-    "pending": 281
+    "pending": 294
   }
 }
