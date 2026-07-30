@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T04:14:13.442Z",
+  "checkedAt": "2026-07-30T04:14:56.404Z",
   "ok": true,
   "checks": [
     {
@@ -34,7 +34,7 @@
       "status": 0,
       "signal": null,
       "ok": true,
-      "stdout": "TAP version 13\n# Subtest: parseApifyFastTimeline reads nested keyword series and removes partial point\nok 1 - parseApifyFastTimeline reads nested keyword series and removes partial point\n  ---\n  duration_ms: 9.054266\n  type: 'test'\n  ...\n# Subtest: standalone verdict detects a fresh sustained breakout\nok 2 - standalone verdict detects a fresh sustained breakout\n  ---\n  duration_ms: 0.845895\n  type: 'test'\n  ...\n# Subtest: standalone verdict returns none when both terms have no data\nok 3 - standalone verdict returns none when both terms have no data\n  ---\n  duration_ms: 0.24074\n  type: 'test'\n  ...\n# Subtest: standalone verdict flags established ambiguous bare term without game intent\nok 4 - standalone verdict flags established ambiguous bare term without game intent\n  ---\n  duration_ms: 0.293488\n  type: 'test'\n  ...\n# Subtest: Apify rising result without qualified game intent cannot become final independent recommendation\nok 5 - Apify rising result without qualified game intent cannot become final independent recommendation\n  ---\n  duration_ms: 0.409302\n  type: 'test'\n  ...\n1..5\n# tests 5\n# suites 0\n# pass 5\n# fail 0\n# cancelled 0\n# skipped 0\n# todo 0\n# duration_ms 72.616658\n",
+      "stdout": "TAP version 13\n# Subtest: parseApifyFastTimeline reads nested keyword series and removes partial point\nok 1 - parseApifyFastTimeline reads nested keyword series and removes partial point\n  ---\n  duration_ms: 6.959154\n  type: 'test'\n  ...\n# Subtest: standalone verdict detects a fresh sustained breakout\nok 2 - standalone verdict detects a fresh sustained breakout\n  ---\n  duration_ms: 0.641887\n  type: 'test'\n  ...\n# Subtest: standalone verdict returns none when both terms have no data\nok 3 - standalone verdict returns none when both terms have no data\n  ---\n  duration_ms: 0.186768\n  type: 'test'\n  ...\n# Subtest: standalone verdict flags established ambiguous bare term without game intent\nok 4 - standalone verdict flags established ambiguous bare term without game intent\n  ---\n  duration_ms: 0.20781\n  type: 'test'\n  ...\n# Subtest: Apify rising result without qualified game intent cannot become final independent recommendation\nok 5 - Apify rising result without qualified game intent cannot become final independent recommendation\n  ---\n  duration_ms: 0.314169\n  type: 'test'\n  ...\n1..5\n# tests 5\n# suites 0\n# pass 5\n# fail 0\n# cancelled 0\n# skipped 0\n# todo 0\n# duration_ms 57.652772\n",
       "stderr": "",
       "error": null
     }
