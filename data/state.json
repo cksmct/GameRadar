@@ -77,7 +77,7 @@
         "https://sfaxcoder.itch.io/arrow-puzzle-but-with-trains": 35,
         "https://binduxd.itch.io/freesprunkibindutake": 36
       },
-      "scannedAt": "2026-07-30T04:16:28.146Z",
+      "scannedAt": "2026-07-30T04:19:20.224Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,12 +157,14 @@
         "https://quietdengames.itch.io/her-majestys-decree": 35,
         "https://paulbykov.itch.io/huebrew": 36
       },
-      "scannedAt": "2026-07-30T04:16:28.245Z",
+      "scannedAt": "2026-07-30T04:19:20.294Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://sunseeker-studios.itch.io/covenant-of-the-four-suns",
         "https://potatge.itch.io/fella-quest",
+        "https://mdawg74.itch.io/coin-rush",
         "https://idb-bali.itch.io/flashcard-mengenal-lawan-kata",
         "https://river02.itch.io/are-you-gay-test",
         "https://juego-matica.itch.io/carrom-challenge",
@@ -195,49 +197,47 @@
         "https://yoboylogy.itch.io/sprunki-triple-shifted-logys-take",
         "https://romline5games.itch.io/zzzzz-oh-no-is-monday",
         "https://sneerfulark.itch.io/cats-and-dogs",
-        "https://shapurandreas15.itch.io/flashing-lights",
-        "https://ahmwma.itch.io/puzzlebox-ruin",
-        "https://collective-games.itch.io/nephelin-fall-of-the-giants"
+        "https://shapurandreas15.itch.io/flashing-lights"
       ],
       "positions": {
-        "https://potatge.itch.io/fella-quest": 1,
-        "https://idb-bali.itch.io/flashcard-mengenal-lawan-kata": 2,
-        "https://river02.itch.io/are-you-gay-test": 3,
-        "https://juego-matica.itch.io/carrom-challenge": 4,
-        "https://onicatgames.itch.io/stack-it-up": 5,
-        "https://ev1lgeneral.itch.io/crate-escape": 6,
-        "https://ghostalfrfr.itch.io/super-mario-but-mario-has-a-portal-gun": 7,
-        "https://smolblockboi.itch.io/smol-idle-adventure": 8,
-        "https://kio-games.itch.io/five-nights-at-artfight-theatre": 9,
-        "https://bbigcnote.itch.io/marak-tx-2x-autodrive": 10,
-        "https://cr1zy481.itch.io/angel-tag": 11,
-        "https://deeraghoogames.itch.io/bible-emoji-game": 12,
-        "https://cwftw.itch.io/parachute-plunder": 13,
-        "https://uncommongame.itch.io/wip-sonic-oc-game": 14,
-        "https://cynosuresavvy.itch.io/bonfire-tuesday": 15,
-        "https://jorje15.itch.io/caesarean": 16,
-        "https://hdgames2484.itch.io/divide-conquer": 17,
-        "https://goofer-games.itch.io/bridger-mobile": 18,
-        "https://kremel.itch.io/wall-street-trader": 19,
-        "https://marlboro-fed.itch.io/placeholdergame": 20,
-        "https://ivanhoethe2st.itch.io/cat-a-pult": 21,
-        "https://spriteberryblastoffcial.itch.io/nightmare-fatpapi-version": 22,
-        "https://romline5games.itch.io/ica-ica": 23,
-        "https://pinkparasite.itch.io/lichess-for-playdate": 24,
-        "https://maxamander.itch.io/the-jungle": 25,
-        "https://rareinkstudio.itch.io/web-slinger": 26,
-        "https://alea-slach.itch.io/tow-truck-simulator": 27,
-        "https://jamescinder.itch.io/what-was-that": 28,
-        "https://meiromay.itch.io/stickmanfighterclash": 29,
-        "https://meiromay.itch.io/chronos-runner": 30,
-        "https://yoboylogy.itch.io/sprunki-triple-shifted-logys-take": 31,
-        "https://romline5games.itch.io/zzzzz-oh-no-is-monday": 32,
-        "https://sneerfulark.itch.io/cats-and-dogs": 33,
-        "https://shapurandreas15.itch.io/flashing-lights": 34,
-        "https://ahmwma.itch.io/puzzlebox-ruin": 35,
-        "https://collective-games.itch.io/nephelin-fall-of-the-giants": 36
+        "https://sunseeker-studios.itch.io/covenant-of-the-four-suns": 1,
+        "https://potatge.itch.io/fella-quest": 2,
+        "https://mdawg74.itch.io/coin-rush": 3,
+        "https://idb-bali.itch.io/flashcard-mengenal-lawan-kata": 4,
+        "https://river02.itch.io/are-you-gay-test": 5,
+        "https://juego-matica.itch.io/carrom-challenge": 6,
+        "https://onicatgames.itch.io/stack-it-up": 7,
+        "https://ev1lgeneral.itch.io/crate-escape": 8,
+        "https://ghostalfrfr.itch.io/super-mario-but-mario-has-a-portal-gun": 9,
+        "https://smolblockboi.itch.io/smol-idle-adventure": 10,
+        "https://kio-games.itch.io/five-nights-at-artfight-theatre": 11,
+        "https://bbigcnote.itch.io/marak-tx-2x-autodrive": 12,
+        "https://cr1zy481.itch.io/angel-tag": 13,
+        "https://deeraghoogames.itch.io/bible-emoji-game": 14,
+        "https://cwftw.itch.io/parachute-plunder": 15,
+        "https://uncommongame.itch.io/wip-sonic-oc-game": 16,
+        "https://cynosuresavvy.itch.io/bonfire-tuesday": 17,
+        "https://jorje15.itch.io/caesarean": 18,
+        "https://hdgames2484.itch.io/divide-conquer": 19,
+        "https://goofer-games.itch.io/bridger-mobile": 20,
+        "https://kremel.itch.io/wall-street-trader": 21,
+        "https://marlboro-fed.itch.io/placeholdergame": 22,
+        "https://ivanhoethe2st.itch.io/cat-a-pult": 23,
+        "https://spriteberryblastoffcial.itch.io/nightmare-fatpapi-version": 24,
+        "https://romline5games.itch.io/ica-ica": 25,
+        "https://pinkparasite.itch.io/lichess-for-playdate": 26,
+        "https://maxamander.itch.io/the-jungle": 27,
+        "https://rareinkstudio.itch.io/web-slinger": 28,
+        "https://alea-slach.itch.io/tow-truck-simulator": 29,
+        "https://jamescinder.itch.io/what-was-that": 30,
+        "https://meiromay.itch.io/stickmanfighterclash": 31,
+        "https://meiromay.itch.io/chronos-runner": 32,
+        "https://yoboylogy.itch.io/sprunki-triple-shifted-logys-take": 33,
+        "https://romline5games.itch.io/zzzzz-oh-no-is-monday": 34,
+        "https://sneerfulark.itch.io/cats-and-dogs": 35,
+        "https://shapurandreas15.itch.io/flashing-lights": 36
       },
-      "scannedAt": "2026-07-30T04:16:28.353Z",
+      "scannedAt": "2026-07-30T04:19:20.325Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-07-30T04:16:28.426Z",
+      "scannedAt": "2026-07-30T04:19:20.346Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/catch-n-merge": 69,
         "https://www.crazygames.com/game/8-ball-merge": 70
       },
-      "scannedAt": "2026-07-30T04:16:30.147Z",
+      "scannedAt": "2026-07-30T04:19:21.937Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -709,7 +709,7 @@
         "https://poki.com/en/g/kick-brainrot-balls-online": 143,
         "https://poki.com/en/g/clean-house": 144
       },
-      "scannedAt": "2026-07-30T04:16:30.395Z",
+      "scannedAt": "2026-07-30T04:19:22.054Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -863,7 +863,7 @@
         "https://www.y8.com/games/bball_io": 72,
         "https://www.y8.com/games/car_and_truck_parking": 73
       },
-      "scannedAt": "2026-07-30T04:16:31.461Z",
+      "scannedAt": "2026-07-30T04:19:23.043Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -991,7 +991,7 @@
         "https://www.gamepix.com/play/tower-slicer": 59,
         "https://www.gamepix.com/play/up-hero": 60
       },
-      "scannedAt": "2026-07-30T04:16:31.673Z",
+      "scannedAt": "2026-07-30T04:19:23.150Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1163,7 +1163,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/thief-puzzle": 82
       },
-      "scannedAt": "2026-07-30T04:16:31.959Z",
+      "scannedAt": "2026-07-30T04:19:23.252Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1269,7 +1269,7 @@
         "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/?snr=1_7_7_popularnew_150_1": 48,
         "https://store.steampowered.com/app/3935020/Backyard_Baseball/?snr=1_7_7_popularnew_150_1": 49
       },
-      "scannedAt": "2026-07-30T04:16:28.694Z",
+      "scannedAt": "2026-07-30T04:19:20.665Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1377,7 +1377,7 @@
         "https://store.steampowered.com/app/3997240/Osta/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/3907520/Devils_Due/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-07-30T04:16:29.079Z",
+      "scannedAt": "2026-07-30T04:19:21.005Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1395,7 +1395,7 @@
         "https://www.newgrounds.com/portal/view/1044391": 4,
         "https://www.newgrounds.com/portal/view/1044339": 5
       },
-      "scannedAt": "2026-07-30T04:16:29.724Z",
+      "scannedAt": "2026-07-30T04:19:21.636Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1427,7 +1427,7 @@
         "https://www.newgrounds.com/portal/view/1044432": 11,
         "https://www.newgrounds.com/portal/view/1044437": 12
       },
-      "scannedAt": "2026-07-30T04:16:29.805Z",
+      "scannedAt": "2026-07-30T04:19:21.713Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1513,7 +1513,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-07-30T04:16:27.937Z",
+  "lastScan": "2026-07-30T04:19:20.130Z",
   "lastRisingDiscovery": "2026-07-30T02:49:13.658Z",
-  "lastTrendBatch": "2026-07-30T04:16:27.937Z"
+  "lastTrendBatch": "2026-07-30T04:19:20.130Z"
 }
