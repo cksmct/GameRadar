@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-07-30T04:15:28.556Z",
+  "scannedAt": "2026-07-30T04:16:27.937Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 0,
+  "totalAdded": 1,
   "sources": [
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -102,7 +102,7 @@
   "fastModelVersion": 3,
   "fastPassedCount": 134,
   "fastWatchCount": 282,
-  "fastRejectedCount": 1762,
+  "fastRejectedCount": 1763,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -124,8 +124,8 @@
     "independent": 1,
     "page": 5,
     "watch": 354,
-    "reject": 1524,
-    "pending": 300,
+    "reject": 1525,
+    "pending": 299,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -145,7 +145,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-07-30T04:15:26.268Z",
+    "checkedAt": "2026-07-30T04:16:26.636Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -219,10 +219,10 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-07-30T04:15:41.949Z"
+    "ranAt": "2026-07-30T04:16:42.166Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T04:15:42.580Z",
+    "checkedAt": "2026-07-30T04:16:43.043Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -292,7 +292,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:15:42.512Z",
+        "checkedAt": "2026-07-30T04:16:42.699Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -312,7 +312,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:15:42.534Z",
+        "checkedAt": "2026-07-30T04:16:42.811Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -332,7 +332,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:15:42.555Z",
+        "checkedAt": "2026-07-30T04:16:42.926Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -352,7 +352,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:15:42.580Z",
+        "checkedAt": "2026-07-30T04:16:43.042Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -431,7 +431,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T04:15:42.929Z"
+    "ranAt": "2026-07-30T04:16:43.240Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -453,24 +453,28 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T04:15:42.985Z"
+    "updatedAt": "2026-07-30T04:16:43.321Z"
   },
-  "apifyTrendsVerification": {
+  "searchApiConfigured": false,
+  "searchApiTrendsUsage": {
+    "enabled": false,
+    "totalUsed": 0,
+    "totalLimit": 95,
+    "updatedAt": null,
+    "lastError": null
+  },
+  "searchApiTrendsVerification": {
     "enabled": true,
-    "configured": true,
-    "actorId": "data_xplorer~google-trends-fast-scraper",
-    "proxyGroup": "RESIDENTIAL",
-    "verifyLimit": 0,
-    "effectiveLimit": 0,
-    "monthlyCallLimit": 4000,
-    "remainingCallsAtStart": 3999,
+    "configured": false,
+    "verifyLimit": 95,
+    "effectiveLimit": 95,
+    "remainingAtStart": 95,
     "queueSize": 0,
     "verified": 0,
     "errors": 0,
-    "actorCalls": 0,
-    "resultItems": 0,
+    "requests": 0,
     "quotaStopped": false,
-    "concurrency": 1,
+    "concurrency": 3,
     "channelVerified": {
       "online": 0,
       "wiki": 0,
@@ -492,6 +496,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-07-30T04:15:43.281Z"
+    "ranAt": "2026-07-30T04:16:43.482Z"
   }
 }
