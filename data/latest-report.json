@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-07-30T03:22:58.019Z",
+  "scannedAt": "2026-07-30T03:23:56.491Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 0,
+  "totalAdded": 1,
   "sources": [
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -101,7 +101,7 @@
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 137,
-  "fastWatchCount": 276,
+  "fastWatchCount": 277,
   "fastRejectedCount": 1732,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
@@ -114,7 +114,7 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 395,
+  "seoPassedCount": 396,
   "trendEligibleCount": 83,
   "trendPendingCount": 5,
   "trendValidatedCount": 320,
@@ -123,9 +123,9 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 352,
+    "watch": 353,
     "reject": 1499,
-    "pending": 304,
+    "pending": 303,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -152,12 +152,35 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:23:12.657Z"
+    "updatedAt": "2026-07-30T03:24:11.786Z"
+  },
+  "apifyConfigured": true,
+  "apifyAccountStatus": {
+    "checkedAt": "2026-07-30T03:23:55.214Z",
+    "configured": true,
+    "ok": true,
+    "provider": "apify",
+    "accountApiConsumesActorCredits": false,
+    "accountFingerprint": "bcfb84530d51",
+    "username": "FOXIREN",
+    "plan": {
+      "id": "FREE",
+      "name": null,
+      "monthlyUsageCreditsUsd": 5,
+      "monthlyUsageCredits": null
+    }
+  },
+  "apifyTrendsUsage": {
+    "month": "2026-07",
+    "actorCalls": 0,
+    "resultItems": 0,
+    "candidatesVerified": 0,
+    "errors": 0
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 2140,
-    "duckduckgo+autocomplete": 9
+    "duckduckgo+autocomplete": 10
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -167,7 +190,7 @@
     "dayUsed": 108,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-30T03:23:11.262Z",
+    "updatedAt": "2026-07-30T03:24:10.230Z",
     "lastError": "Query pattern not allowed for free accounts."
   },
   "googleCseConfiguredSlots": 0,
@@ -205,10 +228,10 @@
     "errors": 1,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-07-30T03:23:11.342Z"
+    "ranAt": "2026-07-30T03:24:10.303Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T03:23:11.911Z",
+    "checkedAt": "2026-07-30T03:24:11.062Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -278,7 +301,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:23:11.848Z",
+        "checkedAt": "2026-07-30T03:24:10.868Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -298,7 +321,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:23:11.871Z",
+        "checkedAt": "2026-07-30T03:24:10.930Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -318,7 +341,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:23:11.891Z",
+        "checkedAt": "2026-07-30T03:24:10.996Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -338,7 +361,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:23:11.910Z",
+        "checkedAt": "2026-07-30T03:24:11.061Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -388,11 +411,11 @@
     },
     "pendingByTier": {
       "strong": 2,
-      "secondary": 2,
+      "secondary": 3,
       "strategic": 2
     },
     "pendingByChannel": {
-      "online": 3,
+      "online": 4,
       "wiki": 3
     },
     "verifiedNames": [],
@@ -417,7 +440,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T03:23:12.247Z"
+    "ranAt": "2026-07-30T03:24:11.377Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -439,6 +462,6 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:23:12.657Z"
+    "updatedAt": "2026-07-30T03:24:11.786Z"
   }
 }
