@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-30T03:08:10.048Z",
+  "scannedAt": "2026-07-30T03:11:11.674Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 14,
+  "totalAdded": 9,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 6
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 4
+      "added": 3
     },
     {
       "ok": true,
@@ -38,14 +38,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 7
+      "added": 0
     },
     {
       "ok": true,
@@ -97,12 +97,12 @@
       "added": 0
     }
   ],
-  "seoVerified": 7,
+  "seoVerified": 5,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 140,
-  "fastWatchCount": 270,
-  "fastRejectedCount": 1723,
+  "fastPassedCount": 136,
+  "fastWatchCount": 275,
+  "fastRejectedCount": 1726,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -115,7 +115,7 @@
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 393,
-  "trendEligibleCount": 85,
+  "trendEligibleCount": 82,
   "trendPendingCount": 4,
   "trendValidatedCount": 320,
   "risingCount": 4,
@@ -123,9 +123,9 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 350,
-    "reject": 1489,
-    "pending": 308,
+    "watch": 351,
+    "reject": 1493,
+    "pending": 307,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -152,22 +152,22 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:08:32.253Z"
+    "updatedAt": "2026-07-30T03:11:30.623Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 2132,
+    "serper+autocomplete": 2136,
     "duckduckgo+autocomplete": 5
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 2132,
+    "totalUsed": 2136,
     "day": "2026-07-30",
-    "dayUsed": 100,
+    "dayUsed": 104,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-30T03:08:30.590Z",
+    "updatedAt": "2026-07-30T03:11:29.040Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -186,36 +186,34 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1353,
+    "online": 1359,
     "wiki": 249,
-    "pending": 551
+    "pending": 549
   },
   "serperVerification": {
     "rushMode": true,
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 7,
-    "verified": 6,
+    "queueSize": 5,
+    "verified": 4,
     "verifiedByChannel": {
-      "online": 0,
-      "wiki": 2,
-      "pending": 4
+      "online": 4,
+      "wiki": 0,
+      "pending": 0
     },
     "errors": 1,
     "quotaStopped": false,
     "verifiedNames": [
-      "My Dating Empire",
-      "CREATION OF THE GODS: Rebellion at Five Passes",
-      "Ica-Ica",
-      "\"Nightmare\" FatPapi Version",
-      "Cat-A-Pult",
-      "The Jungle"
+      "Divide & Conquer",
+      "Bridger (MOBILE)",
+      "Wall Street Trader Simulator",
+      "Fortune"
     ],
-    "ranAt": "2026-07-30T03:08:30.664Z"
+    "ranAt": "2026-07-30T03:11:29.110Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T03:08:31.555Z",
+    "checkedAt": "2026-07-30T03:11:29.937Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -285,7 +283,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:08:31.246Z",
+        "checkedAt": "2026-07-30T03:11:29.662Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -305,7 +303,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:08:31.348Z",
+        "checkedAt": "2026-07-30T03:11:29.754Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -325,7 +323,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:08:31.452Z",
+        "checkedAt": "2026-07-30T03:11:29.845Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -345,7 +343,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:08:31.555Z",
+        "checkedAt": "2026-07-30T03:11:29.937Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -424,7 +422,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T03:08:31.865Z"
+    "ranAt": "2026-07-30T03:11:30.228Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -446,6 +444,6 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:08:32.253Z"
+    "updatedAt": "2026-07-30T03:11:30.623Z"
   }
 }
