@@ -4,6 +4,6 @@
   "dayUsed": 77,
   "totalLimit": 2450,
   "dailyLimit": 2450,
-  "updatedAt": "2026-07-30T02:20:00.682Z",
-  "lastError": null
+  "updatedAt": "2026-07-30T02:20:31.156Z",
+  "lastError": "Query pattern not allowed for free accounts."
 }
