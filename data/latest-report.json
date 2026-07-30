@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-30T03:49:51.863Z",
+  "scannedAt": "2026-07-30T03:56:01.687Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 5,
+  "totalAdded": 6,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 4
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -97,12 +97,12 @@
       "added": 0
     }
   ],
-  "seoVerified": 3,
+  "seoVerified": 6,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 135,
-  "fastWatchCount": 280,
-  "fastRejectedCount": 1739,
+  "fastPassedCount": 134,
+  "fastWatchCount": 281,
+  "fastRejectedCount": 1744,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -123,9 +123,9 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 353,
-    "reject": 1504,
-    "pending": 305,
+    "watch": 354,
+    "reject": 1509,
+    "pending": 304,
     "error": 0
   },
   "trendProvider": "serpapi+apify-data-xplorer",
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-07-30T03:49:49.887Z",
+    "checkedAt": "2026-07-30T03:55:58.652Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -162,27 +162,27 @@
   },
   "apifyTrendsUsage": {
     "month": "2026-07",
-    "actorCalls": 0,
+    "actorCalls": 1,
     "resultItems": 0,
     "candidatesVerified": 0,
-    "errors": 3,
+    "errors": 4,
     "monthlyCallLimit": 4000,
-    "updatedAt": "2026-07-30T03:51:28.654Z"
+    "updatedAt": "2026-07-30T03:57:43.569Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 2148,
+    "serper+autocomplete": 2153,
     "duckduckgo+autocomplete": 10
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 2148,
+    "totalUsed": 2153,
     "day": "2026-07-30",
-    "dayUsed": 116,
+    "dayUsed": 121,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-30T03:50:07.145Z",
+    "updatedAt": "2026-07-30T03:56:21.914Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -201,32 +201,35 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1365,
+    "online": 1366,
     "wiki": 250,
-    "pending": 553
+    "pending": 557
   },
   "serperVerification": {
     "rushMode": true,
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 2,
-    "verified": 2,
+    "queueSize": 5,
+    "verified": 5,
     "verifiedByChannel": {
       "online": 1,
       "wiki": 0,
-      "pending": 1
+      "pending": 4
     },
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [
-      "putt.day",
-      "Super Mario Portal Gun"
+      "Digital Dinner",
+      "Are You Gay Test",
+      "Flashcard Mengenal Lawan Kata",
+      "Carrom Challenge 4 All",
+      "Stack It Up!"
     ],
-    "ranAt": "2026-07-30T03:50:07.218Z"
+    "ranAt": "2026-07-30T03:56:21.988Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T03:50:07.783Z",
+    "checkedAt": "2026-07-30T03:56:22.856Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -296,7 +299,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:50:07.724Z",
+        "checkedAt": "2026-07-30T03:56:22.576Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -316,7 +319,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:50:07.745Z",
+        "checkedAt": "2026-07-30T03:56:22.666Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -336,7 +339,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:50:07.763Z",
+        "checkedAt": "2026-07-30T03:56:22.763Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -356,7 +359,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:50:07.782Z",
+        "checkedAt": "2026-07-30T03:56:22.855Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -435,7 +438,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T03:50:08.101Z"
+    "ranAt": "2026-07-30T03:56:23.176Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -457,12 +460,13 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:50:08.149Z"
+    "updatedAt": "2026-07-30T03:56:23.226Z"
   },
   "apifyTrendsVerification": {
     "enabled": true,
     "configured": true,
     "actorId": "data_xplorer~google-trends-fast-scraper",
+    "proxyGroup": "RESIDENTIAL",
     "verifyLimit": 1,
     "effectiveLimit": 1,
     "monthlyCallLimit": 4000,
@@ -470,7 +474,7 @@
     "queueSize": 1,
     "verified": 0,
     "errors": 1,
-    "actorCalls": 0,
+    "actorCalls": 1,
     "resultItems": 0,
     "quotaStopped": false,
     "concurrency": 1,
@@ -497,9 +501,10 @@
     "errorNames": [
       {
         "name": "[WIP] Sonic OC Game",
-        "error": "Apify lightweight Trends actor returned no timeline_data"
+        "error": "Apify residential Trends actor returned no timeline_data",
+        "actorCalls": 1
       }
     ],
-    "ranAt": "2026-07-30T03:51:28.739Z"
+    "ranAt": "2026-07-30T03:57:43.657Z"
   }
 }

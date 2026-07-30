@@ -1,9 +1,9 @@
 {
   "month": "2026-07",
-  "actorCalls": 0,
+  "actorCalls": 1,
   "resultItems": 0,
   "candidatesVerified": 0,
-  "errors": 3,
+  "errors": 4,
   "monthlyCallLimit": 4000,
-  "updatedAt": "2026-07-30T03:51:28.654Z"
+  "updatedAt": "2026-07-30T03:57:43.569Z"
 }
