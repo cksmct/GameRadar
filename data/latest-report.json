@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-30T03:41:40.833Z",
+  "scannedAt": "2026-07-30T03:49:51.863Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 14,
+  "totalAdded": 5,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 2
+      "added": 1
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 6
+      "added": 1
     },
     {
       "ok": true,
@@ -38,7 +38,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 4
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -97,26 +97,26 @@
       "added": 0
     }
   ],
-  "seoVerified": 7,
+  "seoVerified": 3,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 140,
-  "fastWatchCount": 276,
-  "fastRejectedCount": 1736,
+  "fastPassedCount": 135,
+  "fastWatchCount": 280,
+  "fastRejectedCount": 1739,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
-  "trendErrors": 3,
+  "trendErrors": 2,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 396,
-  "trendEligibleCount": 84,
-  "trendPendingCount": 6,
+  "seoPassedCount": 397,
+  "trendEligibleCount": 81,
+  "trendPendingCount": 5,
   "trendValidatedCount": 320,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -124,14 +124,14 @@
     "independent": 1,
     "page": 5,
     "watch": 353,
-    "reject": 1503,
+    "reject": 1504,
     "pending": 305,
     "error": 0
   },
   "trendProvider": "serpapi+apify-data-xplorer",
   "trendProviderCounts": {
     "serpapi": 320,
-    "apify-data-xplorer": 2
+    "apify-data-xplorer": 1
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-07-30T03:41:39.400Z",
+    "checkedAt": "2026-07-30T03:49:49.887Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -165,24 +165,24 @@
     "actorCalls": 0,
     "resultItems": 0,
     "candidatesVerified": 0,
-    "errors": 2,
+    "errors": 3,
     "monthlyCallLimit": 4000,
-    "updatedAt": "2026-07-30T03:43:02.607Z"
+    "updatedAt": "2026-07-30T03:51:28.654Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 2146,
+    "serper+autocomplete": 2148,
     "duckduckgo+autocomplete": 10
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 2146,
+    "totalUsed": 2148,
     "day": "2026-07-30",
-    "dayUsed": 114,
+    "dayUsed": 116,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-30T03:42:00.819Z",
+    "updatedAt": "2026-07-30T03:50:07.145Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -201,7 +201,7 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1364,
+    "online": 1365,
     "wiki": 250,
     "pending": 553
   },
@@ -210,27 +210,23 @@
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 7,
-    "verified": 6,
+    "queueSize": 2,
+    "verified": 2,
     "verifiedByChannel": {
-      "online": 2,
+      "online": 1,
       "wiki": 0,
-      "pending": 4
+      "pending": 1
     },
-    "errors": 1,
+    "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [
-      "Bible Emoji",
-      "Parachute Plunder",
-      "Five Nights At ArtFight: Theatre",
-      "Marak, TX 2x AutoDrive",
-      "Angel Tag",
-      "Smol Idle Adventure"
+      "putt.day",
+      "Super Mario Portal Gun"
     ],
-    "ranAt": "2026-07-30T03:42:00.892Z"
+    "ranAt": "2026-07-30T03:50:07.218Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T03:42:01.447Z",
+    "checkedAt": "2026-07-30T03:50:07.783Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -300,7 +296,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:42:01.388Z",
+        "checkedAt": "2026-07-30T03:50:07.724Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -320,7 +316,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:42:01.408Z",
+        "checkedAt": "2026-07-30T03:50:07.745Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -340,7 +336,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:42:01.428Z",
+        "checkedAt": "2026-07-30T03:50:07.763Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -360,7 +356,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:42:01.447Z",
+        "checkedAt": "2026-07-30T03:50:07.782Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -439,7 +435,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T03:42:01.766Z"
+    "ranAt": "2026-07-30T03:50:08.101Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -461,23 +457,23 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:42:01.818Z"
+    "updatedAt": "2026-07-30T03:50:08.149Z"
   },
   "apifyTrendsVerification": {
     "enabled": true,
     "configured": true,
     "actorId": "data_xplorer~google-trends-fast-scraper",
-    "verifyLimit": 2,
-    "effectiveLimit": 2,
+    "verifyLimit": 1,
+    "effectiveLimit": 1,
     "monthlyCallLimit": 4000,
     "remainingCallsAtStart": 4000,
-    "queueSize": 2,
+    "queueSize": 1,
     "verified": 0,
-    "errors": 2,
+    "errors": 1,
     "actorCalls": 0,
     "resultItems": 0,
     "quotaStopped": false,
-    "concurrency": 2,
+    "concurrency": 1,
     "channelVerified": {
       "online": 0,
       "wiki": 0,
@@ -489,11 +485,11 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 2,
+      "online": 3,
       "wiki": 3
     },
     "pendingByTier": {
-      "strong": 0,
+      "strong": 1,
       "secondary": 3,
       "strategic": 2
     },
@@ -501,13 +497,9 @@
     "errorNames": [
       {
         "name": "[WIP] Sonic OC Game",
-        "error": "Actor run did not succeed (run ID: o77ucuFEyu0Rk9zdn, status: TIMED-OUT)."
-      },
-      {
-        "name": "3d Platformer",
-        "error": "Actor run did not succeed (run ID: 9nXRbshcP00dV7Gfg, status: TIMED-OUT)."
+        "error": "Apify lightweight Trends actor returned no timeline_data"
       }
     ],
-    "ranAt": "2026-07-30T03:43:02.693Z"
+    "ranAt": "2026-07-30T03:51:28.739Z"
   }
 }
