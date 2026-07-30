@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-07-30T01:40:14.259Z",
+  "scannedAt": "2026-07-30T02:00:50.816Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 36,
+  "totalAdded": 20,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 6
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 12
+      "added": 8
     },
     {
       "ok": true,
@@ -38,14 +38,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 2
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 2
+      "added": 3
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 13
+      "added": 3
     },
     {
       "ok": true,
@@ -97,14 +97,14 @@
       "added": 0
     }
   ],
-  "seoVerified": 1,
+  "seoVerified": 29,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 138,
-  "fastWatchCount": 265,
-  "fastRejectedCount": 1672,
-  "youtubeEnabled": true,
-  "youtubeConfigured": true,
+  "fastPassedCount": 137,
+  "fastWatchCount": 272,
+  "fastRejectedCount": 1693,
+  "youtubeEnabled": false,
+  "youtubeConfigured": false,
   "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
@@ -114,8 +114,8 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 384,
-  "trendEligibleCount": 81,
+  "seoPassedCount": 390,
+  "trendEligibleCount": 80,
   "trendPendingCount": 3,
   "trendValidatedCount": 320,
   "risingCount": 4,
@@ -123,9 +123,9 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 344,
-    "reject": 1445,
-    "pending": 315,
+    "watch": 348,
+    "reject": 1463,
+    "pending": 307,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -135,13 +135,13 @@
   "serpApiConfigured": true,
   "serpApiUsage": {
     "enabled": true,
-    "configuredSlots": 4,
+    "configuredSlots": 1,
     "month": "2026-07",
-    "monthUsed": 366,
+    "monthUsed": 245,
     "day": "2026-07-30",
-    "dayUsed": 1,
-    "monthlyLimit": 980,
-    "dailyLimit": 980,
+    "dayUsed": 0,
+    "monthlyLimit": 245,
+    "dailyLimit": 245,
     "accounts": {
       "1": {
         "envName": "SERPAPI_API_KEY",
@@ -150,48 +150,24 @@
         "monthlyLimit": 245,
         "dailyLimit": 245,
         "updatedAt": "2026-07-29T09:29:17.682Z"
-      },
-      "2": {
-        "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 105,
-        "dayUsed": 1,
-        "monthlyLimit": 245,
-        "dailyLimit": 245,
-        "updatedAt": "2026-07-30T01:02:47.845Z"
-      },
-      "3": {
-        "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 8,
-        "dayUsed": 0,
-        "monthlyLimit": 245,
-        "dailyLimit": 245,
-        "updatedAt": "2026-07-29T07:23:20.343Z"
-      },
-      "4": {
-        "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 8,
-        "dayUsed": 0,
-        "monthlyLimit": 245,
-        "dailyLimit": 245,
-        "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-30T01:40:30.082Z"
+    "updatedAt": "2026-07-30T02:01:35.467Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 2074,
-    "duckduckgo+autocomplete": 5
+    "serper+autocomplete": 2102,
+    "duckduckgo+autocomplete": 4
   },
   "serperConfigured": true,
   "serperUsage": {
     "enabled": true,
-    "totalUsed": 2074,
+    "totalUsed": 2102,
     "day": "2026-07-30",
-    "dayUsed": 42,
+    "dayUsed": 70,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-30T01:02:46.699Z",
+    "updatedAt": "2026-07-30T02:01:34.294Z",
     "lastError": null
   },
   "googleCseConfiguredSlots": 0,
@@ -210,36 +186,55 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1334,
-    "wiki": 239,
-    "pending": 537
+    "online": 1339,
+    "wiki": 242,
+    "pending": 543
   },
   "serperVerification": {
     "rushMode": true,
-    "limit": 0,
-    "onlineLimit": 0,
-    "wikiLimit": 0,
-    "queueSize": 0,
-    "verified": 0,
+    "limit": 800,
+    "onlineLimit": 560,
+    "wikiLimit": 240,
+    "queueSize": 29,
+    "verified": 28,
     "verifiedByChannel": {
-      "online": 0,
-      "wiki": 0,
-      "pending": 0
+      "online": 10,
+      "wiki": 6,
+      "pending": 12
     },
-    "errors": 0,
+    "errors": 1,
     "quotaStopped": false,
-    "verifiedNames": [],
-    "ranAt": "2026-07-30T01:40:28.067Z"
-  },
-  "googleCseVerification": {
-    "limit": 0,
-    "queueSize": 0,
-    "verified": 0,
-    "errors": 0,
-    "quotaStopped": false,
-    "providerCounts": {},
-    "verifiedNames": [],
-    "ranAt": "2026-07-30T01:40:28.309Z"
+    "verifiedNames": [
+      "Nightmare Buster",
+      "Wolfoo Escape",
+      "Neon Meridian",
+      "DropNova",
+      "OVERTIME",
+      "Yarrow64",
+      "Retro Fairway 64",
+      "2D Platformer Tutorial",
+      "3d Platformer",
+      "Super Jhodion's Castle Calamity",
+      "Mistfall Hunter",
+      "Lily Fantasia",
+      "Dimension Defenders",
+      "Otaku VR: Sit-ups and Kisses",
+      "Gear Clash: Hero Unite",
+      "INCREDECK",
+      "Banana Blitz",
+      "Chinese Folklore Scavenger Hunt",
+      "Laser Dodge",
+      "Dune Vector",
+      "Bunny's Quest For Carrots",
+      "Star Strike Zero",
+      "desserted maki in the dungeon",
+      "Just Your Average 2D Platformer",
+      "Of-Null",
+      "Death Box",
+      "SCAN: Lost Files",
+      "Quick Slick"
+    ],
+    "ranAt": "2026-07-30T02:01:34.367Z"
   },
   "channelOpportunityCounts": {
     "online": {
@@ -260,8 +255,8 @@
   },
   "serpApiQuotaFill": {
     "enabled": true,
-    "configuredSlots": 4,
-    "remainingAtStart": 614,
+    "configuredSlots": 1,
+    "remainingAtStart": 0,
     "queueSize": 0,
     "verified": 0,
     "errors": 0,
@@ -277,19 +272,19 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 0,
-      "secondary": 0,
-      "strategic": 0
+      "strong": 1,
+      "secondary": 1,
+      "strategic": 2
     },
     "pendingByChannel": {
-      "online": 0,
-      "wiki": 0
+      "online": 1,
+      "wiki": 3
     },
     "verifiedNames": [],
     "caps": {
-      "online": 0,
-      "wiki": 0,
-      "flexible": 0
+      "online": 999,
+      "wiki": 999,
+      "flexible": 999
     },
     "globalChecks": 0,
     "accounts": {
@@ -305,59 +300,20 @@
         },
         "errors": 0,
         "quotaStopped": false
-      },
-      "2": {
-        "envName": "SERPAPI_API_KEY_2",
-        "ok": true,
-        "error": null,
-        "verified": 0,
-        "channelVerified": {
-          "online": 0,
-          "wiki": 0,
-          "pending": 0
-        },
-        "errors": 0,
-        "quotaStopped": false
-      },
-      "3": {
-        "envName": "SERPAPI_API_KEY_3",
-        "ok": true,
-        "error": null,
-        "verified": 0,
-        "channelVerified": {
-          "online": 0,
-          "wiki": 0,
-          "pending": 0
-        },
-        "errors": 0,
-        "quotaStopped": false
-      },
-      "4": {
-        "envName": "SERPAPI_API_KEY_4",
-        "ok": true,
-        "error": null,
-        "verified": 0,
-        "channelVerified": {
-          "online": 0,
-          "wiki": 0,
-          "pending": 0
-        },
-        "errors": 0,
-        "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T01:40:29.687Z"
+    "ranAt": "2026-07-30T02:01:35.063Z"
   },
-  "serpApiConfiguredSlots": 4,
+  "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
     "enabled": true,
-    "configuredSlots": 4,
+    "configuredSlots": 1,
     "month": "2026-07",
-    "monthUsed": 366,
+    "monthUsed": 245,
     "day": "2026-07-30",
-    "dayUsed": 1,
-    "monthlyLimit": 980,
-    "dailyLimit": 980,
+    "dayUsed": 0,
+    "monthlyLimit": 245,
+    "dailyLimit": 245,
     "accounts": {
       "1": {
         "envName": "SERPAPI_API_KEY",
@@ -366,32 +322,8 @@
         "monthlyLimit": 245,
         "dailyLimit": 245,
         "updatedAt": "2026-07-29T09:29:17.682Z"
-      },
-      "2": {
-        "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 105,
-        "dayUsed": 1,
-        "monthlyLimit": 245,
-        "dailyLimit": 245,
-        "updatedAt": "2026-07-30T01:02:47.845Z"
-      },
-      "3": {
-        "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 8,
-        "dayUsed": 0,
-        "monthlyLimit": 245,
-        "dailyLimit": 245,
-        "updatedAt": "2026-07-29T07:23:20.343Z"
-      },
-      "4": {
-        "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 8,
-        "dayUsed": 0,
-        "monthlyLimit": 245,
-        "dailyLimit": 245,
-        "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-30T01:40:30.082Z"
+    "updatedAt": "2026-07-30T02:01:35.467Z"
   }
 }
