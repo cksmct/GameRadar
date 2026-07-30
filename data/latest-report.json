@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-30T03:19:30.295Z",
+  "scannedAt": "2026-07-30T03:21:06.607Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
@@ -100,9 +100,9 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 138,
-  "fastWatchCount": 274,
-  "fastRejectedCount": 1730,
+  "fastPassedCount": 136,
+  "fastWatchCount": 276,
+  "fastRejectedCount": 1731,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -115,7 +115,7 @@
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 394,
-  "trendEligibleCount": 83,
+  "trendEligibleCount": 82,
   "trendPendingCount": 4,
   "trendValidatedCount": 320,
   "risingCount": 4,
@@ -123,9 +123,9 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 351,
-    "reject": 1497,
-    "pending": 306,
+    "watch": 352,
+    "reject": 1498,
+    "pending": 304,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -152,12 +152,12 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:19:45.899Z"
+    "updatedAt": "2026-07-30T03:21:23.199Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 2139,
-    "duckduckgo+autocomplete": 7
+    "duckduckgo+autocomplete": 8
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -167,7 +167,7 @@
     "dayUsed": 107,
     "totalLimit": 2450,
     "dailyLimit": 2450,
-    "updatedAt": "2026-07-30T03:19:44.414Z",
+    "updatedAt": "2026-07-30T03:21:21.508Z",
     "lastError": "Query pattern not allowed for free accounts."
   },
   "googleCseConfiguredSlots": 0,
@@ -205,10 +205,10 @@
     "errors": 1,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-07-30T03:19:44.495Z"
+    "ranAt": "2026-07-30T03:21:21.581Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T03:19:45.149Z",
+    "checkedAt": "2026-07-30T03:21:22.438Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -278,7 +278,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:19:45.074Z",
+        "checkedAt": "2026-07-30T03:21:22.147Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -298,7 +298,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:19:45.100Z",
+        "checkedAt": "2026-07-30T03:21:22.254Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -318,7 +318,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:19:45.125Z",
+        "checkedAt": "2026-07-30T03:21:22.344Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -338,7 +338,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T03:19:45.149Z",
+        "checkedAt": "2026-07-30T03:21:22.438Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -417,7 +417,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T03:19:45.475Z"
+    "ranAt": "2026-07-30T03:21:22.776Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -439,6 +439,6 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T03:19:45.899Z"
+    "updatedAt": "2026-07-30T03:21:23.199Z"
   }
 }
