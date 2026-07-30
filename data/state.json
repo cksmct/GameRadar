@@ -77,7 +77,7 @@
         "https://mackmakesgames1.itch.io/bowling-buster": 35,
         "https://roblo1801.itch.io/neon-city-rampage": 36
       },
-      "scannedAt": "2026-07-30T03:59:40.238Z",
+      "scannedAt": "2026-07-30T04:01:40.660Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,7 +157,7 @@
         "https://quietdengames.itch.io/her-majestys-decree": 35,
         "https://paulbykov.itch.io/huebrew": 36
       },
-      "scannedAt": "2026-07-30T03:59:40.337Z",
+      "scannedAt": "2026-07-30T04:01:40.687Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
@@ -237,7 +237,7 @@
         "https://coops0315.itch.io/flip-tag": 35,
         "https://kevin-de-stickman.itch.io/new-chubzengine": 36
       },
-      "scannedAt": "2026-07-30T03:59:40.469Z",
+      "scannedAt": "2026-07-30T04:01:40.728Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-07-30T03:59:40.565Z",
+      "scannedAt": "2026-07-30T04:01:40.790Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/farm-mayhem-merge": 69,
         "https://www.crazygames.com/game/recoil-rumble-knp": 70
       },
-      "scannedAt": "2026-07-30T03:59:41.902Z",
+      "scannedAt": "2026-07-30T04:01:42.269Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -709,7 +709,7 @@
         "https://poki.com/en/g/kick-brainrot-balls-online": 143,
         "https://poki.com/en/g/clean-house": 144
       },
-      "scannedAt": "2026-07-30T03:59:42.064Z",
+      "scannedAt": "2026-07-30T04:01:42.387Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -863,11 +863,12 @@
         "https://www.y8.com/games/bball_io": 72,
         "https://www.y8.com/games/car_and_truck_parking": 73
       },
-      "scannedAt": "2026-07-30T03:59:42.979Z",
+      "scannedAt": "2026-07-30T04:01:43.393Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
       "urls": [
+        "https://www.gamepix.com/play/jumptothemoon",
         "https://www.gamepix.com/play/brainrot-chase-hide-n-seek",
         "https://www.gamepix.com/play/streak-rush-hoops",
         "https://www.gamepix.com/play/dragon-egg-catapult",
@@ -926,72 +927,71 @@
         "https://www.gamepix.com/play/frog-adventure-big-hops-inspired-journey",
         "https://www.gamepix.com/play/lemonade-empire",
         "https://www.gamepix.com/play/tower-slicer",
-        "https://www.gamepix.com/play/up-hero",
-        "https://www.gamepix.com/play/gun-merge-mr-bullet"
+        "https://www.gamepix.com/play/up-hero"
       ],
       "positions": {
-        "https://www.gamepix.com/play/brainrot-chase-hide-n-seek": 1,
-        "https://www.gamepix.com/play/streak-rush-hoops": 2,
-        "https://www.gamepix.com/play/dragon-egg-catapult": 3,
-        "https://www.gamepix.com/play/neon-sign-workshop": 4,
-        "https://www.gamepix.com/play/hot-potato-tap": 5,
-        "https://www.gamepix.com/play/frag-destroyer": 6,
-        "https://www.gamepix.com/play/solo-dungeon": 7,
-        "https://www.gamepix.com/play/storm-eagle-squadron": 8,
-        "https://www.gamepix.com/play/project-parcel-dispatch-network": 9,
-        "https://www.gamepix.com/play/emberdeck": 10,
-        "https://www.gamepix.com/play/drill-to-the-core": 11,
-        "https://www.gamepix.com/play/everything-forge": 12,
-        "https://www.gamepix.com/play/cauldron-counter": 13,
-        "https://www.gamepix.com/play/knockback-knights": 14,
-        "https://www.gamepix.com/play/gravity-merge": 15,
-        "https://www.gamepix.com/play/lotl-spa": 16,
-        "https://www.gamepix.com/play/snake-rush-3d": 17,
-        "https://www.gamepix.com/play/multiplayer-forest-survive": 18,
-        "https://www.gamepix.com/play/starclimb": 19,
-        "https://www.gamepix.com/play/billiards-on-ice": 20,
-        "https://www.gamepix.com/play/meow-vs-doge": 21,
-        "https://www.gamepix.com/play/minesweeper-ascent": 22,
-        "https://www.gamepix.com/play/slime-power": 23,
-        "https://www.gamepix.com/play/tripeak-trek": 24,
-        "https://www.gamepix.com/play/skipping-circuit-quest-beast": 25,
-        "https://www.gamepix.com/play/casino-tycoon-online": 26,
-        "https://www.gamepix.com/play/coral-maze-diver": 27,
-        "https://www.gamepix.com/play/freight": 28,
-        "https://www.gamepix.com/play/wolfoo-unblock-car": 29,
-        "https://www.gamepix.com/play/lexonaut": 30,
-        "https://www.gamepix.com/play/domino-peak": 31,
-        "https://www.gamepix.com/play/balloon-color-mania": 32,
-        "https://www.gamepix.com/play/cricket-battle-cards": 33,
-        "https://www.gamepix.com/play/skyline-siege-city-air-defense": 34,
-        "https://www.gamepix.com/play/mountain-bike-xtreme": 35,
-        "https://www.gamepix.com/play/garuda-fly": 36,
-        "https://www.gamepix.com/play/pizza-dash": 37,
-        "https://www.gamepix.com/play/signal-hop": 38,
-        "https://www.gamepix.com/play/chinchilla-trails": 39,
-        "https://www.gamepix.com/play/barah-gashta": 40,
-        "https://www.gamepix.com/play/mega-digger-ecavation-fun": 41,
-        "https://www.gamepix.com/play/mega-voxels-io": 42,
-        "https://www.gamepix.com/play/block-the-view": 43,
-        "https://www.gamepix.com/play/ninja-horde-invasion": 44,
-        "https://www.gamepix.com/play/sleepy-flock": 45,
-        "https://www.gamepix.com/play/yarn-art-loop": 46,
-        "https://www.gamepix.com/play/chess-board": 47,
-        "https://www.gamepix.com/play/ufo-io-armada": 48,
-        "https://www.gamepix.com/play/paradise-journey-match3": 49,
-        "https://www.gamepix.com/play/psychic-mage": 50,
-        "https://www.gamepix.com/play/busparking": 51,
-        "https://www.gamepix.com/play/paintch": 52,
-        "https://www.gamepix.com/play/bikkings-brothers-to-valhalla": 53,
-        "https://www.gamepix.com/play/unseal-the-yokai": 54,
-        "https://www.gamepix.com/play/frogie-cross-the-roads": 55,
-        "https://www.gamepix.com/play/frog-adventure-big-hops-inspired-journey": 56,
-        "https://www.gamepix.com/play/lemonade-empire": 57,
-        "https://www.gamepix.com/play/tower-slicer": 58,
-        "https://www.gamepix.com/play/up-hero": 59,
-        "https://www.gamepix.com/play/gun-merge-mr-bullet": 60
+        "https://www.gamepix.com/play/jumptothemoon": 1,
+        "https://www.gamepix.com/play/brainrot-chase-hide-n-seek": 2,
+        "https://www.gamepix.com/play/streak-rush-hoops": 3,
+        "https://www.gamepix.com/play/dragon-egg-catapult": 4,
+        "https://www.gamepix.com/play/neon-sign-workshop": 5,
+        "https://www.gamepix.com/play/hot-potato-tap": 6,
+        "https://www.gamepix.com/play/frag-destroyer": 7,
+        "https://www.gamepix.com/play/solo-dungeon": 8,
+        "https://www.gamepix.com/play/storm-eagle-squadron": 9,
+        "https://www.gamepix.com/play/project-parcel-dispatch-network": 10,
+        "https://www.gamepix.com/play/emberdeck": 11,
+        "https://www.gamepix.com/play/drill-to-the-core": 12,
+        "https://www.gamepix.com/play/everything-forge": 13,
+        "https://www.gamepix.com/play/cauldron-counter": 14,
+        "https://www.gamepix.com/play/knockback-knights": 15,
+        "https://www.gamepix.com/play/gravity-merge": 16,
+        "https://www.gamepix.com/play/lotl-spa": 17,
+        "https://www.gamepix.com/play/snake-rush-3d": 18,
+        "https://www.gamepix.com/play/multiplayer-forest-survive": 19,
+        "https://www.gamepix.com/play/starclimb": 20,
+        "https://www.gamepix.com/play/billiards-on-ice": 21,
+        "https://www.gamepix.com/play/meow-vs-doge": 22,
+        "https://www.gamepix.com/play/minesweeper-ascent": 23,
+        "https://www.gamepix.com/play/slime-power": 24,
+        "https://www.gamepix.com/play/tripeak-trek": 25,
+        "https://www.gamepix.com/play/skipping-circuit-quest-beast": 26,
+        "https://www.gamepix.com/play/casino-tycoon-online": 27,
+        "https://www.gamepix.com/play/coral-maze-diver": 28,
+        "https://www.gamepix.com/play/freight": 29,
+        "https://www.gamepix.com/play/wolfoo-unblock-car": 30,
+        "https://www.gamepix.com/play/lexonaut": 31,
+        "https://www.gamepix.com/play/domino-peak": 32,
+        "https://www.gamepix.com/play/balloon-color-mania": 33,
+        "https://www.gamepix.com/play/cricket-battle-cards": 34,
+        "https://www.gamepix.com/play/skyline-siege-city-air-defense": 35,
+        "https://www.gamepix.com/play/mountain-bike-xtreme": 36,
+        "https://www.gamepix.com/play/garuda-fly": 37,
+        "https://www.gamepix.com/play/pizza-dash": 38,
+        "https://www.gamepix.com/play/signal-hop": 39,
+        "https://www.gamepix.com/play/chinchilla-trails": 40,
+        "https://www.gamepix.com/play/barah-gashta": 41,
+        "https://www.gamepix.com/play/mega-digger-ecavation-fun": 42,
+        "https://www.gamepix.com/play/mega-voxels-io": 43,
+        "https://www.gamepix.com/play/block-the-view": 44,
+        "https://www.gamepix.com/play/ninja-horde-invasion": 45,
+        "https://www.gamepix.com/play/sleepy-flock": 46,
+        "https://www.gamepix.com/play/yarn-art-loop": 47,
+        "https://www.gamepix.com/play/chess-board": 48,
+        "https://www.gamepix.com/play/ufo-io-armada": 49,
+        "https://www.gamepix.com/play/paradise-journey-match3": 50,
+        "https://www.gamepix.com/play/psychic-mage": 51,
+        "https://www.gamepix.com/play/busparking": 52,
+        "https://www.gamepix.com/play/paintch": 53,
+        "https://www.gamepix.com/play/bikkings-brothers-to-valhalla": 54,
+        "https://www.gamepix.com/play/unseal-the-yokai": 55,
+        "https://www.gamepix.com/play/frogie-cross-the-roads": 56,
+        "https://www.gamepix.com/play/frog-adventure-big-hops-inspired-journey": 57,
+        "https://www.gamepix.com/play/lemonade-empire": 58,
+        "https://www.gamepix.com/play/tower-slicer": 59,
+        "https://www.gamepix.com/play/up-hero": 60
       },
-      "scannedAt": "2026-07-30T03:59:43.139Z",
+      "scannedAt": "2026-07-30T04:01:43.511Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1163,7 +1163,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/thief-puzzle": 82
       },
-      "scannedAt": "2026-07-30T03:59:43.205Z",
+      "scannedAt": "2026-07-30T04:01:43.614Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1271,7 +1271,7 @@
         "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/?snr=1_7_7_popularnew_150_1": 49,
         "https://store.steampowered.com/app/3935020/Backyard_Baseball/?snr=1_7_7_popularnew_150_1": 50
       },
-      "scannedAt": "2026-07-30T03:59:41.073Z",
+      "scannedAt": "2026-07-30T04:01:41.132Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1379,7 +1379,7 @@
         "https://store.steampowered.com/app/3997240/Osta/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/3907520/Devils_Due/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-07-30T03:59:41.339Z",
+      "scannedAt": "2026-07-30T04:01:41.480Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1397,7 +1397,7 @@
         "https://www.newgrounds.com/portal/view/1044306": 4,
         "https://www.newgrounds.com/portal/view/1044270": 5
       },
-      "scannedAt": "2026-07-30T03:59:41.536Z",
+      "scannedAt": "2026-07-30T04:01:42.070Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1429,7 +1429,7 @@
         "https://www.newgrounds.com/portal/view/1044432": 11,
         "https://www.newgrounds.com/portal/view/1044434": 12
       },
-      "scannedAt": "2026-07-30T03:59:41.561Z",
+      "scannedAt": "2026-07-30T04:01:42.149Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1515,7 +1515,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-07-30T03:59:39.900Z",
+  "lastScan": "2026-07-30T04:01:40.550Z",
   "lastRisingDiscovery": "2026-07-30T02:49:13.658Z",
-  "lastTrendBatch": "2026-07-30T03:59:39.900Z"
+  "lastTrendBatch": "2026-07-30T04:01:40.550Z"
 }
