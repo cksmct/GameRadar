@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-07-30T04:03:12.488Z",
+  "scannedAt": "2026-07-30T04:05:08.643Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 11,
+  "totalAdded": 1,
   "sources": [
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 5
+      "added": 0
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
@@ -97,12 +97,12 @@
       "added": 0
     }
   ],
-  "seoVerified": 7,
+  "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 134,
   "fastWatchCount": 282,
-  "fastRejectedCount": 1751,
+  "fastRejectedCount": 1752,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -115,8 +115,8 @@
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 398,
-  "trendEligibleCount": 80,
-  "trendPendingCount": 5,
+  "trendEligibleCount": 81,
+  "trendPendingCount": 6,
   "trendValidatedCount": 320,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -145,7 +145,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-07-30T04:02:19.115Z",
+    "checkedAt": "2026-07-30T04:05:06.210Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -166,12 +166,12 @@
     "candidatesVerified": 0,
     "errors": 4,
     "monthlyCallLimit": 4000,
-    "updatedAt": "2026-07-30T04:03:32.693Z"
+    "updatedAt": "2026-07-30T04:05:24.788Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 2159,
-    "duckduckgo+autocomplete": 12
+    "duckduckgo+autocomplete": 13
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -209,27 +209,20 @@
     "limit": 800,
     "onlineLimit": 560,
     "wikiLimit": 240,
-    "queueSize": 6,
-    "verified": 6,
+    "queueSize": 0,
+    "verified": 0,
     "verifiedByChannel": {
-      "online": 6,
+      "online": 0,
       "wiki": 0,
       "pending": 0
     },
     "errors": 0,
     "quotaStopped": false,
-    "verifiedNames": [
-      "Railway Bridge",
-      "Demolition Inc.",
-      "Road Rage",
-      "RobShoot",
-      "Piroot Demo",
-      "TIME"
-    ],
-    "ranAt": "2026-07-30T04:03:31.501Z"
+    "verifiedNames": [],
+    "ranAt": "2026-07-30T04:05:23.415Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-30T04:03:32.271Z",
+    "checkedAt": "2026-07-30T04:05:24.274Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -299,7 +292,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:03:32.074Z",
+        "checkedAt": "2026-07-30T04:05:23.975Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -319,7 +312,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:03:32.138Z",
+        "checkedAt": "2026-07-30T04:05:24.067Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -339,7 +332,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:03:32.204Z",
+        "checkedAt": "2026-07-30T04:05:24.158Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -359,7 +352,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-30T04:03:32.271Z",
+        "checkedAt": "2026-07-30T04:05:24.273Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -438,7 +431,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T04:03:32.502Z"
+    "ranAt": "2026-07-30T04:05:24.541Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -460,7 +453,7 @@
         "updatedAt": "2026-07-29T09:29:17.682Z"
       }
     },
-    "updatedAt": "2026-07-30T04:03:32.569Z"
+    "updatedAt": "2026-07-30T04:05:24.636Z"
   },
   "apifyTrendsVerification": {
     "enabled": true,
@@ -499,6 +492,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-07-30T04:03:32.766Z"
+    "ranAt": "2026-07-30T04:05:24.860Z"
   }
 }
