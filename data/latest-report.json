@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-30T01:01:40.302Z",
+  "scannedAt": "2026-07-30T01:40:14.259Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 68,
+  "totalAdded": 36,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 15
+      "added": 6
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 33
+      "added": 12
     },
     {
       "ok": true,
@@ -45,7 +45,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 4
+      "added": 2
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -73,14 +73,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 144,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 10
+      "added": 13
     },
     {
       "ok": true,
@@ -97,17 +97,17 @@
       "added": 0
     }
   ],
-  "seoVerified": 47,
+  "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 140,
-  "fastWatchCount": 264,
-  "fastRejectedCount": 1670,
+  "fastPassedCount": 138,
+  "fastWatchCount": 265,
+  "fastRejectedCount": 1672,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
-  "youtubeVerified": 3,
+  "youtubeVerified": 0,
   "youtubeErrors": 0,
-  "trendsVerified": 1,
+  "trendsVerified": 0,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
@@ -115,7 +115,7 @@
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 384,
-  "trendEligibleCount": 83,
+  "trendEligibleCount": 81,
   "trendPendingCount": 3,
   "trendValidatedCount": 320,
   "risingCount": 4,
@@ -123,9 +123,9 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 5,
-    "watch": 343,
-    "reject": 1444,
-    "pending": 302,
+    "watch": 344,
+    "reject": 1445,
+    "pending": 315,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -176,12 +176,12 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-30T01:03:10.437Z"
+    "updatedAt": "2026-07-30T01:40:30.082Z"
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 2074,
-    "duckduckgo+autocomplete": 4
+    "duckduckgo+autocomplete": 5
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -210,79 +210,36 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1328,
-    "wiki": 236,
-    "pending": 531
+    "online": 1334,
+    "wiki": 239,
+    "pending": 537
   },
   "serperVerification": {
     "rushMode": true,
-    "limit": 800,
-    "onlineLimit": 560,
-    "wikiLimit": 240,
-    "queueSize": 43,
-    "verified": 42,
+    "limit": 0,
+    "onlineLimit": 0,
+    "wikiLimit": 0,
+    "queueSize": 0,
+    "verified": 0,
     "verifiedByChannel": {
-      "online": 18,
-      "wiki": 6,
-      "pending": 18
+      "online": 0,
+      "wiki": 0,
+      "pending": 0
     },
-    "errors": 1,
+    "errors": 0,
     "quotaStopped": false,
-    "verifiedNames": [
-      "Free Sprunki (Bindu's Take)",
-      "Between Time",
-      "Bowling Buster",
-      "Império",
-      "Not Yet Zero",
-      "Foodie Furensics",
-      "Under A Willow's Shade",
-      "Stickman Battle",
-      "Civic Streets (Sprint 2)",
-      "Not Your Seafood Salad",
-      "Police Chase Run",
-      "Neon City Rampage",
-      "Party \"Engine\" Controller Prototype (#3)",
-      "Sprunki Scrunkly x Phase 3 RM Mashup",
-      "Arrow puzzle but with trains ( source code included)",
-      "CARRIER",
-      "SCP ORIGINS - A Friendly SCP? - SCP-999",
-      "Battle Blocks 2: The Wasteland",
-      "Culdcept The First",
-      "DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO",
-      "Crazy Coin Poker",
-      "GALAXY BEAT",
-      "Orbital Hell",
-      "Hachishakusama | 八尺様がいた夏休み",
-      "What 2000s Skate Video Are You?",
-      "GORIILLA TAG V34",
-      "veritysucks by badsqure",
-      "Astro Bird",
-      "Negative Timer",
-      "Eveil des cendres",
-      "Mr. Punchman",
-      "End Run",
-      "Granny Gold Mode Remake",
-      "Daylight Demo",
-      "Oblivion Path",
-      "Speed Haste for Sega 32X",
-      "Cozzilla",
-      "Cannonball for Sega 32X",
-      "HexGL for Sega 32X",
-      "Pop Rush",
-      "Unexpected-Rebirth",
-      "ALIEN BREAKER"
-    ],
-    "ranAt": "2026-07-30T01:02:46.781Z"
+    "verifiedNames": [],
+    "ranAt": "2026-07-30T01:40:28.067Z"
   },
   "googleCseVerification": {
-    "limit": 180,
-    "queueSize": 180,
+    "limit": 0,
+    "queueSize": 0,
     "verified": 0,
     "errors": 0,
     "quotaStopped": false,
     "providerCounts": {},
     "verifiedNames": [],
-    "ranAt": "2026-07-30T01:02:47.025Z"
+    "ranAt": "2026-07-30T01:40:28.309Z"
   },
   "channelOpportunityCounts": {
     "online": {
@@ -304,18 +261,18 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 615,
-    "queueSize": 1,
-    "verified": 1,
+    "remainingAtStart": 614,
+    "queueSize": 0,
+    "verified": 0,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 1,
+      "strong": 0,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
-      "online": 1,
+      "online": 0,
       "wiki": 0,
       "pending": 0
     },
@@ -328,13 +285,11 @@
       "online": 0,
       "wiki": 0
     },
-    "verifiedNames": [
-      "Stickman Battle"
-    ],
+    "verifiedNames": [],
     "caps": {
-      "online": 999,
-      "wiki": 999,
-      "flexible": 999
+      "online": 0,
+      "wiki": 0,
+      "flexible": 0
     },
     "globalChecks": 0,
     "accounts": {
@@ -355,9 +310,9 @@
         "envName": "SERPAPI_API_KEY_2",
         "ok": true,
         "error": null,
-        "verified": 1,
+        "verified": 0,
         "channelVerified": {
-          "online": 1,
+          "online": 0,
           "wiki": 0,
           "pending": 0
         },
@@ -391,7 +346,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-07-30T01:03:10.038Z"
+    "ranAt": "2026-07-30T01:40:29.687Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -437,6 +392,6 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-07-30T01:03:10.437Z"
+    "updatedAt": "2026-07-30T01:40:30.082Z"
   }
 }
