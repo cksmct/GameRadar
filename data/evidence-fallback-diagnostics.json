@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-01T16:37:19.930Z",
+  "generatedAt": "2026-08-01T17:42:35.127Z",
   "totalCandidates": 3000,
-  "pendingSeo": 1617,
+  "pendingSeo": 1661,
   "channelCounts": {
-    "online": 914,
-    "pending": 525,
-    "wiki": 178
+    "online": 943,
+    "pending": 538,
+    "wiki": 180
   },
   "fastClassCounts": {
-    "online:pending": 914,
-    "pending:pending": 525,
-    "wiki:pending": 178
+    "online:pending": 943,
+    "pending:pending": 538,
+    "wiki:pending": 180
   },
   "strategicCounts": {
     "online:2": 3,
-    "pending:0": 522,
-    "online:1": 911,
-    "wiki:1": 178,
+    "pending:0": 535,
+    "online:1": 940,
+    "wiki:1": 180,
     "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1101
+      "count": 1139
     },
     {
       "id": "itch-new-feed",
-      "count": 883
+      "count": 918
     },
     {
       "id": "itch-newest-web",
-      "count": 639
+      "count": 663
     },
     {
       "id": "steam-latest-indie",
-      "count": 162
+      "count": 164
     },
     {
       "id": "steam-new",
-      "count": 162
+      "count": 164
     },
     {
       "id": "newgrounds-latest",
@@ -50,11 +50,11 @@
     },
     {
       "id": "y8-new",
-      "count": 68
+      "count": 72
     },
     {
       "id": "gamepix-new",
-      "count": 57
+      "count": 58
     },
     {
       "id": "trends-rising-30d",
@@ -66,7 +66,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 22
+      "count": 21
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -98,7 +98,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 11
+      "count": 10
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -224,6 +224,278 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "PANTALLA",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Mole Typer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Mightier than the Sword",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Weeds RPG Tech-Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Words Of Power",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Shinobi Legend",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Five Bars",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Dao Asteroids",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "RAISE A GARDEN",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Mining Casual Strategy (Concept)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "2D Survival shooter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Tenza",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "2D RPG (Unfinished)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Capybara_Dash_3D",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Hokburi: Goblin Dance Party",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "DIMENSIONES: El Umbral de Orfeo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -703,278 +975,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Shade Courier",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Allele Trail",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Orbit Rush",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Meccha Hunt",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Idle Frontier",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Test H5",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Charge The Coil",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "KlutZ_OBLIQUED",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "L' operaio perfetto!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fat Cat Sumo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Cyber Aware",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Classic Pong",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fight Camp Manager",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "GALACTIC REQUIEM",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ink Tide",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Nonogram Steki",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
