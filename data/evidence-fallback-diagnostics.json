@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-01T07:14:56.589Z",
+  "generatedAt": "2026-08-01T07:42:25.025Z",
   "totalCandidates": 3000,
-  "pendingSeo": 1327,
+  "pendingSeo": 1343,
   "channelCounts": {
-    "pending": 424,
-    "online": 743,
-    "wiki": 160
+    "pending": 428,
+    "online": 753,
+    "wiki": 162
   },
   "fastClassCounts": {
-    "pending:pending": 424,
-    "online:pending": 743,
-    "wiki:pending": 160
+    "pending:pending": 428,
+    "online:pending": 753,
+    "wiki:pending": 162
   },
   "strategicCounts": {
-    "pending:0": 421,
-    "online:1": 742,
+    "pending:0": 425,
+    "online:1": 752,
     "online:2": 1,
-    "wiki:1": 160,
+    "wiki:1": 162,
     "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 903
+      "count": 912
     },
     {
       "id": "itch-new-feed",
-      "count": 694
+      "count": 703
     },
     {
       "id": "itch-newest-web",
-      "count": 541
+      "count": 546
     },
     {
       "id": "steam-latest-indie",
-      "count": 144
+      "count": 146
     },
     {
       "id": "steam-new",
-      "count": 144
+      "count": 146
     },
     {
       "id": "newgrounds-latest",
@@ -54,7 +54,7 @@
     },
     {
       "id": "y8-new",
-      "count": 47
+      "count": 49
     },
     {
       "id": "trends-rising-30d",
@@ -78,7 +78,7 @@
     },
     {
       "id": "poki-new",
-      "count": 13
+      "count": 16
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -169,6 +169,91 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "ADRANE - post jam",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Sprunki.MSE Phase 18: Fun is over",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "忍者ディフェンダー ninja-defender",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "FROGBIT SWEEPER",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Merge Gun Run",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -886,91 +971,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "WORMTH",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "LIFER",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Wate´s Pong",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Unboxed",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "26_Froggy's Got Talent",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
