@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-01T06:43:35.218Z",
+  "scannedAt": "2026-08-01T06:44:29.721Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
@@ -102,7 +102,7 @@
   "fastModelVersion": 3,
   "fastPassedCount": 100,
   "fastWatchCount": 262,
-  "fastRejectedCount": 1292,
+  "fastRejectedCount": 1293,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -116,7 +116,7 @@
   "trendModelVersion": 4,
   "seoPassedCount": 428,
   "trendEligibleCount": 63,
-  "trendPendingCount": 54,
+  "trendPendingCount": 52,
   "trendValidatedCount": 253,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -124,14 +124,14 @@
     "independent": 1,
     "page": 2,
     "watch": 298,
-    "reject": 971,
-    "pending": 1728,
+    "reject": 972,
+    "pending": 1727,
     "error": 0
   },
   "trendProvider": "serpapi+searchapi",
   "trendProviderCounts": {
     "serpapi": 253,
-    "searchapi": 4
+    "searchapi": 6
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-01T06:43:34.026Z",
+    "checkedAt": "2026-08-01T06:44:28.655Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -172,7 +172,7 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 1631,
-    "duckduckgo+autocomplete": 24
+    "duckduckgo+autocomplete": 25
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -220,10 +220,10 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:43:41.495Z"
+    "ranAt": "2026-08-01T06:44:35.083Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-01T06:43:42.668Z",
+    "checkedAt": "2026-08-01T06:44:35.917Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -293,7 +293,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:43:42.404Z",
+        "checkedAt": "2026-08-01T06:44:35.659Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -313,7 +313,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:43:42.492Z",
+        "checkedAt": "2026-08-01T06:44:35.745Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -333,7 +333,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:43:42.580Z",
+        "checkedAt": "2026-08-01T06:44:35.831Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -353,7 +353,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:43:42.668Z",
+        "checkedAt": "2026-08-01T06:44:35.917Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -402,12 +402,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 42,
+      "strong": 40,
       "secondary": 173,
       "strategic": 75
     },
     "pendingByChannel": {
-      "online": 255,
+      "online": 253,
       "wiki": 35
     },
     "verifiedNames": [],
@@ -432,7 +432,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-01T06:43:42.985Z"
+    "ranAt": "2026-08-01T06:44:36.189Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -454,14 +454,14 @@
         "updatedAt": "2026-08-01T01:17:57.744Z"
       }
     },
-    "updatedAt": "2026-08-01T06:43:43.064Z"
+    "updatedAt": "2026-08-01T06:44:36.266Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-01T06:43:43.458Z",
+    "updatedAt": "2026-08-01T06:44:36.749Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -487,29 +487,29 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 253,
-      "wiki": 35
+      "online": 252,
+      "wiki": 34
     },
     "pendingByTier": {
-      "strong": 40,
+      "strong": 38,
       "secondary": 173,
       "strategic": 75
     },
     "verifiedNames": [],
     "errorNames": [
       {
+        "name": "Leafy Corner",
+        "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
+      },
+      {
         "name": "Coin Merge",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       },
       {
-        "name": "Stickman Rebirth",
-        "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
-      },
-      {
-        "name": "Kitty Loves Birds",
+        "name": "Decor Life",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-01T06:43:43.534Z"
+    "ranAt": "2026-08-01T06:44:36.813Z"
   }
 }
