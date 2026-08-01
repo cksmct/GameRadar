@@ -77,7 +77,7 @@
         "https://andperks.itch.io/tomathens": 35,
         "https://calcoa.itch.io/epiphanic": 36
       },
-      "scannedAt": "2026-08-01T06:53:44.091Z",
+      "scannedAt": "2026-08-01T06:55:59.172Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,11 +157,12 @@
         "https://mazhron.itch.io/everwood": 35,
         "https://anamerzlaya.itch.io/having-fun-mochi": 36
       },
-      "scannedAt": "2026-08-01T06:53:44.171Z",
+      "scannedAt": "2026-08-01T06:55:59.302Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://madmagestudio2024.itch.io/sleepwalker",
         "https://sanjaycj.itch.io/toilet-attack",
         "https://eons2eons.itch.io/bunker100",
         "https://nipeyo.itch.io/balloon-inc-r-emental",
@@ -196,48 +197,47 @@
         "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life",
         "https://shuandang.itch.io/jacques-the-red",
         "https://owlcapone77.itch.io/no-backrooms-stroll",
-        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt",
-        "https://jammintk.itch.io/ps-bazooka"
+        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt"
       ],
       "positions": {
-        "https://sanjaycj.itch.io/toilet-attack": 1,
-        "https://eons2eons.itch.io/bunker100": 2,
-        "https://nipeyo.itch.io/balloon-inc-r-emental": 3,
-        "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo": 4,
-        "https://exerart.itch.io/ai-wonderland": 5,
-        "https://iamatrex.itch.io/the-lazulite-fountain": 6,
-        "https://freejeremy.itch.io/stone-stickers": 7,
-        "https://bruceskii.itch.io/the-multiverse": 8,
-        "https://tales-from-the-multiverse.itch.io/turbomodeopenalpha": 9,
-        "https://lord-deejay.itch.io/neighbors-at-no-14": 10,
-        "https://xavieregabrielcerrudo.itch.io/talking-tom-olympic-apk": 11,
-        "https://jm-pd.itch.io/questionnaire": 12,
-        "https://lucaslizama.itch.io/the-first-day": 13,
-        "https://darkwebpenis.itch.io/peak-taggers": 14,
-        "https://miyadoria.itch.io/bossrush": 15,
-        "https://shuandang.itch.io/steel-samurai-on-fire": 16,
-        "https://donpalop.itch.io/playing": 17,
-        "https://bakenshake09.itch.io/revenants-of-europa": 18,
-        "https://christianjm-81001.itch.io/vortexmetricengine": 19,
-        "https://treegravy.itch.io/ua-heretic-intimacy": 20,
-        "https://app-flux.itch.io/poker-squares": 21,
-        "https://samiahss.itch.io/phosphenes": 22,
-        "https://spinfoam-games.itch.io/benevolence": 23,
-        "https://shuandang.itch.io/lunchtime": 24,
-        "https://motomune.itch.io/ignis-city": 25,
-        "https://cdubs69.itch.io/pygameminesweeper": 26,
-        "https://miracula-works.itch.io/3-bingos-away-from-hell": 27,
-        "https://0xff90.itch.io/protocol-z": 28,
-        "https://benschraeder.itch.io/orbital-warden": 29,
-        "https://corgisek.itch.io/criminal-scratch-game": 30,
-        "https://porcupine64.itch.io/nebulune": 31,
-        "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life": 32,
-        "https://shuandang.itch.io/jacques-the-red": 33,
-        "https://owlcapone77.itch.io/no-backrooms-stroll": 34,
-        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt": 35,
-        "https://jammintk.itch.io/ps-bazooka": 36
+        "https://madmagestudio2024.itch.io/sleepwalker": 1,
+        "https://sanjaycj.itch.io/toilet-attack": 2,
+        "https://eons2eons.itch.io/bunker100": 3,
+        "https://nipeyo.itch.io/balloon-inc-r-emental": 4,
+        "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo": 5,
+        "https://exerart.itch.io/ai-wonderland": 6,
+        "https://iamatrex.itch.io/the-lazulite-fountain": 7,
+        "https://freejeremy.itch.io/stone-stickers": 8,
+        "https://bruceskii.itch.io/the-multiverse": 9,
+        "https://tales-from-the-multiverse.itch.io/turbomodeopenalpha": 10,
+        "https://lord-deejay.itch.io/neighbors-at-no-14": 11,
+        "https://xavieregabrielcerrudo.itch.io/talking-tom-olympic-apk": 12,
+        "https://jm-pd.itch.io/questionnaire": 13,
+        "https://lucaslizama.itch.io/the-first-day": 14,
+        "https://darkwebpenis.itch.io/peak-taggers": 15,
+        "https://miyadoria.itch.io/bossrush": 16,
+        "https://shuandang.itch.io/steel-samurai-on-fire": 17,
+        "https://donpalop.itch.io/playing": 18,
+        "https://bakenshake09.itch.io/revenants-of-europa": 19,
+        "https://christianjm-81001.itch.io/vortexmetricengine": 20,
+        "https://treegravy.itch.io/ua-heretic-intimacy": 21,
+        "https://app-flux.itch.io/poker-squares": 22,
+        "https://samiahss.itch.io/phosphenes": 23,
+        "https://spinfoam-games.itch.io/benevolence": 24,
+        "https://shuandang.itch.io/lunchtime": 25,
+        "https://motomune.itch.io/ignis-city": 26,
+        "https://cdubs69.itch.io/pygameminesweeper": 27,
+        "https://miracula-works.itch.io/3-bingos-away-from-hell": 28,
+        "https://0xff90.itch.io/protocol-z": 29,
+        "https://benschraeder.itch.io/orbital-warden": 30,
+        "https://corgisek.itch.io/criminal-scratch-game": 31,
+        "https://porcupine64.itch.io/nebulune": 32,
+        "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life": 33,
+        "https://shuandang.itch.io/jacques-the-red": 34,
+        "https://owlcapone77.itch.io/no-backrooms-stroll": 35,
+        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt": 36
       },
-      "scannedAt": "2026-08-01T06:53:44.257Z",
+      "scannedAt": "2026-08-01T06:55:59.407Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-08-01T06:53:44.347Z",
+      "scannedAt": "2026-08-01T06:55:59.543Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/chicken-hell": 69,
         "https://www.crazygames.com/game/zombie-lab-escape": 70
       },
-      "scannedAt": "2026-08-01T06:53:45.799Z",
+      "scannedAt": "2026-08-01T06:56:00.610Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -703,7 +703,7 @@
         "https://poki.com/en/g/deadrise-io": 140,
         "https://poki.com/en/g/4th-and-goal-2026": 141
       },
-      "scannedAt": "2026-08-01T06:53:46.036Z",
+      "scannedAt": "2026-08-01T06:56:00.803Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -857,7 +857,7 @@
         "https://www.y8.com/games/mob_rush": 72,
         "https://www.y8.com/games/number_pursuit": 73
       },
-      "scannedAt": "2026-08-01T06:53:46.993Z",
+      "scannedAt": "2026-08-01T06:56:01.261Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -985,7 +985,7 @@
         "https://www.gamepix.com/play/jumptothemoon": 59,
         "https://www.gamepix.com/play/brainrot-chase-hide-n-seek": 60
       },
-      "scannedAt": "2026-08-01T06:53:47.241Z",
+      "scannedAt": "2026-08-01T06:56:01.456Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1157,7 +1157,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/skateboard-surf": 82
       },
-      "scannedAt": "2026-08-01T06:53:47.341Z",
+      "scannedAt": "2026-08-01T06:56:01.569Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1263,7 +1263,7 @@
         "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/?snr=1_7_7_popularnew_150_1": 48,
         "https://store.steampowered.com/app/2209900/Moonlight_Peaks/?snr=1_7_7_popularnew_150_1": 49
       },
-      "scannedAt": "2026-08-01T06:53:44.975Z",
+      "scannedAt": "2026-08-01T06:55:59.855Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1371,7 +1371,7 @@
         "https://store.steampowered.com/app/4943760/The_Broken_Crown/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/4135040/Dig_Baby_Dig_Company/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-08-01T06:53:45.234Z",
+      "scannedAt": "2026-08-01T06:56:00.101Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1389,7 +1389,7 @@
         "https://www.newgrounds.com/portal/view/1044741": 4,
         "https://www.newgrounds.com/portal/view/1044639": 5
       },
-      "scannedAt": "2026-08-01T06:53:45.630Z",
+      "scannedAt": "2026-08-01T06:56:00.362Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1421,7 +1421,7 @@
         "https://www.newgrounds.com/portal/view/1044786": 11,
         "https://www.newgrounds.com/portal/view/1044827": 12
       },
-      "scannedAt": "2026-08-01T06:53:45.669Z",
+      "scannedAt": "2026-08-01T06:56:00.382Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1611,7 +1611,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-08-01T06:53:43.900Z",
+  "lastScan": "2026-08-01T06:55:58.992Z",
   "lastRisingDiscovery": "2026-08-01T04:35:27.551Z",
-  "lastTrendBatch": "2026-08-01T06:53:43.900Z"
+  "lastTrendBatch": "2026-08-01T06:55:58.992Z"
 }
