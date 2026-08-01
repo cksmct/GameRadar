@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-08-01T22:10:56.303Z",
+  "generatedAt": "2026-08-01T23:10:30.965Z",
   "totalCandidates": 3000,
-  "pendingSeo": 1863,
+  "pendingSeo": 1893,
   "channelCounts": {
-    "pending": 615,
-    "online": 1062,
+    "pending": 630,
+    "online": 1077,
     "wiki": 186
   },
   "fastClassCounts": {
-    "pending:pending": 615,
-    "online:pending": 1062,
+    "pending:pending": 630,
+    "online:pending": 1077,
     "wiki:pending": 186
   },
   "strategicCounts": {
-    "pending:0": 611,
+    "pending:0": 626,
     "online:2": 10,
-    "online:1": 1052,
+    "online:1": 1067,
     "wiki:1": 186,
     "pending:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1282
+      "count": 1307
     },
     {
       "id": "itch-new-feed",
-      "count": 1048
+      "count": 1073
     },
     {
       "id": "itch-newest-web",
-      "count": 744
+      "count": 753
     },
     {
       "id": "steam-latest-indie",
@@ -42,15 +42,15 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 89
+      "count": 94
     },
     {
       "id": "newgrounds-new",
-      "count": 89
+      "count": 94
     },
     {
       "id": "y8-new",
-      "count": 82
+      "count": 83
     },
     {
       "id": "gamepix-new",
@@ -58,11 +58,11 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 49
+      "count": 48
     },
     {
       "id": "trends-rising-7d",
-      "count": 32
+      "count": 31
     },
     {
       "id": "poki-new",
@@ -71,10 +71,6 @@
     {
       "id": "lagged-new",
       "count": 24
-    },
-    {
-      "id": "trends-rising-30d-horror-game",
-      "count": 22
     },
     {
       "id": "itch-new-popular-web",
@@ -89,6 +85,10 @@
       "count": 22
     },
     {
+      "id": "trends-rising-30d-horror-game",
+      "count": 21
+    },
+    {
       "id": "trends-rising-30d-itch-io",
       "count": 18
     },
@@ -98,7 +98,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 15
+      "count": 14
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -407,6 +407,108 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Treasure Trove Hold N Win Slot",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "weird sponks reupload",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "MyLittleGarden",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Ship Thief",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Harvest Island: Zingle is the Strongest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Forest Runner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -886,108 +988,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Spin the Cake 30",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ailleurs",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Gone Humaning",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Cocoa & Calm",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "geometry zombie pc",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Cribbage",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
