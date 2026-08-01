@@ -1,76 +1,84 @@
 {
-  "generatedAt": "2026-08-01T11:06:06.468Z",
+  "generatedAt": "2026-08-01T12:12:58.063Z",
   "totalCandidates": 3000,
-  "pendingSeo": 1448,
+  "pendingSeo": 1480,
   "channelCounts": {
-    "online": 819,
-    "pending": 463,
-    "wiki": 166
+    "online": 843,
+    "pending": 469,
+    "wiki": 168
   },
   "fastClassCounts": {
-    "online:pending": 819,
-    "pending:pending": 463,
-    "wiki:pending": 166
+    "online:pending": 843,
+    "pending:pending": 469,
+    "wiki:pending": 168
   },
   "strategicCounts": {
-    "online:2": 2,
-    "pending:0": 460,
-    "online:1": 817,
-    "wiki:1": 166,
+    "online:2": 3,
+    "pending:0": 466,
+    "online:1": 840,
+    "wiki:1": 168,
     "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 975
+      "count": 992
     },
     {
       "id": "itch-new-feed",
-      "count": 766
+      "count": 783
     },
     {
       "id": "itch-newest-web",
-      "count": 574
+      "count": 585
     },
     {
       "id": "steam-latest-indie",
-      "count": 150
+      "count": 152
     },
     {
       "id": "steam-new",
-      "count": 150
+      "count": 152
     },
     {
       "id": "newgrounds-latest",
-      "count": 73
+      "count": 75
     },
     {
       "id": "newgrounds-new",
-      "count": 73
+      "count": 75
     },
     {
       "id": "y8-new",
-      "count": 56
+      "count": 58
     },
     {
       "id": "gamepix-new",
-      "count": 56
+      "count": 57
     },
     {
       "id": "trends-rising-30d",
       "count": 40
     },
     {
+      "id": "poki-new",
+      "count": 24
+    },
+    {
       "id": "trends-rising-7d",
       "count": 22
     },
     {
-      "id": "poki-new",
-      "count": 22
+      "id": "lagged-new",
+      "count": 19
     },
     {
       "id": "trends-rising-30d-horror-game",
       "count": 18
+    },
+    {
+      "id": "crazygames-new",
+      "count": 17
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -81,24 +89,16 @@
       "count": 16
     },
     {
-      "id": "lagged-new",
-      "count": 15
-    },
-    {
-      "id": "crazygames-new",
-      "count": 15
-    },
-    {
       "id": "trends-rising-7d-itch-io",
       "count": 11
     },
     {
       "id": "itch-new-popular-web",
-      "count": 9
+      "count": 10
     },
     {
       "id": "itch-popular",
-      "count": 9
+      "count": 10
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -130,6 +130,22 @@
     }
   ],
   "samples": [
+    {
+      "name": "Good to Drive",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
     {
       "name": "Football Marble Shooter",
       "channel": "online",
@@ -188,6 +204,142 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Charge The Coil",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "KlutZ_OBLIQUED",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "L' operaio perfetto!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Fat Cat Sumo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Cyber Aware",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Classic Pong",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Fight Camp Manager",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "GALACTIC REQUIEM",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -813,159 +965,6 @@
     },
     {
       "name": "Phosphenes",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Benevolence",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "PygameMineSweeper",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Orbital Warden",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Sprunki.MSE Phase 17: Happy Life",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "AuPiScan — Daily Gold Hunt",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "P.S. Bazooka",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "CR Drive",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "BUNKER 100",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
-      "name": "pizel",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
