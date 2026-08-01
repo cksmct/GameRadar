@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-08-01T06:55:58.992Z",
+  "scannedAt": "2026-08-01T07:14:41.585Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 1,
+  "totalAdded": 21,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 1
+      "added": 6
     },
     {
       "ok": true,
@@ -45,7 +45,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
@@ -100,9 +100,9 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 101,
-  "fastWatchCount": 262,
-  "fastRejectedCount": 1291,
+  "fastPassedCount": 137,
+  "fastWatchCount": 258,
+  "fastRejectedCount": 1278,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -114,24 +114,24 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 431,
-  "trendEligibleCount": 66,
-  "trendPendingCount": 48,
+  "seoPassedCount": 463,
+  "trendEligibleCount": 100,
+  "trendPendingCount": 81,
   "trendValidatedCount": 253,
   "risingCount": 4,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 1,
     "page": 2,
-    "watch": 300,
-    "reject": 970,
-    "pending": 1727,
+    "watch": 296,
+    "reject": 957,
+    "pending": 1744,
     "error": 0
   },
   "trendProvider": "serpapi+searchapi",
   "trendProviderCounts": {
     "serpapi": 253,
-    "searchapi": 11
+    "searchapi": 12
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-01T06:55:57.936Z",
+    "checkedAt": "2026-08-01T07:14:40.543Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -171,8 +171,8 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "duckduckgo+autocomplete": 30,
-    "serper+autocomplete": 1625,
+    "duckduckgo+autocomplete": 31,
+    "serper+autocomplete": 1611,
     "evidence-fallback": 32
   },
   "serperConfigured": true,
@@ -202,9 +202,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2028,
-    "wiki": 352,
-    "pending": 620
+    "online": 2025,
+    "wiki": 354,
+    "pending": 621
   },
   "serperVerification": {
     "rushMode": true,
@@ -221,63 +221,30 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:56:12.179Z"
+    "ranAt": "2026-08-01T07:14:56.311Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
     "queueSize": 300,
-    "verified": 32,
+    "verified": 0,
     "channelVerified": {
-      "online": 28,
-      "wiki": 4,
+      "online": 0,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 30,
-      "watch": 2,
+      "pass": 0,
+      "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Singularity Inc.",
-      "Mineblader (Incremental Game)",
-      "Gummy Candy",
-      "INTELLIGENT YOUNG",
-      "Fi Jiggle (LOOP)",
-      "Spider-Man Art Collab",
-      "Outono Adventures",
-      "Dracula's Sleepover",
-      "DELTAWARE",
-      "Rock Pop Coffeeshop",
-      "Pawn Master",
-      "Last Watchtower",
-      "i•ROGUE",
-      "Fox Idle",
-      "Math & Error | SAFE MODE: 09",
-      "Random Stuff Inc.",
-      "Dating Killmulator",
-      "Too Easy?",
-      "Blackstart",
-      "FOUND STRUCTURE",
-      "ShredDead",
-      "Everwood",
-      "THE OMEGA REACH",
-      "Sort The Samba",
-      "RingBound",
-      "Scam Artist - Prototype",
-      "Haaland Coloring Book",
-      "Warehouse 24/7",
-      "Sephiria",
-      "The Ranchers",
-      "Zoominoes",
-      "Machine Party"
-    ],
-    "ranAt": "2026-08-01T06:56:12.657Z"
+    "verifiedNames": [],
+    "ranAt": "2026-08-01T07:14:56.835Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-01T06:56:13.219Z",
+    "checkedAt": "2026-08-01T07:14:57.822Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -347,7 +314,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:56:13.163Z",
+        "checkedAt": "2026-08-01T07:14:57.612Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -367,7 +334,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:56:13.181Z",
+        "checkedAt": "2026-08-01T07:14:57.685Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -387,7 +354,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:56:13.200Z",
+        "checkedAt": "2026-08-01T07:14:57.752Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -407,7 +374,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:56:13.218Z",
+        "checkedAt": "2026-08-01T07:14:57.822Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -456,12 +423,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 49,
-      "secondary": 54,
+      "strong": 50,
+      "secondary": 52,
       "strategic": 11
     },
     "pendingByChannel": {
-      "online": 93,
+      "online": 92,
       "wiki": 21
     },
     "verifiedNames": [],
@@ -486,7 +453,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-01T06:56:13.561Z"
+    "ranAt": "2026-08-01T07:14:58.140Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -508,14 +475,14 @@
         "updatedAt": "2026-08-01T01:17:57.744Z"
       }
     },
-    "updatedAt": "2026-08-01T06:56:13.609Z"
+    "updatedAt": "2026-08-01T07:14:58.212Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-01T06:56:14.183Z",
+    "updatedAt": "2026-08-01T07:14:58.707Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -541,21 +508,21 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 92,
+      "online": 91,
       "wiki": 21
     },
     "pendingByTier": {
-      "strong": 48,
-      "secondary": 54,
+      "strong": 49,
+      "secondary": 52,
       "strategic": 11
     },
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Pawn Master",
+        "name": "Last Watchtower",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-01T06:56:14.282Z"
+    "ranAt": "2026-08-01T07:14:58.784Z"
   }
 }
