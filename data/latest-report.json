@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-08-01T06:53:14.447Z",
+  "scannedAt": "2026-08-01T06:53:43.900Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 1,
+  "totalAdded": 2,
   "sources": [
     {
       "ok": true,
@@ -72,15 +72,15 @@
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 142,
-      "added": 1
+      "total": 141,
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
@@ -100,22 +100,22 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 101,
-  "fastWatchCount": 262,
+  "fastPassedCount": 102,
+  "fastWatchCount": 261,
   "fastRejectedCount": 1292,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
-  "trendErrors": 1,
-  "trendBatchRan": false,
-  "trendQueueSize": 0,
+  "trendErrors": 2,
+  "trendBatchRan": true,
+  "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 429,
-  "trendEligibleCount": 64,
+  "seoPassedCount": 430,
+  "trendEligibleCount": 65,
   "trendPendingCount": 48,
   "trendValidatedCount": 253,
   "risingCount": 4,
@@ -123,15 +123,15 @@
   "recommendationCounts": {
     "independent": 1,
     "page": 2,
-    "watch": 298,
+    "watch": 297,
     "reject": 971,
-    "pending": 1728,
+    "pending": 1729,
     "error": 0
   },
   "trendProvider": "serpapi+searchapi",
   "trendProviderCounts": {
     "serpapi": 253,
-    "searchapi": 9
+    "searchapi": 10
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-01T06:53:13.177Z",
+    "checkedAt": "2026-08-01T06:53:43.016Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -171,8 +171,8 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "duckduckgo+autocomplete": 28,
-    "serper+autocomplete": 1628
+    "duckduckgo+autocomplete": 29,
+    "serper+autocomplete": 1627
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -220,7 +220,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:53:20.464Z"
+    "ranAt": "2026-08-01T06:53:58.251Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -233,10 +233,10 @@
       "pending": 0
     },
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:53:20.819Z"
+    "ranAt": "2026-08-01T06:53:58.943Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-01T06:53:21.730Z",
+    "checkedAt": "2026-08-01T06:53:59.538Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -306,7 +306,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:53:21.444Z",
+        "checkedAt": "2026-08-01T06:53:59.366Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -326,7 +326,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:53:21.545Z",
+        "checkedAt": "2026-08-01T06:53:59.424Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -346,7 +346,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:53:21.645Z",
+        "checkedAt": "2026-08-01T06:53:59.483Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -366,7 +366,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:53:21.730Z",
+        "checkedAt": "2026-08-01T06:53:59.538Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -415,12 +415,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 21,
+      "strong": 20,
       "secondary": 52,
       "strategic": 11
     },
     "pendingByChannel": {
-      "online": 67,
+      "online": 66,
       "wiki": 17
     },
     "verifiedNames": [],
@@ -445,7 +445,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-01T06:53:22.063Z"
+    "ranAt": "2026-08-01T06:53:59.776Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -467,14 +467,14 @@
         "updatedAt": "2026-08-01T01:17:57.744Z"
       }
     },
-    "updatedAt": "2026-08-01T06:53:22.113Z"
+    "updatedAt": "2026-08-01T06:53:59.844Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-01T06:53:22.665Z",
+    "updatedAt": "2026-08-01T06:54:00.303Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -500,21 +500,21 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 66,
+      "online": 65,
       "wiki": 17
     },
     "pendingByTier": {
-      "strong": 20,
+      "strong": 19,
       "secondary": 52,
       "strategic": 11
     },
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Melon Sandbox",
+        "name": "Blocky Blast Puzzle",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-01T06:53:22.751Z"
+    "ranAt": "2026-08-01T06:54:00.365Z"
   }
 }
