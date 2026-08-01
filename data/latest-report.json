@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-08-01T06:45:40.553Z",
+  "scannedAt": "2026-08-01T06:50:07.988Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 1,
+  "totalAdded": 2,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -45,7 +45,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -102,7 +102,7 @@
   "fastModelVersion": 3,
   "fastPassedCount": 101,
   "fastWatchCount": 262,
-  "fastRejectedCount": 1293,
+  "fastRejectedCount": 1292,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -116,7 +116,7 @@
   "trendModelVersion": 4,
   "seoPassedCount": 429,
   "trendEligibleCount": 64,
-  "trendPendingCount": 50,
+  "trendPendingCount": 49,
   "trendValidatedCount": 253,
   "risingCount": 4,
   "globalRisingCount": 0,
@@ -124,14 +124,14 @@
     "independent": 1,
     "page": 2,
     "watch": 298,
-    "reject": 972,
-    "pending": 1727,
+    "reject": 971,
+    "pending": 1728,
     "error": 0
   },
   "trendProvider": "serpapi+searchapi",
   "trendProviderCounts": {
     "serpapi": 253,
-    "searchapi": 7
+    "searchapi": 8
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-01T06:45:39.314Z",
+    "checkedAt": "2026-08-01T06:50:07.097Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -171,8 +171,8 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 1631,
-    "duckduckgo+autocomplete": 26
+    "duckduckgo+autocomplete": 27,
+    "serper+autocomplete": 1629
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -220,7 +220,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:45:46.421Z"
+    "ranAt": "2026-08-01T06:50:13.680Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -233,10 +233,10 @@
       "pending": 0
     },
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:45:46.767Z"
+    "ranAt": "2026-08-01T06:50:14.014Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-01T06:45:47.619Z",
+    "checkedAt": "2026-08-01T06:50:14.636Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -306,7 +306,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:47.356Z",
+        "checkedAt": "2026-08-01T06:50:14.473Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -326,7 +326,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:47.445Z",
+        "checkedAt": "2026-08-01T06:50:14.526Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -346,7 +346,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:47.529Z",
+        "checkedAt": "2026-08-01T06:50:14.581Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -366,7 +366,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:47.619Z",
+        "checkedAt": "2026-08-01T06:50:14.636Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -415,12 +415,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 23,
+      "strong": 22,
       "secondary": 52,
       "strategic": 11
     },
     "pendingByChannel": {
-      "online": 69,
+      "online": 68,
       "wiki": 17
     },
     "verifiedNames": [],
@@ -445,7 +445,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-01T06:45:47.957Z"
+    "ranAt": "2026-08-01T06:50:14.903Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -467,14 +467,14 @@
         "updatedAt": "2026-08-01T01:17:57.744Z"
       }
     },
-    "updatedAt": "2026-08-01T06:45:48.007Z"
+    "updatedAt": "2026-08-01T06:50:14.955Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-01T06:45:48.367Z",
+    "updatedAt": "2026-08-01T06:50:15.327Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -500,21 +500,21 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 68,
+      "online": 67,
       "wiki": 17
     },
     "pendingByTier": {
-      "strong": 22,
+      "strong": 21,
       "secondary": 52,
       "strategic": 11
     },
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Monkey Mart",
+        "name": "Cake Merge",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-01T06:45:48.465Z"
+    "ranAt": "2026-08-01T06:50:15.393Z"
   }
 }

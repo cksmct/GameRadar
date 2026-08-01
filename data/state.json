@@ -2,6 +2,7 @@
   "snapshots": {
     "itch-newest-web": {
       "urls": [
+        "https://eons2eons.itch.io/bunker100",
         "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo",
         "https://bruceskii.itch.io/the-multiverse",
         "https://lord-deejay.itch.io/neighbors-at-no-14",
@@ -36,48 +37,47 @@
         "https://imissyouoren.itch.io/badminton",
         "https://0urb0r0s.itch.io/slashing-adventure",
         "https://andperks.itch.io/tomathens",
-        "https://calcoa.itch.io/epiphanic",
-        "https://filam.itch.io/fruit-pop-merge"
+        "https://calcoa.itch.io/epiphanic"
       ],
       "positions": {
-        "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo": 1,
-        "https://bruceskii.itch.io/the-multiverse": 2,
-        "https://lord-deejay.itch.io/neighbors-at-no-14": 3,
-        "https://jm-pd.itch.io/questionnaire": 4,
-        "https://app-flux.itch.io/poker-squares": 5,
-        "https://samiahss.itch.io/phosphenes": 6,
-        "https://spinfoam-games.itch.io/benevolence": 7,
-        "https://motomune.itch.io/ignis-city": 8,
-        "https://cdubs69.itch.io/pygameminesweeper": 9,
-        "https://benschraeder.itch.io/orbital-warden": 10,
-        "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life": 11,
-        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt": 12,
-        "https://jammintk.itch.io/ps-bazooka": 13,
-        "https://greatthe8.itch.io/cr-drive-demo": 14,
-        "https://griffinrio.itch.io/dinkystinkyandthebigworm": 15,
-        "https://gipgames.itch.io/polarity-flip": 16,
-        "https://benschraeder.itch.io/atomas-for-arduboy": 17,
-        "https://mctipper.itch.io/electrosnake-3d": 18,
-        "https://brethudson.itch.io/pickblock": 19,
-        "https://aevox23.itch.io/fauxil": 20,
-        "https://peomgam.itch.io/superprot5": 21,
-        "https://hobobunnie.itch.io/cyberduck-20xx": 22,
-        "https://ferdner.itch.io/pizel": 23,
-        "https://knightmare00.itch.io/paths-in-the-dark": 24,
-        "https://relatif.itch.io/metalmesh": 25,
-        "https://woodring.itch.io/rudequests": 26,
-        "https://rulric.itch.io/nana": 27,
-        "https://globwars.itch.io/immortal-slinger": 28,
-        "https://limblicious.itch.io/100-dudes-v2": 29,
-        "https://gear-6.itch.io/reach-for-the-mines": 30,
-        "https://soggywater321.itch.io/snowthing": 31,
-        "https://imissyouoren.itch.io/badminton": 32,
-        "https://0urb0r0s.itch.io/slashing-adventure": 33,
-        "https://andperks.itch.io/tomathens": 34,
-        "https://calcoa.itch.io/epiphanic": 35,
-        "https://filam.itch.io/fruit-pop-merge": 36
+        "https://eons2eons.itch.io/bunker100": 1,
+        "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo": 2,
+        "https://bruceskii.itch.io/the-multiverse": 3,
+        "https://lord-deejay.itch.io/neighbors-at-no-14": 4,
+        "https://jm-pd.itch.io/questionnaire": 5,
+        "https://app-flux.itch.io/poker-squares": 6,
+        "https://samiahss.itch.io/phosphenes": 7,
+        "https://spinfoam-games.itch.io/benevolence": 8,
+        "https://motomune.itch.io/ignis-city": 9,
+        "https://cdubs69.itch.io/pygameminesweeper": 10,
+        "https://benschraeder.itch.io/orbital-warden": 11,
+        "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life": 12,
+        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt": 13,
+        "https://jammintk.itch.io/ps-bazooka": 14,
+        "https://greatthe8.itch.io/cr-drive-demo": 15,
+        "https://griffinrio.itch.io/dinkystinkyandthebigworm": 16,
+        "https://gipgames.itch.io/polarity-flip": 17,
+        "https://benschraeder.itch.io/atomas-for-arduboy": 18,
+        "https://mctipper.itch.io/electrosnake-3d": 19,
+        "https://brethudson.itch.io/pickblock": 20,
+        "https://aevox23.itch.io/fauxil": 21,
+        "https://peomgam.itch.io/superprot5": 22,
+        "https://hobobunnie.itch.io/cyberduck-20xx": 23,
+        "https://ferdner.itch.io/pizel": 24,
+        "https://knightmare00.itch.io/paths-in-the-dark": 25,
+        "https://relatif.itch.io/metalmesh": 26,
+        "https://woodring.itch.io/rudequests": 27,
+        "https://rulric.itch.io/nana": 28,
+        "https://globwars.itch.io/immortal-slinger": 29,
+        "https://limblicious.itch.io/100-dudes-v2": 30,
+        "https://gear-6.itch.io/reach-for-the-mines": 31,
+        "https://soggywater321.itch.io/snowthing": 32,
+        "https://imissyouoren.itch.io/badminton": 33,
+        "https://0urb0r0s.itch.io/slashing-adventure": 34,
+        "https://andperks.itch.io/tomathens": 35,
+        "https://calcoa.itch.io/epiphanic": 36
       },
-      "scannedAt": "2026-08-01T06:45:40.653Z",
+      "scannedAt": "2026-08-01T06:50:08.202Z",
       "detectedType": "itch-listing"
     },
     "itch-new-popular-web": {
@@ -157,11 +157,12 @@
         "https://mazhron.itch.io/everwood": 35,
         "https://anamerzlaya.itch.io/having-fun-mochi": 36
       },
-      "scannedAt": "2026-08-01T06:45:40.683Z",
+      "scannedAt": "2026-08-01T06:50:08.281Z",
       "detectedType": "itch-listing"
     },
     "itch-new-feed": {
       "urls": [
+        "https://sanjaycj.itch.io/toilet-attack",
         "https://eons2eons.itch.io/bunker100",
         "https://nipeyo.itch.io/balloon-inc-r-emental",
         "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo",
@@ -196,48 +197,47 @@
         "https://shuandang.itch.io/jacques-the-red",
         "https://owlcapone77.itch.io/no-backrooms-stroll",
         "https://aupiscan.itch.io/aupiscan-daily-gold-hunt",
-        "https://jammintk.itch.io/ps-bazooka",
-        "https://greatthe8.itch.io/cr-drive-demo"
+        "https://jammintk.itch.io/ps-bazooka"
       ],
       "positions": {
-        "https://eons2eons.itch.io/bunker100": 1,
-        "https://nipeyo.itch.io/balloon-inc-r-emental": 2,
-        "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo": 3,
-        "https://exerart.itch.io/ai-wonderland": 4,
-        "https://iamatrex.itch.io/the-lazulite-fountain": 5,
-        "https://freejeremy.itch.io/stone-stickers": 6,
-        "https://bruceskii.itch.io/the-multiverse": 7,
-        "https://tales-from-the-multiverse.itch.io/turbomodeopenalpha": 8,
-        "https://lord-deejay.itch.io/neighbors-at-no-14": 9,
-        "https://xavieregabrielcerrudo.itch.io/talking-tom-olympic-apk": 10,
-        "https://jm-pd.itch.io/questionnaire": 11,
-        "https://lucaslizama.itch.io/the-first-day": 12,
-        "https://darkwebpenis.itch.io/peak-taggers": 13,
-        "https://miyadoria.itch.io/bossrush": 14,
-        "https://shuandang.itch.io/steel-samurai-on-fire": 15,
-        "https://donpalop.itch.io/playing": 16,
-        "https://bakenshake09.itch.io/revenants-of-europa": 17,
-        "https://christianjm-81001.itch.io/vortexmetricengine": 18,
-        "https://treegravy.itch.io/ua-heretic-intimacy": 19,
-        "https://app-flux.itch.io/poker-squares": 20,
-        "https://samiahss.itch.io/phosphenes": 21,
-        "https://spinfoam-games.itch.io/benevolence": 22,
-        "https://shuandang.itch.io/lunchtime": 23,
-        "https://motomune.itch.io/ignis-city": 24,
-        "https://cdubs69.itch.io/pygameminesweeper": 25,
-        "https://miracula-works.itch.io/3-bingos-away-from-hell": 26,
-        "https://0xff90.itch.io/protocol-z": 27,
-        "https://benschraeder.itch.io/orbital-warden": 28,
-        "https://corgisek.itch.io/criminal-scratch-game": 29,
-        "https://porcupine64.itch.io/nebulune": 30,
-        "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life": 31,
-        "https://shuandang.itch.io/jacques-the-red": 32,
-        "https://owlcapone77.itch.io/no-backrooms-stroll": 33,
-        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt": 34,
-        "https://jammintk.itch.io/ps-bazooka": 35,
-        "https://greatthe8.itch.io/cr-drive-demo": 36
+        "https://sanjaycj.itch.io/toilet-attack": 1,
+        "https://eons2eons.itch.io/bunker100": 2,
+        "https://nipeyo.itch.io/balloon-inc-r-emental": 3,
+        "https://greatcoltini.itch.io/kingdomtd-draft-your-demise-demo": 4,
+        "https://exerart.itch.io/ai-wonderland": 5,
+        "https://iamatrex.itch.io/the-lazulite-fountain": 6,
+        "https://freejeremy.itch.io/stone-stickers": 7,
+        "https://bruceskii.itch.io/the-multiverse": 8,
+        "https://tales-from-the-multiverse.itch.io/turbomodeopenalpha": 9,
+        "https://lord-deejay.itch.io/neighbors-at-no-14": 10,
+        "https://xavieregabrielcerrudo.itch.io/talking-tom-olympic-apk": 11,
+        "https://jm-pd.itch.io/questionnaire": 12,
+        "https://lucaslizama.itch.io/the-first-day": 13,
+        "https://darkwebpenis.itch.io/peak-taggers": 14,
+        "https://miyadoria.itch.io/bossrush": 15,
+        "https://shuandang.itch.io/steel-samurai-on-fire": 16,
+        "https://donpalop.itch.io/playing": 17,
+        "https://bakenshake09.itch.io/revenants-of-europa": 18,
+        "https://christianjm-81001.itch.io/vortexmetricengine": 19,
+        "https://treegravy.itch.io/ua-heretic-intimacy": 20,
+        "https://app-flux.itch.io/poker-squares": 21,
+        "https://samiahss.itch.io/phosphenes": 22,
+        "https://spinfoam-games.itch.io/benevolence": 23,
+        "https://shuandang.itch.io/lunchtime": 24,
+        "https://motomune.itch.io/ignis-city": 25,
+        "https://cdubs69.itch.io/pygameminesweeper": 26,
+        "https://miracula-works.itch.io/3-bingos-away-from-hell": 27,
+        "https://0xff90.itch.io/protocol-z": 28,
+        "https://benschraeder.itch.io/orbital-warden": 29,
+        "https://corgisek.itch.io/criminal-scratch-game": 30,
+        "https://porcupine64.itch.io/nebulune": 31,
+        "https://gray-and-mr-tree.itch.io/sprunkimse-phase-17-happy-life": 32,
+        "https://shuandang.itch.io/jacques-the-red": 33,
+        "https://owlcapone77.itch.io/no-backrooms-stroll": 34,
+        "https://aupiscan.itch.io/aupiscan-daily-gold-hunt": 35,
+        "https://jammintk.itch.io/ps-bazooka": 36
       },
-      "scannedAt": "2026-08-01T06:45:40.752Z",
+      "scannedAt": "2026-08-01T06:50:08.447Z",
       "detectedType": "feed"
     },
     "itch-featured-feed": {
@@ -265,7 +265,7 @@
         "https://wearemuesli.itch.io/its": 9,
         "https://pantaloon-io.itch.io/rolla": 10
       },
-      "scannedAt": "2026-08-01T06:45:40.780Z",
+      "scannedAt": "2026-08-01T06:50:08.561Z",
       "detectedType": "feed"
     },
     "crazygames-new": {
@@ -413,7 +413,7 @@
         "https://www.crazygames.com/game/chicken-hell": 69,
         "https://www.crazygames.com/game/zombie-lab-escape": 70
       },
-      "scannedAt": "2026-08-01T06:45:42.166Z",
+      "scannedAt": "2026-08-01T06:50:09.996Z",
       "detectedType": "crazygames-listing"
     },
     "poki-new": {
@@ -703,7 +703,7 @@
         "https://poki.com/en/g/deadrise-io": 140,
         "https://poki.com/en/g/4th-and-goal-2026": 141
       },
-      "scannedAt": "2026-08-01T06:45:42.272Z",
+      "scannedAt": "2026-08-01T06:50:10.211Z",
       "detectedType": "poki-listing"
     },
     "y8-new": {
@@ -857,7 +857,7 @@
         "https://www.y8.com/games/up_hero": 72,
         "https://www.y8.com/games/mine_shooter_3d": 73
       },
-      "scannedAt": "2026-08-01T06:45:43.349Z",
+      "scannedAt": "2026-08-01T06:50:10.990Z",
       "detectedType": "y8-listing"
     },
     "gamepix-new": {
@@ -985,7 +985,7 @@
         "https://www.gamepix.com/play/jumptothemoon": 59,
         "https://www.gamepix.com/play/brainrot-chase-hide-n-seek": 60
       },
-      "scannedAt": "2026-08-01T06:45:43.444Z",
+      "scannedAt": "2026-08-01T06:50:11.170Z",
       "detectedType": "gamepix-listing"
     },
     "lagged-new": {
@@ -1157,7 +1157,7 @@
         "https://lagged.com/en/g/choir": 81,
         "https://lagged.com/en/g/skateboard-surf": 82
       },
-      "scannedAt": "2026-08-01T06:45:43.624Z",
+      "scannedAt": "2026-08-01T06:50:11.309Z",
       "detectedType": "lagged-listing"
     },
     "steam-popular-new": {
@@ -1263,7 +1263,7 @@
         "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/?snr=1_7_7_popularnew_150_1": 48,
         "https://store.steampowered.com/app/2209900/Moonlight_Peaks/?snr=1_7_7_popularnew_150_1": 49
       },
-      "scannedAt": "2026-08-01T06:45:41.081Z",
+      "scannedAt": "2026-08-01T06:50:08.933Z",
       "detectedType": "steam-listing"
     },
     "steam-latest-indie": {
@@ -1371,7 +1371,7 @@
         "https://store.steampowered.com/app/4943760/The_Broken_Crown/?snr=1_7_7_240_150_1": 49,
         "https://store.steampowered.com/app/4135040/Dig_Baby_Dig_Company/?snr=1_7_7_240_150_1": 50
       },
-      "scannedAt": "2026-08-01T06:45:41.334Z",
+      "scannedAt": "2026-08-01T06:50:09.238Z",
       "detectedType": "steam-listing"
     },
     "newgrounds-daily-top": {
@@ -1389,7 +1389,7 @@
         "https://www.newgrounds.com/portal/view/1044741": 4,
         "https://www.newgrounds.com/portal/view/1044639": 5
       },
-      "scannedAt": "2026-08-01T06:45:41.909Z",
+      "scannedAt": "2026-08-01T06:50:09.613Z",
       "detectedType": "feed"
     },
     "newgrounds-latest": {
@@ -1421,7 +1421,7 @@
         "https://www.newgrounds.com/portal/view/1044786": 11,
         "https://www.newgrounds.com/portal/view/1044827": 12
       },
-      "scannedAt": "2026-08-01T06:45:41.989Z",
+      "scannedAt": "2026-08-01T06:50:09.667Z",
       "detectedType": "feed"
     },
     "trends-rising-7d-itch-io": {
@@ -1611,7 +1611,7 @@
       "detectedType": "trends-related-rising"
     }
   },
-  "lastScan": "2026-08-01T06:45:40.553Z",
+  "lastScan": "2026-08-01T06:50:07.988Z",
   "lastRisingDiscovery": "2026-08-01T04:35:27.551Z",
   "lastTrendBatch": "2026-08-01T06:44:56.150Z"
 }
