@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-08-01T13:54:54.290Z",
+  "generatedAt": "2026-08-01T15:18:46.195Z",
   "totalCandidates": 3000,
-  "pendingSeo": 1523,
+  "pendingSeo": 1566,
   "channelCounts": {
-    "online": 870,
-    "pending": 482,
-    "wiki": 171
+    "online": 885,
+    "pending": 506,
+    "wiki": 175
   },
   "fastClassCounts": {
-    "online:pending": 870,
-    "pending:pending": 482,
-    "wiki:pending": 171
+    "online:pending": 885,
+    "pending:pending": 506,
+    "wiki:pending": 175
   },
   "strategicCounts": {
-    "online:2": 2,
-    "pending:0": 479,
-    "online:1": 868,
+    "online:2": 3,
+    "pending:0": 503,
+    "online:1": 882,
     "wiki:2": 1,
-    "wiki:1": 170,
+    "wiki:1": 174,
     "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1029
+      "count": 1060
     },
     {
       "id": "itch-new-feed",
-      "count": 818
+      "count": 847
     },
     {
       "id": "itch-newest-web",
-      "count": 608
+      "count": 618
     },
     {
       "id": "steam-latest-indie",
-      "count": 155
+      "count": 159
     },
     {
       "id": "steam-new",
-      "count": 155
+      "count": 159
     },
     {
       "id": "newgrounds-latest",
-      "count": 78
+      "count": 79
     },
     {
       "id": "newgrounds-new",
-      "count": 78
+      "count": 79
     },
     {
       "id": "y8-new",
-      "count": 59
+      "count": 63
     },
     {
       "id": "gamepix-new",
@@ -59,7 +59,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 40
+      "count": 41
     },
     {
       "id": "poki-new",
@@ -67,7 +67,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 21
+      "count": 23
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -78,6 +78,10 @@
       "count": 18
     },
     {
+      "id": "trends-rising-30d-itch-io",
+      "count": 17
+    },
+    {
       "id": "steam-popular-new",
       "count": 17
     },
@@ -86,20 +90,16 @@
       "count": 17
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 16
+      "id": "trends-rising-7d-itch-io",
+      "count": 12
     },
     {
       "id": "itch-new-popular-web",
-      "count": 10
+      "count": 11
     },
     {
       "id": "itch-popular",
-      "count": 10
-    },
-    {
-      "id": "trends-rising-7d-itch-io",
-      "count": 10
+      "count": 11
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -148,6 +148,25 @@
       ]
     },
     {
+      "name": "Relicworks: Jungle Factory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Dom Dom",
       "channel": "online",
       "fastClass": "pending",
@@ -167,14 +186,14 @@
       ]
     },
     {
-      "name": "HackHub - Ultimate Hacker Simulator",
+      "name": "WARSHIFT 2",
       "channel": "wiki",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 12,
       "platforms": 0,
       "browserPlayable": false,
-      "nameRisk": 5,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 3,
       "sourceIds": [
@@ -223,6 +242,91 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "KILL 3000 DOGBOTS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Space Miner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "花火にはまだ早い / Too Soon for Fireworks",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "{SOUL LIFTING} SSS+",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Orbital Assault",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -865,108 +969,6 @@
     },
     {
       "name": "Flippy Meerkat",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Quantum Drop",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Vitalife",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "What Have You Done my remix",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Survive with BUMBO",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Sprunki.MSE Phase 19: Chaos Starts",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Kart Racer",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
