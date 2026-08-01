@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-07-31T23:41:43.004Z",
+  "scannedAt": "2026-08-01T01:13:55.033Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 46,
+  "totalAdded": 84,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 13
+      "added": 33
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 22
+      "added": 36
     },
     {
       "ok": true,
@@ -38,14 +38,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 2
+      "added": 1
     },
     {
       "ok": true,
@@ -59,7 +59,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -73,14 +73,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 142,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 8
+      "added": 9
     },
     {
       "ok": true,
@@ -100,53 +100,52 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 101,
-  "fastWatchCount": 268,
-  "fastRejectedCount": 1472,
+  "fastPassedCount": 108,
+  "fastWatchCount": 261,
+  "fastRejectedCount": 1416,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
   "youtubeErrors": 0,
-  "trendsVerified": 0,
-  "trendErrors": 4,
+  "trendsVerified": 6,
+  "trendErrors": 242,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 427,
-  "trendEligibleCount": 65,
-  "trendPendingCount": 64,
-  "trendValidatedCount": 247,
-  "risingCount": 3,
+  "seoPassedCount": 428,
+  "trendEligibleCount": 69,
+  "trendPendingCount": 68,
+  "trendValidatedCount": 253,
+  "risingCount": 4,
   "globalRisingCount": 0,
   "recommendationCounts": {
-    "independent": 0,
+    "independent": 1,
     "page": 2,
-    "watch": 299,
-    "reject": 1160,
-    "pending": 1539,
+    "watch": 301,
+    "reject": 1103,
+    "pending": 1593,
     "error": 0
   },
-  "trendProvider": "serpapi+searchapi",
+  "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 247,
-    "searchapi": 3
+    "serpapi": 253
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
     "enabled": true,
-    "month": "2026-07",
+    "month": "2026-08",
     "monthUsed": 245,
-    "day": "2026-07-31",
-    "dayUsed": 0,
+    "day": "2026-08-01",
+    "dayUsed": 245,
     "monthlyLimit": 245,
     "dailyLimit": 245,
-    "updatedAt": "2026-07-29T09:29:17.682Z"
+    "updatedAt": "2026-08-01T01:17:57.744Z"
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-07-31T23:41:41.876Z",
+    "checkedAt": "2026-08-01T01:13:53.811Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -171,7 +170,7 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "serper+autocomplete": 1820,
+    "serper+autocomplete": 1764,
     "duckduckgo+autocomplete": 22
   },
   "serperConfigured": true,
@@ -189,7 +188,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-07-31",
+    "day": "2026-08-01",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -201,9 +200,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2042,
-    "wiki": 355,
-    "pending": 603
+    "online": 2069,
+    "wiki": 349,
+    "pending": 582
   },
   "serperVerification": {
     "rushMode": true,
@@ -220,16 +219,16 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-07-31T23:41:57.774Z"
+    "ranAt": "2026-08-01T01:14:20.870Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-07-31T23:41:58.650Z",
+    "checkedAt": "2026-08-01T01:14:21.674Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 644,
+    "totalIndependentSearchesLeft": 643,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -238,8 +237,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 245,
-        "totalSearchesLeft": 5,
+        "thisMonthUsage": 246,
+        "totalSearchesLeft": 4,
         "renewalDate": "2026-08-29"
       },
       {
@@ -289,11 +288,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 245,
-        "planSearchesLeft": 5,
-        "totalSearchesLeft": 5,
+        "thisMonthUsage": 246,
+        "planSearchesLeft": 4,
+        "totalSearchesLeft": 4,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-31T23:41:58.384Z",
+        "checkedAt": "2026-08-01T01:14:21.537Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -313,7 +312,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-31T23:41:58.471Z",
+        "checkedAt": "2026-08-01T01:14:21.582Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -333,7 +332,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-31T23:41:58.561Z",
+        "checkedAt": "2026-08-01T01:14:21.630Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -353,7 +352,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-07-31T23:41:58.650Z",
+        "checkedAt": "2026-08-01T01:14:21.674Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -368,14 +367,14 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 202,
+      "validated": 206,
       "rising": 0,
       "recommended": 0
     },
     "wiki": {
-      "validated": 39,
-      "rising": 1,
-      "recommended": 0
+      "validated": 41,
+      "rising": 2,
+      "recommended": 1
     },
     "pending": {
       "validated": 6,
@@ -386,31 +385,37 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 1,
-    "remainingAtStart": 0,
-    "queueSize": 0,
-    "verified": 0,
-    "errors": 0,
-    "quotaStopped": false,
+    "remainingAtStart": 244,
+    "queueSize": 297,
+    "verified": 5,
+    "errors": 239,
+    "quotaStopped": true,
     "tierCounts": {
-      "strong": 0,
+      "strong": 5,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
-      "online": 0,
-      "wiki": 0,
+      "online": 4,
+      "wiki": 1,
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 52,
-      "secondary": 172,
-      "strategic": 74
+      "strong": 19,
+      "secondary": 117,
+      "strategic": 68
     },
     "pendingByChannel": {
-      "online": 261,
-      "wiki": 37
+      "online": 183,
+      "wiki": 21
     },
-    "verifiedNames": [],
+    "verifiedNames": [
+      "Jewel Coloring",
+      "Plinko RNG",
+      "DNA Evolution 3D",
+      "Denshattack!",
+      "Collect Brainrot Arena"
+    ],
     "caps": {
       "online": 999,
       "wiki": 999,
@@ -422,46 +427,46 @@
         "envName": "SERPAPI_API_KEY",
         "ok": true,
         "error": null,
-        "verified": 0,
+        "verified": 5,
         "channelVerified": {
-          "online": 0,
-          "wiki": 0,
+          "online": 4,
+          "wiki": 1,
           "pending": 0
         },
-        "errors": 0,
-        "quotaStopped": false
+        "errors": 239,
+        "quotaStopped": true
       }
     },
-    "ranAt": "2026-07-31T23:41:58.907Z"
+    "ranAt": "2026-08-01T01:17:58.695Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 1,
-    "month": "2026-07",
+    "month": "2026-08",
     "monthUsed": 245,
-    "day": "2026-07-31",
-    "dayUsed": 0,
+    "day": "2026-08-01",
+    "dayUsed": 245,
     "monthlyLimit": 245,
     "dailyLimit": 245,
     "accounts": {
       "1": {
         "envName": "SERPAPI_API_KEY",
         "monthUsed": 245,
-        "dayUsed": 0,
+        "dayUsed": 245,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-07-29T09:29:17.682Z"
+        "updatedAt": "2026-08-01T01:17:57.744Z"
       }
     },
-    "updatedAt": "2026-07-31T23:41:58.989Z"
+    "updatedAt": "2026-08-01T01:17:58.745Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-07-31T23:41:59.661Z",
+    "updatedAt": "2026-08-01T01:17:59.078Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -487,29 +492,29 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 259,
-      "wiki": 36
+      "online": 183,
+      "wiki": 21
     },
     "pendingByTier": {
-      "strong": 49,
-      "secondary": 172,
-      "strategic": 74
+      "strong": 19,
+      "secondary": 117,
+      "strategic": 68
     },
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Shift At Midnight",
+        "name": "Rail in the Air",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       },
       {
-        "name": "Jewel Coloring",
+        "name": "Coin Merge",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       },
       {
-        "name": "Plinko RNG",
+        "name": "Moonlight Peaks",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-07-31T23:41:59.727Z"
+    "ranAt": "2026-08-01T01:17:59.168Z"
   }
 }
