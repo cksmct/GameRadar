@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-01T06:44:56.150Z",
+  "scannedAt": "2026-08-01T06:45:40.553Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
@@ -45,7 +45,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -72,8 +72,8 @@
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 142,
-      "added": 1
+      "total": 141,
+      "added": 0
     },
     {
       "ok": true,
@@ -108,9 +108,9 @@
   "youtubeVerified": 0,
   "youtubeErrors": 0,
   "trendsVerified": 0,
-  "trendErrors": 2,
-  "trendBatchRan": true,
-  "trendQueueSize": 1,
+  "trendErrors": 1,
+  "trendBatchRan": false,
+  "trendQueueSize": 0,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
@@ -131,7 +131,7 @@
   "trendProvider": "serpapi+searchapi",
   "trendProviderCounts": {
     "serpapi": 253,
-    "searchapi": 6
+    "searchapi": 7
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -146,7 +146,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-01T06:44:54.867Z",
+    "checkedAt": "2026-08-01T06:45:39.314Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -202,8 +202,8 @@
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
     "online": 2029,
-    "wiki": 351,
-    "pending": 620
+    "wiki": 352,
+    "pending": 619
   },
   "serperVerification": {
     "rushMode": true,
@@ -220,7 +220,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:45:10.301Z"
+    "ranAt": "2026-08-01T06:45:46.421Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -233,10 +233,10 @@
       "pending": 0
     },
     "verifiedNames": [],
-    "ranAt": "2026-08-01T06:45:10.675Z"
+    "ranAt": "2026-08-01T06:45:46.767Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-01T06:45:11.558Z",
+    "checkedAt": "2026-08-01T06:45:47.619Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -306,7 +306,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:11.284Z",
+        "checkedAt": "2026-08-01T06:45:47.356Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -326,7 +326,7 @@
         "planSearchesLeft": 155,
         "totalSearchesLeft": 155,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:11.376Z",
+        "checkedAt": "2026-08-01T06:45:47.445Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -346,7 +346,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:11.465Z",
+        "checkedAt": "2026-08-01T06:45:47.529Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -366,7 +366,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-01T06:45:11.558Z",
+        "checkedAt": "2026-08-01T06:45:47.619Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -415,13 +415,13 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 38,
-      "secondary": 173,
-      "strategic": 75
+      "strong": 23,
+      "secondary": 52,
+      "strategic": 11
     },
     "pendingByChannel": {
-      "online": 252,
-      "wiki": 34
+      "online": 69,
+      "wiki": 17
     },
     "verifiedNames": [],
     "caps": {
@@ -445,7 +445,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-01T06:45:11.904Z"
+    "ranAt": "2026-08-01T06:45:47.957Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -467,14 +467,14 @@
         "updatedAt": "2026-08-01T01:17:57.744Z"
       }
     },
-    "updatedAt": "2026-08-01T06:45:11.962Z"
+    "updatedAt": "2026-08-01T06:45:48.007Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-01T06:45:12.344Z",
+    "updatedAt": "2026-08-01T06:45:48.367Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -500,21 +500,21 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 252,
-      "wiki": 34
+      "online": 68,
+      "wiki": 17
     },
     "pendingByTier": {
-      "strong": 38,
-      "secondary": 173,
-      "strategic": 75
+      "strong": 22,
+      "secondary": 52,
+      "strategic": 11
     },
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Coin Merge",
+        "name": "Monkey Mart",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-01T06:45:12.433Z"
+    "ranAt": "2026-08-01T06:45:48.465Z"
   }
 }
