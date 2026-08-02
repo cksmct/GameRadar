@@ -1,60 +1,61 @@
 {
-  "generatedAt": "2026-08-02T19:53:58.379Z",
+  "generatedAt": "2026-08-02T21:10:10.708Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2568,
+  "pendingSeo": 2627,
   "channelCounts": {
-    "pending": 819,
-    "online": 1518,
-    "wiki": 231
+    "pending": 834,
+    "online": 1558,
+    "wiki": 235
   },
   "fastClassCounts": {
-    "pending:pending": 819,
-    "online:pending": 1518,
-    "wiki:pending": 231
+    "pending:pending": 834,
+    "online:pending": 1558,
+    "wiki:pending": 235
   },
   "strategicCounts": {
-    "pending:0": 811,
+    "pending:0": 826,
     "online:2": 31,
-    "online:1": 1487,
-    "wiki:1": 231,
+    "online:1": 1527,
+    "wiki:2": 1,
+    "wiki:1": 234,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1767
+      "count": 1811
     },
     {
       "id": "itch-new-feed",
-      "count": 1466
+      "count": 1500
     },
     {
       "id": "itch-newest-web",
-      "count": 1037
+      "count": 1064
     },
     {
       "id": "steam-latest-indie",
-      "count": 183
+      "count": 185
     },
     {
       "id": "steam-new",
-      "count": 183
+      "count": 185
     },
     {
       "id": "newgrounds-latest",
-      "count": 129
+      "count": 130
     },
     {
       "id": "newgrounds-new",
-      "count": 129
+      "count": 130
     },
     {
       "id": "y8-new",
-      "count": 120
+      "count": 121
     },
     {
       "id": "poki-new",
-      "count": 70
+      "count": 79
     },
     {
       "id": "gamepix-new",
@@ -62,11 +63,11 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 52
+      "count": 51
     },
     {
       "id": "steam-popular-new",
-      "count": 48
+      "count": 51
     },
     {
       "id": "lagged-new",
@@ -74,7 +75,7 @@
     },
     {
       "id": "crazygames-new",
-      "count": 42
+      "count": 44
     },
     {
       "id": "itch-new-popular-web",
@@ -86,7 +87,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 39
+      "count": 38
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -94,11 +95,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 20
+      "count": 19
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 17
+      "count": 16
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -686,6 +687,23 @@
       ]
     },
     {
+      "name": "HackHub - Ultimate Hacker Simulator",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "OVERDRIVE",
       "channel": "online",
       "fastClass": "pending",
@@ -754,23 +772,6 @@
       ]
     },
     {
-      "name": "Perch",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
       "name": "Ecos do Tempo",
       "channel": "online",
       "fastClass": "pending",
@@ -802,23 +803,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
-      ]
-    },
-    {
-      "name": "Hurri-Kenny",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
       ]
     },
     {
@@ -857,7 +841,41 @@
       ]
     },
     {
-      "name": "Degen Art Museum",
+      "name": "Perch",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Hurri-Kenny",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Cube Jump",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -874,14 +892,14 @@
       ]
     },
     {
-      "name": "Petals Puzzle",
+      "name": "Neon Breaker",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -891,41 +909,7 @@
       ]
     },
     {
-      "name": "Serene_Museum (SOSE_26)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "PuNKyzaDo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Curse of Arachne",
+      "name": "The Blue Cone",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -942,14 +926,14 @@
       ]
     },
     {
-      "name": "Rush Ball",
+      "name": "Prism Pop",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -959,7 +943,7 @@
       ]
     },
     {
-      "name": "UNBOUND",
+      "name": "Gravicaster",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -976,7 +960,7 @@
       ]
     },
     {
-      "name": "Flower Chaser",
+      "name": "Rising Sprinter",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -993,7 +977,7 @@
       ]
     },
     {
-      "name": "Kinetic Tag",
+      "name": "Little Cloud",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1010,14 +994,31 @@
       ]
     },
     {
-      "name": "Incredibox - Smashy City",
+      "name": "The Setup",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Rubysoul - Cave Game Restyled",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
