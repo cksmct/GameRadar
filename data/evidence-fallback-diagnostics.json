@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-08-02T12:16:11.565Z",
+  "generatedAt": "2026-08-02T13:58:16.444Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2224,
+  "pendingSeo": 2283,
   "channelCounts": {
-    "pending": 721,
-    "online": 1305,
-    "wiki": 198
+    "pending": 743,
+    "online": 1337,
+    "wiki": 203
   },
   "fastClassCounts": {
-    "pending:pending": 721,
-    "online:pending": 1305,
-    "wiki:pending": 198
+    "pending:pending": 743,
+    "online:pending": 1337,
+    "wiki:pending": 203
   },
   "strategicCounts": {
-    "pending:0": 716,
-    "online:2": 24,
-    "online:1": 1281,
-    "wiki:1": 198,
+    "pending:0": 738,
+    "online:2": 27,
+    "online:1": 1310,
+    "wiki:1": 203,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1534
+      "count": 1571
     },
     {
       "id": "itch-new-feed",
-      "count": 1263
+      "count": 1298
     },
     {
       "id": "itch-newest-web",
-      "count": 898
+      "count": 911
     },
     {
       "id": "steam-latest-indie",
-      "count": 177
+      "count": 179
     },
     {
       "id": "steam-new",
-      "count": 177
+      "count": 179
     },
     {
       "id": "newgrounds-latest",
-      "count": 118
+      "count": 121
     },
     {
       "id": "newgrounds-new",
-      "count": 118
+      "count": 121
     },
     {
       "id": "y8-new",
-      "count": 102
+      "count": 111
     },
     {
       "id": "gamepix-new",
@@ -58,39 +58,39 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 52
+      "count": 51
     },
     {
       "id": "poki-new",
-      "count": 42
+      "count": 44
     },
     {
-      "id": "trends-rising-7d",
-      "count": 38
+      "id": "lagged-new",
+      "count": 39
     },
     {
       "id": "crazygames-new",
+      "count": 39
+    },
+    {
+      "id": "trends-rising-7d",
       "count": 37
     },
     {
       "id": "itch-new-popular-web",
-      "count": 34
+      "count": 35
     },
     {
       "id": "itch-popular",
-      "count": 34
-    },
-    {
-      "id": "lagged-new",
-      "count": 34
-    },
-    {
-      "id": "trends-rising-30d-horror-game",
-      "count": 24
+      "count": 35
     },
     {
       "id": "steam-popular-new",
-      "count": 21
+      "count": 24
+    },
+    {
+      "id": "trends-rising-30d-horror-game",
+      "count": 23
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -98,7 +98,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 17
+      "count": 16
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -130,6 +130,54 @@
     }
   ],
   "samples": [
+    {
+      "name": "Car and Truck Parking",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 26,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
+    {
+      "name": "Geometry Goal Dash 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
+    {
+      "name": "Frost Wing Hopper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "y8-new"
+      ]
+    },
     {
       "name": "Football Marble Shooter",
       "channel": "online",
@@ -659,6 +707,24 @@
       ]
     },
     {
+      "name": "Hostage Heart",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Electro 1.1V",
       "channel": "online",
       "fastClass": "pending",
@@ -667,6 +733,108 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Today is My Birthday",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "ks4 real and optimized",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "BFDI flappy bird",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Trickshot GOLF!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Wheelchair Gymkhana Prototype",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Neon Rift",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -830,176 +998,6 @@
     },
     {
       "name": "Stage Left",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Just Jump Html",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Sprunki phase 2.5 shifted",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "missys",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "PEEK: Zodiac Roulette",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Japan 1935 Economic Simulation",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "The Lost Crsytal",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ballaga",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Man, I hate fishing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Blob Merge",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Last Stand: Zombie Arena",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
