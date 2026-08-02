@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-08-02T17:44:32.003Z",
+  "generatedAt": "2026-08-02T18:43:28.988Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2445,
+  "pendingSeo": 2505,
   "channelCounts": {
-    "pending": 786,
-    "online": 1436,
-    "wiki": 223
+    "pending": 809,
+    "online": 1470,
+    "wiki": 226
   },
   "fastClassCounts": {
-    "pending:pending": 786,
-    "online:pending": 1436,
-    "wiki:pending": 223
+    "pending:pending": 809,
+    "online:pending": 1470,
+    "wiki:pending": 226
   },
   "strategicCounts": {
-    "pending:0": 780,
-    "online:2": 26,
-    "online:1": 1410,
-    "wiki:1": 223,
-    "pending:1": 6
+    "pending:0": 801,
+    "online:2": 31,
+    "online:1": 1439,
+    "wiki:1": 226,
+    "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1699
+      "count": 1731
     },
     {
       "id": "itch-new-feed",
-      "count": 1400
+      "count": 1432
     },
     {
       "id": "itch-newest-web",
-      "count": 998
+      "count": 1012
     },
     {
       "id": "steam-latest-indie",
@@ -50,7 +50,11 @@
     },
     {
       "id": "y8-new",
-      "count": 114
+      "count": 116
+    },
+    {
+      "id": "poki-new",
+      "count": 57
     },
     {
       "id": "gamepix-new",
@@ -58,54 +62,58 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 51
-    },
-    {
-      "id": "poki-new",
-      "count": 45
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 40
-    },
-    {
-      "id": "crazygames-new",
-      "count": 40
+      "count": 53
     },
     {
       "id": "lagged-new",
-      "count": 38
+      "count": 43
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 43
+    },
+    {
+      "id": "crazygames-new",
+      "count": 41
     },
     {
       "id": "trends-rising-7d",
-      "count": 37
+      "count": 40
     },
     {
       "id": "itch-new-popular-web",
-      "count": 36
+      "count": 40
     },
     {
       "id": "itch-popular",
-      "count": 36
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 23
+      "count": 25
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 20
     },
     {
-      "id": "trends-rising-7d-horror-game",
-      "count": 15
+      "id": "trends-rising-7d-itch-io",
+      "count": 17
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 15
+      "id": "trends-rising-7d-horror-game",
+      "count": 16
     },
     {
       "id": "trends-rising-7d-indie-game",
+      "count": 9
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 9
+    },
+    {
+      "id": "itch-featured",
       "count": 9
     },
     {
@@ -118,14 +126,6 @@
     },
     {
       "id": "newgrounds-top",
-      "count": 6
-    },
-    {
-      "id": "itch-featured-feed",
-      "count": 6
-    },
-    {
-      "id": "itch-featured",
       "count": 6
     }
   ],
@@ -160,6 +160,63 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Vagrant",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Kraken's Variety Pack 6: Search Party!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Thing Beneath",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -274,6 +331,25 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "The Snake That Eats Puzzle Game Mechanics",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 8,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -449,6 +525,24 @@
     },
     {
       "name": "Shape Swiper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Summer Foodtruck OVERDRIVE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -746,7 +840,7 @@
       ]
     },
     {
-      "name": "Death Genesis Demo",
+      "name": "Nuclear Time",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -763,58 +857,7 @@
       ]
     },
     {
-      "name": "Still Number One",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Endless Latvian (WIP)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Speedy Gem Breaker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Car Dash",
+      "name": "The Prophecy",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -831,7 +874,7 @@
       ]
     },
     {
-      "name": "Ship It!",
+      "name": "Typesmith-Prototype",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -848,58 +891,7 @@
       ]
     },
     {
-      "name": "The last tree",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "THE FAST RAT",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ekspozivni Tetris - Željko Simić",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "FrostByte",
+      "name": "Starnet",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -916,7 +908,24 @@
       ]
     },
     {
-      "name": "Vive la RévoluShape",
+      "name": "PysTato",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Leap Beyond",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -933,14 +942,14 @@
       ]
     },
     {
-      "name": "The Styx 557",
+      "name": "FIZZ POP: Chain Reaction Puzzle",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 12,
+      "nameRisk": 4,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -950,24 +959,7 @@
       ]
     },
     {
-      "name": "Glass Cannon",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Park it, Mark",
+      "name": "Corruption quest (Trijam)",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -984,7 +976,41 @@
       ]
     },
     {
-      "name": "The Sunless Vault",
+      "name": "PapaPharma Compounding Quest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Party's Last Stand",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "House Hustle 2: Into the Deal",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -992,23 +1018,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Mik's Mini Arcade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
