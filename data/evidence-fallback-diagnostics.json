@@ -1,73 +1,78 @@
 {
-  "generatedAt": "2026-08-02T22:10:13.007Z",
+  "generatedAt": "2026-08-02T23:10:35.899Z",
   "totalCandidates": 3000,
   "pendingSeo": 2656,
   "channelCounts": {
-    "pending": 843,
-    "online": 1588,
-    "wiki": 225
+    "pending": 848,
+    "online": 1609,
+    "wiki": 199
   },
   "fastClassCounts": {
-    "pending:pending": 843,
-    "online:pending": 1588,
-    "wiki:pending": 225
+    "pending:pending": 848,
+    "online:pending": 1609,
+    "wiki:pending": 199
   },
   "strategicCounts": {
-    "pending:0": 835,
+    "pending:0": 840,
     "online:3": 1,
-    "online:2": 34,
-    "online:1": 1553,
-    "wiki:1": 225,
+    "online:2": 35,
+    "online:1": 1573,
+    "wiki:2": 1,
+    "wiki:1": 198,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1825
+      "count": 1848
     },
     {
       "id": "itch-new-feed",
-      "count": 1525
+      "count": 1548
     },
     {
       "id": "itch-newest-web",
-      "count": 1076
+      "count": 1093
     },
     {
       "id": "steam-latest-indie",
-      "count": 172
+      "count": 145
     },
     {
       "id": "steam-new",
-      "count": 172
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 127
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 127
+      "count": 145
     },
     {
       "id": "y8-new",
-      "count": 125
+      "count": 130
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 116
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 116
     },
     {
       "id": "poki-new",
-      "count": 87
+      "count": 91
     },
     {
       "id": "gamepix-new",
-      "count": 57
+      "count": 60
     },
     {
       "id": "trends-rising-30d",
-      "count": 56
+      "count": 55
     },
     {
       "id": "steam-popular-new",
-      "count": 53
+      "count": 55
+    },
+    {
+      "id": "lagged-new",
+      "count": 52
     },
     {
       "id": "itch-new-popular-web",
@@ -78,16 +83,12 @@
       "count": 50
     },
     {
-      "id": "lagged-new",
-      "count": 50
-    },
-    {
       "id": "crazygames-new",
-      "count": 45
+      "count": 47
     },
     {
       "id": "trends-rising-7d",
-      "count": 44
+      "count": 43
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -95,11 +96,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 19
+      "count": 18
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -150,6 +151,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Warehouse 24/7",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -763,6 +780,74 @@
       ]
     },
     {
+      "name": "HackHub - Ultimate Hacker Simulator",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Dino Game 2.0 - Remastered",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 11,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Fractal Lab",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Redline",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web"
+      ]
+    },
+    {
       "name": "OVERDRIVE",
       "channel": "online",
       "fastClass": "pending",
@@ -934,7 +1019,7 @@
       ]
     },
     {
-      "name": "Emberwall",
+      "name": "Deepmarch",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -942,91 +1027,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Paint The System!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Dino Game 2.0 - Remastered",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fast Flying",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fastcaster",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fractal Lab",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
