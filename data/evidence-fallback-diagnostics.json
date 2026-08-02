@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-02T15:19:20.171Z",
+  "generatedAt": "2026-08-02T16:36:58.986Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2344,
+  "pendingSeo": 2389,
   "channelCounts": {
-    "pending": 763,
-    "online": 1373,
-    "wiki": 208
+    "pending": 771,
+    "online": 1404,
+    "wiki": 214
   },
   "fastClassCounts": {
-    "pending:pending": 763,
-    "online:pending": 1373,
-    "wiki:pending": 208
+    "pending:pending": 771,
+    "online:pending": 1404,
+    "wiki:pending": 214
   },
   "strategicCounts": {
-    "pending:0": 758,
-    "online:2": 27,
-    "online:1": 1346,
-    "wiki:1": 208,
+    "pending:0": 766,
+    "online:2": 26,
+    "online:1": 1378,
+    "wiki:1": 214,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1618
+      "count": 1655
     },
     {
       "id": "itch-new-feed",
-      "count": 1333
+      "count": 1365
     },
     {
       "id": "itch-newest-web",
-      "count": 941
+      "count": 969
     },
     {
       "id": "steam-latest-indie",
-      "count": 179
+      "count": 180
     },
     {
       "id": "steam-new",
-      "count": 179
+      "count": 180
     },
     {
       "id": "newgrounds-latest",
@@ -50,7 +50,7 @@
     },
     {
       "id": "y8-new",
-      "count": 113
+      "count": 114
     },
     {
       "id": "gamepix-new",
@@ -58,19 +58,19 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 53
+      "count": 52
     },
     {
       "id": "poki-new",
-      "count": 44
-    },
-    {
-      "id": "trends-rising-7d",
-      "count": 39
+      "count": 45
     },
     {
       "id": "crazygames-new",
       "count": 39
+    },
+    {
+      "id": "trends-rising-7d",
+      "count": 38
     },
     {
       "id": "lagged-new",
@@ -86,7 +86,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 29
+      "count": 34
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -94,7 +94,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 21
+      "count": 20
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -102,7 +102,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 16
+      "count": 15
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -130,25 +130,6 @@
     }
   ],
   "samples": [
-    {
-      "name": "ProgramaBot",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -765,7 +746,7 @@
       ]
     },
     {
-      "name": "Horse Aroun",
+      "name": "Mik's Mini Arcade",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -782,7 +763,7 @@
       ]
     },
     {
-      "name": "The Passenger",
+      "name": "City Blocks",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -799,24 +780,7 @@
       ]
     },
     {
-      "name": "Akari",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "The Last Zombie",
+      "name": "Level Devil 3D",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -833,92 +797,7 @@
       ]
     },
     {
-      "name": "Short Circuit",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Go for It, Star!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Redoubt Arcade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Born as Weeds",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "POW POW!!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "The Singing Creatures",
+      "name": "Camino a Europa",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -935,7 +814,41 @@
       ]
     },
     {
-      "name": "Gonzo Goes To Yharnam",
+      "name": "Zombie or Human",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Beaver Forest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Minuteaur",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -952,14 +865,14 @@
       ]
     },
     {
-      "name": "Mousejack: The Ultimate 25-Point Jack",
+      "name": "VoxelRPG - By Miguel R.R.",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -969,14 +882,14 @@
       ]
     },
     {
-      "name": "Today is My Birthday",
+      "name": "Magic Caster",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -986,14 +899,14 @@
       ]
     },
     {
-      "name": "ks4 real and optimized",
+      "name": "Parkour Squares",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -1003,7 +916,92 @@
       ]
     },
     {
-      "name": "BFDI flappy bird",
+      "name": "Autonomous flappy bird",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Bug Dance Off",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "BlackRoot: RealmFall",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "The Summer I Met You",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Robin Boom",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "BOT@CARA",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
