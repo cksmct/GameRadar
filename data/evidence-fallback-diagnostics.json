@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-08-02T18:43:28.988Z",
+  "generatedAt": "2026-08-02T19:53:58.379Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2505,
+  "pendingSeo": 2568,
   "channelCounts": {
-    "pending": 809,
-    "online": 1470,
-    "wiki": 226
+    "pending": 819,
+    "online": 1518,
+    "wiki": 231
   },
   "fastClassCounts": {
-    "pending:pending": 809,
-    "online:pending": 1470,
-    "wiki:pending": 226
+    "pending:pending": 819,
+    "online:pending": 1518,
+    "wiki:pending": 231
   },
   "strategicCounts": {
-    "pending:0": 801,
+    "pending:0": 811,
     "online:2": 31,
-    "online:1": 1439,
-    "wiki:1": 226,
+    "online:1": 1487,
+    "wiki:1": 231,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1731
+      "count": 1767
     },
     {
       "id": "itch-new-feed",
-      "count": 1432
+      "count": 1466
     },
     {
       "id": "itch-newest-web",
-      "count": 1012
+      "count": 1037
     },
     {
       "id": "steam-latest-indie",
@@ -42,19 +42,19 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 128
+      "count": 129
     },
     {
       "id": "newgrounds-new",
-      "count": 128
+      "count": 129
     },
     {
       "id": "y8-new",
-      "count": 116
+      "count": 120
     },
     {
       "id": "poki-new",
-      "count": 57
+      "count": 70
     },
     {
       "id": "gamepix-new",
@@ -62,23 +62,19 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 53
-    },
-    {
-      "id": "lagged-new",
-      "count": 43
+      "count": 52
     },
     {
       "id": "steam-popular-new",
-      "count": 43
+      "count": 48
+    },
+    {
+      "id": "lagged-new",
+      "count": 47
     },
     {
       "id": "crazygames-new",
-      "count": 41
-    },
-    {
-      "id": "trends-rising-7d",
-      "count": 40
+      "count": 42
     },
     {
       "id": "itch-new-popular-web",
@@ -89,8 +85,12 @@
       "count": 40
     },
     {
+      "id": "trends-rising-7d",
+      "count": 39
+    },
+    {
       "id": "trends-rising-30d-horror-game",
-      "count": 25
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -102,7 +102,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 16
+      "count": 15
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -686,6 +686,23 @@
       ]
     },
     {
+      "name": "OVERDRIVE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web"
+      ]
+    },
+    {
       "name": "Midnight Cuckoo",
       "channel": "online",
       "fastClass": "pending",
@@ -840,7 +857,7 @@
       ]
     },
     {
-      "name": "Nuclear Time",
+      "name": "Degen Art Museum",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -857,7 +874,7 @@
       ]
     },
     {
-      "name": "The Prophecy",
+      "name": "Petals Puzzle",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -874,24 +891,7 @@
       ]
     },
     {
-      "name": "Typesmith-Prototype",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Starnet",
+      "name": "Serene_Museum (SOSE_26)",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -908,7 +908,7 @@
       ]
     },
     {
-      "name": "PysTato",
+      "name": "PuNKyzaDo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -925,14 +925,14 @@
       ]
     },
     {
-      "name": "Leap Beyond",
+      "name": "Curse of Arachne",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 6,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -942,14 +942,14 @@
       ]
     },
     {
-      "name": "FIZZ POP: Chain Reaction Puzzle",
+      "name": "Rush Ball",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 4,
+      "nameRisk": 9,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -959,41 +959,7 @@
       ]
     },
     {
-      "name": "Corruption quest (Trijam)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "PapaPharma Compounding Quest",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Party's Last Stand",
+      "name": "UNBOUND",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1010,7 +976,41 @@
       ]
     },
     {
-      "name": "House Hustle 2: Into the Deal",
+      "name": "Flower Chaser",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Kinetic Tag",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Incredibox - Smashy City",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
