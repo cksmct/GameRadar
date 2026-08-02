@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-08-02T21:10:10.708Z",
+  "generatedAt": "2026-08-02T22:10:13.007Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2627,
+  "pendingSeo": 2656,
   "channelCounts": {
-    "pending": 834,
-    "online": 1558,
-    "wiki": 235
+    "pending": 843,
+    "online": 1588,
+    "wiki": 225
   },
   "fastClassCounts": {
-    "pending:pending": 834,
-    "online:pending": 1558,
-    "wiki:pending": 235
+    "pending:pending": 843,
+    "online:pending": 1588,
+    "wiki:pending": 225
   },
   "strategicCounts": {
-    "pending:0": 826,
-    "online:2": 31,
-    "online:1": 1527,
-    "wiki:2": 1,
-    "wiki:1": 234,
+    "pending:0": 835,
+    "online:3": 1,
+    "online:2": 34,
+    "online:1": 1553,
+    "wiki:1": 225,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1811
+      "count": 1825
     },
     {
       "id": "itch-new-feed",
-      "count": 1500
+      "count": 1525
     },
     {
       "id": "itch-newest-web",
-      "count": 1064
+      "count": 1076
     },
     {
       "id": "steam-latest-indie",
-      "count": 185
+      "count": 172
     },
     {
       "id": "steam-new",
-      "count": 185
+      "count": 172
     },
     {
       "id": "newgrounds-latest",
-      "count": 130
+      "count": 127
     },
     {
       "id": "newgrounds-new",
-      "count": 130
+      "count": 127
     },
     {
       "id": "y8-new",
-      "count": 121
+      "count": 125
     },
     {
       "id": "poki-new",
-      "count": 79
+      "count": 87
     },
     {
       "id": "gamepix-new",
@@ -63,51 +63,47 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 51
+      "count": 56
     },
     {
       "id": "steam-popular-new",
-      "count": 51
-    },
-    {
-      "id": "lagged-new",
-      "count": 47
-    },
-    {
-      "id": "crazygames-new",
-      "count": 44
+      "count": 53
     },
     {
       "id": "itch-new-popular-web",
-      "count": 40
+      "count": 50
     },
     {
       "id": "itch-popular",
-      "count": 40
+      "count": 50
+    },
+    {
+      "id": "lagged-new",
+      "count": 50
+    },
+    {
+      "id": "crazygames-new",
+      "count": 45
     },
     {
       "id": "trends-rising-7d",
-      "count": 38
+      "count": 44
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 19
+      "count": 22
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 16
+      "count": 19
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 15
-    },
-    {
-      "id": "trends-rising-7d-indie-game",
-      "count": 9
+      "count": 18
     },
     {
       "id": "itch-featured-feed",
@@ -118,8 +114,12 @@
       "count": 9
     },
     {
+      "id": "trends-rising-7d-indie-game",
+      "count": 9
+    },
+    {
       "id": "trends-rising-30d-indie-game",
-      "count": 8
+      "count": 9
     },
     {
       "id": "newgrounds-daily-top",
@@ -131,6 +131,27 @@
     }
   ],
   "samples": [
+    {
+      "name": "The Snake That Eats Puzzle Game Mechanics",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 8,
+      "strategicCount": 3,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-featured-feed",
+        "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -335,22 +356,41 @@
       ]
     },
     {
-      "name": "The Snake That Eats Puzzle Game Mechanics",
+      "name": "Take A Shot",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 16,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 8,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
-        "itch-featured-feed",
-        "itch-featured"
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Open Doctrines",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -525,6 +565,42 @@
       ]
     },
     {
+      "name": "Veinward",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "All Or Nothing",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Shape Swiper",
       "channel": "online",
       "fastClass": "pending",
@@ -684,23 +760,6 @@
         "newgrounds-new",
         "newgrounds-daily-top",
         "newgrounds-top"
-      ]
-    },
-    {
-      "name": "HackHub - Ultimate Hacker Simulator",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -875,14 +934,14 @@
       ]
     },
     {
-      "name": "Cube Jump",
+      "name": "Emberwall",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 10,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -892,24 +951,7 @@
       ]
     },
     {
-      "name": "Neon Breaker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "The Blue Cone",
+      "name": "Paint The System!",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -926,7 +968,24 @@
       ]
     },
     {
-      "name": "Prism Pop",
+      "name": "Dino Game 2.0 - Remastered",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 11,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Fast Flying",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -943,7 +1002,7 @@
       ]
     },
     {
-      "name": "Gravicaster",
+      "name": "Fastcaster",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -960,7 +1019,7 @@
       ]
     },
     {
-      "name": "Rising Sprinter",
+      "name": "Fractal Lab",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -968,57 +1027,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Little Cloud",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "The Setup",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Rubysoul - Cave Game Restyled",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
