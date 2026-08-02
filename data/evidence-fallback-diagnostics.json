@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-08-01T23:10:30.965Z",
+  "generatedAt": "2026-08-02T00:11:21.794Z",
   "totalCandidates": 3000,
-  "pendingSeo": 1893,
+  "pendingSeo": 1916,
   "channelCounts": {
-    "pending": 630,
-    "online": 1077,
-    "wiki": 186
+    "pending": 639,
+    "online": 1089,
+    "wiki": 188
   },
   "fastClassCounts": {
-    "pending:pending": 630,
-    "online:pending": 1077,
-    "wiki:pending": 186
+    "pending:pending": 639,
+    "online:pending": 1089,
+    "wiki:pending": 188
   },
   "strategicCounts": {
-    "pending:0": 626,
+    "pending:0": 634,
     "online:2": 10,
-    "online:1": 1067,
-    "wiki:1": 186,
-    "pending:1": 4
+    "online:1": 1079,
+    "wiki:1": 188,
+    "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1307
+      "count": 1324
     },
     {
       "id": "itch-new-feed",
-      "count": 1073
+      "count": 1090
     },
     {
       "id": "itch-newest-web",
-      "count": 753
+      "count": 761
     },
     {
       "id": "steam-latest-indie",
-      "count": 169
+      "count": 171
     },
     {
       "id": "steam-new",
-      "count": 169
+      "count": 171
     },
     {
       "id": "newgrounds-latest",
-      "count": 94
+      "count": 95
     },
     {
       "id": "newgrounds-new",
-      "count": 94
+      "count": 95
     },
     {
       "id": "y8-new",
-      "count": 83
+      "count": 84
     },
     {
       "id": "gamepix-new",
@@ -58,11 +58,11 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 48
+      "count": 47
     },
     {
       "id": "trends-rising-7d",
-      "count": 31
+      "count": 30
     },
     {
       "id": "poki-new",
@@ -74,19 +74,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 22
+      "count": 23
     },
     {
       "id": "itch-popular",
-      "count": 22
+      "count": 23
     },
     {
       "id": "crazygames-new",
-      "count": 22
+      "count": 23
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 21
+      "count": 20
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -98,7 +98,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 14
+      "count": 13
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -114,11 +114,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured",
-      "count": 4
+      "count": 5
     },
     {
       "id": "newgrounds-daily-top",
@@ -410,6 +410,108 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "DomoDefense - Tower Defense",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "A Trolley Matter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "The subsititute",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "EGGLOOP",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "The Tram Driver",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "JangGi",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -886,108 +988,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Chip The Monkey",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Squeak V2",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Pawcel: Bounce",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ghost Code — Interactive Detective Mystery",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "The Land of Never After",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Loot Goblin",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
