@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-08-03T13:48:31.470Z",
+  "generatedAt": "2026-08-03T16:41:01.445Z",
   "totalCandidates": 3000,
   "pendingSeo": 2660,
   "channelCounts": {
-    "pending": 857,
-    "online": 1738,
+    "pending": 846,
+    "online": 1749,
     "wiki": 65
   },
   "fastClassCounts": {
-    "pending:pending": 857,
-    "online:pending": 1738,
+    "pending:pending": 846,
+    "online:pending": 1749,
     "wiki:pending": 65
   },
   "strategicCounts": {
-    "pending:0": 849,
+    "pending:0": 838,
     "online:3": 1,
-    "online:2": 57,
-    "online:1": 1680,
+    "online:2": 58,
+    "online:1": 1690,
     "wiki:1": 65,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1980
+      "count": 1973
     },
     {
       "id": "itch-new-feed",
-      "count": 1625
+      "count": 1627
     },
     {
       "id": "itch-newest-web",
-      "count": 1219
+      "count": 1223
     },
     {
       "id": "y8-new",
-      "count": 171
+      "count": 177
     },
     {
       "id": "poki-new",
-      "count": 89
+      "count": 91
     },
     {
       "id": "newgrounds-latest",
-      "count": 75
+      "count": 74
     },
     {
       "id": "newgrounds-new",
-      "count": 75
+      "count": 74
     },
     {
       "id": "itch-new-popular-web",
-      "count": 69
+      "count": 72
     },
     {
       "id": "itch-popular",
-      "count": 69
+      "count": 72
     },
     {
       "id": "steam-popular-new",
@@ -63,18 +63,18 @@
     },
     {
       "id": "gamepix-new",
-      "count": 60
+      "count": 59
     },
     {
       "id": "trends-rising-30d",
       "count": 57
     },
     {
-      "id": "crazygames-new",
-      "count": 52
+      "id": "lagged-new",
+      "count": 51
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 51
     },
     {
@@ -153,38 +153,6 @@
       ]
     },
     {
-      "name": "PrismRoll 3D",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Frost Wing Hopper",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "gamepix-new",
-        "y8-new"
-      ]
-    },
-    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -198,6 +166,22 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Jump to the Moon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "y8-new"
       ]
     },
     {
@@ -434,6 +418,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Jelly",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Cycle of the First Dawn",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 7,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1015,24 +1037,6 @@
     },
     {
       "name": "Summer Foodtruck OVERDRIVE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Incredibox: Sprunki Pranki",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
