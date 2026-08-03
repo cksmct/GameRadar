@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-03T07:46:00.915Z",
+  "generatedAt": "2026-08-03T11:00:02.722Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2662,
+  "pendingSeo": 2661,
   "channelCounts": {
-    "pending": 909,
-    "online": 1681,
-    "wiki": 72
+    "pending": 885,
+    "online": 1711,
+    "wiki": 65
   },
   "fastClassCounts": {
-    "pending:pending": 909,
-    "online:pending": 1681,
-    "wiki:pending": 72
+    "pending:pending": 885,
+    "online:pending": 1711,
+    "wiki:pending": 65
   },
   "strategicCounts": {
-    "pending:0": 901,
+    "pending:0": 877,
     "online:3": 1,
-    "online:2": 47,
-    "online:1": 1633,
-    "wiki:1": 72,
+    "online:2": 54,
+    "online:1": 1656,
+    "wiki:1": 65,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1998
+      "count": 1996
     },
     {
       "id": "itch-new-feed",
-      "count": 1650
+      "count": 1643
     },
     {
       "id": "itch-newest-web",
-      "count": 1187
+      "count": 1207
     },
     {
       "id": "y8-new",
-      "count": 152
+      "count": 159
     },
     {
       "id": "poki-new",
@@ -43,43 +43,43 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 73
+      "count": 72
     },
     {
       "id": "newgrounds-new",
-      "count": 73
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 59
-    },
-    {
-      "id": "gamepix-new",
-      "count": 59
-    },
-    {
-      "id": "trends-rising-30d",
-      "count": 58
+      "count": 72
     },
     {
       "id": "itch-new-popular-web",
-      "count": 58
+      "count": 65
     },
     {
       "id": "itch-popular",
-      "count": 58
+      "count": 65
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 61
+    },
+    {
+      "id": "gamepix-new",
+      "count": 60
+    },
+    {
+      "id": "trends-rising-30d",
+      "count": 57
     },
     {
       "id": "lagged-new",
-      "count": 51
+      "count": 52
     },
     {
       "id": "crazygames-new",
-      "count": 50
+      "count": 52
     },
     {
       "id": "trends-rising-7d",
-      "count": 45
+      "count": 44
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -87,11 +87,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 19
+      "count": 18
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -99,14 +99,6 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 13
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 13
-    },
-    {
-      "id": "steam-new",
       "count": 13
     },
     {
@@ -128,6 +120,14 @@
     {
       "id": "itch-featured",
       "count": 9
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     }
   ],
   "samples": [
@@ -153,6 +153,22 @@
       ]
     },
     {
+      "name": "Geometry Goal Dash 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
+    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -169,22 +185,6 @@
       ]
     },
     {
-      "name": "Survive-ish",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "crazygames-new"
-      ]
-    },
-    {
       "name": "Football Marble Shooter",
       "channel": "online",
       "fastClass": "pending",
@@ -198,6 +198,23 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "NEON DODGER",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "y8-new"
       ]
     },
     {
@@ -638,6 +655,78 @@
       ]
     },
     {
+      "name": "By the Last Petal",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "7 Minutes in the Closet",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 11,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Devil's Judgment",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Count My Coins, Coin Counter!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Pachinkats",
       "channel": "online",
       "fastClass": "pending",
@@ -711,6 +800,24 @@
     },
     {
       "name": "Operation B.U.G.S.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "AFK Artifact: Taskbar Shift",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -941,111 +1048,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "I DID NOT DETRANSITION",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Ruby in \"BEACH BUNS\"",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Roommates - Spiked Lemonade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Dino Game 2.0 - Remastered",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fractal Lab",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Redline",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
       ]
     }
   ]

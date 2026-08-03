@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-08-03T07:45:27.305Z",
+  "scannedAt": "2026-08-03T10:59:27.854Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 146,
+  "totalAdded": 132,
   "sources": [
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 5
+      "added": 0
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 4
+      "added": 2
     },
     {
       "ok": true,
@@ -80,7 +80,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 40
+      "added": 34
     },
     {
       "ok": true,
@@ -136,14 +136,14 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 89,
-  "fastWatchCount": 249,
+  "fastPassedCount": 88,
+  "fastWatchCount": 251,
   "fastRejectedCount": 0,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
   "youtubeErrors": 0,
-  "trendsVerified": 1,
+  "trendsVerified": 0,
   "trendErrors": 3,
   "trendBatchRan": true,
   "trendQueueSize": 1,
@@ -151,9 +151,9 @@
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 228,
-  "trendEligibleCount": 52,
-  "trendPendingCount": 51,
-  "trendValidatedCount": 207,
+  "trendEligibleCount": 51,
+  "trendPendingCount": 50,
+  "trendValidatedCount": 206,
   "risingCount": 2,
   "globalRisingCount": 0,
   "recommendationCounts": {
@@ -166,7 +166,7 @@
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 207
+    "serpapi": 206
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -181,7 +181,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-03T07:45:26.243Z",
+    "checkedAt": "2026-08-03T10:59:26.752Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -206,9 +206,9 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "duckduckgo+autocomplete": 32,
-    "evidence-fallback": 17,
-    "serper+autocomplete": 291
+    "duckduckgo+autocomplete": 33,
+    "evidence-fallback": 19,
+    "serper+autocomplete": 290
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -237,9 +237,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1966,
-    "wiki": 85,
-    "pending": 949
+    "online": 1996,
+    "wiki": 78,
+    "pending": 926
   },
   "serperVerification": {
     "rushMode": true,
@@ -256,40 +256,41 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-03T07:46:00.602Z"
+    "ranAt": "2026-08-03T11:00:02.437Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2662,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2661,
+    "eligibleCount": 2,
+    "queueSize": 2,
+    "verified": 2,
     "channelVerified": {
-      "online": 1,
+      "online": 2,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
+      "pass": 2,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Survive-ish"
+      "Geometry Goal Dash 2026",
+      "NEON DODGER"
     ],
-    "ranAt": "2026-08-03T07:46:01.173Z"
+    "ranAt": "2026-08-03T11:00:02.970Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-03T07:46:01.857Z",
+    "checkedAt": "2026-08-03T11:00:03.926Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 484,
+    "totalIndependentSearchesLeft": 483,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -320,8 +321,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 8,
-        "totalSearchesLeft": 242,
+        "thisMonthUsage": 9,
+        "totalSearchesLeft": 241,
         "renewalDate": "2026-08-29"
       },
       {
@@ -353,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-03T07:46:01.691Z",
+        "checkedAt": "2026-08-03T11:00:03.590Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -373,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-03T07:46:01.748Z",
+        "checkedAt": "2026-08-03T11:00:03.701Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -389,11 +390,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 8,
-        "planSearchesLeft": 242,
-        "totalSearchesLeft": 242,
+        "thisMonthUsage": 9,
+        "planSearchesLeft": 241,
+        "totalSearchesLeft": 241,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-03T07:46:01.804Z",
+        "checkedAt": "2026-08-03T11:00:03.814Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -413,7 +414,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-03T07:46:01.857Z",
+        "checkedAt": "2026-08-03T11:00:03.926Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -428,7 +429,7 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 193,
+      "validated": 192,
       "rising": 0,
       "recommended": 0
     },
@@ -446,19 +447,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 580,
-    "queueSize": 3,
-    "verified": 1,
+    "remainingAtStart": 577,
+    "queueSize": 2,
+    "verified": 0,
     "errors": 2,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 1,
+      "strong": 0,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
       "online": 0,
-      "wiki": 1,
+      "wiki": 0,
       "pending": 0
     },
     "pendingByTier": {
@@ -470,9 +471,7 @@
       "online": 0,
       "wiki": 0
     },
-    "verifiedNames": [
-      "Shift At Midnight"
-    ],
+    "verifiedNames": [],
     "caps": {
       "online": 999,
       "wiki": 999,
@@ -510,10 +509,10 @@
         "envName": "SERPAPI_API_KEY_3",
         "ok": true,
         "error": null,
-        "verified": 1,
+        "verified": 0,
         "channelVerified": {
           "online": 0,
-          "wiki": 1,
+          "wiki": 0,
           "pending": 0
         },
         "errors": 0,
@@ -533,16 +532,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-03T07:46:18.677Z"
+    "ranAt": "2026-08-03T11:00:06.950Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 403,
+    "monthUsed": 405,
     "day": "2026-08-03",
-    "dayUsed": 7,
+    "dayUsed": 9,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -556,11 +555,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 157,
-        "dayUsed": 6,
+        "monthUsed": 159,
+        "dayUsed": 8,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-03T07:46:03.319Z"
+        "updatedAt": "2026-08-03T11:00:05.407Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -579,7 +578,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-08-03T07:46:18.727Z"
+    "updatedAt": "2026-08-03T11:00:06.988Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -622,6 +621,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-03T07:46:19.005Z"
+    "ranAt": "2026-08-03T11:00:07.247Z"
   }
 }
