@@ -1,42 +1,41 @@
 {
-  "generatedAt": "2026-08-03T18:26:09.240Z",
+  "generatedAt": "2026-08-03T20:18:32.750Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2660,
+  "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 827,
-    "online": 1765,
-    "wiki": 68
+    "pending": 832,
+    "online": 1758,
+    "wiki": 67
   },
   "fastClassCounts": {
-    "pending:pending": 827,
-    "online:pending": 1765,
-    "wiki:pending": 68
+    "pending:pending": 832,
+    "online:pending": 1758,
+    "wiki:pending": 67
   },
   "strategicCounts": {
-    "pending:0": 819,
+    "pending:0": 824,
     "online:3": 1,
-    "wiki:2": 1,
-    "online:2": 67,
-    "online:1": 1697,
+    "online:2": 66,
+    "online:1": 1691,
     "wiki:1": 67,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1969
+      "count": 1945
     },
     {
       "id": "itch-new-feed",
-      "count": 1609
+      "count": 1613
     },
     {
       "id": "itch-newest-web",
-      "count": 1237
+      "count": 1209
     },
     {
       "id": "y8-new",
-      "count": 183
+      "count": 186
     },
     {
       "id": "poki-new",
@@ -51,32 +50,32 @@
       "count": 79
     },
     {
+      "id": "gamepix-new",
+      "count": 79
+    },
+    {
       "id": "newgrounds-latest",
-      "count": 73
+      "count": 71
     },
     {
       "id": "newgrounds-new",
-      "count": 73
+      "count": 71
     },
     {
       "id": "steam-popular-new",
-      "count": 65
-    },
-    {
-      "id": "gamepix-new",
-      "count": 58
+      "count": 64
     },
     {
       "id": "trends-rising-30d",
       "count": 56
     },
     {
-      "id": "crazygames-new",
-      "count": 51
+      "id": "lagged-new",
+      "count": 50
     },
     {
-      "id": "lagged-new",
-      "count": 51
+      "id": "crazygames-new",
+      "count": 50
     },
     {
       "id": "trends-rising-7d",
@@ -124,11 +123,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 4
+      "count": 3
     }
   ],
   "samples": [
@@ -154,34 +153,18 @@
       ]
     },
     {
-      "name": "Collect Brainrot Arena",
+      "name": "Warehouse 24-7",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 2,
       "sourceIds": [
-        "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Haaland Coloring Book",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "lagged-new",
+        "gamepix-new",
         "y8-new"
       ]
     },
@@ -199,6 +182,22 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Haaaland Arrow Shooter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "lagged-new",
+        "y8-new"
       ]
     },
     {
@@ -428,25 +427,6 @@
     },
     {
       "name": "Red Numbers",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Relicworks: Jungle Factory",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -732,6 +712,25 @@
     },
     {
       "name": "Dom Dom",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Relicworks: Jungle Factory",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
