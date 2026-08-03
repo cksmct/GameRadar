@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-03T11:00:02.722Z",
+  "generatedAt": "2026-08-03T13:48:31.470Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2661,
+  "pendingSeo": 2660,
   "channelCounts": {
-    "pending": 885,
-    "online": 1711,
+    "pending": 857,
+    "online": 1738,
     "wiki": 65
   },
   "fastClassCounts": {
-    "pending:pending": 885,
-    "online:pending": 1711,
+    "pending:pending": 857,
+    "online:pending": 1738,
     "wiki:pending": 65
   },
   "strategicCounts": {
-    "pending:0": 877,
+    "pending:0": 849,
     "online:3": 1,
-    "online:2": 54,
-    "online:1": 1656,
+    "online:2": 57,
+    "online:1": 1680,
     "wiki:1": 65,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1996
+      "count": 1980
     },
     {
       "id": "itch-new-feed",
-      "count": 1643
+      "count": 1625
     },
     {
       "id": "itch-newest-web",
-      "count": 1207
+      "count": 1219
     },
     {
       "id": "y8-new",
-      "count": 159
+      "count": 171
     },
     {
       "id": "poki-new",
@@ -43,19 +43,19 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 72
+      "count": 75
     },
     {
       "id": "newgrounds-new",
-      "count": 72
+      "count": 75
     },
     {
       "id": "itch-new-popular-web",
-      "count": 65
+      "count": 69
     },
     {
       "id": "itch-popular",
-      "count": 65
+      "count": 69
     },
     {
       "id": "steam-popular-new",
@@ -70,12 +70,12 @@
       "count": 57
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 52
     },
     {
-      "id": "crazygames-new",
-      "count": 52
+      "id": "lagged-new",
+      "count": 51
     },
     {
       "id": "trends-rising-7d",
@@ -153,19 +153,35 @@
       ]
     },
     {
-      "name": "Geometry Goal Dash 2026",
+      "name": "PrismRoll 3D",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 2,
       "sourceIds": [
-        "y8-new",
-        "lagged-new"
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Frost Wing Hopper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "y8-new"
       ]
     },
     {
@@ -198,23 +214,6 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
-      ]
-    },
-    {
-      "name": "NEON DODGER",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "y8-new"
       ]
     },
     {
@@ -727,6 +726,60 @@
       ]
     },
     {
+      "name": "Bend-jo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Marinport: Stream Town",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "IGTAP demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Pachinkats",
       "channel": "online",
       "fastClass": "pending",
@@ -987,60 +1040,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Get Ready to Study Hard, Raly!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Isaac True Story 2 🪰",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "100 Million to",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
