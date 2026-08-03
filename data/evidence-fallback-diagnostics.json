@@ -1,22 +1,23 @@
 {
-  "generatedAt": "2026-08-03T20:18:32.750Z",
+  "generatedAt": "2026-08-03T21:48:20.652Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2657,
+  "pendingSeo": 2655,
   "channelCounts": {
-    "pending": 832,
-    "online": 1758,
-    "wiki": 67
+    "online": 1767,
+    "pending": 820,
+    "wiki": 68
   },
   "fastClassCounts": {
-    "pending:pending": 832,
-    "online:pending": 1758,
-    "wiki:pending": 67
+    "online:pending": 1767,
+    "pending:pending": 820,
+    "wiki:pending": 68
   },
   "strategicCounts": {
-    "pending:0": 824,
     "online:3": 1,
-    "online:2": 66,
-    "online:1": 1691,
+    "pending:0": 812,
+    "online:2": 64,
+    "online:1": 1702,
+    "wiki:2": 1,
     "wiki:1": 67,
     "pending:1": 8
   },
@@ -27,11 +28,11 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 1613
+      "count": 1629
     },
     {
       "id": "itch-newest-web",
-      "count": 1209
+      "count": 1220
     },
     {
       "id": "y8-new",
@@ -51,39 +52,39 @@
     },
     {
       "id": "gamepix-new",
-      "count": 79
+      "count": 78
     },
     {
       "id": "newgrounds-latest",
-      "count": 71
+      "count": 69
     },
     {
       "id": "newgrounds-new",
-      "count": 71
+      "count": 69
     },
     {
       "id": "steam-popular-new",
-      "count": 64
+      "count": 65
     },
     {
       "id": "trends-rising-30d",
-      "count": 56
-    },
-    {
-      "id": "lagged-new",
-      "count": 50
+      "count": 55
     },
     {
       "id": "crazygames-new",
       "count": 50
     },
     {
+      "id": "lagged-new",
+      "count": 49
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 43
+      "count": 42
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 23
+      "count": 22
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -91,7 +92,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 18
+      "count": 17
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -123,11 +124,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 3
+      "count": 4
     },
     {
       "id": "steam-new",
-      "count": 3
+      "count": 4
     }
   ],
   "samples": [
@@ -153,22 +154,6 @@
       ]
     },
     {
-      "name": "Warehouse 24-7",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "gamepix-new",
-        "y8-new"
-      ]
-    },
-    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -182,22 +167,6 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
-      ]
-    },
-    {
-      "name": "Haaaland Arrow Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "lagged-new",
-        "y8-new"
       ]
     },
     {
@@ -1052,6 +1021,42 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Veinward",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Street Fighter 6 - Yasmine's Debut",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     }
   ]
