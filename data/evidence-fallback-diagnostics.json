@@ -1,72 +1,73 @@
 {
-  "generatedAt": "2026-08-03T00:12:08.638Z",
+  "generatedAt": "2026-08-03T03:54:07.772Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2656,
+  "pendingSeo": 2661,
   "channelCounts": {
-    "pending": 864,
-    "online": 1623,
-    "wiki": 169
+    "pending": 890,
+    "online": 1662,
+    "wiki": 109
   },
   "fastClassCounts": {
-    "pending:pending": 864,
-    "online:pending": 1623,
-    "wiki:pending": 169
+    "pending:pending": 890,
+    "online:pending": 1662,
+    "wiki:pending": 109
   },
   "strategicCounts": {
-    "pending:0": 856,
+    "pending:0": 882,
     "online:3": 1,
-    "online:2": 34,
-    "online:1": 1588,
-    "wiki:1": 169,
+    "online:2": 38,
+    "online:1": 1623,
+    "wiki:2": 1,
+    "wiki:1": 108,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1888
+      "count": 1942
     },
     {
       "id": "itch-new-feed",
-      "count": 1582
+      "count": 1615
     },
     {
       "id": "itch-newest-web",
-      "count": 1116
+      "count": 1151
     },
     {
       "id": "y8-new",
-      "count": 133
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 115
-    },
-    {
-      "id": "steam-new",
-      "count": 115
+      "count": 145
     },
     {
       "id": "newgrounds-latest",
-      "count": 104
+      "count": 98
     },
     {
       "id": "newgrounds-new",
-      "count": 104
+      "count": 98
     },
     {
       "id": "poki-new",
-      "count": 91
+      "count": 92
     },
     {
       "id": "gamepix-new",
-      "count": 59
+      "count": 60
     },
     {
       "id": "trends-rising-30d",
-      "count": 54
+      "count": 59
     },
     {
       "id": "steam-popular-new",
+      "count": 56
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 54
+    },
+    {
+      "id": "steam-new",
       "count": 54
     },
     {
@@ -75,11 +76,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 50
+      "count": 51
     },
     {
       "id": "itch-popular",
-      "count": 50
+      "count": 51
     },
     {
       "id": "crazygames-new",
@@ -87,7 +88,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 42
+      "count": 46
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -95,15 +96,23 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 21
+      "count": 22
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 18
+      "count": 19
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 17
+      "count": 19
+    },
+    {
+      "id": "trends-rising-30d-indie-game",
+      "count": 13
+    },
+    {
+      "id": "trends-rising-7d-indie-game",
+      "count": 10
     },
     {
       "id": "itch-featured-feed",
@@ -114,20 +123,12 @@
       "count": 9
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 9
-    },
-    {
-      "id": "trends-rising-30d-indie-game",
-      "count": 9
-    },
-    {
       "id": "newgrounds-daily-top",
-      "count": 6
+      "count": 5
     },
     {
       "id": "newgrounds-top",
-      "count": 6
+      "count": 5
     }
   ],
   "samples": [
@@ -150,6 +151,54 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Collect Brainrot Arena",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Trickpool",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Geometry Goal Dash 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "lagged-new",
+        "y8-new"
       ]
     },
     {
@@ -231,6 +280,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Lottohuolto",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -763,6 +831,23 @@
       ]
     },
     {
+      "name": "HackHub - Ultimate Hacker Simulator",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Dino Game 2.0 - Remastered",
       "channel": "online",
       "fastClass": "pending",
@@ -942,91 +1027,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Perch",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Hurri-Kenny",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Neon Arcade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Sheep Survivor",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Afterline: The Last Ride",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 10,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
