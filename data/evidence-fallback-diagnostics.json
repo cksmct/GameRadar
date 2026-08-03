@@ -1,98 +1,89 @@
 {
-  "generatedAt": "2026-08-03T03:54:07.772Z",
+  "generatedAt": "2026-08-03T07:46:00.915Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2661,
+  "pendingSeo": 2662,
   "channelCounts": {
-    "pending": 890,
-    "online": 1662,
-    "wiki": 109
+    "pending": 909,
+    "online": 1681,
+    "wiki": 72
   },
   "fastClassCounts": {
-    "pending:pending": 890,
-    "online:pending": 1662,
-    "wiki:pending": 109
+    "pending:pending": 909,
+    "online:pending": 1681,
+    "wiki:pending": 72
   },
   "strategicCounts": {
-    "pending:0": 882,
+    "pending:0": 901,
     "online:3": 1,
-    "online:2": 38,
-    "online:1": 1623,
-    "wiki:2": 1,
-    "wiki:1": 108,
+    "online:2": 47,
+    "online:1": 1633,
+    "wiki:1": 72,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1942
+      "count": 1998
     },
     {
       "id": "itch-new-feed",
-      "count": 1615
+      "count": 1650
     },
     {
       "id": "itch-newest-web",
-      "count": 1151
+      "count": 1187
     },
     {
       "id": "y8-new",
-      "count": 145
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 98
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 98
+      "count": 152
     },
     {
       "id": "poki-new",
-      "count": 92
+      "count": 89
     },
     {
-      "id": "gamepix-new",
-      "count": 60
+      "id": "newgrounds-latest",
+      "count": 73
     },
     {
-      "id": "trends-rising-30d",
-      "count": 59
+      "id": "newgrounds-new",
+      "count": 73
     },
     {
       "id": "steam-popular-new",
-      "count": 56
+      "count": 59
     },
     {
-      "id": "steam-latest-indie",
-      "count": 54
+      "id": "gamepix-new",
+      "count": 59
     },
     {
-      "id": "steam-new",
-      "count": 54
-    },
-    {
-      "id": "lagged-new",
-      "count": 52
+      "id": "trends-rising-30d",
+      "count": 58
     },
     {
       "id": "itch-new-popular-web",
-      "count": 51
+      "count": 58
     },
     {
       "id": "itch-popular",
+      "count": 58
+    },
+    {
+      "id": "lagged-new",
       "count": 51
     },
     {
       "id": "crazygames-new",
-      "count": 47
+      "count": 50
     },
     {
       "id": "trends-rising-7d",
-      "count": 46
+      "count": 45
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 24
+      "count": 23
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -104,14 +95,30 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 19
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
     },
     {
+      "id": "steam-latest-indie",
+      "count": 13
+    },
+    {
+      "id": "steam-new",
+      "count": 13
+    },
+    {
       "id": "trends-rising-7d-indie-game",
+      "count": 10
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 10
+    },
+    {
+      "id": "newgrounds-top",
       "count": 10
     },
     {
@@ -121,14 +128,6 @@
     {
       "id": "itch-featured",
       "count": 9
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 5
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 5
     }
   ],
   "samples": [
@@ -154,54 +153,6 @@
       ]
     },
     {
-      "name": "Collect Brainrot Arena",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Trickpool",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "gamepix-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Geometry Goal Dash 2026",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "lagged-new",
-        "y8-new"
-      ]
-    },
-    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -218,6 +169,22 @@
       ]
     },
     {
+      "name": "Survive-ish",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "crazygames-new"
+      ]
+    },
+    {
       "name": "Football Marble Shooter",
       "channel": "online",
       "fastClass": "pending",
@@ -231,6 +198,44 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Mosquitos",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PapaPharma Compounding Quest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -633,6 +638,96 @@
       ]
     },
     {
+      "name": "Pachinkats",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sunny!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "Tragibox Chapter 2 Restored",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Tragibox Chapter 1 Restored",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Operation B.U.G.S.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Veinward",
       "channel": "online",
       "fastClass": "pending",
@@ -648,6 +743,24 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Street Fighter 6 - Yasmine's Debut",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -669,6 +782,24 @@
       ]
     },
     {
+      "name": "Trendy Dish",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
       "name": "Shape Swiper",
       "channel": "online",
       "fastClass": "pending",
@@ -684,6 +815,42 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "2456: \"Zem\"",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "Penguin Midnight",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -831,23 +998,6 @@
       ]
     },
     {
-      "name": "HackHub - Ultimate Hacker Simulator",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "Dino Game 2.0 - Remastered",
       "channel": "online",
       "fastClass": "pending",
@@ -896,143 +1046,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
-      ]
-    },
-    {
-      "name": "OVERDRIVE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
-      "name": "Midnight Cuckoo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Tarot Card Prototype",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Maze_Game",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ecos do Tempo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "wake up",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
-      "name": "Hostage Heart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Electro 1.1V",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
       ]
     }
   ]
