@@ -1,85 +1,86 @@
 {
-  "generatedAt": "2026-08-03T16:41:01.445Z",
+  "generatedAt": "2026-08-03T18:26:09.240Z",
   "totalCandidates": 3000,
   "pendingSeo": 2660,
   "channelCounts": {
-    "pending": 846,
-    "online": 1749,
-    "wiki": 65
+    "pending": 827,
+    "online": 1765,
+    "wiki": 68
   },
   "fastClassCounts": {
-    "pending:pending": 846,
-    "online:pending": 1749,
-    "wiki:pending": 65
+    "pending:pending": 827,
+    "online:pending": 1765,
+    "wiki:pending": 68
   },
   "strategicCounts": {
-    "pending:0": 838,
+    "pending:0": 819,
     "online:3": 1,
-    "online:2": 58,
-    "online:1": 1690,
-    "wiki:1": 65,
+    "wiki:2": 1,
+    "online:2": 67,
+    "online:1": 1697,
+    "wiki:1": 67,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1973
+      "count": 1969
     },
     {
       "id": "itch-new-feed",
-      "count": 1627
+      "count": 1609
     },
     {
       "id": "itch-newest-web",
-      "count": 1223
+      "count": 1237
     },
     {
       "id": "y8-new",
-      "count": 177
+      "count": 183
     },
     {
       "id": "poki-new",
       "count": 91
     },
     {
-      "id": "newgrounds-latest",
-      "count": 74
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 74
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 72
+      "count": 79
     },
     {
       "id": "itch-popular",
-      "count": 72
+      "count": 79
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 73
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 73
     },
     {
       "id": "steam-popular-new",
-      "count": 61
+      "count": 65
     },
     {
       "id": "gamepix-new",
-      "count": 59
+      "count": 58
     },
     {
       "id": "trends-rising-30d",
-      "count": 57
-    },
-    {
-      "id": "lagged-new",
-      "count": 51
+      "count": 56
     },
     {
       "id": "crazygames-new",
       "count": 51
     },
     {
+      "id": "lagged-new",
+      "count": 51
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 44
+      "count": 43
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -87,15 +88,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 21
-    },
-    {
-      "id": "trends-rising-7d-itch-io",
-      "count": 18
+      "count": 20
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 18
+    },
+    {
+      "id": "trends-rising-7d-itch-io",
+      "count": 17
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -153,6 +154,38 @@
       ]
     },
     {
+      "name": "Collect Brainrot Arena",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Haaland Coloring Book",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "lagged-new",
+        "y8-new"
+      ]
+    },
+    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -169,22 +202,6 @@
       ]
     },
     {
-      "name": "Jump to the Moon",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "gamepix-new",
-        "y8-new"
-      ]
-    },
-    {
       "name": "Football Marble Shooter",
       "channel": "online",
       "fastClass": "pending",
@@ -198,6 +215,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "ATTACK AXIS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 8,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -429,6 +465,25 @@
       ]
     },
     {
+      "name": "Intergalactic Battle Roosters",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Jelly",
       "channel": "online",
       "fastClass": "pending",
@@ -437,6 +492,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki Shifted - Chris's Retake: Lore Documents",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -676,6 +750,60 @@
       ]
     },
     {
+      "name": "Cheese, Please!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Micorrizas",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Eulogy",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "By the Last Petal",
       "channel": "online",
       "fastClass": "pending",
@@ -802,6 +930,24 @@
       ]
     },
     {
+      "name": "but that's the hero's sword ?!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Pachinkats",
       "channel": "online",
       "fastClass": "pending",
@@ -893,150 +1039,6 @@
     },
     {
       "name": "AFK Artifact: Taskbar Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Veinward",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Street Fighter 6 - Yasmine's Debut",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "All Or Nothing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Trendy Dish",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Shape Swiper",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "2456: \"Zem\"",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Penguin Midnight",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Summer Foodtruck OVERDRIVE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
