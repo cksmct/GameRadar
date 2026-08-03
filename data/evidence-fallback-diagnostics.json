@@ -1,58 +1,57 @@
 {
-  "generatedAt": "2026-08-02T23:10:35.899Z",
+  "generatedAt": "2026-08-03T00:12:08.638Z",
   "totalCandidates": 3000,
   "pendingSeo": 2656,
   "channelCounts": {
-    "pending": 848,
-    "online": 1609,
-    "wiki": 199
+    "pending": 864,
+    "online": 1623,
+    "wiki": 169
   },
   "fastClassCounts": {
-    "pending:pending": 848,
-    "online:pending": 1609,
-    "wiki:pending": 199
+    "pending:pending": 864,
+    "online:pending": 1623,
+    "wiki:pending": 169
   },
   "strategicCounts": {
-    "pending:0": 840,
+    "pending:0": 856,
     "online:3": 1,
-    "online:2": 35,
-    "online:1": 1573,
-    "wiki:2": 1,
-    "wiki:1": 198,
+    "online:2": 34,
+    "online:1": 1588,
+    "wiki:1": 169,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1848
+      "count": 1888
     },
     {
       "id": "itch-new-feed",
-      "count": 1548
+      "count": 1582
     },
     {
       "id": "itch-newest-web",
-      "count": 1093
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 145
-    },
-    {
-      "id": "steam-new",
-      "count": 145
+      "count": 1116
     },
     {
       "id": "y8-new",
-      "count": 130
+      "count": 133
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 115
+    },
+    {
+      "id": "steam-new",
+      "count": 115
     },
     {
       "id": "newgrounds-latest",
-      "count": 116
+      "count": 104
     },
     {
       "id": "newgrounds-new",
-      "count": 116
+      "count": 104
     },
     {
       "id": "poki-new",
@@ -60,15 +59,15 @@
     },
     {
       "id": "gamepix-new",
-      "count": 60
+      "count": 59
     },
     {
       "id": "trends-rising-30d",
-      "count": 55
+      "count": 54
     },
     {
       "id": "steam-popular-new",
-      "count": 55
+      "count": 54
     },
     {
       "id": "lagged-new",
@@ -88,11 +87,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 43
+      "count": 42
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 25
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -104,7 +103,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 18
+      "count": 17
     },
     {
       "id": "itch-featured-feed",
@@ -151,22 +150,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Warehouse 24/7",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "gamepix-new"
       ]
     },
     {
@@ -780,23 +763,6 @@
       ]
     },
     {
-      "name": "HackHub - Ultimate Hacker Simulator",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "Dino Game 2.0 - Remastered",
       "channel": "online",
       "fastClass": "pending",
@@ -1019,7 +985,41 @@
       ]
     },
     {
-      "name": "Deepmarch",
+      "name": "Neon Arcade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Sheep Survivor",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Afterline: The Last Ride",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
