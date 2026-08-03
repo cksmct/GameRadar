@@ -1,42 +1,41 @@
 {
-  "generatedAt": "2026-08-03T21:48:20.652Z",
+  "generatedAt": "2026-08-03T23:19:27.459Z",
   "totalCandidates": 3000,
   "pendingSeo": 2655,
   "channelCounts": {
-    "online": 1767,
-    "pending": 820,
-    "wiki": 68
+    "online": 1778,
+    "pending": 810,
+    "wiki": 67
   },
   "fastClassCounts": {
-    "online:pending": 1767,
-    "pending:pending": 820,
-    "wiki:pending": 68
+    "online:pending": 1778,
+    "pending:pending": 810,
+    "wiki:pending": 67
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 812,
-    "online:2": 64,
-    "online:1": 1702,
-    "wiki:2": 1,
+    "pending:0": 802,
+    "online:2": 65,
+    "online:1": 1712,
     "wiki:1": 67,
     "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1945
+      "count": 1940
     },
     {
       "id": "itch-new-feed",
-      "count": 1629
+      "count": 1614
     },
     {
       "id": "itch-newest-web",
-      "count": 1220
+      "count": 1230
     },
     {
       "id": "y8-new",
-      "count": 186
+      "count": 187
     },
     {
       "id": "poki-new",
@@ -44,11 +43,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 79
+      "count": 82
     },
     {
       "id": "itch-popular",
-      "count": 79
+      "count": 82
     },
     {
       "id": "gamepix-new",
@@ -56,19 +55,19 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 69
+      "count": 67
     },
     {
       "id": "newgrounds-new",
-      "count": 69
+      "count": 67
     },
     {
       "id": "steam-popular-new",
-      "count": 65
+      "count": 64
     },
     {
       "id": "trends-rising-30d",
-      "count": 55
+      "count": 59
     },
     {
       "id": "crazygames-new",
@@ -80,22 +79,22 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 42
+      "count": 44
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 22
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 20
-    },
-    {
-      "id": "trends-rising-7d-horror-game",
-      "count": 17
+      "count": 22
     },
     {
       "id": "trends-rising-7d-itch-io",
+      "count": 18
+    },
+    {
+      "id": "trends-rising-7d-horror-game",
       "count": 17
     },
     {
@@ -104,7 +103,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 10
+      "count": 11
     },
     {
       "id": "newgrounds-daily-top",
@@ -124,11 +123,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 4
+      "count": 3
     }
   ],
   "samples": [
@@ -736,6 +735,24 @@
       ]
     },
     {
+      "name": "Tap a Monster",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Micorrizas",
       "channel": "online",
       "fastClass": "pending",
@@ -1039,24 +1056,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Street Fighter 6 - Yasmine's Debut",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
       ]
     }
   ]
