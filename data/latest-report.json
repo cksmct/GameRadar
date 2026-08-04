@@ -1,15 +1,16 @@
 {
-  "scannedAt": "2026-08-04T18:51:04.091Z",
+  "scannedAt": "2026-08-04T20:42:26.962Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 71,
+  "totalAdded": 85,
   "sources": [
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
-      "error": "远程站点返回 429"
+      "total": 36,
+      "added": 35
     },
     {
       "ok": false,
@@ -18,11 +19,10 @@
       "error": "远程站点返回 429"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
-      "total": 36,
-      "added": 35
+      "error": "远程站点返回 429"
     },
     {
       "ok": true,
@@ -43,14 +43,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 3
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 5
+      "added": 2
     },
     {
       "ok": true,
@@ -64,7 +64,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
@@ -85,14 +85,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 25
+      "added": 15
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 3
+      "added": 13
     },
     {
       "ok": true,
@@ -100,28 +100,68 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "total": 18,
+      "added": 4
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "total": 3,
+      "added": 3
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "total": 7,
+      "added": 5
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "total": 9,
+      "added": 2
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 108,
-  "fastWatchCount": 245,
+  "fastPassedCount": 105,
+  "fastWatchCount": 250,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 3,
-  "trendErrors": 6,
+  "trendsVerified": 2,
+  "trendErrors": 9,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 242,
-  "trendEligibleCount": 66,
-  "trendPendingCount": 58,
+  "seoPassedCount": 243,
+  "trendEligibleCount": 65,
+  "trendPendingCount": 57,
   "trendValidatedCount": 202,
   "risingCount": 2,
   "globalRisingCount": 0,
@@ -150,7 +190,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-04T18:51:03.126Z",
+    "checkedAt": "2026-08-04T20:42:25.872Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -175,8 +215,8 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "duckduckgo+autocomplete": 38,
-    "evidence-fallback": 34,
+    "duckduckgo+autocomplete": 39,
+    "evidence-fallback": 33,
     "serper+autocomplete": 284
   },
   "serperConfigured": true,
@@ -206,16 +246,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2133,
-    "wiki": 186,
-    "pending": 681
+    "online": 2160,
+    "wiki": 187,
+    "pending": 653
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 12,
     "watch": 11,
-    "weak": 163
+    "weak": 164
   },
   "serperVerification": {
     "rushMode": true,
@@ -232,32 +272,29 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-04T18:51:25.375Z"
+    "ranAt": "2026-08-04T20:43:11.597Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2647,
-    "eligibleCount": 2,
-    "queueSize": 2,
-    "verified": 2,
+    "pendingCount": 2645,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
       "online": 0,
-      "wiki": 2,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 1,
-      "weak": 1,
+      "watch": 0,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Pih 2",
-      "HellSlave II: Judgment of the Archon"
-    ],
-    "ranAt": "2026-08-04T18:51:25.910Z"
+    "verifiedNames": [],
+    "ranAt": "2026-08-04T20:43:12.198Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -281,16 +318,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-04T18:51:28.404Z"
+    "ranAt": "2026-08-04T20:43:14.682Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-04T18:51:28.732Z",
+    "checkedAt": "2026-08-04T20:43:14.985Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 466,
+    "totalIndependentSearchesLeft": 463,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -321,8 +358,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 26,
-        "totalSearchesLeft": 224,
+        "thisMonthUsage": 29,
+        "totalSearchesLeft": 221,
         "renewalDate": "2026-08-29"
       },
       {
@@ -354,7 +391,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-04T18:51:28.564Z",
+        "checkedAt": "2026-08-04T20:43:14.920Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -374,7 +411,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-04T18:51:28.619Z",
+        "checkedAt": "2026-08-04T20:43:14.942Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -390,11 +427,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 26,
-        "planSearchesLeft": 224,
-        "totalSearchesLeft": 224,
+        "thisMonthUsage": 29,
+        "planSearchesLeft": 221,
+        "totalSearchesLeft": 221,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-04T18:51:28.674Z",
+        "checkedAt": "2026-08-04T20:43:14.963Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -414,7 +451,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-04T18:51:28.731Z",
+        "checkedAt": "2026-08-04T20:43:14.984Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -447,18 +484,18 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 506,
-    "queueSize": 8,
-    "verified": 3,
-    "errors": 5,
+    "remainingAtStart": 498,
+    "queueSize": 10,
+    "verified": 2,
+    "errors": 8,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 0,
-      "secondary": 3,
+      "strong": 2,
+      "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
-      "online": 3,
+      "online": 2,
       "wiki": 0,
       "pending": 0
     },
@@ -472,9 +509,8 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Tic Tac Toe",
-      "Platformer",
-      "Air Hockey"
+      "Mini Games",
+      "Melon Sandbox"
     ],
     "caps": {
       "online": 999,
@@ -506,16 +542,16 @@
           "wiki": 0,
           "pending": 0
         },
-        "errors": 5,
+        "errors": 8,
         "quotaStopped": false
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
         "ok": true,
         "error": null,
-        "verified": 3,
+        "verified": 2,
         "channelVerified": {
-          "online": 3,
+          "online": 2,
           "wiki": 0,
           "pending": 0
         },
@@ -536,16 +572,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-04T18:51:45.462Z"
+    "ranAt": "2026-08-04T20:43:38.499Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 482,
+    "monthUsed": 492,
     "day": "2026-08-04",
-    "dayUsed": 62,
+    "dayUsed": 72,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -559,19 +595,19 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 216,
-        "dayUsed": 43,
+        "monthUsed": 224,
+        "dayUsed": 51,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-04T18:51:32.705Z"
+        "updatedAt": "2026-08-04T20:43:21.419Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 21,
-        "dayUsed": 19,
+        "monthUsed": 23,
+        "dayUsed": 21,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-04T18:51:40.466Z"
+        "updatedAt": "2026-08-04T20:43:29.240Z"
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
@@ -582,7 +618,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-08-04T18:51:45.560Z"
+    "updatedAt": "2026-08-04T20:43:38.552Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -625,6 +661,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-04T18:51:45.848Z"
+    "ranAt": "2026-08-04T20:43:38.925Z"
   }
 }
