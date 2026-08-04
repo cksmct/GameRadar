@@ -1,54 +1,55 @@
 {
-  "generatedAt": "2026-08-04T20:43:11.895Z",
+  "generatedAt": "2026-08-04T21:55:59.285Z",
   "totalCandidates": 3000,
   "pendingSeo": 2645,
   "channelCounts": {
-    "pending": 608,
+    "pending": 604,
     "online": 1868,
-    "wiki": 169
+    "wiki": 173
   },
   "fastClassCounts": {
-    "pending:pending": 608,
+    "pending:pending": 604,
     "online:pending": 1868,
-    "wiki:pending": 169
+    "wiki:pending": 173
   },
   "strategicCounts": {
-    "pending:0": 600,
+    "pending:0": 596,
     "online:3": 1,
-    "online:2": 76,
-    "online:1": 1791,
-    "wiki:1": 149,
+    "online:2": 79,
+    "wiki:2": 1,
+    "online:1": 1788,
+    "wiki:1": 152,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1760
+      "count": 1755
     },
     {
       "id": "itch-new-feed",
-      "count": 1508
+      "count": 1518
     },
     {
       "id": "itch-newest-web",
-      "count": 1254
+      "count": 1252
     },
     {
       "id": "y8-new",
       "count": 218
     },
     {
-      "id": "poki-new",
-      "count": 93
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 92
+      "count": 97
     },
     {
       "id": "itch-popular",
-      "count": 92
+      "count": 97
+    },
+    {
+      "id": "poki-new",
+      "count": 93
     },
     {
       "id": "gamepix-new",
@@ -56,11 +57,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 80
+      "count": 82
     },
     {
       "id": "steam-new",
-      "count": 80
+      "count": 82
     },
     {
       "id": "newgrounds-latest",
@@ -72,7 +73,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 70
+      "count": 73
     },
     {
       "id": "trends-rising-30d",
@@ -188,6 +189,25 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Hero Card Farm",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -346,25 +366,6 @@
     },
     {
       "name": "WORDMINER",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Waking Grove Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -630,6 +631,25 @@
       ]
     },
     {
+      "name": "The Waking Grove Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Incremental Crusades",
       "channel": "online",
       "fastClass": "pending",
@@ -815,6 +835,42 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Roguewake demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Espingle Adventure 01",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1008,60 +1064,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 11,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Devil's Judgment",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Count My Coins, Coin Counter!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Bend-jo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
