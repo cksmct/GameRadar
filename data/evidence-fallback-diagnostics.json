@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-08-04T15:10:02.761Z",
+  "generatedAt": "2026-08-04T17:03:50.882Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2649,
+  "pendingSeo": 2648,
   "channelCounts": {
-    "online": 1849,
-    "pending": 642,
-    "wiki": 158
+    "online": 1856,
+    "pending": 627,
+    "wiki": 165
   },
   "fastClassCounts": {
-    "online:pending": 1849,
-    "pending:pending": 642,
-    "wiki:pending": 158
+    "online:pending": 1856,
+    "pending:pending": 627,
+    "wiki:pending": 165
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 634,
-    "online:2": 74,
-    "wiki:1": 138,
-    "online:1": 1774,
+    "pending:0": 619,
+    "online:2": 76,
+    "online:1": 1779,
+    "wiki:1": 145,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1799
+      "count": 1786
     },
     {
       "id": "itch-new-feed",
-      "count": 1527
+      "count": 1528
     },
     {
       "id": "itch-newest-web",
-      "count": 1254
+      "count": 1259
     },
     {
       "id": "y8-new",
-      "count": 210
+      "count": 213
     },
     {
       "id": "poki-new",
@@ -44,19 +44,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 90
+      "count": 92
     },
     {
       "id": "itch-popular",
-      "count": 90
+      "count": 92
     },
     {
       "id": "newgrounds-latest",
-      "count": 78
+      "count": 77
     },
     {
       "id": "newgrounds-new",
-      "count": 78
+      "count": 77
     },
     {
       "id": "gamepix-new",
@@ -64,19 +64,19 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 70
+      "count": 76
     },
     {
       "id": "steam-new",
-      "count": 70
+      "count": 76
     },
     {
       "id": "steam-popular-new",
-      "count": 69
+      "count": 70
     },
     {
       "id": "trends-rising-30d",
-      "count": 56
+      "count": 57
     },
     {
       "id": "crazygames-new",
@@ -88,11 +88,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 41
+      "count": 44
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 23
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -100,11 +100,11 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 21
+      "count": 20
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 16
+      "count": 19
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -171,6 +171,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Dragon Under My Farm",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -353,6 +372,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Tensentsu 199x: Police story",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1017,42 +1055,6 @@
     },
     {
       "name": "Bend-jo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Marinport: Stream Town",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "IGTAP demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
