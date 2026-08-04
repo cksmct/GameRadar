@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-08-04T10:19:03.341Z",
+  "generatedAt": "2026-08-04T12:30:15.023Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2650,
+  "pendingSeo": 2649,
   "channelCounts": {
-    "online": 1806,
-    "pending": 694,
-    "wiki": 150
+    "online": 1823,
+    "pending": 674,
+    "wiki": 152
   },
   "fastClassCounts": {
-    "online:pending": 1806,
-    "pending:pending": 694,
-    "wiki:pending": 150
+    "online:pending": 1823,
+    "pending:pending": 674,
+    "wiki:pending": 152
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 686,
-    "online:2": 73,
-    "online:1": 1732,
-    "wiki:1": 129,
+    "pending:0": 666,
+    "online:2": 74,
+    "online:1": 1748,
+    "wiki:1": 131,
     "pending:1": 8,
     "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1821
+      "count": 1806
     },
     {
       "id": "itch-new-feed",
-      "count": 1557
+      "count": 1559
     },
     {
       "id": "itch-newest-web",
-      "count": 1224
+      "count": 1229
     },
     {
       "id": "y8-new",
-      "count": 204
+      "count": 208
     },
     {
       "id": "poki-new",
@@ -44,23 +44,23 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 88
+      "count": 90
     },
     {
       "id": "itch-popular",
-      "count": 88
-    },
-    {
-      "id": "gamepix-new",
-      "count": 78
+      "count": 90
     },
     {
       "id": "newgrounds-latest",
-      "count": 74
+      "count": 80
     },
     {
       "id": "newgrounds-new",
-      "count": 74
+      "count": 80
+    },
+    {
+      "id": "gamepix-new",
+      "count": 77
     },
     {
       "id": "steam-popular-new",
@@ -68,11 +68,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 62
+      "count": 64
     },
     {
       "id": "steam-new",
-      "count": 62
+      "count": 64
     },
     {
       "id": "trends-rising-30d",
@@ -84,7 +84,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 49
+      "count": 51
     },
     {
       "id": "trends-rising-7d",
@@ -158,22 +158,6 @@
       ]
     },
     {
-      "name": "Trickpool",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "gamepix-new",
-        "y8-new"
-      ]
-    },
-    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -187,6 +171,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Sprunki: Shifted (Stardust's Take)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -380,14 +383,14 @@
       ]
     },
     {
-      "name": "Idle Frontier",
+      "name": "Blastin' Balloons - v1.31",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -399,7 +402,7 @@
       ]
     },
     {
-      "name": "Blastin' Balloons - v1.31",
+      "name": "EmergenHex",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -673,6 +676,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Frontier",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1038,24 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "but that's the hero's sword ?!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
