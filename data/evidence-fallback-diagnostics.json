@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-04T07:23:43.980Z",
+  "generatedAt": "2026-08-04T10:19:03.341Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2651,
+  "pendingSeo": 2650,
   "channelCounts": {
-    "online": 1811,
-    "pending": 697,
-    "wiki": 143
+    "online": 1806,
+    "pending": 694,
+    "wiki": 150
   },
   "fastClassCounts": {
-    "online:pending": 1811,
-    "pending:pending": 697,
-    "wiki:pending": 143
+    "online:pending": 1806,
+    "pending:pending": 694,
+    "wiki:pending": 150
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 689,
+    "pending:0": 686,
     "online:2": 73,
-    "online:1": 1737,
-    "wiki:1": 122,
+    "online:1": 1732,
+    "wiki:1": 129,
     "pending:1": 8,
     "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1839
+      "count": 1821
     },
     {
       "id": "itch-new-feed",
-      "count": 1560
+      "count": 1557
     },
     {
       "id": "itch-newest-web",
-      "count": 1239
+      "count": 1224
     },
     {
       "id": "y8-new",
-      "count": 200
+      "count": 204
     },
     {
       "id": "poki-new",
-      "count": 91
+      "count": 92
     },
     {
       "id": "itch-new-popular-web",
@@ -56,31 +56,31 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 72
+      "count": 74
     },
     {
       "id": "newgrounds-new",
-      "count": 72
+      "count": 74
     },
     {
       "id": "steam-popular-new",
-      "count": 66
+      "count": 68
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 62
+    },
+    {
+      "id": "steam-new",
+      "count": 62
     },
     {
       "id": "trends-rising-30d",
       "count": 56
     },
     {
-      "id": "steam-latest-indie",
-      "count": 56
-    },
-    {
-      "id": "steam-new",
-      "count": 56
-    },
-    {
       "id": "crazygames-new",
-      "count": 53
+      "count": 56
     },
     {
       "id": "lagged-new",
@@ -155,6 +155,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Trickpool",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "y8-new"
       ]
     },
     {
@@ -288,25 +304,6 @@
       ]
     },
     {
-      "name": "The Thing Beneath",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Lottohuolto",
       "channel": "online",
       "fastClass": "pending",
@@ -391,25 +388,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Red Numbers",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -554,6 +532,25 @@
       ]
     },
     {
+      "name": "The Thing Beneath",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Frog Slide",
       "channel": "online",
       "fastClass": "pending",
@@ -676,6 +673,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Red Numbers",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1033,24 +1049,6 @@
     },
     {
       "name": "but that's the hero's sword ?!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pachinkats",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
