@@ -1,22 +1,23 @@
 {
-  "generatedAt": "2026-08-04T02:23:09.165Z",
+  "generatedAt": "2026-08-04T02:36:41.194Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2653,
+  "pendingSeo": 2652,
   "channelCounts": {
-    "online": 1784,
-    "pending": 733,
-    "wiki": 136
+    "online": 1776,
+    "pending": 739,
+    "wiki": 137
   },
   "fastClassCounts": {
-    "online:pending": 1784,
-    "pending:pending": 733,
-    "wiki:pending": 136
+    "online:pending": 1776,
+    "pending:pending": 739,
+    "wiki:pending": 137
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 725,
-    "online:2": 65,
-    "online:1": 1718,
+    "pending:0": 731,
+    "online:2": 68,
+    "wiki:2": 1,
+    "online:1": 1707,
     "wiki:1": 115,
     "pending:1": 8,
     "wiki:0": 21
@@ -24,15 +25,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1865
+      "count": 1863
     },
     {
       "id": "itch-new-feed",
-      "count": 1548
+      "count": 1573
     },
     {
       "id": "itch-newest-web",
-      "count": 1230
+      "count": 1221
     },
     {
       "id": "y8-new",
@@ -44,11 +45,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 82
+      "count": 86
     },
     {
       "id": "itch-popular",
-      "count": 82
+      "count": 86
     },
     {
       "id": "gamepix-new",
@@ -64,19 +65,19 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 65
+      "count": 66
     },
     {
       "id": "trends-rising-30d",
-      "count": 57
+      "count": 56
     },
     {
       "id": "steam-latest-indie",
-      "count": 50
+      "count": 51
     },
     {
       "id": "steam-new",
-      "count": 50
+      "count": 51
     },
     {
       "id": "crazygames-new",
@@ -88,7 +89,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 42
+      "count": 41
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -96,7 +97,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "steam-top-wishlist",
@@ -108,7 +109,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 16
+      "count": 15
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -722,6 +723,42 @@
       ]
     },
     {
+      "name": "Sentencely",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Tactics Mage Arena Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Cheese, Please!",
       "channel": "online",
       "fastClass": "pending",
@@ -759,6 +796,24 @@
     },
     {
       "name": "Micorrizas",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "ShapeShifter",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -993,60 +1048,6 @@
     },
     {
       "name": "Tragibox Chapter 1 Restored",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Operation B.U.G.S.",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "AFK Artifact: Taskbar Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Veinward",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
