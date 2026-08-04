@@ -1,43 +1,42 @@
 {
-  "generatedAt": "2026-08-04T02:36:41.194Z",
+  "generatedAt": "2026-08-04T04:30:16.851Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2652,
+  "pendingSeo": 2651,
   "channelCounts": {
-    "online": 1776,
-    "pending": 739,
-    "wiki": 137
+    "online": 1795,
+    "pending": 718,
+    "wiki": 138
   },
   "fastClassCounts": {
-    "online:pending": 1776,
-    "pending:pending": 739,
-    "wiki:pending": 137
+    "online:pending": 1795,
+    "pending:pending": 718,
+    "wiki:pending": 138
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 731,
-    "online:2": 68,
-    "wiki:2": 1,
-    "online:1": 1707,
-    "wiki:1": 115,
+    "pending:0": 710,
+    "online:2": 70,
+    "online:1": 1724,
+    "wiki:1": 117,
     "pending:1": 8,
     "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1863
+      "count": 1849
     },
     {
       "id": "itch-new-feed",
-      "count": 1573
+      "count": 1566
     },
     {
       "id": "itch-newest-web",
-      "count": 1221
+      "count": 1228
     },
     {
       "id": "y8-new",
-      "count": 190
+      "count": 195
     },
     {
       "id": "poki-new",
@@ -57,31 +56,31 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 70
+      "count": 71
     },
     {
       "id": "newgrounds-new",
-      "count": 70
+      "count": 71
     },
     {
       "id": "steam-popular-new",
-      "count": 66
+      "count": 65
     },
     {
       "id": "trends-rising-30d",
       "count": 56
     },
     {
+      "id": "crazygames-new",
+      "count": 53
+    },
+    {
       "id": "steam-latest-indie",
-      "count": 51
+      "count": 52
     },
     {
       "id": "steam-new",
-      "count": 51
-    },
-    {
-      "id": "crazygames-new",
-      "count": 50
+      "count": 52
     },
     {
       "id": "lagged-new",
@@ -112,19 +111,19 @@
       "count": 15
     },
     {
+      "id": "newgrounds-daily-top",
+      "count": 15
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 15
+    },
+    {
       "id": "trends-rising-30d-indie-game",
       "count": 12
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 10
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 10
-    },
-    {
-      "id": "newgrounds-top",
       "count": 10
     },
     {
@@ -759,6 +758,42 @@
       ]
     },
     {
+      "name": "Sataniel",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "Lajiao's Holes - Trailer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
       "name": "Cheese, Please!",
       "channel": "online",
       "fastClass": "pending",
@@ -1026,42 +1061,6 @@
         "newgrounds-new",
         "newgrounds-daily-top",
         "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Tragibox Chapter 2 Restored",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Tragibox Chapter 1 Restored",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
