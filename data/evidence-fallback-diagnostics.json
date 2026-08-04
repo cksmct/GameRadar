@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-04T21:55:59.285Z",
+  "generatedAt": "2026-08-04T23:18:09.909Z",
   "totalCandidates": 3000,
   "pendingSeo": 2645,
   "channelCounts": {
-    "pending": 604,
-    "online": 1868,
+    "pending": 598,
+    "online": 1874,
     "wiki": 173
   },
   "fastClassCounts": {
-    "pending:pending": 604,
-    "online:pending": 1868,
+    "pending:pending": 598,
+    "online:pending": 1874,
     "wiki:pending": 173
   },
   "strategicCounts": {
-    "pending:0": 596,
+    "pending:0": 590,
     "online:3": 1,
-    "online:2": 79,
+    "online:2": 82,
     "wiki:2": 1,
-    "online:1": 1788,
+    "online:1": 1791,
     "wiki:1": 152,
     "pending:1": 8,
     "wiki:0": 20
@@ -25,27 +25,27 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1755
+      "count": 1754
     },
     {
       "id": "itch-new-feed",
-      "count": 1518
+      "count": 1526
     },
     {
       "id": "itch-newest-web",
-      "count": 1252
+      "count": 1257
     },
     {
       "id": "y8-new",
-      "count": 218
+      "count": 219
     },
     {
       "id": "itch-new-popular-web",
-      "count": 97
+      "count": 101
     },
     {
       "id": "itch-popular",
-      "count": 97
+      "count": 101
     },
     {
       "id": "poki-new",
@@ -65,11 +65,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 76
+      "count": 75
     },
     {
       "id": "newgrounds-new",
-      "count": 76
+      "count": 75
     },
     {
       "id": "steam-popular-new",
@@ -172,6 +172,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Square Clicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -858,6 +877,42 @@
       ]
     },
     {
+      "name": "Nothing Gallery",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Soul Vault",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Espingle Adventure 01",
       "channel": "online",
       "fastClass": "pending",
@@ -1010,60 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Eulogy",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "By the Last Petal",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "7 Minutes in the Closet",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
