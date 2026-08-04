@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-04T12:30:15.023Z",
+  "generatedAt": "2026-08-04T15:10:02.761Z",
   "totalCandidates": 3000,
   "pendingSeo": 2649,
   "channelCounts": {
-    "online": 1823,
-    "pending": 674,
-    "wiki": 152
+    "online": 1849,
+    "pending": 642,
+    "wiki": 158
   },
   "fastClassCounts": {
-    "online:pending": 1823,
-    "pending:pending": 674,
-    "wiki:pending": 152
+    "online:pending": 1849,
+    "pending:pending": 642,
+    "wiki:pending": 158
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 666,
+    "pending:0": 634,
     "online:2": 74,
-    "online:1": 1748,
-    "wiki:1": 131,
+    "wiki:1": 138,
+    "online:1": 1774,
     "pending:1": 8,
-    "wiki:0": 21
+    "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1806
+      "count": 1799
     },
     {
       "id": "itch-new-feed",
-      "count": 1559
+      "count": 1527
     },
     {
       "id": "itch-newest-web",
-      "count": 1229
+      "count": 1254
     },
     {
       "id": "y8-new",
-      "count": 208
+      "count": 210
     },
     {
       "id": "poki-new",
-      "count": 92
+      "count": 93
     },
     {
       "id": "itch-new-popular-web",
@@ -52,27 +52,27 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 80
+      "count": 78
     },
     {
       "id": "newgrounds-new",
-      "count": 80
+      "count": 78
     },
     {
       "id": "gamepix-new",
       "count": 77
     },
     {
-      "id": "steam-popular-new",
-      "count": 68
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 64
+      "count": 70
     },
     {
       "id": "steam-new",
-      "count": 64
+      "count": 70
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 69
     },
     {
       "id": "trends-rising-30d",
@@ -364,25 +364,6 @@
       ]
     },
     {
-      "name": "Space Miner",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Blastin' Balloons - v1.31",
       "channel": "online",
       "fastClass": "pending",
@@ -650,6 +631,25 @@
     },
     {
       "name": "Olympians: Roy",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Space Miner",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
