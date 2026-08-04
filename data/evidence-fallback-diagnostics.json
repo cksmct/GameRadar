@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-08-04T04:30:16.851Z",
+  "generatedAt": "2026-08-04T07:23:43.980Z",
   "totalCandidates": 3000,
   "pendingSeo": 2651,
   "channelCounts": {
-    "online": 1795,
-    "pending": 718,
-    "wiki": 138
+    "online": 1811,
+    "pending": 697,
+    "wiki": 143
   },
   "fastClassCounts": {
-    "online:pending": 1795,
-    "pending:pending": 718,
-    "wiki:pending": 138
+    "online:pending": 1811,
+    "pending:pending": 697,
+    "wiki:pending": 143
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 710,
-    "online:2": 70,
-    "online:1": 1724,
-    "wiki:1": 117,
+    "pending:0": 689,
+    "online:2": 73,
+    "online:1": 1737,
+    "wiki:1": 122,
     "pending:1": 8,
     "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1849
+      "count": 1839
     },
     {
       "id": "itch-new-feed",
-      "count": 1566
+      "count": 1560
     },
     {
       "id": "itch-newest-web",
-      "count": 1228
+      "count": 1239
     },
     {
       "id": "y8-new",
-      "count": 195
+      "count": 200
     },
     {
       "id": "poki-new",
@@ -44,11 +44,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 86
+      "count": 88
     },
     {
       "id": "itch-popular",
-      "count": 86
+      "count": 88
     },
     {
       "id": "gamepix-new",
@@ -56,31 +56,31 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 71
+      "count": 72
     },
     {
       "id": "newgrounds-new",
-      "count": 71
+      "count": 72
     },
     {
       "id": "steam-popular-new",
-      "count": 65
+      "count": 66
     },
     {
       "id": "trends-rising-30d",
       "count": 56
     },
     {
-      "id": "crazygames-new",
-      "count": 53
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 52
+      "count": 56
     },
     {
       "id": "steam-new",
-      "count": 52
+      "count": 56
+    },
+    {
+      "id": "crazygames-new",
+      "count": 53
     },
     {
       "id": "lagged-new",
@@ -174,19 +174,22 @@
       ]
     },
     {
-      "name": "Football Marble Shooter",
+      "name": "VoltCore",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
+      "discoveryScore": 17,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 26,
+      "nameRisk": 5,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "y8-new",
-        "lagged-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -407,6 +410,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Blastin' Balloons - v1.31",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1043,24 +1065,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Sunny!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
       ]
     }
   ]
