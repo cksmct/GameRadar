@@ -1,51 +1,50 @@
 {
-  "generatedAt": "2026-08-05T01:05:28.093Z",
+  "generatedAt": "2026-08-05T04:29:21.446Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2644,
+  "pendingSeo": 2646,
   "channelCounts": {
-    "pending": 606,
-    "online": 1861,
-    "wiki": 177
+    "pending": 590,
+    "online": 1875,
+    "wiki": 181
   },
   "fastClassCounts": {
-    "pending:pending": 606,
-    "online:pending": 1861,
-    "wiki:pending": 177
+    "pending:pending": 590,
+    "online:pending": 1875,
+    "wiki:pending": 181
   },
   "strategicCounts": {
-    "pending:0": 598,
+    "pending:0": 582,
     "online:3": 1,
-    "online:2": 82,
-    "wiki:2": 1,
-    "online:1": 1778,
-    "wiki:1": 156,
+    "online:2": 89,
+    "online:1": 1785,
+    "wiki:1": 161,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1747
+      "count": 1729
     },
     {
       "id": "itch-new-feed",
-      "count": 1550
+      "count": 1553
     },
     {
       "id": "itch-newest-web",
-      "count": 1242
+      "count": 1240
     },
     {
       "id": "y8-new",
-      "count": 221
+      "count": 224
     },
     {
       "id": "itch-new-popular-web",
-      "count": 101
+      "count": 105
     },
     {
       "id": "itch-popular",
-      "count": 101
+      "count": 105
     },
     {
       "id": "poki-new",
@@ -57,31 +56,31 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 85
+      "count": 89
     },
     {
       "id": "steam-new",
-      "count": 85
+      "count": 89
     },
     {
       "id": "newgrounds-latest",
-      "count": 75
+      "count": 82
     },
     {
       "id": "newgrounds-new",
-      "count": 75
+      "count": 82
     },
     {
       "id": "steam-popular-new",
-      "count": 74
+      "count": 73
+    },
+    {
+      "id": "crazygames-new",
+      "count": 60
     },
     {
       "id": "trends-rising-30d",
       "count": 59
-    },
-    {
-      "id": "crazygames-new",
-      "count": 56
     },
     {
       "id": "lagged-new",
@@ -100,20 +99,20 @@
       "count": 23
     },
     {
+      "id": "newgrounds-daily-top",
+      "count": 20
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 20
+    },
+    {
       "id": "steam-top-wishlist",
       "count": 20
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 19
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 15
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 15
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -159,19 +158,41 @@
       ]
     },
     {
-      "name": "Car and Truck Parking",
+      "name": "Ashkin: Idle Legends",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
+      "discoveryScore": 17,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 26,
+      "nameRisk": 6,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "y8-new",
-        "lagged-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Nobody's Listening",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -366,25 +387,6 @@
     },
     {
       "name": "Lottohuolto",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "WORDMINER",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -631,6 +633,25 @@
       ]
     },
     {
+      "name": "WORDMINER",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Belly Rub DX",
       "channel": "online",
       "fastClass": "pending",
@@ -859,6 +880,24 @@
       ]
     },
     {
+      "name": "The Revival",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
       "name": "Roguewake demo",
       "channel": "online",
       "fastClass": "pending",
@@ -892,6 +931,24 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "The Backrooms if it were good",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -931,6 +988,60 @@
       ]
     },
     {
+      "name": "My name is Pigma (Animated)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "safety cupboard",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "PSYCHO TEDDY DANCE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
       "name": "Sentencely",
       "channel": "online",
       "fastClass": "pending",
@@ -957,114 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sataniel",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Lajiao's Holes - Trailer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Cheese, Please!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Tap a Monster",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Micorrizas",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "ShapeShifter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
