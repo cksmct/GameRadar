@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-08-05T16:52:49.223Z",
+  "generatedAt": "2026-08-05T18:50:56.953Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2652,
+  "pendingSeo": 2655,
   "channelCounts": {
-    "online": 1877,
-    "pending": 544,
-    "wiki": 231
+    "pending": 524,
+    "online": 1890,
+    "wiki": 241
   },
   "fastClassCounts": {
-    "online:pending": 1877,
-    "pending:pending": 544,
-    "wiki:pending": 231
+    "pending:pending": 524,
+    "online:pending": 1890,
+    "wiki:pending": 241
   },
   "strategicCounts": {
+    "pending:0": 516,
     "online:3": 1,
-    "pending:0": 536,
-    "online:2": 99,
-    "online:1": 1777,
-    "wiki:1": 211,
+    "online:2": 103,
+    "online:1": 1786,
+    "wiki:2": 1,
+    "wiki:1": 220,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1654
+      "count": 1642
     },
     {
       "id": "itch-new-feed",
-      "count": 1583
+      "count": 1578
     },
     {
       "id": "itch-newest-web",
-      "count": 1209
+      "count": 1218
     },
     {
       "id": "y8-new",
@@ -40,39 +41,39 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 135
+      "count": 144
     },
     {
       "id": "steam-new",
-      "count": 135
+      "count": 144
     },
     {
       "id": "itch-new-popular-web",
-      "count": 115
+      "count": 120
     },
     {
       "id": "itch-popular",
-      "count": 115
+      "count": 120
     },
     {
       "id": "poki-new",
-      "count": 99
-    },
-    {
-      "id": "gamepix-new",
-      "count": 91
+      "count": 101
     },
     {
       "id": "newgrounds-latest",
-      "count": 90
+      "count": 91
     },
     {
       "id": "newgrounds-new",
+      "count": 91
+    },
+    {
+      "id": "gamepix-new",
       "count": 90
     },
     {
       "id": "steam-popular-new",
-      "count": 77
+      "count": 79
     },
     {
       "id": "crazygames-new",
@@ -80,22 +81,22 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 57
+      "count": 58
     },
     {
       "id": "lagged-new",
-      "count": 52
+      "count": 53
     },
     {
       "id": "trends-rising-7d",
       "count": 43
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 23
+      "id": "trends-rising-30d-itch-io",
+      "count": 24
     },
     {
-      "id": "trends-rising-30d-itch-io",
+      "id": "trends-rising-30d-horror-game",
       "count": 23
     },
     {
@@ -141,7 +142,7 @@
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 20,
+      "discoveryScore": 18,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 8,
@@ -158,19 +159,22 @@
       ]
     },
     {
-      "name": "Warehouse 24/7",
+      "name": "Idle Tower",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
+      "discoveryScore": 17,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 12,
+      "nameRisk": 9,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "y8-new",
-        "gamepix-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -402,11 +406,30 @@
       ]
     },
     {
-      "name": "PapaPharma Compounding Quest",
+      "name": "Glory ghosts",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Frogs Aren't Fresh : Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -657,6 +680,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PapaPharma Compounding Quest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1045,43 +1087,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Relicworks: Jungle Factory",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Revival",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
       ]
     }
   ]
