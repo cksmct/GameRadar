@@ -1,31 +1,30 @@
 {
-  "generatedAt": "2026-08-05T12:19:00.985Z",
+  "generatedAt": "2026-08-05T15:01:19.540Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2646,
+  "pendingSeo": 2649,
   "channelCounts": {
-    "pending": 560,
-    "wiki": 203,
-    "online": 1883
+    "online": 1884,
+    "pending": 546,
+    "wiki": 219
   },
   "fastClassCounts": {
-    "pending:pending": 560,
-    "wiki:pending": 203,
-    "online:pending": 1883
+    "online:pending": 1884,
+    "pending:pending": 546,
+    "wiki:pending": 219
   },
   "strategicCounts": {
-    "pending:0": 552,
-    "wiki:1": 182,
     "online:3": 1,
-    "online:2": 95,
-    "wiki:2": 1,
-    "online:1": 1787,
+    "pending:0": 538,
+    "online:2": 98,
+    "online:1": 1785,
+    "wiki:1": 199,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1688
+      "count": 1670
     },
     {
       "id": "itch-new-feed",
@@ -33,31 +32,31 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 1228
+      "count": 1223
     },
     {
       "id": "y8-new",
-      "count": 233
-    },
-    {
-      "id": "itch-new-popular-web",
-      "count": 111
-    },
-    {
-      "id": "itch-popular",
-      "count": 111
+      "count": 235
     },
     {
       "id": "steam-latest-indie",
-      "count": 109
+      "count": 125
     },
     {
       "id": "steam-new",
-      "count": 109
+      "count": 125
+    },
+    {
+      "id": "itch-new-popular-web",
+      "count": 115
+    },
+    {
+      "id": "itch-popular",
+      "count": 115
     },
     {
       "id": "poki-new",
-      "count": 97
+      "count": 99
     },
     {
       "id": "gamepix-new",
@@ -65,15 +64,15 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 87
+      "count": 88
     },
     {
       "id": "newgrounds-new",
-      "count": 87
+      "count": 88
     },
     {
       "id": "steam-popular-new",
-      "count": 76
+      "count": 75
     },
     {
       "id": "crazygames-new",
@@ -81,7 +80,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 59
+      "count": 57
     },
     {
       "id": "lagged-new",
@@ -89,7 +88,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 44
+      "count": 43
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -121,11 +120,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 13
+      "count": 11
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 12
+      "count": 11
     },
     {
       "id": "itch-featured-feed",
@@ -406,6 +405,44 @@
       ]
     },
     {
+      "name": "IdleGambler",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Arise Dark Lord",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Envelope My Heart!",
       "channel": "online",
       "fastClass": "pending",
@@ -414,6 +451,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "10, 9, 7... FIRE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 14,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1014,60 +1070,6 @@
     },
     {
       "name": "Roguewake demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nothing Gallery",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Backrooms if it were good",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Soul Vault",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
