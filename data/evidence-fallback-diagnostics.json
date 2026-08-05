@@ -1,43 +1,42 @@
 {
-  "generatedAt": "2026-08-05T07:25:03.342Z",
+  "generatedAt": "2026-08-05T10:16:54.072Z",
   "totalCandidates": 3000,
   "pendingSeo": 2646,
   "channelCounts": {
-    "pending": 568,
-    "online": 1891,
-    "wiki": 187
+    "pending": 579,
+    "online": 1870,
+    "wiki": 197
   },
   "fastClassCounts": {
-    "pending:pending": 568,
-    "online:pending": 1891,
-    "wiki:pending": 187
+    "pending:pending": 579,
+    "online:pending": 1870,
+    "wiki:pending": 197
   },
   "strategicCounts": {
-    "pending:0": 560,
+    "pending:0": 571,
     "online:3": 1,
-    "online:2": 89,
-    "wiki:2": 1,
-    "online:1": 1801,
-    "wiki:1": 166,
+    "online:2": 90,
+    "online:1": 1779,
+    "wiki:1": 177,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1721
+      "count": 1698
     },
     {
       "id": "itch-new-feed",
-      "count": 1549
+      "count": 1561
     },
     {
       "id": "itch-newest-web",
-      "count": 1254
+      "count": 1220
     },
     {
       "id": "y8-new",
-      "count": 225
+      "count": 230
     },
     {
       "id": "itch-new-popular-web",
@@ -49,15 +48,15 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 94
+      "count": 104
     },
     {
       "id": "steam-new",
-      "count": 94
+      "count": 104
     },
     {
       "id": "poki-new",
-      "count": 94
+      "count": 97
     },
     {
       "id": "gamepix-new",
@@ -65,19 +64,19 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 82
+      "count": 86
     },
     {
       "id": "newgrounds-new",
-      "count": 82
+      "count": 86
     },
     {
       "id": "steam-popular-new",
-      "count": 75
+      "count": 74
     },
     {
       "id": "crazygames-new",
-      "count": 60
+      "count": 62
     },
     {
       "id": "trends-rising-30d",
@@ -156,6 +155,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Card Clash Battle Arena",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "lagged-new",
+        "y8-new"
       ]
     },
     {
@@ -368,44 +383,6 @@
       ]
     },
     {
-      "name": "Kraken's Variety Pack 6: Search Party!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lottohuolto",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Tensentsu 199x: Police story",
       "channel": "online",
       "fastClass": "pending",
@@ -566,6 +543,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Kraken's Variety Pack 6: Search Party!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Lottohuolto",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1051,24 +1066,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Tactics Mage Arena Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
