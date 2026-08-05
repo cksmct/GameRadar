@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-05T18:50:56.953Z",
+  "generatedAt": "2026-08-05T20:39:30.054Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2655,
+  "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 524,
-    "online": 1890,
-    "wiki": 241
+    "pending": 515,
+    "online": 1900,
+    "wiki": 242
   },
   "fastClassCounts": {
-    "pending:pending": 524,
-    "online:pending": 1890,
-    "wiki:pending": 241
+    "pending:pending": 515,
+    "online:pending": 1900,
+    "wiki:pending": 242
   },
   "strategicCounts": {
-    "pending:0": 516,
+    "pending:0": 507,
     "online:3": 1,
-    "online:2": 103,
-    "online:1": 1786,
-    "wiki:2": 1,
+    "online:2": 104,
+    "wiki:2": 2,
+    "online:1": 1795,
     "wiki:1": 220,
     "pending:1": 8,
     "wiki:0": 20
@@ -25,35 +25,35 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1642
+      "count": 1637
     },
     {
       "id": "itch-new-feed",
-      "count": 1578
+      "count": 1590
     },
     {
       "id": "itch-newest-web",
-      "count": 1218
+      "count": 1222
     },
     {
       "id": "y8-new",
-      "count": 238
+      "count": 243
     },
     {
       "id": "steam-latest-indie",
-      "count": 144
+      "count": 143
     },
     {
       "id": "steam-new",
-      "count": 144
+      "count": 143
     },
     {
       "id": "itch-new-popular-web",
-      "count": 120
+      "count": 119
     },
     {
       "id": "itch-popular",
-      "count": 120
+      "count": 119
     },
     {
       "id": "poki-new",
@@ -61,23 +61,23 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 91
+      "count": 92
     },
     {
       "id": "newgrounds-new",
-      "count": 91
+      "count": 92
     },
     {
       "id": "gamepix-new",
-      "count": 90
+      "count": 91
     },
     {
       "id": "steam-popular-new",
-      "count": 79
+      "count": 82
     },
     {
       "id": "crazygames-new",
-      "count": 63
+      "count": 64
     },
     {
       "id": "trends-rising-30d",
@@ -156,6 +156,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Geometry Goal Dash 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "lagged-new",
+        "y8-new"
       ]
     },
     {
@@ -376,25 +392,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 8,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Mosquitos",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -680,6 +677,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Mosquitos",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1069,6 @@
     },
     {
       "name": "Opus Morphosis",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dom Dom",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,

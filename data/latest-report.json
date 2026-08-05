@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-08-05T18:50:09.858Z",
+  "scannedAt": "2026-08-05T20:39:09.349Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 103,
+  "totalAdded": 100,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 31
+      "added": 36
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 5
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
@@ -44,15 +44,15 @@
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
-      "total": 50,
-      "added": 2
+      "total": 49,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 8
+      "added": 0
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 2
+      "added": 5
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 148,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 10
+      "added": 19
     },
     {
       "ok": true,
@@ -102,73 +102,36 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 20,
-      "added": 7
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-30d-horror-game",
-      "sourceName": "Trends上涨 30天 · horror game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 99,
-  "fastWatchCount": 246,
+  "fastPassedCount": 100,
+  "fastWatchCount": 243,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 2,
+  "trendsVerified": 4,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 233,
-  "trendEligibleCount": 59,
-  "trendPendingCount": 47,
+  "seoPassedCount": 231,
+  "trendEligibleCount": 58,
+  "trendPendingCount": 46,
   "trendValidatedCount": 205,
   "risingCount": 2,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 3,
-    "watch": 280,
-    "reject": 19,
+    "watch": 279,
+    "reject": 20,
     "pending": 2698,
     "error": 0
   },
@@ -189,7 +152,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-05T18:50:08.690Z",
+    "checkedAt": "2026-08-05T20:39:07.983Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -215,8 +178,8 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 40,
-    "evidence-fallback": 26,
-    "serper+autocomplete": 281
+    "evidence-fallback": 28,
+    "serper+autocomplete": 279
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -245,9 +208,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2173,
+    "online": 2182,
     "wiki": 257,
-    "pending": 570
+    "pending": 561
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
@@ -271,31 +234,33 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-05T18:50:56.618Z"
+    "ranAt": "2026-08-05T20:39:29.753Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2655,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2657,
+    "eligibleCount": 3,
+    "queueSize": 3,
+    "verified": 3,
     "channelVerified": {
-      "online": 0,
-      "wiki": 1,
+      "online": 1,
+      "wiki": 2,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
+      "pass": 1,
       "watch": 1,
-      "weak": 0,
+      "weak": 1,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Lost & Found: A This Bed We Made Story"
+      "Geometry Goal Dash 2026",
+      "Akatori",
+      "Cleaning Up The Puzzle Gallery"
     ],
-    "ranAt": "2026-08-05T18:50:57.248Z"
+    "ranAt": "2026-08-05T20:39:30.337Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -319,16 +284,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-05T18:50:59.769Z"
+    "ranAt": "2026-08-05T20:39:32.062Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-05T18:51:00.205Z",
+    "checkedAt": "2026-08-05T20:39:32.628Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 341,
+    "totalIndependentSearchesLeft": 339,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -359,8 +324,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 151,
-        "totalSearchesLeft": 99,
+        "thisMonthUsage": 153,
+        "totalSearchesLeft": 97,
         "renewalDate": "2026-08-29"
       },
       {
@@ -392,7 +357,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-05T18:50:59.998Z",
+        "checkedAt": "2026-08-05T20:39:32.328Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -412,7 +377,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-05T18:51:00.056Z",
+        "checkedAt": "2026-08-05T20:39:32.431Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -428,11 +393,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 151,
-        "planSearchesLeft": 99,
-        "totalSearchesLeft": 99,
+        "thisMonthUsage": 153,
+        "planSearchesLeft": 97,
+        "totalSearchesLeft": 97,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-05T18:51:00.145Z",
+        "checkedAt": "2026-08-05T20:39:32.530Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -452,7 +417,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-05T18:51:00.205Z",
+        "checkedAt": "2026-08-05T20:39:32.628Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -485,19 +450,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 347,
-    "queueSize": 2,
-    "verified": 2,
+    "remainingAtStart": 345,
+    "queueSize": 4,
+    "verified": 4,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 0,
-      "secondary": 2,
-      "strategic": 0
+      "strong": 2,
+      "secondary": 1,
+      "strategic": 1
     },
     "channelVerified": {
-      "online": 1,
-      "wiki": 1,
+      "online": 2,
+      "wiki": 2,
       "pending": 0
     },
     "pendingByTier": {
@@ -510,8 +475,10 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Lost & Found: A This Bed We Made Story",
-      "Color Clash"
+      "Geometry Goal Dash 2026",
+      "Hawaii Match",
+      "Akatori",
+      "Cleaning Up The Puzzle Gallery"
     ],
     "caps": {
       "online": 999,
@@ -550,10 +517,10 @@
         "envName": "SERPAPI_API_KEY_3",
         "ok": true,
         "error": null,
-        "verified": 2,
+        "verified": 4,
         "channelVerified": {
-          "online": 1,
-          "wiki": 1,
+          "online": 2,
+          "wiki": 2,
           "pending": 0
         },
         "errors": 0,
@@ -573,16 +540,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-05T18:51:07.798Z"
+    "ranAt": "2026-08-05T20:39:58.614Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 635,
+    "monthUsed": 639,
     "day": "2026-08-05",
-    "dayUsed": 133,
+    "dayUsed": 137,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -604,11 +571,11 @@
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 145,
-        "dayUsed": 120,
+        "monthUsed": 149,
+        "dayUsed": 124,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-05T18:51:03.758Z"
+        "updatedAt": "2026-08-05T20:39:44.174Z"
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
@@ -619,7 +586,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-08-05T18:51:07.848Z"
+    "updatedAt": "2026-08-05T20:39:58.667Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -662,6 +629,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-05T18:51:08.196Z"
+    "ranAt": "2026-08-05T20:39:59.024Z"
   }
 }
