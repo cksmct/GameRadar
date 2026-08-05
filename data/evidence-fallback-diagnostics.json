@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-05T15:01:19.540Z",
+  "generatedAt": "2026-08-05T16:52:49.223Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2649,
+  "pendingSeo": 2652,
   "channelCounts": {
-    "online": 1884,
-    "pending": 546,
-    "wiki": 219
+    "online": 1877,
+    "pending": 544,
+    "wiki": 231
   },
   "fastClassCounts": {
-    "online:pending": 1884,
-    "pending:pending": 546,
-    "wiki:pending": 219
+    "online:pending": 1877,
+    "pending:pending": 544,
+    "wiki:pending": 231
   },
   "strategicCounts": {
     "online:3": 1,
-    "pending:0": 538,
-    "online:2": 98,
-    "online:1": 1785,
-    "wiki:1": 199,
+    "pending:0": 536,
+    "online:2": 99,
+    "online:1": 1777,
+    "wiki:1": 211,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1670
+      "count": 1654
     },
     {
       "id": "itch-new-feed",
-      "count": 1571
+      "count": 1583
     },
     {
       "id": "itch-newest-web",
-      "count": 1223
+      "count": 1209
     },
     {
       "id": "y8-new",
-      "count": 235
+      "count": 238
     },
     {
       "id": "steam-latest-indie",
-      "count": 125
+      "count": 135
     },
     {
       "id": "steam-new",
-      "count": 125
+      "count": 135
     },
     {
       "id": "itch-new-popular-web",
@@ -60,23 +60,23 @@
     },
     {
       "id": "gamepix-new",
-      "count": 90
+      "count": 91
     },
     {
       "id": "newgrounds-latest",
-      "count": 88
+      "count": 90
     },
     {
       "id": "newgrounds-new",
-      "count": 88
+      "count": 90
     },
     {
       "id": "steam-popular-new",
-      "count": 75
+      "count": 77
     },
     {
       "id": "crazygames-new",
-      "count": 62
+      "count": 63
     },
     {
       "id": "trends-rising-30d",
@@ -84,7 +84,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 51
+      "count": 52
     },
     {
       "id": "trends-rising-7d",
@@ -155,6 +155,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Warehouse 24/7",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -1066,24 +1082,6 @@
         "newgrounds-new",
         "newgrounds-daily-top",
         "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Roguewake demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
