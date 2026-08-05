@@ -1,78 +1,79 @@
 {
-  "generatedAt": "2026-08-05T21:56:03.632Z",
+  "generatedAt": "2026-08-05T23:17:40.400Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2656,
+  "pendingSeo": 2655,
   "channelCounts": {
-    "wiki": 244,
-    "pending": 506,
-    "online": 1906
+    "pending": 515,
+    "online": 1896,
+    "wiki": 244
   },
   "fastClassCounts": {
-    "wiki:pending": 244,
-    "pending:pending": 506,
-    "online:pending": 1906
+    "pending:pending": 515,
+    "online:pending": 1896,
+    "wiki:pending": 244
   },
   "strategicCounts": {
-    "wiki:1": 224,
-    "pending:0": 498,
+    "pending:0": 507,
+    "online:1": 1789,
     "online:3": 1,
-    "online:2": 103,
-    "online:1": 1802,
+    "online:2": 106,
+    "wiki:2": 1,
+    "wiki:1": 223,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1634
+      "count": 1662
     },
     {
       "id": "itch-new-feed",
-      "count": 1598
+      "count": 1625
     },
     {
       "id": "itch-newest-web",
-      "count": 1230
+      "count": 1248
     },
     {
       "id": "y8-new",
-      "count": 235
+      "count": 229
     },
     {
       "id": "steam-latest-indie",
-      "count": 143
+      "count": 144
     },
     {
       "id": "steam-new",
-      "count": 143
+      "count": 144
     },
     {
       "id": "itch-new-popular-web",
-      "count": 119
+      "count": 122
     },
     {
       "id": "itch-popular",
-      "count": 119
+      "count": 122
     },
     {
       "id": "poki-new",
-      "count": 101
-    },
-    {
-      "id": "gamepix-new",
-      "count": 95
+      "count": 99
     },
     {
       "id": "newgrounds-latest",
-      "count": 94
+      "count": 91
     },
     {
       "id": "newgrounds-new",
-      "count": 94
+      "count": 91
     },
     {
       "id": "steam-popular-new",
       "count": 82
+    },
+    {
+      "id": "gamepix-new",
+      "count": 77
     },
     {
       "id": "crazygames-new",
@@ -80,11 +81,11 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 59
+      "count": 58
     },
     {
       "id": "lagged-new",
-      "count": 52
+      "count": 53
     },
     {
       "id": "trends-rising-7d",
@@ -120,7 +121,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 12
+      "count": 11
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -158,6 +159,22 @@
       ]
     },
     {
+      "name": "Geometry Goal Dash 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
+    {
       "name": "Idle Tower",
       "channel": "online",
       "fastClass": "pending",
@@ -166,6 +183,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Necromancer Idle: The Endless Drain Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -413,6 +449,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "HordeFall",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1021,63 +1076,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Red Numbers",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Opus Morphosis",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dom Dom",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
