@@ -1,43 +1,42 @@
 {
-  "generatedAt": "2026-08-05T20:39:30.054Z",
+  "generatedAt": "2026-08-05T21:56:03.632Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2657,
+  "pendingSeo": 2656,
   "channelCounts": {
-    "pending": 515,
-    "online": 1900,
-    "wiki": 242
+    "wiki": 244,
+    "pending": 506,
+    "online": 1906
   },
   "fastClassCounts": {
-    "pending:pending": 515,
-    "online:pending": 1900,
-    "wiki:pending": 242
+    "wiki:pending": 244,
+    "pending:pending": 506,
+    "online:pending": 1906
   },
   "strategicCounts": {
-    "pending:0": 507,
+    "wiki:1": 224,
+    "pending:0": 498,
     "online:3": 1,
-    "online:2": 104,
-    "wiki:2": 2,
-    "online:1": 1795,
-    "wiki:1": 220,
+    "online:2": 103,
+    "online:1": 1802,
     "pending:1": 8,
     "wiki:0": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1637
+      "count": 1634
     },
     {
       "id": "itch-new-feed",
-      "count": 1590
+      "count": 1598
     },
     {
       "id": "itch-newest-web",
-      "count": 1222
+      "count": 1230
     },
     {
       "id": "y8-new",
-      "count": 243
+      "count": 235
     },
     {
       "id": "steam-latest-indie",
@@ -60,16 +59,16 @@
       "count": 101
     },
     {
+      "id": "gamepix-new",
+      "count": 95
+    },
+    {
       "id": "newgrounds-latest",
-      "count": 92
+      "count": 94
     },
     {
       "id": "newgrounds-new",
-      "count": 92
-    },
-    {
-      "id": "gamepix-new",
-      "count": 91
+      "count": 94
     },
     {
       "id": "steam-popular-new",
@@ -81,23 +80,27 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 58
+      "count": 59
     },
     {
       "id": "lagged-new",
-      "count": 53
+      "count": 52
     },
     {
       "id": "trends-rising-7d",
-      "count": 43
+      "count": 47
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 23
+      "count": 22
+    },
+    {
+      "id": "trends-rising-7d-horror-game",
+      "count": 20
     },
     {
       "id": "newgrounds-daily-top",
@@ -112,16 +115,12 @@
       "count": 20
     },
     {
-      "id": "trends-rising-7d-horror-game",
-      "count": 19
-    },
-    {
       "id": "trends-rising-7d-itch-io",
-      "count": 14
+      "count": 17
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 11
+      "count": 12
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -156,22 +155,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Geometry Goal Dash 2026",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "lagged-new",
-        "y8-new"
       ]
     },
     {
@@ -1069,6 +1052,25 @@
     },
     {
       "name": "Opus Morphosis",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dom Dom",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
