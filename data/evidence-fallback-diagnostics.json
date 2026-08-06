@@ -1,42 +1,43 @@
 {
-  "generatedAt": "2026-08-06T07:25:18.042Z",
+  "generatedAt": "2026-08-06T10:18:10.009Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2657,
+  "pendingSeo": 2656,
   "channelCounts": {
-    "pending": 520,
-    "online": 1933,
-    "wiki": 204
+    "pending": 519,
+    "online": 1928,
+    "wiki": 209
   },
   "fastClassCounts": {
-    "pending:pending": 520,
-    "online:pending": 1933,
-    "wiki:pending": 204
+    "pending:pending": 519,
+    "online:pending": 1928,
+    "wiki:pending": 209
   },
   "strategicCounts": {
-    "pending:0": 512,
-    "online:3": 1,
-    "online:2": 109,
-    "online:1": 1823,
-    "wiki:1": 183,
+    "pending:0": 511,
+    "online:3": 2,
+    "online:2": 108,
+    "wiki:2": 1,
+    "online:1": 1818,
+    "wiki:1": 187,
     "pending:1": 8,
     "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1698
+      "count": 1712
     },
     {
       "id": "itch-new-feed",
-      "count": 1662
+      "count": 1676
     },
     {
       "id": "itch-newest-web",
-      "count": 1283
+      "count": 1297
     },
     {
       "id": "y8-new",
-      "count": 229
+      "count": 220
     },
     {
       "id": "itch-new-popular-web",
@@ -48,51 +49,51 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 102
+      "count": 110
     },
     {
       "id": "steam-new",
-      "count": 102
-    },
-    {
-      "id": "poki-new",
-      "count": 102
+      "count": 110
     },
     {
       "id": "newgrounds-latest",
-      "count": 89
+      "count": 94
     },
     {
       "id": "newgrounds-new",
-      "count": 89
+      "count": 94
+    },
+    {
+      "id": "poki-new",
+      "count": 94
     },
     {
       "id": "steam-popular-new",
-      "count": 82
-    },
-    {
-      "id": "gamepix-new",
       "count": 80
     },
     {
       "id": "crazygames-new",
-      "count": 64
+      "count": 69
     },
     {
-      "id": "trends-rising-30d",
+      "id": "gamepix-new",
       "count": 61
     },
     {
-      "id": "trends-rising-7d",
-      "count": 50
+      "id": "trends-rising-30d",
+      "count": 60
     },
     {
       "id": "lagged-new",
-      "count": 46
+      "count": 54
+    },
+    {
+      "id": "trends-rising-7d",
+      "count": 49
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 27
+      "count": 26
     },
     {
       "id": "newgrounds-daily-top",
@@ -116,7 +117,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 18
+      "count": 17
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -136,6 +137,27 @@
     }
   ],
   "samples": [
+    {
+      "name": "10, 9, 7... FIRE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 14,
+      "strategicCount": 3,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
+        "itch-new-popular-web",
+        "itch-popular",
+        "newgrounds-latest",
+        "newgrounds-new"
+      ]
+    },
     {
       "name": "The Snake That Eats Puzzle Game Mechanics",
       "channel": "online",
@@ -519,25 +541,6 @@
       ]
     },
     {
-      "name": "10, 9, 7... FIRE!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 14,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Cage",
       "channel": "online",
       "fastClass": "pending",
@@ -660,25 +663,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki Shifted - Chris's Retake: Lore Documents",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1078,6 +1062,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Red Numbers",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
