@@ -1,75 +1,74 @@
 {
-  "generatedAt": "2026-08-05T23:17:40.400Z",
+  "generatedAt": "2026-08-06T01:05:22.301Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2655,
+  "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 515,
-    "online": 1896,
-    "wiki": 244
+    "pending": 551,
+    "online": 1897,
+    "wiki": 209
   },
   "fastClassCounts": {
-    "pending:pending": 515,
-    "online:pending": 1896,
-    "wiki:pending": 244
+    "pending:pending": 551,
+    "online:pending": 1897,
+    "wiki:pending": 209
   },
   "strategicCounts": {
-    "pending:0": 507,
-    "online:1": 1789,
+    "pending:0": 543,
     "online:3": 1,
-    "online:2": 106,
-    "wiki:2": 1,
-    "wiki:1": 223,
+    "online:2": 105,
+    "online:1": 1791,
+    "wiki:1": 175,
     "pending:1": 8,
-    "wiki:0": 20
+    "wiki:0": 34
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1662
+      "count": 1696
     },
     {
       "id": "itch-new-feed",
-      "count": 1625
+      "count": 1660
     },
     {
       "id": "itch-newest-web",
-      "count": 1248
+      "count": 1247
     },
     {
       "id": "y8-new",
       "count": 229
     },
     {
-      "id": "steam-latest-indie",
-      "count": 144
-    },
-    {
-      "id": "steam-new",
-      "count": 144
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 122
+      "count": 123
     },
     {
       "id": "itch-popular",
-      "count": 122
+      "count": 123
     },
     {
       "id": "poki-new",
-      "count": 99
+      "count": 103
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 95
+    },
+    {
+      "id": "steam-new",
+      "count": 95
     },
     {
       "id": "newgrounds-latest",
-      "count": 91
+      "count": 89
     },
     {
       "id": "newgrounds-new",
-      "count": 91
+      "count": 89
     },
     {
       "id": "steam-popular-new",
-      "count": 82
+      "count": 81
     },
     {
       "id": "gamepix-new",
@@ -81,39 +80,39 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 58
+      "count": 57
     },
     {
       "id": "lagged-new",
-      "count": 53
+      "count": 52
     },
     {
       "id": "trends-rising-7d",
-      "count": 47
+      "count": 48
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 34
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 25
     },
     {
-      "id": "trends-rising-30d-horror-game",
+      "id": "trends-rising-7d-horror-game",
       "count": 22
     },
     {
-      "id": "trends-rising-7d-horror-game",
-      "count": 20
+      "id": "trends-rising-30d-horror-game",
+      "count": 21
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 20
+      "count": 19
     },
     {
       "id": "newgrounds-top",
-      "count": 20
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 20
+      "count": 19
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -125,7 +124,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 11
+      "count": 10
     },
     {
       "id": "itch-featured-feed",
@@ -156,22 +155,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Geometry Goal Dash 2026",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
       ]
     },
     {
@@ -1076,6 +1059,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Red Numbers",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
