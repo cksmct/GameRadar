@@ -1,71 +1,70 @@
 {
-  "generatedAt": "2026-08-06T04:30:51.323Z",
+  "generatedAt": "2026-08-06T07:25:18.042Z",
   "totalCandidates": 3000,
   "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 518,
-    "online": 1939,
-    "wiki": 200
+    "pending": 520,
+    "online": 1933,
+    "wiki": 204
   },
   "fastClassCounts": {
-    "pending:pending": 518,
-    "online:pending": 1939,
-    "wiki:pending": 200
+    "pending:pending": 520,
+    "online:pending": 1933,
+    "wiki:pending": 204
   },
   "strategicCounts": {
-    "pending:0": 510,
+    "pending:0": 512,
     "online:3": 1,
-    "online:2": 111,
-    "wiki:2": 1,
-    "online:1": 1827,
-    "wiki:1": 178,
+    "online:2": 109,
+    "online:1": 1823,
+    "wiki:1": 183,
     "pending:1": 8,
     "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1681
+      "count": 1698
     },
     {
       "id": "itch-new-feed",
-      "count": 1644
+      "count": 1662
     },
     {
       "id": "itch-newest-web",
-      "count": 1268
+      "count": 1283
     },
     {
       "id": "y8-new",
-      "count": 238
+      "count": 229
     },
     {
       "id": "itch-new-popular-web",
-      "count": 124
+      "count": 126
     },
     {
       "id": "itch-popular",
-      "count": 124
-    },
-    {
-      "id": "poki-new",
-      "count": 103
+      "count": 126
     },
     {
       "id": "steam-latest-indie",
-      "count": 99
+      "count": 102
     },
     {
       "id": "steam-new",
-      "count": 99
+      "count": 102
+    },
+    {
+      "id": "poki-new",
+      "count": 102
     },
     {
       "id": "newgrounds-latest",
-      "count": 88
+      "count": 89
     },
     {
       "id": "newgrounds-new",
-      "count": 88
+      "count": 89
     },
     {
       "id": "steam-popular-new",
@@ -73,23 +72,23 @@
     },
     {
       "id": "gamepix-new",
-      "count": 81
+      "count": 80
     },
     {
       "id": "crazygames-new",
-      "count": 71
+      "count": 64
     },
     {
       "id": "trends-rising-30d",
       "count": 61
     },
     {
-      "id": "lagged-new",
-      "count": 54
-    },
-    {
       "id": "trends-rising-7d",
       "count": 50
+    },
+    {
+      "id": "lagged-new",
+      "count": 46
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -159,51 +158,22 @@
       ]
     },
     {
-      "name": "Haaland Coloring Book",
+      "name": "A Piece of the Action",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
+      "discoveryScore": 17,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 11,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "y8-new",
-        "lagged-new"
-      ]
-    },
-    {
-      "name": "Geometry Goal Dash 2026",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
-      ]
-    },
-    {
-      "name": "Survive-ish",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -424,25 +394,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "ATTACK AXIS",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 8,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -728,6 +679,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "ATTACK AXIS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 8,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1070,6 +1040,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Panoplia",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Frontier",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
