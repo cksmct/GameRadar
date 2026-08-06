@@ -1,50 +1,51 @@
 {
-  "generatedAt": "2026-08-06T01:05:22.301Z",
+  "generatedAt": "2026-08-06T04:30:51.323Z",
   "totalCandidates": 3000,
   "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 551,
-    "online": 1897,
-    "wiki": 209
+    "pending": 518,
+    "online": 1939,
+    "wiki": 200
   },
   "fastClassCounts": {
-    "pending:pending": 551,
-    "online:pending": 1897,
-    "wiki:pending": 209
+    "pending:pending": 518,
+    "online:pending": 1939,
+    "wiki:pending": 200
   },
   "strategicCounts": {
-    "pending:0": 543,
+    "pending:0": 510,
     "online:3": 1,
-    "online:2": 105,
-    "online:1": 1791,
-    "wiki:1": 175,
+    "online:2": 111,
+    "wiki:2": 1,
+    "online:1": 1827,
+    "wiki:1": 178,
     "pending:1": 8,
-    "wiki:0": 34
+    "wiki:0": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1696
+      "count": 1681
     },
     {
       "id": "itch-new-feed",
-      "count": 1660
+      "count": 1644
     },
     {
       "id": "itch-newest-web",
-      "count": 1247
+      "count": 1268
     },
     {
       "id": "y8-new",
-      "count": 229
+      "count": 238
     },
     {
       "id": "itch-new-popular-web",
-      "count": 123
+      "count": 124
     },
     {
       "id": "itch-popular",
-      "count": 123
+      "count": 124
     },
     {
       "id": "poki-new",
@@ -52,71 +53,71 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 95
+      "count": 99
     },
     {
       "id": "steam-new",
-      "count": 95
+      "count": 99
     },
     {
       "id": "newgrounds-latest",
-      "count": 89
+      "count": 88
     },
     {
       "id": "newgrounds-new",
-      "count": 89
+      "count": 88
     },
     {
       "id": "steam-popular-new",
-      "count": 81
+      "count": 82
     },
     {
       "id": "gamepix-new",
-      "count": 77
+      "count": 81
     },
     {
       "id": "crazygames-new",
-      "count": 64
+      "count": 71
     },
     {
       "id": "trends-rising-30d",
-      "count": 57
+      "count": 61
     },
     {
       "id": "lagged-new",
-      "count": 52
+      "count": 54
     },
     {
       "id": "trends-rising-7d",
-      "count": 48
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 34
+      "count": 50
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 25
-    },
-    {
-      "id": "trends-rising-7d-horror-game",
-      "count": 22
-    },
-    {
-      "id": "trends-rising-30d-horror-game",
-      "count": 21
+      "count": 27
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 19
+      "count": 24
     },
     {
       "id": "newgrounds-top",
-      "count": 19
+      "count": 24
+    },
+    {
+      "id": "trends-rising-7d-horror-game",
+      "count": 23
+    },
+    {
+      "id": "trends-rising-30d-horror-game",
+      "count": 23
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 21
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 17
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -155,6 +156,54 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Haaland Coloring Book",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
+    {
+      "name": "Geometry Goal Dash 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
+    {
+      "name": "Survive-ish",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new"
       ]
     },
     {
@@ -1014,63 +1063,6 @@
     },
     {
       "name": "Space Miner",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Panoplia",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Idle Frontier",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Red Numbers",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
