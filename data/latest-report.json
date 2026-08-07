@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-08-07T19:59:46.242Z",
+  "scannedAt": "2026-08-07T20:57:45.251Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 68,
+  "totalAdded": 85,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 26
+      "added": 16
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 32
+      "added": 34
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 8
+      "added": 13
     },
     {
       "ok": true,
@@ -102,42 +102,84 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "total": 20,
+      "added": 6
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "total": 21,
+      "added": 4
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "total": 4,
+      "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "total": 5,
+      "added": 1
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "total": 11,
+      "added": 4
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "total": 17,
+      "added": 2
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 101,
-  "fastWatchCount": 251,
+  "fastPassedCount": 102,
+  "fastWatchCount": 250,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 0,
+  "trendsVerified": 6,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 238,
   "trendEligibleCount": 59,
   "trendPendingCount": 52,
-  "trendValidatedCount": 210,
-  "risingCount": 2,
+  "trendValidatedCount": 214,
+  "risingCount": 3,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 2,
-    "watch": 279,
+    "watch": 283,
     "reject": 21,
-    "pending": 2698,
+    "pending": 2694,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 210
+    "serpapi": 214
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -152,7 +194,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-07T19:59:45.154Z",
+    "checkedAt": "2026-08-07T20:57:44.206Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -178,7 +220,7 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 46,
-    "evidence-fallback": 32,
+    "evidence-fallback": 36,
     "serper+autocomplete": 275
   },
   "serperConfigured": true,
@@ -208,16 +250,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2255,
-    "wiki": 166,
-    "pending": 579
+    "online": 2242,
+    "wiki": 171,
+    "pending": 587
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 12,
     "watch": 8,
-    "weak": 146
+    "weak": 151
   },
   "serperVerification": {
     "rushMode": true,
@@ -234,29 +276,34 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-07T20:00:09.059Z"
+    "ranAt": "2026-08-07T20:58:30.882Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
     "pendingCount": 2648,
-    "eligibleCount": 0,
-    "queueSize": 0,
-    "verified": 0,
+    "eligibleCount": 4,
+    "queueSize": 4,
+    "verified": 4,
     "channelVerified": {
-      "online": 0,
+      "online": 4,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 0,
+      "pass": 4,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [],
-    "ranAt": "2026-08-07T20:00:09.614Z"
+    "verifiedNames": [
+      "10, 9, 7... FIRE!",
+      "PrismRoll 3D",
+      "Arrows: Picture Puzzle",
+      "Candy Farm"
+    ],
+    "ranAt": "2026-08-07T20:58:31.477Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -265,25 +312,25 @@
       "youtube"
     ],
     "limit": 35,
-    "queueSize": 34,
-    "verified": 34,
+    "queueSize": 0,
+    "verified": 0,
     "classifications": {
       "viral": 0,
       "pass": 0,
       "watch": 0,
       "weak": 0,
-      "pending": 34
+      "pending": 0
     },
     "errors": {
-      "youtube": 34,
+      "youtube": 0,
       "reddit": 0,
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-07T20:00:11.737Z"
+    "ranAt": "2026-08-07T20:58:32.190Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-07T20:00:11.948Z",
+    "checkedAt": "2026-08-07T20:58:32.515Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -353,7 +400,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T20:00:11.879Z",
+        "checkedAt": "2026-08-07T20:58:32.377Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -373,7 +420,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T20:00:11.902Z",
+        "checkedAt": "2026-08-07T20:58:32.425Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -393,7 +440,7 @@
         "planSearchesLeft": 22,
         "totalSearchesLeft": 22,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T20:00:11.924Z",
+        "checkedAt": "2026-08-07T20:58:32.472Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -413,7 +460,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T20:00:11.948Z",
+        "checkedAt": "2026-08-07T20:58:32.514Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -428,8 +475,8 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 189,
-      "rising": 0,
+      "validated": 193,
+      "rising": 1,
       "recommended": 0
     },
     "wiki": {
@@ -447,17 +494,17 @@
     "enabled": true,
     "configuredSlots": 4,
     "remainingAtStart": 270,
-    "queueSize": 0,
-    "verified": 0,
+    "queueSize": 6,
+    "verified": 6,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 0,
+      "strong": 6,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
-      "online": 0,
+      "online": 6,
       "wiki": 0,
       "pending": 0
     },
@@ -470,7 +517,14 @@
       "online": 0,
       "wiki": 0
     },
-    "verifiedNames": [],
+    "verifiedNames": [
+      "10, 9, 7... FIRE!",
+      "Candy Farm",
+      "PrismRoll 3D",
+      "Arrows: Picture Puzzle",
+      "Mini Games",
+      "Melon Sandbox"
+    ],
     "caps": {
       "online": 999,
       "wiki": 999,
@@ -508,9 +562,9 @@
         "envName": "SERPAPI_API_KEY_3",
         "ok": true,
         "error": null,
-        "verified": 0,
+        "verified": 6,
         "channelVerified": {
-          "online": 0,
+          "online": 6,
           "wiki": 0,
           "pending": 0
         },
@@ -531,16 +585,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-07T20:00:13.429Z"
+    "ranAt": "2026-08-07T20:58:59.334Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 710,
+    "monthUsed": 716,
     "day": "2026-08-07",
-    "dayUsed": 46,
+    "dayUsed": 52,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -562,11 +616,11 @@
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 220,
-        "dayUsed": 46,
+        "monthUsed": 226,
+        "dayUsed": 52,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-07T19:15:12.803Z"
+        "updatedAt": "2026-08-07T20:58:54.771Z"
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
@@ -577,7 +631,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-08-07T20:00:13.480Z"
+    "updatedAt": "2026-08-07T20:58:59.387Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -620,6 +674,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-07T20:00:13.854Z"
+    "ranAt": "2026-08-07T20:58:59.741Z"
   }
 }
