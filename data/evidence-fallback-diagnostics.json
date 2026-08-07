@@ -1,35 +1,34 @@
 {
-  "generatedAt": "2026-08-07T17:07:12.653Z",
+  "generatedAt": "2026-08-07T18:01:29.617Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2652,
+  "pendingSeo": 2649,
   "channelCounts": {
-    "pending": 515,
-    "online": 1963,
-    "wiki": 174
+    "pending": 527,
+    "online": 1952,
+    "wiki": 170
   },
   "fastClassCounts": {
-    "pending:pending": 515,
-    "online:pending": 1963,
-    "wiki:pending": 174
+    "pending:pending": 527,
+    "online:pending": 1952,
+    "wiki:pending": 170
   },
   "strategicCounts": {
-    "pending:0": 507,
+    "pending:0": 519,
     "online:3": 1,
-    "online:2": 127,
-    "wiki:2": 1,
-    "online:1": 1835,
-    "wiki:1": 154,
+    "online:2": 125,
+    "online:1": 1826,
+    "wiki:1": 151,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1899
+      "count": 1912
     },
     {
       "id": "itch-new-feed",
-      "count": 1862
+      "count": 1875
     },
     {
       "id": "itch-newest-web",
@@ -45,67 +44,67 @@
     },
     {
       "id": "y8-new",
-      "count": 133
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 84
+      "count": 128
     },
     {
       "id": "poki-new",
-      "count": 79
+      "count": 90
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 83
     },
     {
       "id": "steam-latest-indie",
-      "count": 73
+      "count": 69
     },
     {
       "id": "steam-new",
-      "count": 73
-    },
-    {
-      "id": "gamepix-new",
-      "count": 66
+      "count": 69
     },
     {
       "id": "trends-rising-7d",
-      "count": 60
+      "count": 59
     },
     {
       "id": "trends-rising-30d",
-      "count": 58
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 55
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 55
+      "count": 57
     },
     {
       "id": "crazygames-new",
-      "count": 52
+      "count": 51
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 49
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 49
+    },
+    {
+      "id": "gamepix-new",
+      "count": 47
     },
     {
       "id": "lagged-new",
-      "count": 40
+      "count": 46
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 27
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 26
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 26
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 26
-    },
-    {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 23
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -113,7 +112,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "steam-top-wishlist",
@@ -156,38 +155,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Arrows: Picture Puzzle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "gamepix-new"
-      ]
-    },
-    {
-      "name": "Color Mosaic",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "gamepix-new",
-        "y8-new"
       ]
     },
     {
@@ -1073,6 +1040,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Lottohuolto",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Thing Beneath",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
