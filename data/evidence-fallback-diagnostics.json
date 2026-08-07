@@ -1,62 +1,66 @@
 {
-  "generatedAt": "2026-08-07T11:31:37.518Z",
+  "generatedAt": "2026-08-07T12:28:19.060Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2654,
+  "pendingSeo": 2653,
   "channelCounts": {
-    "pending": 484,
-    "online": 1964,
-    "wiki": 206
+    "pending": 481,
+    "online": 1980,
+    "wiki": 192
   },
   "fastClassCounts": {
-    "pending:pending": 484,
-    "online:pending": 1964,
-    "wiki:pending": 206
+    "pending:pending": 481,
+    "online:pending": 1980,
+    "wiki:pending": 192
   },
   "strategicCounts": {
-    "pending:0": 476,
+    "pending:0": 473,
     "online:3": 1,
     "online:2": 127,
-    "online:1": 1836,
-    "wiki:1": 187,
+    "online:1": 1852,
+    "wiki:1": 173,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1823
+      "count": 1827
     },
     {
       "id": "itch-new-feed",
-      "count": 1786
+      "count": 1790
     },
     {
       "id": "itch-newest-web",
-      "count": 1446
+      "count": 1452
     },
     {
       "id": "itch-new-popular-web",
-      "count": 146
+      "count": 145
     },
     {
       "id": "itch-popular",
-      "count": 146
+      "count": 145
     },
     {
       "id": "y8-new",
-      "count": 130
+      "count": 137
     },
     {
       "id": "steam-latest-indie",
-      "count": 108
+      "count": 93
     },
     {
       "id": "steam-new",
-      "count": 108
+      "count": 93
     },
     {
       "id": "poki-new",
-      "count": 94
+      "count": 93
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 81
     },
     {
       "id": "newgrounds-latest",
@@ -67,44 +71,40 @@
       "count": 80
     },
     {
-      "id": "steam-popular-new",
-      "count": 80
-    },
-    {
       "id": "gamepix-new",
       "count": 72
     },
     {
       "id": "trends-rising-30d",
-      "count": 59
+      "count": 58
     },
     {
       "id": "trends-rising-7d",
-      "count": 55
+      "count": 54
+    },
+    {
+      "id": "crazygames-new",
+      "count": 54
     },
     {
       "id": "lagged-new",
       "count": 49
     },
     {
-      "id": "crazygames-new",
-      "count": 48
+      "id": "trends-rising-7d-horror-game",
+      "count": 26
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 26
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 26
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 26
-    },
-    {
-      "id": "trends-rising-7d-horror-game",
-      "count": 26
+      "count": 25
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -112,7 +112,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 20
+      "count": 19
     },
     {
       "id": "steam-top-wishlist",
@@ -158,36 +158,34 @@
       ]
     },
     {
-      "name": "10, 9, 7... FIRE!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 14,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "PrismRoll 3D",
+      "name": "Collect Brainrot Arena",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 2,
       "sourceIds": [
         "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Arrows Picture Puzzle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
         "y8-new"
       ]
     },
