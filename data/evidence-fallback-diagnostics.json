@@ -1,77 +1,74 @@
 {
-  "generatedAt": "2026-08-07T09:40:59.469Z",
+  "generatedAt": "2026-08-07T10:33:52.813Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2651,
+  "pendingSeo": 2654,
   "channelCounts": {
-    "pending": 478,
-    "online": 1976,
-    "wiki": 197
+    "pending": 481,
+    "online": 1956,
+    "wiki": 217
   },
   "fastClassCounts": {
-    "pending:pending": 478,
-    "online:pending": 1976,
-    "wiki:pending": 197
+    "pending:pending": 481,
+    "online:pending": 1956,
+    "wiki:pending": 217
   },
   "strategicCounts": {
-    "pending:0": 470,
+    "pending:0": 473,
     "online:3": 1,
-    "online:2": 124,
-    "online:1": 1851,
-    "wiki:1": 197,
-    "pending:1": 8
+    "online:2": 126,
+    "online:1": 1829,
+    "wiki:1": 198,
+    "pending:1": 8,
+    "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1792
+      "count": 1805
     },
     {
       "id": "itch-new-feed",
-      "count": 1755
+      "count": 1768
     },
     {
       "id": "itch-newest-web",
-      "count": 1422
-    },
-    {
-      "id": "y8-new",
-      "count": 149
+      "count": 1431
     },
     {
       "id": "itch-new-popular-web",
-      "count": 144
+      "count": 145
     },
     {
       "id": "itch-popular",
-      "count": 144
+      "count": 145
+    },
+    {
+      "id": "y8-new",
+      "count": 137
     },
     {
       "id": "steam-latest-indie",
-      "count": 118
+      "count": 119
     },
     {
       "id": "steam-new",
-      "count": 118
+      "count": 119
     },
     {
       "id": "poki-new",
-      "count": 99
+      "count": 97
     },
     {
       "id": "newgrounds-latest",
-      "count": 95
+      "count": 96
     },
     {
       "id": "newgrounds-new",
-      "count": 95
+      "count": 96
     },
     {
       "id": "steam-popular-new",
       "count": 80
-    },
-    {
-      "id": "gamepix-new",
-      "count": 60
     },
     {
       "id": "trends-rising-30d",
@@ -82,20 +79,16 @@
       "count": 55
     },
     {
-      "id": "crazygames-new",
-      "count": 55
+      "id": "gamepix-new",
+      "count": 54
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 49
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 28
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 28
+      "id": "lagged-new",
+      "count": 48
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -106,12 +99,24 @@
       "count": 26
     },
     {
+      "id": "newgrounds-daily-top",
+      "count": 26
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 26
+    },
+    {
       "id": "trends-rising-30d-horror-game",
       "count": 22
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 20
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 19
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -153,19 +158,36 @@
       ]
     },
     {
-      "name": "10, 9, 7... FIRE!",
+      "name": "Collect Brainrot Arena",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 15,
+      "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 14,
+      "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 2,
       "sourceIds": [
-        "newgrounds-daily-top",
-        "newgrounds-top",
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "First You Draw a Circle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -323,20 +345,20 @@
       ]
     },
     {
-      "name": "Hero Card Farm",
+      "name": "想和魏菊OOXX",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
         "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -760,6 +782,25 @@
       ]
     },
     {
+      "name": "Hero Card Farm",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Sprunki: Shifted (Stardust's Take)",
       "channel": "online",
       "fastClass": "pending",
@@ -1042,44 +1083,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "The Thing Beneath",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Frog Slide",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
       ]
     }
   ]
