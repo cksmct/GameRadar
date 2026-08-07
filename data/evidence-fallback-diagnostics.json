@@ -1,122 +1,122 @@
 {
-  "generatedAt": "2026-08-07T13:59:38.799Z",
+  "generatedAt": "2026-08-07T15:09:04.404Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2653,
+  "pendingSeo": 2652,
   "channelCounts": {
-    "pending": 491,
-    "online": 1980,
-    "wiki": 182
+    "pending": 506,
+    "online": 1971,
+    "wiki": 175
   },
   "fastClassCounts": {
-    "pending:pending": 491,
-    "online:pending": 1980,
-    "wiki:pending": 182
+    "pending:pending": 506,
+    "online:pending": 1971,
+    "wiki:pending": 175
   },
   "strategicCounts": {
-    "pending:0": 483,
+    "pending:0": 498,
     "online:3": 1,
     "online:2": 126,
-    "online:1": 1853,
-    "wiki:1": 163,
+    "online:1": 1844,
+    "wiki:1": 156,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1854
+      "count": 1883
     },
     {
       "id": "itch-new-feed",
-      "count": 1817
+      "count": 1846
     },
     {
       "id": "itch-newest-web",
-      "count": 1469
+      "count": 1482
     },
     {
       "id": "itch-new-popular-web",
-      "count": 146
+      "count": 145
     },
     {
       "id": "itch-popular",
-      "count": 146
+      "count": 145
     },
     {
       "id": "y8-new",
-      "count": 140
+      "count": 130
     },
     {
       "id": "poki-new",
-      "count": 91
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 83
-    },
-    {
-      "id": "steam-new",
-      "count": 83
+      "count": 87
     },
     {
       "id": "steam-popular-new",
       "count": 81
     },
     {
+      "id": "steam-latest-indie",
+      "count": 76
+    },
+    {
+      "id": "steam-new",
+      "count": 76
+    },
+    {
       "id": "newgrounds-latest",
-      "count": 75
+      "count": 68
     },
     {
       "id": "newgrounds-new",
-      "count": 75
-    },
-    {
-      "id": "trends-rising-30d",
-      "count": 58
+      "count": 68
     },
     {
       "id": "gamepix-new",
-      "count": 55
+      "count": 64
+    },
+    {
+      "id": "trends-rising-30d",
+      "count": 57
     },
     {
       "id": "trends-rising-7d",
-      "count": 54
+      "count": 53
     },
     {
       "id": "crazygames-new",
-      "count": 54
+      "count": 49
     },
     {
       "id": "lagged-new",
-      "count": 50
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 27
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 27
+      "count": 47
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 26
     },
     {
+      "id": "newgrounds-daily-top",
+      "count": 26
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 26
+    },
+    {
       "id": "trends-rising-30d-itch-io",
-      "count": 25
+      "count": 24
     },
     {
       "id": "trends-rising-30d-horror-game",
       "count": 22
     },
     {
-      "id": "trends-rising-7d-itch-io",
+      "id": "steam-top-wishlist",
       "count": 19
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 19
+      "id": "trends-rising-7d-itch-io",
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -158,21 +158,19 @@
       ]
     },
     {
-      "name": "10, 9, 7... FIRE!",
+      "name": "Arrows: Picture Puzzle",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 15,
+      "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 14,
+      "nameRisk": 6,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 2,
       "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "newgrounds-daily-top",
-        "newgrounds-top"
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -279,25 +277,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nobody's Listening",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -716,6 +695,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Nobody's Listening",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
