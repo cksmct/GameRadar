@@ -1,43 +1,39 @@
 {
-  "generatedAt": "2026-08-07T06:53:24.677Z",
+  "generatedAt": "2026-08-07T08:21:10.713Z",
   "totalCandidates": 3000,
   "pendingSeo": 2652,
   "channelCounts": {
-    "pending": 464,
-    "online": 1979,
-    "wiki": 209
+    "pending": 484,
+    "online": 1956,
+    "wiki": 212
   },
   "fastClassCounts": {
-    "pending:pending": 464,
-    "online:pending": 1979,
-    "wiki:pending": 209
+    "pending:pending": 484,
+    "online:pending": 1956,
+    "wiki:pending": 212
   },
   "strategicCounts": {
-    "pending:0": 456,
+    "pending:0": 476,
     "online:3": 1,
     "online:2": 123,
     "wiki:2": 1,
-    "online:1": 1855,
-    "wiki:1": 189,
+    "online:1": 1832,
+    "wiki:1": 192,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1754
+      "count": 1774
     },
     {
       "id": "itch-new-feed",
-      "count": 1717
+      "count": 1737
     },
     {
       "id": "itch-newest-web",
       "count": 1399
-    },
-    {
-      "id": "y8-new",
-      "count": 189
     },
     {
       "id": "itch-new-popular-web",
@@ -48,32 +44,36 @@
       "count": 143
     },
     {
+      "id": "y8-new",
+      "count": 143
+    },
+    {
       "id": "steam-latest-indie",
-      "count": 109
+      "count": 114
     },
     {
       "id": "steam-new",
-      "count": 109
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 97
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 97
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 83
-    },
-    {
-      "id": "gamepix-new",
-      "count": 81
+      "count": 114
     },
     {
       "id": "poki-new",
-      "count": 72
+      "count": 96
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 94
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 94
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 81
+    },
+    {
+      "id": "gamepix-new",
+      "count": 78
     },
     {
       "id": "trends-rising-30d",
@@ -89,18 +89,18 @@
     },
     {
       "id": "lagged-new",
-      "count": 45
-    },
-    {
-      "id": "trends-rising-7d-horror-game",
-      "count": 27
+      "count": 49
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "newgrounds-top",
+      "count": 28
+    },
+    {
+      "id": "trends-rising-7d-horror-game",
       "count": 27
     },
     {

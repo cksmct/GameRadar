@@ -1,30 +1,28 @@
 {
-  "scannedAt": "2026-08-07T06:52:40.460Z",
+  "scannedAt": "2026-08-07T08:20:48.581Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 102,
+  "totalAdded": 78,
   "sources": [
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
-      "total": 36,
-      "added": 18
+      "error": "远程站点返回 429"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
-      "total": 36,
-      "added": 2
+      "error": "远程站点返回 429"
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 26
+      "added": 31
     },
     {
       "ok": true,
@@ -45,14 +43,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 49,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 6
     },
     {
       "ok": true,
@@ -66,28 +64,28 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 142,
-      "added": 0
+      "total": 141,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 31
+      "added": 34
     },
     {
       "ok": true,
@@ -102,55 +100,13 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "total": 17,
-      "added": 7
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 19,
-      "added": 6
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "total": 2,
-      "added": 2
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "total": 4,
-      "added": 1
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "total": 11,
-      "added": 5
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-horror-game",
-      "sourceName": "Trends上涨 30天 · horror game",
-      "total": 15,
-      "added": 3
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 99,
-  "fastWatchCount": 249,
+  "fastPassedCount": 101,
+  "fastWatchCount": 247,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
@@ -160,7 +116,7 @@
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 235,
@@ -194,7 +150,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-07T06:52:39.162Z",
+    "checkedAt": "2026-08-07T08:20:47.358Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -220,8 +176,8 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 42,
-    "evidence-fallback": 29,
-    "serper+autocomplete": 279
+    "evidence-fallback": 30,
+    "serper+autocomplete": 278
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -250,16 +206,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2260,
-    "wiki": 228,
-    "pending": 512
+    "online": 2236,
+    "wiki": 232,
+    "pending": 532
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 12,
     "watch": 9,
-    "weak": 207
+    "weak": 211
   },
   "serperVerification": {
     "rushMode": true,
@@ -276,7 +232,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-07T06:53:24.338Z"
+    "ranAt": "2026-08-07T08:21:10.328Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -298,9 +254,9 @@
       "pending": 0
     },
     "verifiedNames": [
-      "ReStory: Chill Electronics Repairs"
+      "Cellar Keeper"
     ],
-    "ranAt": "2026-08-07T06:53:24.982Z"
+    "ranAt": "2026-08-07T08:21:11.086Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -324,16 +280,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-07T06:53:27.531Z"
+    "ranAt": "2026-08-07T08:21:14.049Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-07T06:53:27.906Z",
+    "checkedAt": "2026-08-07T08:21:14.830Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 297,
+    "totalIndependentSearchesLeft": 296,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -364,8 +320,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 195,
-        "totalSearchesLeft": 55,
+        "thisMonthUsage": 196,
+        "totalSearchesLeft": 54,
         "renewalDate": "2026-08-29"
       },
       {
@@ -397,7 +353,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T06:53:27.743Z",
+        "checkedAt": "2026-08-07T08:21:14.554Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -417,7 +373,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T06:53:27.799Z",
+        "checkedAt": "2026-08-07T08:21:14.646Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -433,11 +389,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 195,
-        "planSearchesLeft": 55,
-        "totalSearchesLeft": 55,
+        "thisMonthUsage": 196,
+        "planSearchesLeft": 54,
+        "totalSearchesLeft": 54,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T06:53:27.856Z",
+        "checkedAt": "2026-08-07T08:21:14.736Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -457,7 +413,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T06:53:27.906Z",
+        "checkedAt": "2026-08-07T08:21:14.830Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -472,12 +428,12 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 190,
+      "validated": 189,
       "rising": 0,
       "recommended": 0
     },
     "wiki": {
-      "validated": 18,
+      "validated": 19,
       "rising": 1,
       "recommended": 0
     },
@@ -490,7 +446,7 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 303,
+    "remainingAtStart": 302,
     "queueSize": 1,
     "verified": 1,
     "errors": 0,
@@ -515,7 +471,7 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "ReStory: Chill Electronics Repairs"
+      "Cellar Keeper"
     ],
     "caps": {
       "online": 999,
@@ -577,16 +533,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-07T06:53:32.217Z"
+    "ranAt": "2026-08-07T08:21:18.608Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 678,
+    "monthUsed": 679,
     "day": "2026-08-07",
-    "dayUsed": 14,
+    "dayUsed": 15,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -608,11 +564,11 @@
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 188,
-        "dayUsed": 14,
+        "monthUsed": 189,
+        "dayUsed": 15,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-07T06:53:28.854Z"
+        "updatedAt": "2026-08-07T08:21:15.582Z"
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
@@ -623,7 +579,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-08-07T06:53:32.271Z"
+    "updatedAt": "2026-08-07T08:21:18.689Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -666,6 +622,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-07T06:53:32.635Z"
+    "ranAt": "2026-08-07T08:21:18.963Z"
   }
 }
