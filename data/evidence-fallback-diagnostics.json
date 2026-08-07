@@ -1,42 +1,43 @@
 {
-  "generatedAt": "2026-08-07T03:39:12.832Z",
+  "generatedAt": "2026-08-07T05:23:16.850Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2654,
+  "pendingSeo": 2653,
   "channelCounts": {
-    "pending": 459,
-    "online": 1991,
-    "wiki": 204
+    "pending": 466,
+    "online": 1979,
+    "wiki": 208
   },
   "fastClassCounts": {
-    "pending:pending": 459,
-    "online:pending": 1991,
-    "wiki:pending": 204
+    "pending:pending": 466,
+    "online:pending": 1979,
+    "wiki:pending": 208
   },
   "strategicCounts": {
-    "pending:0": 451,
+    "pending:0": 458,
     "online:3": 1,
-    "online:2": 120,
-    "online:1": 1870,
-    "wiki:1": 185,
+    "online:2": 125,
+    "wiki:2": 1,
+    "online:1": 1853,
+    "wiki:1": 188,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1722
+      "count": 1741
     },
     {
       "id": "itch-new-feed",
-      "count": 1685
+      "count": 1704
     },
     {
       "id": "itch-newest-web",
-      "count": 1369
+      "count": 1380
     },
     {
       "id": "y8-new",
-      "count": 202
+      "count": 194
     },
     {
       "id": "itch-new-popular-web",
@@ -47,28 +48,28 @@
       "count": 142
     },
     {
-      "id": "newgrounds-latest",
-      "count": 102
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 102
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 102
+      "count": 108
     },
     {
       "id": "steam-new",
-      "count": 102
+      "count": 108
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 101
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 101
     },
     {
       "id": "poki-new",
-      "count": 95
+      "count": 88
     },
     {
       "id": "steam-popular-new",
-      "count": 84
+      "count": 83
     },
     {
       "id": "gamepix-new",
@@ -76,23 +77,31 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 60
+      "count": 59
     },
     {
       "id": "crazygames-new",
-      "count": 56
-    },
-    {
-      "id": "trends-rising-7d",
       "count": 53
     },
     {
+      "id": "trends-rising-7d",
+      "count": 52
+    },
+    {
       "id": "lagged-new",
-      "count": 42
+      "count": 38
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 28
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 28
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 26
+      "count": 25
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -103,16 +112,8 @@
       "count": 23
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 23
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 23
-    },
-    {
       "id": "trends-rising-7d-itch-io",
-      "count": 20
+      "count": 19
     },
     {
       "id": "steam-top-wishlist",
@@ -158,7 +159,25 @@
       ]
     },
     {
-      "name": "Survive-ish",
+      "name": "10, 9, 7... FIRE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 14,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "Collect Brainrot Arena",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -171,6 +190,22 @@
       "sourceIds": [
         "crazygames-new",
         "y8-new"
+      ]
+    },
+    {
+      "name": "Haaland Coloring Book",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
       ]
     },
     {
@@ -1037,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Frog Slide",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "SOULROSE_β",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
