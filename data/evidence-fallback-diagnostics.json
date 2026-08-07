@@ -1,71 +1,67 @@
 {
-  "generatedAt": "2026-08-07T05:23:16.850Z",
+  "generatedAt": "2026-08-07T06:53:24.677Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2653,
+  "pendingSeo": 2652,
   "channelCounts": {
-    "pending": 466,
+    "pending": 464,
     "online": 1979,
-    "wiki": 208
+    "wiki": 209
   },
   "fastClassCounts": {
-    "pending:pending": 466,
+    "pending:pending": 464,
     "online:pending": 1979,
-    "wiki:pending": 208
+    "wiki:pending": 209
   },
   "strategicCounts": {
-    "pending:0": 458,
+    "pending:0": 456,
     "online:3": 1,
-    "online:2": 125,
+    "online:2": 123,
     "wiki:2": 1,
-    "online:1": 1853,
-    "wiki:1": 188,
+    "online:1": 1855,
+    "wiki:1": 189,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1741
+      "count": 1754
     },
     {
       "id": "itch-new-feed",
-      "count": 1704
+      "count": 1717
     },
     {
       "id": "itch-newest-web",
-      "count": 1380
+      "count": 1399
     },
     {
       "id": "y8-new",
-      "count": 194
+      "count": 189
     },
     {
       "id": "itch-new-popular-web",
-      "count": 142
+      "count": 143
     },
     {
       "id": "itch-popular",
-      "count": 142
+      "count": 143
     },
     {
       "id": "steam-latest-indie",
-      "count": 108
+      "count": 109
     },
     {
       "id": "steam-new",
-      "count": 108
+      "count": 109
     },
     {
       "id": "newgrounds-latest",
-      "count": 101
+      "count": 97
     },
     {
       "id": "newgrounds-new",
-      "count": 101
-    },
-    {
-      "id": "poki-new",
-      "count": 88
+      "count": 97
     },
     {
       "id": "steam-popular-new",
@@ -76,36 +72,40 @@
       "count": 81
     },
     {
-      "id": "trends-rising-30d",
-      "count": 59
+      "id": "poki-new",
+      "count": 72
     },
     {
-      "id": "crazygames-new",
-      "count": 53
+      "id": "trends-rising-30d",
+      "count": 60
     },
     {
       "id": "trends-rising-7d",
-      "count": 52
+      "count": 56
+    },
+    {
+      "id": "crazygames-new",
+      "count": 50
     },
     {
       "id": "lagged-new",
-      "count": 38
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 28
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 28
-    },
-    {
-      "id": "trends-rising-30d-itch-io",
-      "count": 25
+      "count": 45
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 24
+      "count": 27
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 27
+    },
+    {
+      "id": "trends-rising-30d-itch-io",
+      "count": 26
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -113,7 +113,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 19
+      "count": 20
     },
     {
       "id": "steam-top-wishlist",
@@ -159,53 +159,22 @@
       ]
     },
     {
-      "name": "10, 9, 7... FIRE!",
+      "name": "Lighthouse",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 2,
+      "discoveryScore": 17,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 14,
+      "nameRisk": 5,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 5,
       "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
-    {
-      "name": "Collect Brainrot Arena",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Haaland Coloring Book",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
+        "itch-popular"
       ]
     },
     {
@@ -356,25 +325,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki: Shifted (Stardust's Take)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -798,6 +748,25 @@
       ]
     },
     {
+      "name": "Sprunki: Shifted (Stardust's Take)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Blastin' Balloons - v1.31",
       "channel": "online",
       "fastClass": "pending",
@@ -1072,6 +1041,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Frog Slide",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "SOULROSE_β",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
