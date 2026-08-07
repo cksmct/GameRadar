@@ -1,91 +1,89 @@
 {
-  "generatedAt": "2026-08-07T08:21:10.713Z",
+  "generatedAt": "2026-08-07T09:40:59.469Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2652,
+  "pendingSeo": 2651,
   "channelCounts": {
-    "pending": 484,
-    "online": 1956,
-    "wiki": 212
+    "pending": 478,
+    "online": 1976,
+    "wiki": 197
   },
   "fastClassCounts": {
-    "pending:pending": 484,
-    "online:pending": 1956,
-    "wiki:pending": 212
+    "pending:pending": 478,
+    "online:pending": 1976,
+    "wiki:pending": 197
   },
   "strategicCounts": {
-    "pending:0": 476,
+    "pending:0": 470,
     "online:3": 1,
-    "online:2": 123,
-    "wiki:2": 1,
-    "online:1": 1832,
-    "wiki:1": 192,
-    "pending:1": 8,
-    "wiki:0": 19
+    "online:2": 124,
+    "online:1": 1851,
+    "wiki:1": 197,
+    "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1774
+      "count": 1792
     },
     {
       "id": "itch-new-feed",
-      "count": 1737
+      "count": 1755
     },
     {
       "id": "itch-newest-web",
-      "count": 1399
-    },
-    {
-      "id": "itch-new-popular-web",
-      "count": 143
-    },
-    {
-      "id": "itch-popular",
-      "count": 143
+      "count": 1422
     },
     {
       "id": "y8-new",
-      "count": 143
+      "count": 149
+    },
+    {
+      "id": "itch-new-popular-web",
+      "count": 144
+    },
+    {
+      "id": "itch-popular",
+      "count": 144
     },
     {
       "id": "steam-latest-indie",
-      "count": 114
+      "count": 118
     },
     {
       "id": "steam-new",
-      "count": 114
+      "count": 118
     },
     {
       "id": "poki-new",
-      "count": 96
+      "count": 99
     },
     {
       "id": "newgrounds-latest",
-      "count": 94
+      "count": 95
     },
     {
       "id": "newgrounds-new",
-      "count": 94
+      "count": 95
     },
     {
       "id": "steam-popular-new",
-      "count": 81
+      "count": 80
     },
     {
       "id": "gamepix-new",
-      "count": 78
-    },
-    {
-      "id": "trends-rising-30d",
       "count": 60
     },
     {
+      "id": "trends-rising-30d",
+      "count": 59
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 56
+      "count": 55
     },
     {
       "id": "crazygames-new",
-      "count": 50
+      "count": 55
     },
     {
       "id": "lagged-new",
@@ -100,24 +98,20 @@
       "count": 28
     },
     {
-      "id": "trends-rising-7d-horror-game",
-      "count": 27
-    },
-    {
       "id": "trends-rising-30d-itch-io",
       "count": 26
     },
     {
+      "id": "trends-rising-7d-horror-game",
+      "count": 26
+    },
+    {
       "id": "trends-rising-30d-horror-game",
-      "count": 23
+      "count": 22
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 20
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 19
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -154,6 +148,24 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "10, 9, 7... FIRE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 14,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-daily-top",
+        "newgrounds-top",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1068,25 +1080,6 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
-      ]
-    },
-    {
-      "name": "SOULROSE_β",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
