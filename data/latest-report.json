@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-08-07T00:30:36.958Z",
+  "scannedAt": "2026-08-07T03:38:35.534Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 190,
+  "totalAdded": 136,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 34
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 3
+      "added": 6
     },
     {
       "ok": true,
@@ -38,21 +38,21 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 49,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
-      "total": 49,
-      "added": 8
+      "total": 50,
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 24
+      "added": 7
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 12
+      "added": 4
     },
     {
       "ok": true,
@@ -80,14 +80,14 @@
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 142,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 34
+      "added": 26
     },
     {
       "ok": true,
@@ -104,11 +104,10 @@
       "added": 0
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 16,
-      "added": 5
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     },
     {
       "ok": false,
@@ -117,68 +116,64 @@
       "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 3,
-      "added": 2
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 5,
-      "added": 2
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 9,
-      "added": 5
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 16,
-      "added": 4
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 101,
-  "fastWatchCount": 241,
+  "fastPassedCount": 98,
+  "fastWatchCount": 248,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 8,
+  "trendsVerified": 1,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 229,
+  "seoPassedCount": 233,
   "trendEligibleCount": 57,
-  "trendPendingCount": 54,
-  "trendValidatedCount": 212,
+  "trendPendingCount": 56,
+  "trendValidatedCount": 210,
   "risingCount": 2,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 3,
-    "watch": 279,
-    "reject": 22,
-    "pending": 2696,
+    "watch": 278,
+    "reject": 21,
+    "pending": 2698,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 212
+    "serpapi": 210
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -193,7 +188,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-07T00:30:35.745Z",
+    "checkedAt": "2026-08-07T03:38:34.231Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -219,7 +214,7 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 41,
-    "evidence-fallback": 30,
+    "evidence-fallback": 28,
     "serper+autocomplete": 279
   },
   "serperConfigured": true,
@@ -249,16 +244,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2274,
-    "wiki": 215,
-    "pending": 511
+    "online": 2271,
+    "wiki": 223,
+    "pending": 506
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 12,
-    "watch": 11,
-    "weak": 192
+    "watch": 10,
+    "weak": 201
   },
   "serperVerification": {
     "rushMode": true,
@@ -275,37 +270,31 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-07T00:31:19.329Z"
+    "ranAt": "2026-08-07T03:39:12.532Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2658,
-    "eligibleCount": 7,
-    "queueSize": 7,
-    "verified": 7,
+    "pendingCount": 2654,
+    "eligibleCount": 1,
+    "queueSize": 1,
+    "verified": 1,
     "channelVerified": {
-      "online": 2,
-      "wiki": 5,
+      "online": 1,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 2,
-      "watch": 4,
-      "weak": 1,
+      "pass": 1,
+      "watch": 0,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Collect Brainrot Arena",
-      "Haaland Coloring Book",
-      "ReStory: Chill Electronics Repairs",
-      "IRON NEST: Heavy Turret Simulator",
-      "Spiritstead",
-      "The Skin Stapler",
-      "Sovereign Tower"
+      "Survive-ish"
     ],
-    "ranAt": "2026-08-07T00:31:19.940Z"
+    "ranAt": "2026-08-07T03:39:13.124Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -329,16 +318,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-07T00:31:22.016Z"
+    "ranAt": "2026-08-07T03:39:14.984Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-07T00:31:22.228Z",
+    "checkedAt": "2026-08-07T03:39:15.312Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 310,
+    "totalIndependentSearchesLeft": 302,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -369,8 +358,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 182,
-        "totalSearchesLeft": 68,
+        "thisMonthUsage": 190,
+        "totalSearchesLeft": 60,
         "renewalDate": "2026-08-29"
       },
       {
@@ -402,7 +391,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T00:31:22.164Z",
+        "checkedAt": "2026-08-07T03:39:15.171Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -422,7 +411,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T00:31:22.185Z",
+        "checkedAt": "2026-08-07T03:39:15.221Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -438,11 +427,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 182,
-        "planSearchesLeft": 68,
-        "totalSearchesLeft": 68,
+        "thisMonthUsage": 190,
+        "planSearchesLeft": 60,
+        "totalSearchesLeft": 60,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T00:31:22.207Z",
+        "checkedAt": "2026-08-07T03:39:15.267Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -462,7 +451,7 @@
         "planSearchesLeft": 242,
         "totalSearchesLeft": 242,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-07T00:31:22.228Z",
+        "checkedAt": "2026-08-07T03:39:15.312Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -477,12 +466,12 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 191,
+      "validated": 190,
       "rising": 0,
       "recommended": 0
     },
     "wiki": {
-      "validated": 18,
+      "validated": 17,
       "rising": 1,
       "recommended": 0
     },
@@ -495,19 +484,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 316,
-    "queueSize": 8,
-    "verified": 8,
+    "remainingAtStart": 308,
+    "queueSize": 1,
+    "verified": 1,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 3,
-      "secondary": 4,
-      "strategic": 1
+      "strong": 1,
+      "secondary": 0,
+      "strategic": 0
     },
     "channelVerified": {
-      "online": 2,
-      "wiki": 6,
+      "online": 1,
+      "wiki": 0,
       "pending": 0
     },
     "pendingByTier": {
@@ -520,14 +509,7 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Big Walk",
-      "Collect Brainrot Arena",
-      "Haaland Coloring Book",
-      "ReStory: Chill Electronics Repairs",
-      "Sovereign Tower",
-      "Spiritstead",
-      "The Skin Stapler",
-      "IRON NEST: Heavy Turret Simulator"
+      "Survive-ish"
     ],
     "caps": {
       "online": 999,
@@ -566,10 +548,10 @@
         "envName": "SERPAPI_API_KEY_3",
         "ok": true,
         "error": null,
-        "verified": 8,
+        "verified": 1,
         "channelVerified": {
-          "online": 2,
-          "wiki": 6,
+          "online": 1,
+          "wiki": 0,
           "pending": 0
         },
         "errors": 0,
@@ -589,16 +571,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-07T00:31:48.729Z"
+    "ranAt": "2026-08-07T03:39:27.072Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 672,
+    "monthUsed": 673,
     "day": "2026-08-07",
-    "dayUsed": 8,
+    "dayUsed": 9,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -620,11 +602,11 @@
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
-        "monthUsed": 182,
-        "dayUsed": 8,
+        "monthUsed": 183,
+        "dayUsed": 9,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-07T00:31:45.487Z"
+        "updatedAt": "2026-08-07T03:39:16.257Z"
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
@@ -635,7 +617,7 @@
         "updatedAt": "2026-07-29T07:24:20.732Z"
       }
     },
-    "updatedAt": "2026-08-07T00:31:48.782Z"
+    "updatedAt": "2026-08-07T03:39:27.123Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -678,6 +660,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-07T00:31:49.144Z"
+    "ranAt": "2026-08-07T03:39:27.476Z"
   }
 }

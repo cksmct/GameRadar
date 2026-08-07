@@ -1,87 +1,86 @@
 {
-  "generatedAt": "2026-08-07T00:31:19.636Z",
+  "generatedAt": "2026-08-07T03:39:12.832Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2658,
+  "pendingSeo": 2654,
   "channelCounts": {
-    "pending": 464,
-    "wiki": 200,
-    "online": 1994
+    "pending": 459,
+    "online": 1991,
+    "wiki": 204
   },
   "fastClassCounts": {
-    "pending:pending": 464,
-    "wiki:pending": 200,
-    "online:pending": 1994
+    "pending:pending": 459,
+    "online:pending": 1991,
+    "wiki:pending": 204
   },
   "strategicCounts": {
-    "pending:0": 456,
-    "wiki:2": 5,
+    "pending:0": 451,
     "online:3": 1,
-    "online:2": 119,
-    "online:1": 1874,
-    "wiki:1": 176,
+    "online:2": 120,
+    "online:1": 1870,
+    "wiki:1": 185,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1714
+      "count": 1722
     },
     {
       "id": "itch-new-feed",
-      "count": 1673
+      "count": 1685
     },
     {
       "id": "itch-newest-web",
-      "count": 1356
+      "count": 1369
     },
     {
       "id": "y8-new",
-      "count": 200
+      "count": 202
     },
     {
       "id": "itch-new-popular-web",
-      "count": 136
+      "count": 142
     },
     {
       "id": "itch-popular",
-      "count": 136
+      "count": 142
     },
     {
       "id": "newgrounds-latest",
-      "count": 103
+      "count": 102
     },
     {
       "id": "newgrounds-new",
-      "count": 103
-    },
-    {
-      "id": "poki-new",
-      "count": 103
+      "count": 102
     },
     {
       "id": "steam-latest-indie",
-      "count": 100
+      "count": 102
     },
     {
       "id": "steam-new",
-      "count": 100
+      "count": 102
+    },
+    {
+      "id": "poki-new",
+      "count": 95
     },
     {
       "id": "steam-popular-new",
-      "count": 87
+      "count": 84
     },
     {
       "id": "gamepix-new",
       "count": 81
     },
     {
-      "id": "crazygames-new",
-      "count": 62
-    },
-    {
       "id": "trends-rising-30d",
       "count": 60
+    },
+    {
+      "id": "crazygames-new",
+      "count": 56
     },
     {
       "id": "trends-rising-7d",
@@ -89,7 +88,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 50
+      "count": 42
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -112,12 +111,12 @@
       "count": 23
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 21
-    },
-    {
       "id": "trends-rising-7d-itch-io",
       "count": 20
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 19
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -159,7 +158,7 @@
       ]
     },
     {
-      "name": "Collect Brainrot Arena",
+      "name": "Survive-ish",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -171,22 +170,6 @@
       "sourceCount": 2,
       "sourceIds": [
         "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Haaland Coloring Book",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "lagged-new",
         "y8-new"
       ]
     },
@@ -712,6 +695,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Tímida The",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
