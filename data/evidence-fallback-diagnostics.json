@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-08-07T21:55:22.303Z",
+  "generatedAt": "2026-08-07T22:55:11.760Z",
   "totalCandidates": 3000,
   "pendingSeo": 2647,
   "channelCounts": {
-    "pending": 541,
-    "online": 1976,
-    "wiki": 130
+    "pending": 538,
+    "online": 1975,
+    "wiki": 134
   },
   "fastClassCounts": {
-    "pending:pending": 541,
-    "online:pending": 1976,
-    "wiki:pending": 130
+    "pending:pending": 538,
+    "online:pending": 1975,
+    "wiki:pending": 134
   },
   "strategicCounts": {
-    "pending:0": 533,
+    "pending:0": 530,
     "online:3": 1,
-    "online:2": 125,
-    "online:1": 1850,
-    "wiki:1": 121,
+    "online:2": 130,
+    "online:1": 1844,
+    "wiki:1": 124,
     "pending:1": 8,
-    "wiki:0": 9
+    "wiki:0": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2002
+      "count": 2015
     },
     {
       "id": "itch-new-feed",
-      "count": 1965
+      "count": 1978
     },
     {
       "id": "itch-newest-web",
-      "count": 1569
+      "count": 1586
     },
     {
       "id": "itch-new-popular-web",
-      "count": 147
+      "count": 148
     },
     {
       "id": "itch-popular",
-      "count": 147
-    },
-    {
-      "id": "y8-new",
-      "count": 89
+      "count": 148
     },
     {
       "id": "poki-new",
-      "count": 86
+      "count": 89
     },
     {
       "id": "steam-popular-new",
       "count": 83
     },
     {
-      "id": "trends-rising-7d",
-      "count": 59
+      "id": "y8-new",
+      "count": 76
     },
     {
       "id": "gamepix-new",
-      "count": 56
+      "count": 63
+    },
+    {
+      "id": "trends-rising-7d",
+      "count": 59
     },
     {
       "id": "trends-rising-30d",
@@ -68,27 +68,27 @@
     },
     {
       "id": "lagged-new",
-      "count": 49
-    },
-    {
-      "id": "crazygames-new",
-      "count": 43
+      "count": 45
     },
     {
       "id": "steam-latest-indie",
-      "count": 39
+      "count": 42
     },
     {
       "id": "steam-new",
-      "count": 39
+      "count": 42
+    },
+    {
+      "id": "crazygames-new",
+      "count": 41
     },
     {
       "id": "newgrounds-latest",
-      "count": 37
+      "count": 31
     },
     {
       "id": "newgrounds-new",
-      "count": 37
+      "count": 31
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -96,11 +96,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 26
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 26
+      "count": 27
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -123,15 +123,15 @@
       "count": 11
     },
     {
+      "id": "steam-top-wishlist",
+      "count": 10
+    },
+    {
       "id": "itch-featured-feed",
       "count": 9
     },
     {
       "id": "itch-featured",
-      "count": 9
-    },
-    {
-      "id": "steam-top-wishlist",
       "count": 9
     }
   ],
@@ -155,6 +155,76 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "STARVORE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "gamepix-new"
+      ]
+    },
+    {
+      "name": "10, 9, 7... FIRE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 14,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "Cribbage",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "gamepix-new"
+      ]
+    },
+    {
+      "name": "PrismRoll 3D",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new"
       ]
     },
     {
@@ -250,6 +320,25 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Internet Cafe 98",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web"
       ]
     },
     {
@@ -584,25 +673,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Cage",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1002,82 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Open Doctrines",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Kraken's Variety Pack 6: Search Party!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lottohuolto",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Thing Beneath",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
