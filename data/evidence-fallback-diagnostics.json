@@ -1,78 +1,78 @@
 {
-  "generatedAt": "2026-08-07T15:09:04.404Z",
+  "generatedAt": "2026-08-07T16:08:53.243Z",
   "totalCandidates": 3000,
   "pendingSeo": 2652,
   "channelCounts": {
-    "pending": 506,
-    "online": 1971,
-    "wiki": 175
+    "pending": 514,
+    "online": 1968,
+    "wiki": 170
   },
   "fastClassCounts": {
-    "pending:pending": 506,
-    "online:pending": 1971,
-    "wiki:pending": 175
+    "pending:pending": 514,
+    "online:pending": 1968,
+    "wiki:pending": 170
   },
   "strategicCounts": {
-    "pending:0": 498,
+    "pending:0": 506,
     "online:3": 1,
     "online:2": 126,
-    "online:1": 1844,
-    "wiki:1": 156,
+    "online:1": 1841,
+    "wiki:1": 151,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1883
+      "count": 1904
     },
     {
       "id": "itch-new-feed",
-      "count": 1846
+      "count": 1867
     },
     {
       "id": "itch-newest-web",
-      "count": 1482
+      "count": 1495
     },
     {
       "id": "itch-new-popular-web",
-      "count": 145
+      "count": 146
     },
     {
       "id": "itch-popular",
-      "count": 145
+      "count": 146
     },
     {
       "id": "y8-new",
-      "count": 130
-    },
-    {
-      "id": "poki-new",
-      "count": 87
+      "count": 129
     },
     {
       "id": "steam-popular-new",
-      "count": 81
+      "count": 82
+    },
+    {
+      "id": "poki-new",
+      "count": 82
     },
     {
       "id": "steam-latest-indie",
-      "count": 76
+      "count": 70
     },
     {
       "id": "steam-new",
-      "count": 76
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 68
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 68
+      "count": 70
     },
     {
       "id": "gamepix-new",
-      "count": 64
+      "count": 65
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 61
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 61
     },
     {
       "id": "trends-rising-30d",
@@ -83,23 +83,23 @@
       "count": 53
     },
     {
-      "id": "crazygames-new",
-      "count": 49
-    },
-    {
       "id": "lagged-new",
-      "count": 47
+      "count": 45
     },
     {
-      "id": "trends-rising-7d-horror-game",
-      "count": 26
+      "id": "crazygames-new",
+      "count": 45
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 26
+      "count": 27
     },
     {
       "id": "newgrounds-top",
+      "count": 27
+    },
+    {
+      "id": "trends-rising-7d-horror-game",
       "count": 26
     },
     {
@@ -158,19 +158,21 @@
       ]
     },
     {
-      "name": "Arrows: Picture Puzzle",
+      "name": "10, 9, 7... FIRE!",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
+      "discoveryScore": 15,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 14,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 4,
       "sourceIds": [
-        "y8-new",
-        "gamepix-new"
+        "itch-new-popular-web",
+        "itch-popular",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -296,25 +298,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Square Clicker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -733,6 +716,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Square Clicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
