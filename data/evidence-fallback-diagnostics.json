@@ -1,114 +1,114 @@
 {
-  "generatedAt": "2026-08-06T15:00:10.847Z",
+  "generatedAt": "2026-08-07T00:31:19.636Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2656,
+  "pendingSeo": 2658,
   "channelCounts": {
-    "pending": 508,
-    "online": 1930,
-    "wiki": 218
+    "pending": 464,
+    "wiki": 200,
+    "online": 1994
   },
   "fastClassCounts": {
-    "pending:pending": 508,
-    "online:pending": 1930,
-    "wiki:pending": 218
+    "pending:pending": 464,
+    "wiki:pending": 200,
+    "online:pending": 1994
   },
   "strategicCounts": {
-    "pending:0": 500,
+    "pending:0": 456,
+    "wiki:2": 5,
     "online:3": 1,
-    "online:2": 117,
-    "wiki:2": 1,
-    "online:1": 1812,
-    "wiki:1": 196,
+    "online:2": 119,
+    "online:1": 1874,
+    "wiki:1": 176,
     "pending:1": 8,
-    "wiki:0": 21
+    "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1741
+      "count": 1714
     },
     {
       "id": "itch-new-feed",
-      "count": 1705
+      "count": 1673
     },
     {
       "id": "itch-newest-web",
-      "count": 1337
+      "count": 1356
     },
     {
       "id": "y8-new",
-      "count": 186
+      "count": 200
     },
     {
       "id": "itch-new-popular-web",
-      "count": 134
+      "count": 136
     },
     {
       "id": "itch-popular",
-      "count": 134
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 119
-    },
-    {
-      "id": "steam-new",
-      "count": 119
+      "count": 136
     },
     {
       "id": "newgrounds-latest",
-      "count": 105
+      "count": 103
     },
     {
       "id": "newgrounds-new",
-      "count": 105
+      "count": 103
     },
     {
       "id": "poki-new",
-      "count": 95
+      "count": 103
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 100
+    },
+    {
+      "id": "steam-new",
+      "count": 100
     },
     {
       "id": "steam-popular-new",
-      "count": 80
+      "count": 87
     },
     {
       "id": "gamepix-new",
-      "count": 64
+      "count": 81
+    },
+    {
+      "id": "crazygames-new",
+      "count": 62
     },
     {
       "id": "trends-rising-30d",
       "count": 60
     },
     {
-      "id": "crazygames-new",
-      "count": 57
-    },
-    {
       "id": "trends-rising-7d",
-      "count": 49
+      "count": 53
     },
     {
       "id": "lagged-new",
-      "count": 46
+      "count": 50
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 26
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 24
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 24
-    },
-    {
       "id": "trends-rising-7d-horror-game",
-      "count": 23
+      "count": 24
     },
     {
       "id": "trends-rising-30d-horror-game",
+      "count": 23
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 23
+    },
+    {
+      "id": "newgrounds-top",
       "count": 23
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 17
+      "count": 20
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -159,20 +159,34 @@
       ]
     },
     {
-      "name": "Orbit Rush",
+      "name": "Collect Brainrot Arena",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 14,
+      "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 2,
       "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Haaland Coloring Book",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "lagged-new",
         "y8-new"
       ]
     },
@@ -196,25 +210,6 @@
       ]
     },
     {
-      "name": "Idle Tower",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Necromancer Idle: The Endless Drain Demo",
       "channel": "online",
       "fastClass": "pending",
@@ -223,25 +218,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "wan-wan wash!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -348,25 +324,6 @@
       ]
     },
     {
-      "name": "Dragon Under My Farm",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Hero Card Farm",
       "channel": "online",
       "fastClass": "pending",
@@ -405,14 +362,14 @@
       ]
     },
     {
-      "name": "VoltCore",
+      "name": "Harvest Them",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -595,6 +552,25 @@
       ]
     },
     {
+      "name": "Idle Tower",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Frogs Aren't Fresh : Demo",
       "channel": "online",
       "fastClass": "pending",
@@ -690,6 +666,25 @@
       ]
     },
     {
+      "name": "wan-wan wash!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Cage",
       "channel": "online",
       "fastClass": "pending",
@@ -710,6 +705,25 @@
     },
     {
       "name": "Babylumns",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dragon Under My Farm",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -767,6 +781,25 @@
     },
     {
       "name": "EmergenHex",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "VoltCore",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1040,44 +1073,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "WORDMINER",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Belly Rub DX",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
