@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-08-08T19:44:27.976Z",
+  "generatedAt": "2026-08-08T20:03:05.387Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2651,
+  "pendingSeo": 2650,
   "channelCounts": {
-    "pending": 605,
-    "online": 1938,
-    "wiki": 108
+    "pending": 617,
+    "online": 1897,
+    "wiki": 136
   },
   "fastClassCounts": {
-    "pending:pending": 605,
-    "online:pending": 1938,
-    "wiki:pending": 108
+    "pending:pending": 617,
+    "online:pending": 1897,
+    "wiki:pending": 136
   },
   "strategicCounts": {
-    "pending:0": 596,
+    "pending:0": 608,
     "online:3": 1,
-    "online:2": 134,
-    "online:1": 1803,
-    "wiki:1": 108,
-    "pending:1": 9
+    "online:2": 133,
+    "online:1": 1763,
+    "wiki:1": 117,
+    "pending:1": 9,
+    "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2259
+      "count": 2287
     },
     {
       "id": "itch-new-feed",
-      "count": 2221
+      "count": 2249
     },
     {
       "id": "itch-newest-web",
-      "count": 1779
+      "count": 1795
     },
     {
       "id": "itch-new-popular-web",
@@ -54,15 +55,11 @@
       "count": 60
     },
     {
-      "id": "poki-new",
-      "count": 37
-    },
-    {
-      "id": "newgrounds-latest",
+      "id": "steam-latest-indie",
       "count": 32
     },
     {
-      "id": "newgrounds-new",
+      "id": "steam-new",
       "count": 32
     },
     {
@@ -70,19 +67,23 @@
       "count": 30
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 30
+      "id": "newgrounds-latest",
+      "count": 29
     },
     {
-      "id": "newgrounds-top",
-      "count": 30
-    },
-    {
-      "id": "crazygames-new",
-      "count": 28
+      "id": "newgrounds-new",
+      "count": 29
     },
     {
       "id": "trends-rising-30d-horror-game",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-top",
       "count": 27
     },
     {
@@ -90,20 +91,20 @@
       "count": 23
     },
     {
-      "id": "steam-latest-indie",
-      "count": 23
-    },
-    {
-      "id": "steam-new",
-      "count": 23
-    },
-    {
       "id": "trends-rising-30d-itch-io",
       "count": 20
     },
     {
+      "id": "steam-top-wishlist",
+      "count": 19
+    },
+    {
       "id": "trends-rising-7d-indie-game",
       "count": 18
+    },
+    {
+      "id": "crazygames-new",
+      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -119,15 +120,11 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -153,35 +150,22 @@
       ]
     },
     {
-      "name": "PrismRoll 3D",
+      "name": "Ronin's Retribution",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Cube Match Logic",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
+      "discoveryScore": 14,
       "platforms": 2,
       "browserPlayable": true,
       "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "y8-new",
-        "gamepix-new"
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
+        "newgrounds-latest",
+        "newgrounds-new"
       ]
     },
     {
@@ -1067,6 +1051,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Vagrant",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
