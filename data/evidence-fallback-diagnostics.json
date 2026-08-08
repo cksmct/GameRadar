@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-08T05:09:39.807Z",
+  "generatedAt": "2026-08-08T05:56:46.860Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2650,
+  "pendingSeo": 2651,
   "channelCounts": {
-    "pending": 540,
-    "online": 1979,
-    "wiki": 131
+    "pending": 553,
+    "wiki": 126,
+    "online": 1972
   },
   "fastClassCounts": {
-    "pending:pending": 540,
-    "online:pending": 1979,
-    "wiki:pending": 131
+    "pending:pending": 553,
+    "wiki:pending": 126,
+    "online:pending": 1972
   },
   "strategicCounts": {
-    "pending:0": 532,
+    "pending:0": 545,
+    "wiki:1": 116,
     "online:3": 1,
-    "online:2": 131,
-    "online:1": 1847,
-    "wiki:1": 122,
+    "online:2": 130,
+    "online:1": 1841,
     "pending:1": 8,
-    "wiki:0": 9
+    "wiki:0": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2038
+      "count": 2067
     },
     {
       "id": "itch-new-feed",
-      "count": 2001
+      "count": 2030
     },
     {
       "id": "itch-newest-web",
-      "count": 1617
+      "count": 1634
     },
     {
       "id": "itch-new-popular-web",
@@ -43,51 +43,51 @@
       "count": 153
     },
     {
+      "id": "poki-new",
+      "count": 88
+    },
+    {
       "id": "steam-popular-new",
       "count": 85
     },
     {
-      "id": "poki-new",
-      "count": 85
-    },
-    {
       "id": "trends-rising-7d",
-      "count": 67
+      "count": 69
     },
     {
       "id": "trends-rising-30d",
-      "count": 60
-    },
-    {
-      "id": "gamepix-new",
-      "count": 60
+      "count": 61
     },
     {
       "id": "y8-new",
-      "count": 51
-    },
-    {
-      "id": "lagged-new",
-      "count": 45
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 38
-    },
-    {
-      "id": "steam-new",
-      "count": 38
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 37
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 37
+      "count": 49
     },
     {
       "id": "crazygames-new",
+      "count": 46
+    },
+    {
+      "id": "gamepix-new",
+      "count": 41
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 34
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 34
+    },
+    {
+      "id": "trends-rising-7d-horror-game",
+      "count": 32
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 32
+    },
+    {
+      "id": "steam-new",
       "count": 32
     },
     {
@@ -99,12 +99,12 @@
       "count": 31
     },
     {
-      "id": "trends-rising-7d-horror-game",
-      "count": 30
+      "id": "lagged-new",
+      "count": 27
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 25
+      "count": 26
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -123,15 +123,15 @@
       "count": 13
     },
     {
+      "id": "steam-top-wishlist",
+      "count": 10
+    },
+    {
       "id": "itch-featured-feed",
       "count": 9
     },
     {
       "id": "itch-featured",
-      "count": 9
-    },
-    {
-      "id": "steam-top-wishlist",
       "count": 9
     }
   ],
@@ -155,22 +155,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Cube Match Logic",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "gamepix-new"
       ]
     },
     {
@@ -1075,6 +1059,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Kraken's Variety Pack 6: Search Party!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
