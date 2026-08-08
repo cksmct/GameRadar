@@ -1,118 +1,118 @@
 {
-  "generatedAt": "2026-08-07T23:48:02.725Z",
+  "generatedAt": "2026-08-08T02:21:50.438Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2646,
+  "pendingSeo": 2649,
   "channelCounts": {
-    "pending": 534,
-    "online": 1957,
-    "wiki": 155
+    "pending": 547,
+    "online": 1954,
+    "wiki": 148
   },
   "fastClassCounts": {
-    "pending:pending": 534,
-    "online:pending": 1957,
-    "wiki:pending": 155
+    "pending:pending": 547,
+    "online:pending": 1954,
+    "wiki:pending": 148
   },
   "strategicCounts": {
-    "pending:0": 526,
+    "pending:0": 539,
     "online:3": 1,
-    "online:2": 126,
-    "online:1": 1830,
-    "wiki:1": 136,
+    "online:2": 132,
+    "online:1": 1821,
+    "wiki:1": 129,
     "pending:1": 8,
     "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2009
+      "count": 2027
     },
     {
       "id": "itch-new-feed",
-      "count": 1972
+      "count": 1990
     },
     {
       "id": "itch-newest-web",
-      "count": 1584
+      "count": 1599
     },
     {
       "id": "itch-new-popular-web",
-      "count": 147
+      "count": 153
     },
     {
       "id": "itch-popular",
-      "count": 147
-    },
-    {
-      "id": "poki-new",
-      "count": 87
+      "count": 153
     },
     {
       "id": "steam-popular-new",
-      "count": 83
-    },
-    {
-      "id": "y8-new",
-      "count": 71
-    },
-    {
-      "id": "trends-rising-7d",
-      "count": 59
-    },
-    {
-      "id": "trends-rising-30d",
-      "count": 55
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 54
-    },
-    {
-      "id": "steam-new",
-      "count": 54
+      "count": 82
     },
     {
       "id": "gamepix-new",
-      "count": 51
+      "count": 74
+    },
+    {
+      "id": "poki-new",
+      "count": 69
+    },
+    {
+      "id": "trends-rising-7d",
+      "count": 67
+    },
+    {
+      "id": "trends-rising-30d",
+      "count": 60
+    },
+    {
+      "id": "y8-new",
+      "count": 58
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 48
+    },
+    {
+      "id": "steam-new",
+      "count": 48
     },
     {
       "id": "crazygames-new",
-      "count": 45
-    },
-    {
-      "id": "lagged-new",
-      "count": 42
+      "count": 38
     },
     {
       "id": "newgrounds-latest",
-      "count": 31
+      "count": 35
     },
     {
       "id": "newgrounds-new",
-      "count": 31
+      "count": 35
+    },
+    {
+      "id": "lagged-new",
+      "count": 34
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 27
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 26
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 26
+      "count": 27
+    },
+    {
+      "id": "trends-rising-30d-horror-game",
+      "count": 25
+    },
+    {
+      "id": "trends-rising-7d-itch-io",
+      "count": 23
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 22
-    },
-    {
-      "id": "trends-rising-30d-horror-game",
-      "count": 22
-    },
-    {
-      "id": "trends-rising-7d-itch-io",
-      "count": 20
     },
     {
       "id": "steam-top-wishlist",
@@ -120,11 +120,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 13
+      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 11
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -155,6 +155,72 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "10, 9, 7... FIRE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 14,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "PrismRoll 3D",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Arrows: Picture Puzzle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
+    {
+      "name": "Cube Match Logic",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "y8-new"
       ]
     },
     {
@@ -234,11 +300,30 @@
       ]
     },
     {
-      "name": "Rudolf's Very Good, No Bad Day-o",
+      "name": "Infinite Lunch",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Hunter Diorama",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -614,6 +699,25 @@
       ]
     },
     {
+      "name": "Rudolf's Very Good, No Bad Day-o",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Babylumns",
       "channel": "online",
       "fastClass": "pending",
@@ -964,120 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Take A Shot",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Vagrant",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Open Doctrines",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Kraken's Variety Pack 6: Search Party!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lottohuolto",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Thing Beneath",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
