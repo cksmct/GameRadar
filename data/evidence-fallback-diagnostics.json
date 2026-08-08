@@ -1,94 +1,90 @@
 {
-  "generatedAt": "2026-08-08T05:56:46.860Z",
+  "generatedAt": "2026-08-08T07:14:15.331Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2651,
+  "pendingSeo": 2650,
   "channelCounts": {
-    "pending": 553,
-    "wiki": 126,
-    "online": 1972
+    "pending": 549,
+    "online": 1960,
+    "wiki": 141
   },
   "fastClassCounts": {
-    "pending:pending": 553,
-    "wiki:pending": 126,
-    "online:pending": 1972
+    "pending:pending": 549,
+    "online:pending": 1960,
+    "wiki:pending": 141
   },
   "strategicCounts": {
-    "pending:0": 545,
-    "wiki:1": 116,
+    "pending:0": 541,
     "online:3": 1,
-    "online:2": 130,
-    "online:1": 1841,
+    "online:2": 132,
+    "online:1": 1827,
+    "wiki:1": 122,
     "pending:1": 8,
-    "wiki:0": 10
+    "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2067
+      "count": 2075
     },
     {
       "id": "itch-new-feed",
-      "count": 2030
+      "count": 2038
     },
     {
       "id": "itch-newest-web",
-      "count": 1634
+      "count": 1645
     },
     {
       "id": "itch-new-popular-web",
-      "count": 153
+      "count": 154
     },
     {
       "id": "itch-popular",
-      "count": 153
-    },
-    {
-      "id": "poki-new",
-      "count": 88
+      "count": 154
     },
     {
       "id": "steam-popular-new",
       "count": 85
     },
     {
+      "id": "poki-new",
+      "count": 70
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 69
+      "count": 67
     },
     {
       "id": "trends-rising-30d",
-      "count": 61
-    },
-    {
-      "id": "y8-new",
-      "count": 49
-    },
-    {
-      "id": "crazygames-new",
-      "count": 46
+      "count": 60
     },
     {
       "id": "gamepix-new",
-      "count": 41
+      "count": 46
     },
     {
-      "id": "newgrounds-latest",
-      "count": 34
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 34
-    },
-    {
-      "id": "trends-rising-7d-horror-game",
-      "count": 32
+      "id": "y8-new",
+      "count": 45
     },
     {
       "id": "steam-latest-indie",
-      "count": 32
+      "count": 38
     },
     {
       "id": "steam-new",
-      "count": 32
+      "count": 38
+    },
+    {
+      "id": "crazygames-new",
+      "count": 38
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 36
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 36
     },
     {
       "id": "newgrounds-daily-top",
@@ -99,12 +95,16 @@
       "count": 31
     },
     {
+      "id": "trends-rising-7d-horror-game",
+      "count": 30
+    },
+    {
       "id": "lagged-new",
-      "count": 27
+      "count": 28
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 26
+      "count": 25
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -115,16 +115,16 @@
       "count": 22
     },
     {
+      "id": "steam-top-wishlist",
+      "count": 19
+    },
+    {
       "id": "trends-rising-7d-indie-game",
       "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 10
     },
     {
       "id": "itch-featured-feed",
@@ -153,6 +153,41 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Cube Match Logic",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
+    {
+      "name": "CHRONOSPIRE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1033,44 +1068,6 @@
     },
     {
       "name": "Vagrant",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Open Doctrines",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Kraken's Variety Pack 6: Search Party!",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
