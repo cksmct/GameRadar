@@ -1,37 +1,36 @@
 {
-  "scannedAt": "2026-08-08T13:55:47.340Z",
+  "scannedAt": "2026-08-08T14:48:48.806Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 63,
+  "totalAdded": 66,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 13
+      "added": 14
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 23
+      "added": 30
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
-      "total": 10,
-      "added": 0
+      "error": "远程站点返回 429"
     },
     {
       "ok": true,
@@ -52,7 +51,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -66,7 +65,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
@@ -87,7 +86,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 21
+      "added": 22
     },
     {
       "ok": true,
@@ -107,14 +106,14 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 103,
-  "fastWatchCount": 243,
+  "fastPassedCount": 100,
+  "fastWatchCount": 246,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 1,
+  "trendsVerified": 2,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
@@ -123,7 +122,7 @@
   "trendModelVersion": 4,
   "seoPassedCount": 232,
   "trendEligibleCount": 57,
-  "trendPendingCount": 41,
+  "trendPendingCount": 42,
   "trendValidatedCount": 204,
   "risingCount": 3,
   "globalRisingCount": 0,
@@ -152,7 +151,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-08T13:55:45.789Z",
+    "checkedAt": "2026-08-08T14:48:47.671Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -208,16 +207,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2245,
-    "wiki": 124,
-    "pending": 631
+    "online": 2212,
+    "wiki": 152,
+    "pending": 636
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
-    "prepare": 1,
-    "watch": 0,
-    "weak": 123
+    "prepare": 12,
+    "watch": 8,
+    "weak": 132
   },
   "serperVerification": {
     "rushMode": true,
@@ -234,7 +233,7 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-08T13:56:11.338Z"
+    "ranAt": "2026-08-08T14:49:11.040Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -256,9 +255,9 @@
       "pending": 0
     },
     "verifiedNames": [
-      "Cube Match Logic"
+      "Offroad Crash Climber 4X4"
     ],
-    "ranAt": "2026-08-08T13:56:11.953Z"
+    "ranAt": "2026-08-08T14:49:11.628Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -267,31 +266,31 @@
       "youtube"
     ],
     "limit": 35,
-    "queueSize": 35,
-    "verified": 35,
+    "queueSize": 16,
+    "verified": 16,
     "classifications": {
       "viral": 0,
       "pass": 0,
       "watch": 0,
       "weak": 0,
-      "pending": 35
+      "pending": 16
     },
     "errors": {
-      "youtube": 35,
+      "youtube": 16,
       "reddit": 0,
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-08T13:56:14.798Z"
+    "ranAt": "2026-08-08T14:49:13.214Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-08T13:56:15.369Z",
+    "checkedAt": "2026-08-08T14:49:13.424Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 173,
+    "totalIndependentSearchesLeft": 172,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -333,8 +332,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 77,
-        "totalSearchesLeft": 173,
+        "thisMonthUsage": 78,
+        "totalSearchesLeft": 172,
         "renewalDate": "2026-08-29"
       }
     ],
@@ -355,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T13:56:15.156Z",
+        "checkedAt": "2026-08-08T14:49:13.369Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -375,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T13:56:15.226Z",
+        "checkedAt": "2026-08-08T14:49:13.388Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -395,7 +394,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T13:56:15.295Z",
+        "checkedAt": "2026-08-08T14:49:13.406Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -411,11 +410,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 77,
-        "planSearchesLeft": 173,
-        "totalSearchesLeft": 173,
+        "thisMonthUsage": 78,
+        "planSearchesLeft": 172,
+        "totalSearchesLeft": 172,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T13:56:15.369Z",
+        "checkedAt": "2026-08-08T14:49:13.423Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -448,19 +447,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 176,
-    "queueSize": 1,
-    "verified": 1,
+    "remainingAtStart": 175,
+    "queueSize": 2,
+    "verified": 2,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 1,
+      "strong": 2,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
       "online": 1,
-      "wiki": 0,
+      "wiki": 1,
       "pending": 0
     },
     "pendingByTier": {
@@ -473,7 +472,8 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Cube Match Logic"
+      "Offroad Crash Climber 4X4",
+      "Big Walk"
     ],
     "caps": {
       "online": 999,
@@ -525,26 +525,26 @@
         "envName": "SERPAPI_API_KEY_4",
         "ok": true,
         "error": null,
-        "verified": 1,
+        "verified": 2,
         "channelVerified": {
           "online": 1,
-          "wiki": 0,
+          "wiki": 1,
           "pending": 0
         },
         "errors": 0,
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-08T13:56:20.218Z"
+    "ranAt": "2026-08-08T14:49:22.225Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 805,
+    "monthUsed": 807,
     "day": "2026-08-08",
-    "dayUsed": 84,
+    "dayUsed": 86,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -574,14 +574,14 @@
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 70,
-        "dayUsed": 70,
+        "monthUsed": 72,
+        "dayUsed": 72,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-08T13:56:16.637Z"
+        "updatedAt": "2026-08-08T14:49:18.481Z"
       }
     },
-    "updatedAt": "2026-08-08T13:56:20.267Z"
+    "updatedAt": "2026-08-08T14:49:22.275Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -624,6 +624,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-08T13:56:20.630Z"
+    "ranAt": "2026-08-08T14:49:22.642Z"
   }
 }
