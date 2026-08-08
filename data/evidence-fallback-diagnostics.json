@@ -1,34 +1,33 @@
 {
-  "generatedAt": "2026-08-08T21:13:28.514Z",
+  "generatedAt": "2026-08-08T21:46:03.345Z",
   "totalCandidates": 3000,
   "pendingSeo": 2651,
   "channelCounts": {
-    "pending": 622,
-    "online": 1898,
-    "wiki": 131
+    "pending": 623,
+    "online": 1915,
+    "wiki": 113
   },
   "fastClassCounts": {
-    "pending:pending": 622,
-    "online:pending": 1898,
-    "wiki:pending": 131
+    "pending:pending": 623,
+    "online:pending": 1915,
+    "wiki:pending": 113
   },
   "strategicCounts": {
-    "pending:0": 612,
+    "pending:0": 613,
     "online:3": 1,
-    "online:2": 132,
-    "online:1": 1765,
-    "wiki:1": 112,
-    "pending:1": 10,
-    "wiki:0": 19
+    "online:2": 133,
+    "online:1": 1781,
+    "wiki:1": 113,
+    "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2310
+      "count": 2311
     },
     {
       "id": "itch-new-feed",
-      "count": 2272
+      "count": 2273
     },
     {
       "id": "itch-newest-web",
@@ -55,36 +54,36 @@
       "count": 60
     },
     {
+      "id": "newgrounds-latest",
+      "count": 34
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 34
+    },
+    {
       "id": "trends-rising-7d-horror-game",
       "count": 30
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 27
-    },
-    {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 29
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 29
     },
     {
       "id": "steam-latest-indie",
-      "count": 27
+      "count": 28
     },
     {
       "id": "steam-new",
+      "count": 28
+    },
+    {
+      "id": "trends-rising-30d-horror-game",
       "count": 27
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 26
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 26
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -93,10 +92,6 @@
     {
       "id": "trends-rising-30d-itch-io",
       "count": 20
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 19
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -115,12 +110,20 @@
       "count": 11
     },
     {
+      "id": "crazygames-new",
+      "count": 6
+    },
+    {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -143,6 +146,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Cube Match Logic",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -1047,25 +1066,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Open Doctrines",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
