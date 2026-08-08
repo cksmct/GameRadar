@@ -1,45 +1,46 @@
 {
-  "generatedAt": "2026-08-08T21:46:03.345Z",
+  "generatedAt": "2026-08-08T22:04:41.147Z",
   "totalCandidates": 3000,
   "pendingSeo": 2651,
   "channelCounts": {
-    "pending": 623,
-    "online": 1915,
-    "wiki": 113
+    "pending": 621,
+    "online": 1905,
+    "wiki": 125
   },
   "fastClassCounts": {
-    "pending:pending": 623,
-    "online:pending": 1915,
-    "wiki:pending": 113
+    "pending:pending": 621,
+    "online:pending": 1905,
+    "wiki:pending": 125
   },
   "strategicCounts": {
-    "pending:0": 613,
+    "pending:0": 611,
     "online:3": 1,
     "online:2": 133,
-    "online:1": 1781,
-    "wiki:1": 113,
-    "pending:1": 10
+    "online:1": 1771,
+    "wiki:1": 106,
+    "pending:1": 10,
+    "wiki:0": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2311
+      "count": 2313
     },
     {
       "id": "itch-new-feed",
-      "count": 2273
+      "count": 2275
     },
     {
       "id": "itch-newest-web",
-      "count": 1814
+      "count": 1821
     },
     {
       "id": "itch-new-popular-web",
-      "count": 159
+      "count": 160
     },
     {
       "id": "itch-popular",
-      "count": 159
+      "count": 160
     },
     {
       "id": "steam-popular-new",
@@ -47,59 +48,63 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 69
+      "count": 73
     },
     {
       "id": "trends-rising-30d",
-      "count": 60
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 34
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 34
+      "count": 62
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 30
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 29
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 28
-    },
-    {
-      "id": "steam-new",
-      "count": 28
+      "count": 32
     },
     {
       "id": "trends-rising-30d-horror-game",
+      "count": 28
+    },
+    {
+      "id": "newgrounds-daily-top",
       "count": 27
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 26
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 26
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 23
     },
     {
+      "id": "steam-latest-indie",
+      "count": 21
+    },
+    {
+      "id": "steam-new",
+      "count": 21
+    },
+    {
+      "id": "trends-rising-7d-indie-game",
+      "count": 20
+    },
+    {
       "id": "trends-rising-30d-itch-io",
       "count": 20
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 18
+      "id": "steam-top-wishlist",
+      "count": 19
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 13
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -110,20 +115,12 @@
       "count": 11
     },
     {
-      "id": "crazygames-new",
-      "count": 6
-    },
-    {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -146,22 +143,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Cube Match Logic",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "gamepix-new"
       ]
     },
     {
@@ -276,6 +257,25 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
+      ]
+    },
+    {
+      "name": "Hexatown",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
