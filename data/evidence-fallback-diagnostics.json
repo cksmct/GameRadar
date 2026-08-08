@@ -1,38 +1,37 @@
 {
-  "generatedAt": "2026-08-08T18:58:27.406Z",
+  "generatedAt": "2026-08-08T19:44:27.976Z",
   "totalCandidates": 3000,
   "pendingSeo": 2651,
   "channelCounts": {
-    "pending": 611,
-    "online": 1904,
-    "wiki": 136
+    "pending": 605,
+    "online": 1938,
+    "wiki": 108
   },
   "fastClassCounts": {
-    "pending:pending": 611,
-    "online:pending": 1904,
-    "wiki:pending": 136
+    "pending:pending": 605,
+    "online:pending": 1938,
+    "wiki:pending": 108
   },
   "strategicCounts": {
-    "pending:0": 602,
+    "pending:0": 596,
     "online:3": 1,
-    "online:2": 132,
-    "online:1": 1771,
-    "wiki:1": 117,
-    "pending:1": 9,
-    "wiki:0": 19
+    "online:2": 134,
+    "online:1": 1803,
+    "wiki:1": 108,
+    "pending:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2263
+      "count": 2259
     },
     {
       "id": "itch-new-feed",
-      "count": 2225
+      "count": 2221
     },
     {
       "id": "itch-newest-web",
-      "count": 1777
+      "count": 1779
     },
     {
       "id": "itch-new-popular-web",
@@ -55,11 +54,15 @@
       "count": 60
     },
     {
-      "id": "steam-latest-indie",
+      "id": "poki-new",
+      "count": 37
+    },
+    {
+      "id": "newgrounds-latest",
       "count": 32
     },
     {
-      "id": "steam-new",
+      "id": "newgrounds-new",
       "count": 32
     },
     {
@@ -67,20 +70,12 @@
       "count": 30
     },
     {
-      "id": "newgrounds-latest",
-      "count": 28
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 28
-    },
-    {
       "id": "newgrounds-daily-top",
-      "count": 28
+      "count": 30
     },
     {
       "id": "newgrounds-top",
-      "count": 28
+      "count": 30
     },
     {
       "id": "crazygames-new",
@@ -95,12 +90,16 @@
       "count": 23
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 20
+      "id": "steam-latest-indie",
+      "count": 23
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 19
+      "id": "steam-new",
+      "count": 23
+    },
+    {
+      "id": "trends-rising-30d-itch-io",
+      "count": 20
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -109,10 +108,6 @@
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
-    },
-    {
-      "id": "poki-new",
-      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -124,11 +119,15 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 5
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -151,6 +150,38 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "PrismRoll 3D",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Cube Match Logic",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -1036,44 +1067,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Vagrant",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Open Doctrines",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
