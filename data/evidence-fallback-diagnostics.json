@@ -1,74 +1,64 @@
 {
-  "generatedAt": "2026-08-08T13:11:43.006Z",
+  "generatedAt": "2026-08-08T13:56:11.652Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2657,
+  "pendingSeo": 2654,
   "channelCounts": {
-    "pending": 573,
-    "online": 1928,
-    "wiki": 156
+    "pending": 579,
+    "online": 1967,
+    "wiki": 108
   },
   "fastClassCounts": {
-    "pending:pending": 573,
-    "online:pending": 1928,
-    "wiki:pending": 156
+    "pending:pending": 579,
+    "online:pending": 1967,
+    "wiki:pending": 108
   },
   "strategicCounts": {
-    "pending:0": 564,
+    "pending:0": 570,
     "online:3": 1,
-    "online:2": 135,
-    "wiki:2": 1,
-    "online:1": 1792,
-    "wiki:1": 136,
-    "pending:1": 9,
-    "wiki:0": 19
+    "online:2": 133,
+    "online:1": 1833,
+    "wiki:1": 108,
+    "pending:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2140
+      "count": 2161
     },
     {
       "id": "itch-new-feed",
-      "count": 2103
+      "count": 2123
     },
     {
       "id": "itch-newest-web",
-      "count": 1692
+      "count": 1706
     },
     {
       "id": "itch-new-popular-web",
-      "count": 154
+      "count": 155
     },
     {
       "id": "itch-popular",
-      "count": 154
+      "count": 155
     },
     {
       "id": "steam-popular-new",
-      "count": 87
+      "count": 86
     },
     {
       "id": "trends-rising-7d",
-      "count": 71
+      "count": 70
+    },
+    {
+      "id": "poki-new",
+      "count": 65
     },
     {
       "id": "trends-rising-30d",
-      "count": 61
+      "count": 60
     },
     {
-      "id": "steam-latest-indie",
-      "count": 52
-    },
-    {
-      "id": "steam-new",
-      "count": 52
-    },
-    {
-      "id": "lagged-new",
-      "count": 37
-    },
-    {
-      "id": "crazygames-new",
+      "id": "y8-new",
       "count": 37
     },
     {
@@ -85,18 +75,18 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 29
+      "count": 31
     },
     {
       "id": "newgrounds-top",
-      "count": 29
-    },
-    {
-      "id": "y8-new",
-      "count": 28
+      "count": 31
     },
     {
       "id": "gamepix-new",
+      "count": 29
+    },
+    {
+      "id": "crazygames-new",
       "count": 28
     },
     {
@@ -104,24 +94,28 @@
       "count": 26
     },
     {
-      "id": "poki-new",
-      "count": 25
+      "id": "trends-rising-7d-itch-io",
+      "count": 23
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 24
+      "id": "steam-latest-indie",
+      "count": 23
+    },
+    {
+      "id": "steam-new",
+      "count": 23
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 19
+      "count": 21
     },
     {
       "id": "trends-rising-7d-indie-game",
       "count": 18
+    },
+    {
+      "id": "lagged-new",
+      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -159,7 +153,7 @@
       ]
     },
     {
-      "name": "Offroad Crash Climber 4X4",
+      "name": "Cube Match Logic",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -171,7 +165,7 @@
       "sourceCount": 2,
       "sourceIds": [
         "y8-new",
-        "lagged-new"
+        "gamepix-new"
       ]
     },
     {
