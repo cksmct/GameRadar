@@ -1,34 +1,33 @@
 {
-  "generatedAt": "2026-08-08T10:50:57.952Z",
+  "generatedAt": "2026-08-08T11:41:44.371Z",
   "totalCandidates": 3000,
   "pendingSeo": 2658,
   "channelCounts": {
-    "pending": 566,
-    "online": 1938,
-    "wiki": 154
+    "pending": 560,
+    "online": 1992,
+    "wiki": 106
   },
   "fastClassCounts": {
-    "pending:pending": 566,
-    "online:pending": 1938,
-    "wiki:pending": 154
+    "pending:pending": 560,
+    "online:pending": 1992,
+    "wiki:pending": 106
   },
   "strategicCounts": {
-    "pending:0": 557,
+    "pending:0": 551,
     "online:3": 1,
     "online:2": 132,
-    "online:1": 1805,
-    "wiki:1": 135,
-    "pending:1": 9,
-    "wiki:0": 19
+    "online:1": 1859,
+    "wiki:1": 106,
+    "pending:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2118
+      "count": 2112
     },
     {
       "id": "itch-new-feed",
-      "count": 2081
+      "count": 2075
     },
     {
       "id": "itch-newest-web",
@@ -47,6 +46,10 @@
       "count": 86
     },
     {
+      "id": "poki-new",
+      "count": 86
+    },
+    {
       "id": "trends-rising-7d",
       "count": 69
     },
@@ -56,30 +59,14 @@
     },
     {
       "id": "y8-new",
-      "count": 56
+      "count": 52
     },
     {
-      "id": "steam-latest-indie",
-      "count": 50
-    },
-    {
-      "id": "steam-new",
-      "count": 50
-    },
-    {
-      "id": "gamepix-new",
-      "count": 43
+      "id": "lagged-new",
+      "count": 36
     },
     {
       "id": "crazygames-new",
-      "count": 37
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 33
-    },
-    {
-      "id": "newgrounds-new",
       "count": 33
     },
     {
@@ -88,18 +75,26 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 29
+      "count": 31
     },
     {
       "id": "newgrounds-top",
-      "count": 29
+      "count": 31
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 30
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 30
+    },
+    {
+      "id": "gamepix-new",
+      "count": 28
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 26
-    },
-    {
-      "id": "poki-new",
       "count": 26
     },
     {
@@ -111,12 +106,12 @@
       "count": 22
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 19
+      "id": "steam-latest-indie",
+      "count": 21
     },
     {
-      "id": "lagged-new",
-      "count": 18
+      "id": "steam-new",
+      "count": 21
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -158,7 +153,7 @@
       ]
     },
     {
-      "name": "Cube Match Logic",
+      "name": "Farm vs Zombies",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -170,7 +165,7 @@
       "sourceCount": 2,
       "sourceIds": [
         "y8-new",
-        "gamepix-new"
+        "lagged-new"
       ]
     },
     {
