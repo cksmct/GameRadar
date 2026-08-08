@@ -1,34 +1,33 @@
 {
-  "generatedAt": "2026-08-08T08:00:13.769Z",
+  "generatedAt": "2026-08-08T08:59:48.094Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2650,
+  "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 558,
-    "online": 1938,
-    "wiki": 154
+    "pending": 572,
+    "online": 1980,
+    "wiki": 105
   },
   "fastClassCounts": {
-    "pending:pending": 558,
-    "online:pending": 1938,
-    "wiki:pending": 154
+    "pending:pending": 572,
+    "online:pending": 1980,
+    "wiki:pending": 105
   },
   "strategicCounts": {
-    "pending:0": 550,
+    "pending:0": 564,
     "online:3": 1,
     "online:2": 132,
-    "online:1": 1805,
-    "wiki:1": 135,
-    "pending:1": 8,
-    "wiki:0": 19
+    "online:1": 1847,
+    "wiki:1": 105,
+    "pending:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2084
+      "count": 2095
     },
     {
       "id": "itch-new-feed",
-      "count": 2047
+      "count": 2058
     },
     {
       "id": "itch-newest-web",
@@ -47,28 +46,20 @@
       "count": 86
     },
     {
-      "id": "trends-rising-7d",
-      "count": 67
-    },
-    {
-      "id": "trends-rising-30d",
-      "count": 60
+      "id": "poki-new",
+      "count": 86
     },
     {
       "id": "gamepix-new",
-      "count": 54
+      "count": 70
     },
     {
-      "id": "steam-latest-indie",
-      "count": 50
+      "id": "trends-rising-7d",
+      "count": 69
     },
     {
-      "id": "steam-new",
-      "count": 50
-    },
-    {
-      "id": "lagged-new",
-      "count": 45
+      "id": "trends-rising-30d",
+      "count": 61
     },
     {
       "id": "y8-new",
@@ -76,47 +67,51 @@
     },
     {
       "id": "crazygames-new",
-      "count": 38
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
-      "count": 35
+      "count": 32
     },
     {
       "id": "newgrounds-new",
-      "count": 35
+      "count": 32
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 30
+      "count": 31
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 29
+      "count": 31
     },
     {
       "id": "newgrounds-top",
-      "count": 29
-    },
-    {
-      "id": "poki-new",
-      "count": 27
+      "count": 31
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 25
+      "count": 26
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 23
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 22
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 19
+      "id": "steam-latest-indie",
+      "count": 20
+    },
+    {
+      "id": "steam-new",
+      "count": 20
+    },
+    {
+      "id": "lagged-new",
+      "count": 17
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -158,14 +153,14 @@
       ]
     },
     {
-      "name": "Arrows: Picture Puzzle",
+      "name": "Cube Match Logic",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 2,
       "sourceIds": [
