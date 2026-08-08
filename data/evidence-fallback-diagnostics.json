@@ -1,38 +1,37 @@
 {
-  "generatedAt": "2026-08-08T20:03:05.387Z",
+  "generatedAt": "2026-08-08T20:47:30.304Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2650,
+  "pendingSeo": 2651,
   "channelCounts": {
-    "pending": 617,
-    "online": 1897,
-    "wiki": 136
+    "pending": 615,
+    "online": 1928,
+    "wiki": 108
   },
   "fastClassCounts": {
-    "pending:pending": 617,
-    "online:pending": 1897,
-    "wiki:pending": 136
+    "pending:pending": 615,
+    "online:pending": 1928,
+    "wiki:pending": 108
   },
   "strategicCounts": {
-    "pending:0": 608,
+    "pending:0": 606,
     "online:3": 1,
     "online:2": 133,
-    "online:1": 1763,
-    "wiki:1": 117,
-    "pending:1": 9,
-    "wiki:0": 19
+    "online:1": 1794,
+    "wiki:1": 108,
+    "pending:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2287
+      "count": 2284
     },
     {
       "id": "itch-new-feed",
-      "count": 2249
+      "count": 2246
     },
     {
       "id": "itch-newest-web",
-      "count": 1795
+      "count": 1794
     },
     {
       "id": "itch-new-popular-web",
@@ -55,23 +54,27 @@
       "count": 60
     },
     {
-      "id": "steam-latest-indie",
-      "count": 32
+      "id": "crazygames-new",
+      "count": 39
     },
     {
-      "id": "steam-new",
-      "count": 32
+      "id": "newgrounds-latest",
+      "count": 31
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 31
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 30
     },
     {
-      "id": "newgrounds-latest",
+      "id": "newgrounds-daily-top",
       "count": 29
     },
     {
-      "id": "newgrounds-new",
+      "id": "newgrounds-top",
       "count": 29
     },
     {
@@ -79,15 +82,15 @@
       "count": 27
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 27
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 27
-    },
-    {
       "id": "trends-rising-7d-itch-io",
+      "count": 23
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 23
+    },
+    {
+      "id": "steam-new",
       "count": 23
     },
     {
@@ -95,16 +98,8 @@
       "count": 20
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 19
-    },
-    {
       "id": "trends-rising-7d-indie-game",
       "count": 18
-    },
-    {
-      "id": "crazygames-new",
-      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -120,11 +115,19 @@
     },
     {
       "id": "y8-new",
+      "count": 4
+    },
+    {
+      "id": "poki-new",
       "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -150,22 +153,19 @@
       ]
     },
     {
-      "name": "Ronin's Retribution",
+      "name": "Cube Match Logic",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 14,
+      "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
       "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 5,
+      "sourceCount": 2,
       "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web",
-        "newgrounds-latest",
-        "newgrounds-new"
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -215,25 +215,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "A Piece of the Action",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -481,6 +462,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "A Piece of the Action",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 11,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
