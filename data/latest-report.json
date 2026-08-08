@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-08-08T11:41:23.466Z",
+  "scannedAt": "2026-08-08T12:01:42.925Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 43,
+  "totalAdded": 18,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 16
+      "added": 1
     },
     {
       "ok": false,
@@ -25,10 +25,11 @@
       "error": "远程站点返回 429"
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
-      "error": "远程站点返回 429"
+      "total": 10,
+      "added": 0
     },
     {
       "ok": true,
@@ -63,7 +64,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 3
+      "added": 4
     },
     {
       "ok": true,
@@ -84,7 +85,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 20
+      "added": 4
     },
     {
       "ok": true,
@@ -98,43 +99,85 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 4
+      "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "total": 17,
+      "added": 3
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "total": 19,
+      "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "total": 7,
+      "added": 5
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "total": 9,
+      "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "total": 13,
+      "added": 1
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "total": 21,
+      "added": 0
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 103,
-  "fastWatchCount": 239,
+  "fastPassedCount": 99,
+  "fastWatchCount": 244,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
   "trendsVerified": 1,
-  "trendErrors": 1,
-  "trendBatchRan": true,
-  "trendQueueSize": 1,
-  "risingDiscoveryRan": false,
+  "trendErrors": 0,
+  "trendBatchRan": false,
+  "trendQueueSize": 0,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 228,
+  "seoPassedCount": 229,
   "trendEligibleCount": 55,
-  "trendPendingCount": 42,
-  "trendValidatedCount": 200,
+  "trendPendingCount": 41,
+  "trendValidatedCount": 201,
   "risingCount": 3,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 2,
-    "watch": 269,
+    "watch": 270,
     "reject": 21,
-    "pending": 2708,
+    "pending": 2707,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 200
+    "serpapi": 201
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -149,7 +192,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-08T11:41:22.328Z",
+    "checkedAt": "2026-08-08T12:01:41.625Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -175,7 +218,7 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 47,
-    "evidence-fallback": 25,
+    "evidence-fallback": 26,
     "serper+autocomplete": 272
   },
   "serperConfigured": true,
@@ -205,16 +248,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2267,
-    "wiki": 121,
-    "pending": 612
+    "online": 2230,
+    "wiki": 156,
+    "pending": 614
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
-    "prepare": 1,
-    "watch": 0,
-    "weak": 120
+    "prepare": 12,
+    "watch": 8,
+    "weak": 136
   },
   "serperVerification": {
     "rushMode": true,
@@ -231,12 +274,12 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-08T11:41:44.097Z"
+    "ranAt": "2026-08-08T12:02:19.195Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2658,
+    "pendingCount": 2657,
     "eligibleCount": 1,
     "queueSize": 1,
     "verified": 1,
@@ -253,9 +296,9 @@
       "pending": 0
     },
     "verifiedNames": [
-      "Farm vs Zombies"
+      "Cube Match Logic"
     ],
-    "ranAt": "2026-08-08T11:41:44.612Z"
+    "ranAt": "2026-08-08T12:02:19.771Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -264,31 +307,31 @@
       "youtube"
     ],
     "limit": 35,
-    "queueSize": 33,
-    "verified": 33,
+    "queueSize": 35,
+    "verified": 35,
     "classifications": {
       "viral": 0,
       "pass": 0,
       "watch": 0,
       "weak": 0,
-      "pending": 33
+      "pending": 35
     },
     "errors": {
-      "youtube": 33,
+      "youtube": 35,
       "reddit": 0,
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-08T11:41:47.205Z"
+    "ranAt": "2026-08-08T12:02:22.260Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-08T11:41:47.691Z",
+    "checkedAt": "2026-08-08T12:02:22.730Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 180,
+    "totalIndependentSearchesLeft": 179,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -330,8 +373,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 70,
-        "totalSearchesLeft": 180,
+        "thisMonthUsage": 71,
+        "totalSearchesLeft": 179,
         "renewalDate": "2026-08-29"
       }
     ],
@@ -352,7 +395,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T11:41:47.418Z",
+        "checkedAt": "2026-08-08T12:02:22.471Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -372,7 +415,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T11:41:47.509Z",
+        "checkedAt": "2026-08-08T12:02:22.558Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -392,7 +435,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T11:41:47.603Z",
+        "checkedAt": "2026-08-08T12:02:22.644Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -408,11 +451,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 70,
-        "planSearchesLeft": 180,
-        "totalSearchesLeft": 180,
+        "thisMonthUsage": 71,
+        "planSearchesLeft": 179,
+        "totalSearchesLeft": 179,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-08T11:41:47.691Z",
+        "checkedAt": "2026-08-08T12:02:22.730Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -427,7 +470,7 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 185,
+      "validated": 186,
       "rising": 1,
       "recommended": 0
     },
@@ -445,7 +488,7 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 183,
+    "remainingAtStart": 182,
     "queueSize": 1,
     "verified": 1,
     "errors": 0,
@@ -470,7 +513,7 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Farm vs Zombies"
+      "Cube Match Logic"
     ],
     "caps": {
       "online": 999,
@@ -532,16 +575,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-08T11:41:55.866Z"
+    "ranAt": "2026-08-08T12:02:26.418Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 798,
+    "monthUsed": 799,
     "day": "2026-08-08",
-    "dayUsed": 77,
+    "dayUsed": 78,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -571,14 +614,14 @@
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 63,
-        "dayUsed": 63,
+        "monthUsed": 64,
+        "dayUsed": 64,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-08T11:41:48.718Z"
+        "updatedAt": "2026-08-08T12:02:23.983Z"
       }
     },
-    "updatedAt": "2026-08-08T11:41:55.907Z"
+    "updatedAt": "2026-08-08T12:02:26.458Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -621,6 +664,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-08T11:41:56.190Z"
+    "ranAt": "2026-08-08T12:02:26.802Z"
   }
 }

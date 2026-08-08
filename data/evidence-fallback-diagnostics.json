@@ -1,24 +1,25 @@
 {
-  "generatedAt": "2026-08-08T11:41:44.371Z",
+  "generatedAt": "2026-08-08T12:02:19.489Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2658,
+  "pendingSeo": 2657,
   "channelCounts": {
-    "pending": 560,
-    "online": 1992,
-    "wiki": 106
+    "pending": 562,
+    "online": 1954,
+    "wiki": 141
   },
   "fastClassCounts": {
-    "pending:pending": 560,
-    "online:pending": 1992,
-    "wiki:pending": 106
+    "pending:pending": 562,
+    "online:pending": 1954,
+    "wiki:pending": 141
   },
   "strategicCounts": {
-    "pending:0": 551,
+    "pending:0": 553,
     "online:3": 1,
     "online:2": 132,
-    "online:1": 1859,
-    "wiki:1": 106,
-    "pending:1": 9
+    "online:1": 1821,
+    "wiki:1": 122,
+    "pending:1": 9,
+    "wiki:0": 19
   },
   "topSources": [
     {
@@ -46,28 +47,40 @@
       "count": 86
     },
     {
-      "id": "poki-new",
-      "count": 86
+      "id": "trends-rising-7d",
+      "count": 71
     },
     {
-      "id": "trends-rising-7d",
-      "count": 69
+      "id": "poki-new",
+      "count": 68
     },
     {
       "id": "trends-rising-30d",
       "count": 61
     },
     {
-      "id": "y8-new",
-      "count": 52
-    },
-    {
-      "id": "lagged-new",
-      "count": 36
-    },
-    {
       "id": "crazygames-new",
-      "count": 33
+      "count": 42
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 37
+    },
+    {
+      "id": "steam-new",
+      "count": 37
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 35
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 35
+    },
+    {
+      "id": "y8-new",
+      "count": 34
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -82,16 +95,8 @@
       "count": 31
     },
     {
-      "id": "newgrounds-latest",
-      "count": 30
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 30
-    },
-    {
       "id": "gamepix-new",
-      "count": 28
+      "count": 30
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -106,16 +111,16 @@
       "count": 22
     },
     {
-      "id": "steam-latest-indie",
-      "count": 21
-    },
-    {
-      "id": "steam-new",
-      "count": 21
+      "id": "steam-top-wishlist",
+      "count": 19
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 16
+      "count": 18
+    },
+    {
+      "id": "lagged-new",
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -153,7 +158,7 @@
       ]
     },
     {
-      "name": "Farm vs Zombies",
+      "name": "Cube Match Logic",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -165,7 +170,7 @@
       "sourceCount": 2,
       "sourceIds": [
         "y8-new",
-        "lagged-new"
+        "gamepix-new"
       ]
     },
     {
@@ -234,25 +239,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 11,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Necromancer Idle: The Endless Drain Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -519,6 +505,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Necromancer Idle: The Endless Drain Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
