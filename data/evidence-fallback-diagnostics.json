@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-09T19:03:08.386Z",
+  "generatedAt": "2026-08-09T19:48:13.118Z",
   "totalCandidates": 3000,
   "pendingSeo": 2646,
   "channelCounts": {
-    "pending": 556,
-    "online": 2001,
+    "pending": 532,
+    "online": 2025,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 556,
-    "online:pending": 2001,
+    "pending:pending": 532,
+    "online:pending": 2025,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 546,
+    "pending:0": 522,
     "online:3": 1,
-    "online:2": 137,
-    "online:1": 1863,
+    "online:2": 140,
+    "online:1": 1884,
     "wiki:1": 89,
     "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2368
+      "count": 2366
     },
     {
       "id": "itch-new-feed",
-      "count": 2330
+      "count": 2328
     },
     {
       "id": "itch-newest-web",
-      "count": 1951
+      "count": 1972
     },
     {
       "id": "itch-new-popular-web",
-      "count": 125
+      "count": 129
     },
     {
       "id": "itch-popular",
-      "count": 125
+      "count": 129
     },
     {
       "id": "steam-popular-new",
@@ -47,11 +47,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 80
+      "count": 79
     },
     {
       "id": "trends-rising-30d",
-      "count": 63
+      "count": 62
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -83,7 +83,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 23
+      "count": 22
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -91,7 +91,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -102,6 +102,10 @@
       "count": 11
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -110,12 +114,12 @@
       "count": 4
     },
     {
-      "id": "y8-new",
-      "count": 3
-    },
-    {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -136,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Build The Rock",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -206,6 +229,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Butcher-Me-Not",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1023,44 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 7,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Mosquitos",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "PapaPharma Compounding Quest",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
