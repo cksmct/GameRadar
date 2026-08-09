@@ -1,34 +1,33 @@
 {
-  "generatedAt": "2026-08-09T04:04:48.515Z",
+  "generatedAt": "2026-08-09T05:18:00.661Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2650,
+  "pendingSeo": 2649,
   "channelCounts": {
-    "pending": 589,
-    "online": 1936,
-    "wiki": 125
+    "pending": 580,
+    "online": 1950,
+    "wiki": 119
   },
   "fastClassCounts": {
-    "pending:pending": 589,
-    "online:pending": 1936,
-    "wiki:pending": 125
+    "pending:pending": 580,
+    "online:pending": 1950,
+    "wiki:pending": 119
   },
   "strategicCounts": {
-    "pending:0": 579,
+    "pending:0": 570,
     "online:3": 1,
-    "online:2": 135,
-    "online:1": 1800,
-    "wiki:1": 106,
-    "pending:1": 10,
-    "wiki:0": 19
+    "online:2": 136,
+    "online:1": 1813,
+    "wiki:1": 119,
+    "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2310
+      "count": 2302
     },
     {
       "id": "itch-new-feed",
-      "count": 2272
+      "count": 2264
     },
     {
       "id": "itch-newest-web",
@@ -48,11 +47,27 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 73
+      "count": 72
     },
     {
       "id": "trends-rising-30d",
-      "count": 62
+      "count": 61
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 38
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 38
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 34
+    },
+    {
+      "id": "steam-new",
+      "count": 34
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,19 +75,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 30
+      "count": 32
     },
     {
       "id": "newgrounds-top",
-      "count": 30
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 29
+      "count": 32
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -83,28 +90,16 @@
       "count": 22
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 21
-    },
-    {
       "id": "trends-rising-30d-itch-io",
       "count": 21
     },
     {
-      "id": "steam-latest-indie",
-      "count": 21
-    },
-    {
-      "id": "steam-new",
-      "count": 21
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 19
+      "id": "trends-rising-7d-indie-game",
+      "count": 20
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -116,11 +111,19 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "crazygames-new",
+      "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -143,6 +146,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Cube Match Logic",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
       ]
     },
     {
@@ -1047,25 +1066,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Vagrant",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
