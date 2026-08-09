@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-09T21:47:52.590Z",
+  "generatedAt": "2026-08-09T22:49:14.960Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2646,
+  "pendingSeo": 2645,
   "channelCounts": {
-    "pending": 503,
-    "online": 2054,
+    "pending": 481,
+    "online": 2075,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 503,
-    "online:pending": 2054,
+    "pending:pending": 481,
+    "online:pending": 2075,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 493,
+    "pending:0": 471,
     "online:3": 1,
-    "online:2": 140,
-    "online:1": 1913,
+    "online:2": 143,
+    "online:1": 1931,
     "wiki:1": 89,
     "pending:1": 10
   },
@@ -31,15 +31,15 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2003
+      "count": 2024
     },
     {
       "id": "itch-new-popular-web",
-      "count": 127
+      "count": 132
     },
     {
       "id": "itch-popular",
-      "count": 127
+      "count": 132
     },
     {
       "id": "steam-popular-new",
@@ -47,11 +47,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 79
+      "count": 78
     },
     {
       "id": "trends-rising-30d",
-      "count": 64
+      "count": 63
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -82,16 +82,16 @@
       "count": 25
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 22
-    },
-    {
       "id": "trends-rising-30d-itch-io",
       "count": 21
     },
     {
+      "id": "trends-rising-7d-indie-game",
+      "count": 21
+    },
+    {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -102,10 +102,6 @@
       "count": 11
     },
     {
-      "id": "y8-new",
-      "count": 4
-    },
-    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -114,12 +110,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "y8-new",
+      "count": 3
     },
     {
-      "id": "gamepix-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -140,6 +136,63 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "MUSIC LIFE!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 8,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sleight of Claw",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Gearworks",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -226,6 +279,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Camping Tycoon Simulator Alpha",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
@@ -989,82 +1061,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Intergalactic Battle Roosters",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Jelly",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "ATTACK AXIS",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 8,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Cycle of the First Dawn",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
