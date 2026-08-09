@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-09T11:44:53.703Z",
+  "generatedAt": "2026-08-09T12:03:56.818Z",
   "totalCandidates": 3000,
   "pendingSeo": 2649,
   "channelCounts": {
-    "pending": 639,
-    "online": 1921,
+    "pending": 636,
+    "online": 1924,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 639,
-    "online:pending": 1921,
+    "pending:pending": 636,
+    "online:pending": 1924,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 629,
+    "pending:0": 626,
     "online:3": 1,
-    "online:2": 137,
-    "online:1": 1783,
+    "online:2": 138,
+    "online:1": 1785,
     "wiki:1": 89,
     "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2368
+      "count": 2369
     },
     {
       "id": "itch-new-feed",
-      "count": 2330
+      "count": 2331
     },
     {
       "id": "itch-newest-web",
-      "count": 1867
+      "count": 1870
     },
     {
       "id": "itch-new-popular-web",
-      "count": 128
+      "count": 127
     },
     {
       "id": "itch-popular",
-      "count": 128
+      "count": 127
     },
     {
       "id": "steam-popular-new",
@@ -47,11 +47,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 83
+      "count": 82
     },
     {
       "id": "trends-rising-30d",
-      "count": 63
+      "count": 62
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -78,16 +78,16 @@
       "count": 26
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 25
-    },
-    {
       "id": "trends-rising-7d-indie-game",
       "count": 24
     },
     {
+      "id": "trends-rising-7d-itch-io",
+      "count": 24
+    },
+    {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -102,6 +102,10 @@
       "count": 11
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -110,12 +114,12 @@
       "count": 4
     },
     {
-      "id": "y8-new",
-      "count": 3
-    },
-    {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
