@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-09T09:23:03.394Z",
+  "generatedAt": "2026-08-09T10:16:22.459Z",
   "totalCandidates": 3000,
   "pendingSeo": 2649,
   "channelCounts": {
-    "pending": 653,
-    "online": 1907,
+    "pending": 641,
+    "online": 1919,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 653,
-    "online:pending": 1907,
+    "pending:pending": 641,
+    "online:pending": 1919,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 643,
+    "pending:0": 631,
     "online:3": 1,
     "online:2": 137,
-    "online:1": 1769,
+    "online:1": 1781,
     "wiki:1": 89,
     "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2351
+      "count": 2360
     },
     {
       "id": "itch-new-feed",
-      "count": 2313
+      "count": 2322
     },
     {
       "id": "itch-newest-web",
-      "count": 1833
+      "count": 1858
     },
     {
       "id": "itch-new-popular-web",
-      "count": 146
+      "count": 135
     },
     {
       "id": "itch-popular",
-      "count": 146
+      "count": 135
     },
     {
       "id": "steam-popular-new",
@@ -47,15 +47,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 80
+      "count": 84
     },
     {
       "id": "trends-rising-30d",
-      "count": 63
+      "count": 64
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 34
+      "count": 37
     },
     {
       "id": "newgrounds-daily-top",
@@ -75,7 +75,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 26
+      "count": 27
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -83,7 +83,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 23
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -102,10 +102,6 @@
       "count": 11
     },
     {
-      "id": "y8-new",
-      "count": 4
-    },
-    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -114,12 +110,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "y8-new",
+      "count": 3
     },
     {
-      "id": "gamepix-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -218,6 +214,25 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "The Resting Place",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
       ]
     },
     {
@@ -1046,25 +1061,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Take A Shot",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
