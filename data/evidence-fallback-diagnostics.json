@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-10T11:20:52.223Z",
+  "generatedAt": "2026-08-10T12:31:45.670Z",
   "totalCandidates": 3000,
   "pendingSeo": 2640,
   "channelCounts": {
-    "pending": 345,
-    "online": 2206,
+    "pending": 335,
+    "online": 2216,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 345,
-    "online:pending": 2206,
+    "pending:pending": 335,
+    "online:pending": 2216,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 334,
+    "pending:0": 324,
     "online:3": 1,
-    "online:2": 151,
-    "online:1": 2054,
+    "online:2": 149,
+    "online:1": 2066,
     "pending:1": 11,
     "wiki:1": 89
   },
@@ -31,15 +31,15 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2154
+      "count": 2163
     },
     {
       "id": "itch-new-popular-web",
-      "count": 134
+      "count": 136
     },
     {
       "id": "itch-popular",
-      "count": 134
+      "count": 136
     },
     {
       "id": "steam-popular-new",
@@ -47,11 +47,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 82
+      "count": 81
     },
     {
       "id": "trends-rising-30d",
-      "count": 65
+      "count": 64
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -87,11 +87,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 22
+      "count": 21
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -102,10 +102,6 @@
       "count": 12
     },
     {
-      "id": "y8-new",
-      "count": 5
-    },
-    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -114,12 +110,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "y8-new",
+      "count": 3
     },
     {
-      "id": "gamepix-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -142,24 +138,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Zombie Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "y8-new"
       ]
     },
     {
@@ -1064,6 +1042,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dragon Under My Farm",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
