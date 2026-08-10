@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-10T02:58:58.429Z",
+  "generatedAt": "2026-08-10T04:53:46.056Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2642,
+  "pendingSeo": 2641,
   "channelCounts": {
-    "pending": 437,
-    "online": 2116,
+    "pending": 414,
+    "online": 2138,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 437,
-    "online:pending": 2116,
+    "pending:pending": 414,
+    "online:pending": 2138,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 427,
+    "pending:0": 404,
     "online:3": 1,
     "online:2": 149,
-    "online:1": 1966,
+    "online:1": 1988,
     "wiki:1": 89,
     "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2368
+      "count": 2361
     },
     {
       "id": "itch-new-feed",
-      "count": 2330
+      "count": 2323
     },
     {
       "id": "itch-newest-web",
-      "count": 2067
+      "count": 2086
     },
     {
       "id": "itch-new-popular-web",
@@ -47,47 +47,47 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 75
+      "count": 79
     },
     {
       "id": "trends-rising-30d",
-      "count": 60
+      "count": 63
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 34
+      "count": 35
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 29
+      "count": 33
     },
     {
       "id": "newgrounds-top",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-latest",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 29
+      "count": 33
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 28
+      "count": 30
+    },
+    {
+      "id": "newgrounds-latest",
+      "count": 30
+    },
+    {
+      "id": "newgrounds-new",
+      "count": 30
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 24
+      "count": 26
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 20
+      "count": 21
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 19
+      "count": 20
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -102,10 +102,6 @@
       "count": 11
     },
     {
-      "id": "y8-new",
-      "count": 4
-    },
-    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -114,8 +110,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
+      "id": "y8-new",
       "count": 3
+    },
+    {
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -282,25 +282,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "First You Draw a Circle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -510,6 +491,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "First You Draw a Circle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [

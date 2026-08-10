@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-08-10T02:58:38.735Z",
+  "scannedAt": "2026-08-10T04:53:02.256Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 98,
+  "totalAdded": 161,
   "sources": [
     {
       "ok": true,
@@ -17,7 +17,7 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 5
+      "added": 0
     },
     {
       "ok": true,
@@ -59,35 +59,35 @@
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 1
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 141,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 19
+      "added": 30
     },
     {
       "ok": true,
@@ -102,42 +102,84 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "total": 13,
+      "added": 7
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "total": 19,
+      "added": 6
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "total": 10,
+      "added": 9
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "total": 9,
+      "added": 8
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "total": 11,
+      "added": 5
+    },
+    {
+      "ok": true,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "total": 19,
+      "added": 8
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 114,
-  "fastWatchCount": 244,
+  "fastPassedCount": 119,
+  "fastWatchCount": 240,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 1,
+  "trendsVerified": 2,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 244,
-  "trendEligibleCount": 68,
+  "seoPassedCount": 245,
+  "trendEligibleCount": 69,
   "trendPendingCount": 66,
-  "trendValidatedCount": 204,
+  "trendValidatedCount": 205,
   "risingCount": 2,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 2,
-    "watch": 273,
+    "watch": 274,
     "reject": 21,
-    "pending": 2704,
+    "pending": 2703,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 204
+    "serpapi": 205
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -152,7 +194,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-10T02:58:37.610Z",
+    "checkedAt": "2026-08-10T04:53:00.699Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -178,7 +220,7 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 63,
-    "evidence-fallback": 29,
+    "evidence-fallback": 30,
     "serper+autocomplete": 268
   },
   "serperConfigured": true,
@@ -208,9 +250,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2396,
+    "online": 2419,
     "wiki": 104,
-    "pending": 500
+    "pending": 477
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
@@ -234,12 +276,12 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-10T02:58:58.148Z"
+    "ranAt": "2026-08-10T04:53:45.718Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2642,
+    "pendingCount": 2641,
     "eligibleCount": 1,
     "queueSize": 1,
     "verified": 1,
@@ -256,9 +298,9 @@
       "pending": 0
     },
     "verifiedNames": [
-      "Woolloop: Color Puzzle"
+      "Feline Bomb Time"
     ],
-    "ranAt": "2026-08-10T02:58:58.733Z"
+    "ranAt": "2026-08-10T04:53:46.356Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -282,16 +324,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-10T02:59:00.901Z"
+    "ranAt": "2026-08-10T04:53:49.142Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-10T02:59:01.146Z",
+    "checkedAt": "2026-08-10T04:53:49.665Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 139,
+    "totalIndependentSearchesLeft": 138,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -333,8 +375,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 111,
-        "totalSearchesLeft": 139,
+        "thisMonthUsage": 112,
+        "totalSearchesLeft": 138,
         "renewalDate": "2026-08-29"
       }
     ],
@@ -355,7 +397,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-10T02:59:01.071Z",
+        "checkedAt": "2026-08-10T04:53:49.378Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -375,7 +417,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-10T02:59:01.100Z",
+        "checkedAt": "2026-08-10T04:53:49.473Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -395,7 +437,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-10T02:59:01.124Z",
+        "checkedAt": "2026-08-10T04:53:49.567Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -411,11 +453,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 111,
-        "planSearchesLeft": 139,
-        "totalSearchesLeft": 139,
+        "thisMonthUsage": 112,
+        "planSearchesLeft": 138,
+        "totalSearchesLeft": 138,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-10T02:59:01.146Z",
+        "checkedAt": "2026-08-10T04:53:49.665Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -430,7 +472,7 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 190,
+      "validated": 191,
       "rising": 0,
       "recommended": 0
     },
@@ -448,19 +490,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 140,
-    "queueSize": 1,
-    "verified": 1,
+    "remainingAtStart": 139,
+    "queueSize": 2,
+    "verified": 2,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 1,
+      "strong": 2,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
       "online": 1,
-      "wiki": 0,
+      "wiki": 1,
       "pending": 0
     },
     "pendingByTier": {
@@ -473,7 +515,8 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Woolloop: Color Puzzle"
+      "Feline Bomb Time",
+      "Big Walk"
     ],
     "caps": {
       "online": 999,
@@ -525,26 +568,26 @@
         "envName": "SERPAPI_API_KEY_4",
         "ok": true,
         "error": null,
-        "verified": 1,
+        "verified": 2,
         "channelVerified": {
           "online": 1,
-          "wiki": 0,
+          "wiki": 1,
           "pending": 0
         },
         "errors": 0,
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-10T02:59:05.093Z"
+    "ranAt": "2026-08-10T04:53:58.197Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 841,
+    "monthUsed": 843,
     "day": "2026-08-10",
-    "dayUsed": 1,
+    "dayUsed": 3,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -574,14 +617,14 @@
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 106,
-        "dayUsed": 1,
+        "monthUsed": 108,
+        "dayUsed": 3,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-10T02:59:02.619Z"
+        "updatedAt": "2026-08-10T04:53:53.629Z"
       }
     },
-    "updatedAt": "2026-08-10T02:59:05.150Z"
+    "updatedAt": "2026-08-10T04:53:58.246Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -624,6 +667,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-10T02:59:05.523Z"
+    "ranAt": "2026-08-10T04:53:58.625Z"
   }
 }
