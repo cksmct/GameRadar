@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-10T09:50:59.755Z",
+  "generatedAt": "2026-08-10T11:20:52.223Z",
   "totalCandidates": 3000,
   "pendingSeo": 2640,
   "channelCounts": {
-    "pending": 356,
-    "online": 2195,
+    "pending": 345,
+    "online": 2206,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 356,
-    "online:pending": 2195,
+    "pending:pending": 345,
+    "online:pending": 2206,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 346,
+    "pending:0": 334,
     "online:3": 1,
-    "online:2": 148,
-    "online:1": 2046,
-    "wiki:1": 89,
-    "pending:1": 10
+    "online:2": 151,
+    "online:1": 2054,
+    "pending:1": 11,
+    "wiki:1": 89
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2361
+      "count": 2359
     },
     {
       "id": "itch-new-feed",
-      "count": 2323
+      "count": 2321
     },
     {
       "id": "itch-newest-web",
-      "count": 2143
+      "count": 2154
     },
     {
       "id": "itch-new-popular-web",
@@ -47,11 +47,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 81
+      "count": 82
     },
     {
       "id": "trends-rising-30d",
-      "count": 63
+      "count": 65
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -74,20 +74,20 @@
       "count": 29
     },
     {
+      "id": "trends-rising-7d-itch-io",
+      "count": 28
+    },
+    {
       "id": "trends-rising-30d-horror-game",
       "count": 28
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 27
+      "id": "trends-rising-30d-itch-io",
+      "count": 23
     },
     {
       "id": "trends-rising-7d-indie-game",
       "count": 22
-    },
-    {
-      "id": "trends-rising-30d-itch-io",
-      "count": 21
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -95,11 +95,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 11
+      "count": 12
     },
     {
       "id": "itch-featured",
-      "count": 11
+      "count": 12
+    },
+    {
+      "id": "y8-new",
+      "count": 5
     },
     {
       "id": "steam-latest-indie",
@@ -110,12 +114,12 @@
       "count": 4
     },
     {
-      "id": "y8-new",
-      "count": 3
-    },
-    {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -136,6 +140,43 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Zombie Shooter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Ooglabucks",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1023,44 +1064,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dragon Under My Farm",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Tensentsu 199x: Police story",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
