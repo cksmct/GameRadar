@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-10T06:41:44.511Z",
+  "generatedAt": "2026-08-10T08:17:10.484Z",
   "totalCandidates": 3000,
   "pendingSeo": 2640,
   "channelCounts": {
-    "pending": 393,
-    "online": 2158,
+    "pending": 375,
+    "online": 2176,
     "wiki": 89
   },
   "fastClassCounts": {
-    "pending:pending": 393,
-    "online:pending": 2158,
+    "pending:pending": 375,
+    "online:pending": 2176,
     "wiki:pending": 89
   },
   "strategicCounts": {
-    "pending:0": 383,
+    "pending:0": 365,
     "online:3": 1,
     "online:2": 148,
-    "online:1": 2009,
+    "online:1": 2027,
     "wiki:1": 89,
     "pending:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2361
+      "count": 2360
     },
     {
       "id": "itch-new-feed",
-      "count": 2323
+      "count": 2322
     },
     {
       "id": "itch-newest-web",
-      "count": 2106
+      "count": 2124
     },
     {
       "id": "itch-new-popular-web",
@@ -47,15 +47,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 78
+      "count": 81
     },
     {
       "id": "trends-rising-30d",
-      "count": 62
+      "count": 63
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 34
+      "count": 35
     },
     {
       "id": "newgrounds-daily-top",
@@ -66,10 +66,6 @@
       "count": 33
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 29
-    },
-    {
       "id": "newgrounds-latest",
       "count": 29
     },
@@ -78,20 +74,24 @@
       "count": 29
     },
     {
+      "id": "trends-rising-30d-horror-game",
+      "count": 28
+    },
+    {
       "id": "trends-rising-7d-itch-io",
-      "count": 26
+      "count": 27
+    },
+    {
+      "id": "trends-rising-7d-indie-game",
+      "count": 22
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 21
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 20
-    },
-    {
       "id": "trends-rising-30d-indie-game",
-      "count": 12
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
