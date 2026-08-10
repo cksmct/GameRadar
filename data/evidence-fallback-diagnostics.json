@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-10T21:01:46.921Z",
+  "generatedAt": "2026-08-10T21:57:48.883Z",
   "totalCandidates": 3000,
   "pendingSeo": 2637,
   "channelCounts": {
-    "pending": 181,
-    "online": 2365,
-    "wiki": 91
+    "pending": 167,
+    "online": 2378,
+    "wiki": 92
   },
   "fastClassCounts": {
-    "pending:pending": 181,
-    "online:pending": 2365,
-    "wiki:pending": 91
+    "pending:pending": 167,
+    "online:pending": 2378,
+    "wiki:pending": 92
   },
   "strategicCounts": {
-    "pending:0": 170,
+    "pending:0": 156,
     "online:3": 1,
     "online:2": 156,
-    "online:1": 2208,
-    "wiki:1": 91,
+    "online:1": 2221,
+    "wiki:1": 92,
     "pending:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2357
-    },
-    {
-      "id": "itch-new-feed",
-      "count": 2319
+      "count": 2358
     },
     {
       "id": "itch-newest-web",
-      "count": 2316
+      "count": 2331
+    },
+    {
+      "id": "itch-new-feed",
+      "count": 2320
     },
     {
       "id": "itch-new-popular-web",
@@ -43,7 +43,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 88
+      "count": 89
     },
     {
       "id": "trends-rising-7d",
@@ -102,10 +102,6 @@
       "count": 12
     },
     {
-      "id": "y8-new",
-      "count": 4
-    },
-    {
       "id": "steam-latest-indie",
       "count": 4
     },
@@ -114,12 +110,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "y8-new",
+      "count": 3
     },
     {
-      "id": "gamepix-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -330,6 +326,25 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "¡HablaBien!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1046,25 +1061,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Babylumns",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
