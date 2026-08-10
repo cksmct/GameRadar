@@ -1,38 +1,37 @@
 {
-  "generatedAt": "2026-08-10T17:08:06.230Z",
+  "generatedAt": "2026-08-10T18:03:06.373Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2640,
+  "pendingSeo": 2639,
   "channelCounts": {
-    "pending": 262,
-    "online": 2288,
+    "pending": 240,
+    "online": 2309,
     "wiki": 90
   },
   "fastClassCounts": {
-    "pending:pending": 262,
-    "online:pending": 2288,
+    "pending:pending": 240,
+    "online:pending": 2309,
     "wiki:pending": 90
   },
   "strategicCounts": {
-    "pending:0": 251,
+    "pending:0": 229,
     "online:3": 1,
-    "online:2": 153,
-    "wiki:2": 1,
-    "online:1": 2134,
+    "online:2": 156,
+    "online:1": 2152,
     "pending:1": 11,
-    "wiki:1": 89
+    "wiki:1": 90
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2354
+      "count": 2355
     },
     {
       "id": "itch-new-feed",
-      "count": 2316
+      "count": 2317
     },
     {
       "id": "itch-newest-web",
-      "count": 2231
+      "count": 2254
     },
     {
       "id": "itch-new-popular-web",
@@ -60,11 +59,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 33
+      "count": 32
     },
     {
       "id": "newgrounds-top",
-      "count": 33
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -103,20 +102,24 @@
       "count": 12
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "steam-latest-indie",
-      "count": 5
+      "count": 4
     },
     {
       "id": "steam-new",
-      "count": 5
-    },
-    {
-      "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -137,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Shell Collections",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -321,6 +343,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dwarven Digging Machine",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1024,44 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Ashkin: Idle Legends",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Icon Smash",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
