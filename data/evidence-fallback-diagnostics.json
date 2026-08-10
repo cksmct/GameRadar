@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-10T18:03:06.373Z",
+  "generatedAt": "2026-08-10T19:16:32.587Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2639,
+  "pendingSeo": 2638,
   "channelCounts": {
-    "pending": 240,
-    "online": 2309,
-    "wiki": 90
+    "pending": 219,
+    "online": 2328,
+    "wiki": 91
   },
   "fastClassCounts": {
-    "pending:pending": 240,
-    "online:pending": 2309,
-    "wiki:pending": 90
+    "pending:pending": 219,
+    "online:pending": 2328,
+    "wiki:pending": 91
   },
   "strategicCounts": {
-    "pending:0": 229,
+    "pending:0": 208,
     "online:3": 1,
     "online:2": 156,
-    "online:1": 2152,
-    "pending:1": 11,
-    "wiki:1": 90
+    "online:1": 2171,
+    "wiki:1": 91,
+    "pending:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2355
+      "count": 2352
     },
     {
       "id": "itch-new-feed",
-      "count": 2317
+      "count": 2314
     },
     {
       "id": "itch-newest-web",
-      "count": 2254
+      "count": 2273
     },
     {
       "id": "itch-new-popular-web",
@@ -43,15 +43,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 87
+      "count": 88
     },
     {
       "id": "trends-rising-7d",
-      "count": 81
+      "count": 83
     },
     {
       "id": "trends-rising-30d",
-      "count": 64
+      "count": 63
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -87,11 +87,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 21
+      "count": 23
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 13
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -330,25 +330,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "CHRONOSPIRE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -598,6 +579,25 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
+      ]
+    },
+    {
+      "name": "CHRONOSPIRE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
