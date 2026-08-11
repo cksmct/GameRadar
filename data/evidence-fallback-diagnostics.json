@@ -1,25 +1,24 @@
 {
-  "generatedAt": "2026-08-11T15:39:28.900Z",
+  "generatedAt": "2026-08-11T16:35:45.704Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2637,
+  "pendingSeo": 2636,
   "channelCounts": {
-    "pending": 157,
-    "online": 2472,
+    "pending": 155,
+    "online": 2473,
     "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 157,
-    "online:pending": 2472,
+    "pending:pending": 155,
+    "online:pending": 2473,
     "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 155,
+    "pending:0": 153,
+    "online:1": 2309,
     "online:3": 1,
-    "online:2": 161,
+    "online:2": 163,
     "pending:1": 2,
-    "wiki:2": 1,
-    "online:1": 2310,
-    "wiki:1": 7
+    "wiki:1": 8
   },
   "topSources": [
     {
@@ -32,7 +31,7 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 2415
+      "count": 2416
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +43,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 89
+      "count": 88
     },
     {
       "id": "trends-rising-30d",
-      "count": 67
+      "count": 66
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -80,7 +79,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 26
+      "count": 25
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -88,11 +87,15 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 12
+      "count": 11
     },
     {
       "id": "steam-popular-new",
       "count": 7
+    },
+    {
+      "id": "y8-new",
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -103,20 +106,20 @@
       "count": 3
     },
     {
+      "id": "lagged-new",
+      "count": 2
+    },
+    {
       "id": "steam-latest-indie",
-      "count": 3
+      "count": 2
     },
     {
       "id": "steam-new",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
-      "count": 3
-    },
-    {
-      "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
