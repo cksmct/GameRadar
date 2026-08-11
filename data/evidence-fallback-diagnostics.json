@@ -1,46 +1,45 @@
 {
-  "generatedAt": "2026-08-11T21:28:44.740Z",
+  "generatedAt": "2026-08-11T22:24:32.790Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2633,
+  "pendingSeo": 2632,
   "channelCounts": {
     "pending": 152,
-    "online": 2465,
-    "wiki": 16
+    "online": 2467,
+    "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 152,
-    "online:pending": 2465,
-    "wiki:pending": 16
+    "online:pending": 2467,
+    "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 150,
     "online:3": 1,
-    "online:2": 164,
+    "online:2": 168,
     "pending:1": 2,
-    "wiki:2": 3,
-    "online:1": 2300,
+    "online:1": 2298,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2446
+      "count": 2447
     },
     {
       "id": "itch-newest-web",
-      "count": 2429
+      "count": 2430
     },
     {
       "id": "itch-new-feed",
-      "count": 2408
+      "count": 2409
     },
     {
       "id": "itch-new-popular-web",
-      "count": 138
+      "count": 141
     },
     {
       "id": "itch-popular",
-      "count": 138
+      "count": 141
     },
     {
       "id": "trends-rising-7d",
@@ -88,19 +87,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 12
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 11
     },
     {
-      "id": "steam-latest-indie",
-      "count": 5
-    },
-    {
-      "id": "steam-new",
-      "count": 5
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -111,12 +106,20 @@
       "count": 3
     },
     {
-      "id": "y8-new",
-      "count": 3
-    },
-    {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
+      "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -137,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Transit Expanse",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -359,6 +381,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Bowl Big - demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1024,44 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Frogs Aren't Fresh : Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "HordeFall",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
