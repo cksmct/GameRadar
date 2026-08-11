@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-08-11T20:26:02.903Z",
+  "generatedAt": "2026-08-11T21:28:44.740Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2634,
+  "pendingSeo": 2633,
   "channelCounts": {
-    "pending": 153,
-    "online": 2468,
-    "wiki": 13
+    "pending": 152,
+    "online": 2465,
+    "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 153,
-    "online:pending": 2468,
-    "wiki:pending": 13
+    "pending:pending": 152,
+    "online:pending": 2465,
+    "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 151,
+    "pending:0": 150,
     "online:3": 1,
-    "online:2": 165,
+    "online:2": 164,
     "pending:1": 2,
-    "online:1": 2302,
+    "wiki:2": 3,
+    "online:1": 2300,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2448
+      "count": 2446
     },
     {
       "id": "itch-newest-web",
-      "count": 2431
+      "count": 2429
     },
     {
       "id": "itch-new-feed",
-      "count": 2410
+      "count": 2408
     },
     {
       "id": "itch-new-popular-web",
@@ -43,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 85
+      "count": 84
     },
     {
       "id": "trends-rising-30d",
-      "count": 64
+      "count": 63
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -75,7 +76,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 27
+      "count": 26
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -83,19 +84,23 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 15
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 11
     },
     {
-      "id": "y8-new",
-      "count": 4
+      "id": "steam-latest-indie",
+      "count": 5
+    },
+    {
+      "id": "steam-new",
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -106,20 +111,12 @@
       "count": 3
     },
     {
+      "id": "y8-new",
+      "count": 3
+    },
+    {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
-      "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -373,25 +370,6 @@
       ]
     },
     {
-      "name": "Incremental Booster Packs",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Don't: Obey",
       "channel": "online",
       "fastClass": "pending",
@@ -636,6 +614,25 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Incremental Booster Packs",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
