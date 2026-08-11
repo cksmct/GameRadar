@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-10T23:50:38.326Z",
+  "generatedAt": "2026-08-11T02:27:24.054Z",
   "totalCandidates": 3000,
   "pendingSeo": 2637,
   "channelCounts": {
-    "pending": 169,
-    "online": 2388,
-    "wiki": 80
+    "pending": 163,
+    "online": 2407,
+    "wiki": 67
   },
   "fastClassCounts": {
-    "pending:pending": 169,
-    "online:pending": 2388,
-    "wiki:pending": 80
+    "pending:pending": 163,
+    "online:pending": 2407,
+    "wiki:pending": 67
   },
   "strategicCounts": {
-    "pending:0": 158,
+    "pending:0": 157,
     "online:3": 1,
-    "online:2": 156,
-    "online:1": 2231,
-    "wiki:1": 80,
-    "pending:1": 11
+    "online:2": 158,
+    "online:1": 2248,
+    "wiki:1": 67,
+    "pending:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2365
+      "count": 2385
     },
     {
       "id": "itch-newest-web",
-      "count": 2348
+      "count": 2368
     },
     {
       "id": "itch-new-feed",
-      "count": 2327
+      "count": 2346
     },
     {
       "id": "itch-new-popular-web",
-      "count": 131
+      "count": 133
     },
     {
       "id": "itch-popular",
-      "count": 131
+      "count": 133
     },
     {
       "id": "trends-rising-7d",
-      "count": 91
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 79
+      "count": 90
     },
     {
       "id": "trends-rising-30d",
       "count": 68
     },
     {
+      "id": "steam-popular-new",
+      "count": 66
+    },
+    {
       "id": "trends-rising-7d-horror-game",
-      "count": 38
+      "count": 37
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-top",
-      "count": 32
+      "count": 31
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -87,7 +87,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -95,11 +95,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 12
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 12
+      "count": 7
     },
     {
       "id": "y8-new",
@@ -326,6 +326,25 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Derrubando Titãs",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1035,25 +1054,6 @@
     },
     {
       "name": "wan-wan wash!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Rudolf's Very Good, No Bad Day-o",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
