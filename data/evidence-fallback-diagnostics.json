@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-11T17:40:54.705Z",
+  "generatedAt": "2026-08-11T18:36:06.849Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2635,
+  "pendingSeo": 2636,
   "channelCounts": {
     "pending": 155,
     "online": 2470,
-    "wiki": 10
+    "wiki": 11
   },
   "fastClassCounts": {
     "pending:pending": 155,
     "online:pending": 2470,
-    "wiki:pending": 10
+    "wiki:pending": 11
   },
   "strategicCounts": {
     "pending:0": 153,
     "online:3": 1,
-    "online:2": 161,
+    "online:2": 165,
     "pending:1": 2,
-    "online:1": 2308,
-    "wiki:1": 10
+    "online:1": 2304,
+    "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2451
+      "count": 2450
     },
     {
       "id": "itch-newest-web",
-      "count": 2434
+      "count": 2433
     },
     {
       "id": "itch-new-feed",
-      "count": 2414
+      "count": 2412
     },
     {
       "id": "itch-new-popular-web",
-      "count": 135
+      "count": 138
     },
     {
       "id": "itch-popular",
-      "count": 135
+      "count": 138
     },
     {
       "id": "trends-rising-7d",
@@ -91,7 +91,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 10
+    },
+    {
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -99,10 +103,6 @@
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -136,6 +140,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Seed Worth",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Last Wand",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1023,44 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "IdleGambler",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Arise Dark Lord",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
