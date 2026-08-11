@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-11T05:21:35.633Z",
+  "generatedAt": "2026-08-11T06:35:48.940Z",
   "totalCandidates": 3000,
   "pendingSeo": 2636,
   "channelCounts": {
-    "pending": 163,
-    "online": 2443,
-    "wiki": 30
+    "pending": 162,
+    "online": 2454,
+    "wiki": 20
   },
   "fastClassCounts": {
-    "pending:pending": 163,
-    "online:pending": 2443,
-    "wiki:pending": 30
+    "pending:pending": 162,
+    "online:pending": 2454,
+    "wiki:pending": 20
   },
   "strategicCounts": {
     "pending:0": 156,
     "online:3": 1,
-    "online:2": 160,
-    "online:1": 2282,
-    "wiki:1": 30,
-    "pending:1": 7
+    "online:2": 161,
+    "online:1": 2292,
+    "wiki:1": 20,
+    "pending:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2421
+      "count": 2434
     },
     {
       "id": "itch-newest-web",
-      "count": 2404
+      "count": 2417
     },
     {
       "id": "itch-new-feed",
-      "count": 2382
+      "count": 2395
     },
     {
       "id": "itch-new-popular-web",
-      "count": 133
+      "count": 134
     },
     {
       "id": "itch-popular",
-      "count": 133
+      "count": 134
     },
     {
       "id": "trends-rising-7d",
@@ -59,27 +59,23 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 31
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 31
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 31
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 31
+      "count": 30
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 29
     },
     {
-      "id": "steam-popular-new",
-      "count": 29
+      "id": "newgrounds-daily-top",
+      "count": 28
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 28
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -90,20 +86,24 @@
       "count": 24
     },
     {
+      "id": "steam-popular-new",
+      "count": 19
+    },
+    {
       "id": "trends-rising-30d-indie-game",
       "count": 12
     },
     {
       "id": "itch-featured-feed",
-      "count": 8
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 8
+      "count": 7
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -136,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Psychoballistica: PROJECT RETURN FIRE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1048,25 +1071,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "wan-wan wash!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
