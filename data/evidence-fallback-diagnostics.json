@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T12:31:31.987Z",
+  "generatedAt": "2026-08-12T14:06:05.209Z",
   "totalCandidates": 3000,
   "pendingSeo": 2630,
   "channelCounts": {
@@ -15,31 +15,31 @@
   "strategicCounts": {
     "pending:0": 149,
     "online:3": 1,
-    "online:2": 173,
+    "online:2": 175,
     "pending:1": 2,
-    "online:1": 2290,
+    "online:1": 2288,
     "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2445
+      "count": 2444
     },
     {
       "id": "itch-newest-web",
-      "count": 2428
+      "count": 2427
     },
     {
       "id": "itch-new-feed",
-      "count": 2407
+      "count": 2406
     },
     {
       "id": "itch-new-popular-web",
-      "count": 147
+      "count": 148
     },
     {
       "id": "itch-popular",
-      "count": 147
+      "count": 148
     },
     {
       "id": "trends-rising-7d",
@@ -94,15 +94,15 @@
       "count": 11
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "itch-featured-feed",
       "count": 3
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -427,6 +431,25 @@
     },
     {
       "name": "Skinae",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Fracture",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1042,25 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "ThroeDown",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
