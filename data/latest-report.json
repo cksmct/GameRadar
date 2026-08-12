@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-08-12T06:41:22.015Z",
+  "scannedAt": "2026-08-12T08:03:30.928Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 65,
+  "totalAdded": 62,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 11
+      "added": 15
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 23
+      "added": 25
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 3
+      "added": 4
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 24
+      "added": 16
     },
     {
       "ok": true,
@@ -102,42 +102,78 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 131,
-  "fastWatchCount": 238,
+  "fastPassedCount": 130,
+  "fastWatchCount": 239,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 3,
+  "trendsVerified": 1,
   "trendErrors": 1,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 250,
   "trendEligibleCount": 76,
   "trendPendingCount": 70,
-  "trendValidatedCount": 209,
+  "trendValidatedCount": 208,
   "risingCount": 3,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 1,
-    "watch": 276,
-    "reject": 24,
-    "pending": 2699,
+    "watch": 277,
+    "reject": 22,
+    "pending": 2700,
     "error": 0
   },
   "trendProvider": "serpapi",
   "trendProviderCounts": {
-    "serpapi": 209
+    "serpapi": 208
   },
   "serpApiConfigured": true,
   "serpApiUsage": {
@@ -152,7 +188,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-12T06:41:20.754Z",
+    "checkedAt": "2026-08-12T08:03:29.711Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -178,7 +214,7 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "duckduckgo+autocomplete": 71,
-    "evidence-fallback": 35,
+    "evidence-fallback": 34,
     "serper+autocomplete": 266
   },
   "serperConfigured": true,
@@ -208,8 +244,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2748,
-    "wiki": 31,
+    "online": 2749,
+    "wiki": 30,
     "pending": 221
   },
   "wikiPrelaunchModelVersion": 1,
@@ -217,7 +253,7 @@
     "priority": 0,
     "prepare": 0,
     "watch": 1,
-    "weak": 30
+    "weak": 29
   },
   "serperVerification": {
     "rushMode": true,
@@ -234,32 +270,31 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-12T06:41:42.597Z"
+    "ranAt": "2026-08-12T08:04:07.310Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
     "pendingCount": 2631,
-    "eligibleCount": 2,
-    "queueSize": 2,
-    "verified": 2,
+    "eligibleCount": 1,
+    "queueSize": 1,
+    "verified": 1,
     "channelVerified": {
       "online": 0,
-      "wiki": 2,
+      "wiki": 1,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 0,
-      "weak": 2,
+      "watch": 1,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Landscaper Simulator",
-      "Shelves and Sorcery: Tidy Up the Enchanted Shop"
+      "Mandate Order"
     ],
-    "ranAt": "2026-08-12T06:41:43.284Z"
+    "ranAt": "2026-08-12T08:04:07.923Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -283,16 +318,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-12T06:41:45.938Z"
+    "ranAt": "2026-08-12T08:04:09.943Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-12T06:41:46.325Z",
+    "checkedAt": "2026-08-12T08:04:10.248Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 74,
+    "totalIndependentSearchesLeft": 71,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -334,8 +369,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 176,
-        "totalSearchesLeft": 74,
+        "thisMonthUsage": 179,
+        "totalSearchesLeft": 71,
         "renewalDate": "2026-08-29"
       }
     ],
@@ -356,7 +391,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T06:41:46.168Z",
+        "checkedAt": "2026-08-12T08:04:10.110Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -376,7 +411,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T06:41:46.221Z",
+        "checkedAt": "2026-08-12T08:04:10.157Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -396,7 +431,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T06:41:46.272Z",
+        "checkedAt": "2026-08-12T08:04:10.205Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -412,11 +447,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 176,
-        "planSearchesLeft": 74,
-        "totalSearchesLeft": 74,
+        "thisMonthUsage": 179,
+        "planSearchesLeft": 71,
+        "totalSearchesLeft": 71,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T06:41:46.325Z",
+        "checkedAt": "2026-08-12T08:04:10.248Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -436,7 +471,7 @@
       "recommended": 0
     },
     "wiki": {
-      "validated": 16,
+      "validated": 15,
       "rising": 1,
       "recommended": 0
     },
@@ -449,19 +484,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 75,
-    "queueSize": 3,
-    "verified": 3,
+    "remainingAtStart": 72,
+    "queueSize": 1,
+    "verified": 1,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 1,
-      "secondary": 0,
-      "strategic": 2
+      "strong": 0,
+      "secondary": 1,
+      "strategic": 0
     },
     "channelVerified": {
       "online": 0,
-      "wiki": 3,
+      "wiki": 1,
       "pending": 0
     },
     "pendingByTier": {
@@ -474,9 +509,7 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Big Walk",
-      "Shelves and Sorcery: Tidy Up the Enchanted Shop",
-      "Landscaper Simulator"
+      "Mandate Order"
     ],
     "caps": {
       "online": 999,
@@ -528,26 +561,26 @@
         "envName": "SERPAPI_API_KEY_4",
         "ok": true,
         "error": null,
-        "verified": 3,
+        "verified": 1,
         "channelVerified": {
           "online": 0,
-          "wiki": 3,
+          "wiki": 1,
           "pending": 0
         },
         "errors": 0,
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-12T06:42:32.738Z"
+    "ranAt": "2026-08-12T08:04:54.767Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 908,
+    "monthUsed": 909,
     "day": "2026-08-12",
-    "dayUsed": 9,
+    "dayUsed": 10,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -577,14 +610,14 @@
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 173,
-        "dayUsed": 9,
+        "monthUsed": 174,
+        "dayUsed": 10,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-12T06:42:23.219Z"
+        "updatedAt": "2026-08-12T08:04:11.574Z"
       }
     },
-    "updatedAt": "2026-08-12T06:42:32.789Z"
+    "updatedAt": "2026-08-12T08:04:54.819Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -627,6 +660,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-08-12T06:42:33.190Z"
+    "ranAt": "2026-08-12T08:04:55.195Z"
   }
 }
