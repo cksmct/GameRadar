@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-08-12T09:31:36.266Z",
+  "generatedAt": "2026-08-12T10:42:54.618Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2630,
+  "pendingSeo": 2629,
   "channelCounts": {
     "pending": 151,
     "online": 2464,
-    "wiki": 15
+    "wiki": 14
   },
   "fastClassCounts": {
     "pending:pending": 151,
     "online:pending": 2464,
-    "wiki:pending": 15
+    "wiki:pending": 14
   },
   "strategicCounts": {
     "pending:0": 149,
     "online:3": 1,
-    "online:2": 171,
+    "online:2": 174,
     "pending:1": 2,
-    "online:1": 2292,
-    "wiki:2": 1,
+    "online:1": 2289,
     "wiki:1": 14
   },
   "topSources": [
@@ -36,11 +35,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 144
+      "count": 147
     },
     {
       "id": "itch-popular",
-      "count": 144
+      "count": 147
     },
     {
       "id": "trends-rising-7d",
@@ -88,7 +87,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 13
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -107,15 +106,15 @@
       "count": 3
     },
     {
+      "id": "lagged-new",
+      "count": 2
+    },
+    {
       "id": "steam-latest-indie",
-      "count": 3
+      "count": 2
     },
     {
       "id": "steam-new",
-      "count": 3
-    },
-    {
-      "id": "lagged-new",
       "count": 2
     },
     {
@@ -141,6 +140,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Guitar Legend",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "CONTAINMENT",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -393,14 +430,14 @@
       ]
     },
     {
-      "name": "Build The Rock",
+      "name": "Skinae",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -686,6 +723,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Build The Rock",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1009,63 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Barry Hootheir",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Count is Down",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "A Piece of the Action",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [

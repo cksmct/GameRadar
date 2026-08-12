@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-08-12T09:31:13.947Z",
+  "scannedAt": "2026-08-12T10:42:34.009Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 90,
+  "totalAdded": 65,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 10
+      "added": 14
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 24
+      "added": 22
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 2
+      "added": 3
     },
     {
       "ok": true,
@@ -66,21 +66,21 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 146,
-      "added": 2
+      "total": 145,
+      "added": 0
     },
     {
       "ok": true,
@@ -94,7 +94,7 @@
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 28
+      "added": 1
     },
     {
       "ok": true,
@@ -107,31 +107,31 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 130,
+  "fastPassedCount": 131,
   "fastWatchCount": 240,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
-  "trendsVerified": 3,
-  "trendErrors": 1,
+  "trendsVerified": 67,
+  "trendErrors": 3,
   "trendBatchRan": true,
   "trendQueueSize": 1,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 251,
-  "trendEligibleCount": 77,
-  "trendPendingCount": 71,
+  "seoPassedCount": 252,
+  "trendEligibleCount": 76,
+  "trendPendingCount": 69,
   "trendValidatedCount": 210,
   "risingCount": 2,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 1,
-    "watch": 278,
-    "reject": 23,
+    "watch": 279,
+    "reject": 22,
     "pending": 2698,
     "error": 0
   },
@@ -152,7 +152,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-12T09:31:12.497Z",
+    "checkedAt": "2026-08-12T10:42:32.818Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -208,8 +208,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2747,
-    "wiki": 32,
+    "online": 2748,
+    "wiki": 31,
     "pending": 221
   },
   "wikiPrelaunchModelVersion": 1,
@@ -217,7 +217,7 @@
     "priority": 0,
     "prepare": 0,
     "watch": 1,
-    "weak": 31
+    "weak": 30
   },
   "serperVerification": {
     "rushMode": true,
@@ -234,32 +234,31 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-12T09:31:35.951Z"
+    "ranAt": "2026-08-12T10:42:54.242Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2630,
-    "eligibleCount": 2,
-    "queueSize": 2,
-    "verified": 2,
+    "pendingCount": 2629,
+    "eligibleCount": 1,
+    "queueSize": 1,
+    "verified": 1,
     "channelVerified": {
       "online": 1,
-      "wiki": 1,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 1,
       "watch": 0,
-      "weak": 1,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Royal Defense",
-      "Shelves and Sorcery: Tidy Up the Enchanted Shop"
+      "Ninja on the Run"
     ],
-    "ranAt": "2026-08-12T09:31:36.591Z"
+    "ranAt": "2026-08-12T10:42:55.268Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -283,16 +282,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-12T09:31:39.426Z"
+    "ranAt": "2026-08-12T10:42:59.011Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-12T09:31:39.901Z",
+    "checkedAt": "2026-08-12T10:42:59.523Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 70,
+    "totalIndependentSearchesLeft": 67,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -334,8 +333,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 180,
-        "totalSearchesLeft": 70,
+        "thisMonthUsage": 183,
+        "totalSearchesLeft": 67,
         "renewalDate": "2026-08-29"
       }
     ],
@@ -356,7 +355,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T09:31:39.693Z",
+        "checkedAt": "2026-08-12T10:42:59.234Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -376,7 +375,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T09:31:39.762Z",
+        "checkedAt": "2026-08-12T10:42:59.337Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -396,7 +395,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T09:31:39.832Z",
+        "checkedAt": "2026-08-12T10:42:59.429Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -412,11 +411,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-08-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 180,
-        "planSearchesLeft": 70,
-        "totalSearchesLeft": 70,
+        "thisMonthUsage": 183,
+        "planSearchesLeft": 67,
+        "totalSearchesLeft": 67,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-12T09:31:39.900Z",
+        "checkedAt": "2026-08-12T10:42:59.523Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -431,12 +430,12 @@
   },
   "channelOpportunityCounts": {
     "online": {
-      "validated": 193,
+      "validated": 194,
       "rising": 0,
       "recommended": 0
     },
     "wiki": {
-      "validated": 16,
+      "validated": 15,
       "rising": 1,
       "recommended": 0
     },
@@ -449,34 +448,98 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 71,
-    "queueSize": 3,
-    "verified": 3,
-    "errors": 0,
+    "remainingAtStart": 68,
+    "queueSize": 77,
+    "verified": 67,
+    "errors": 1,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 2,
-      "secondary": 0,
-      "strategic": 1
+      "strong": 3,
+      "secondary": 64,
+      "strategic": 0
     },
     "channelVerified": {
-      "online": 2,
-      "wiki": 1,
+      "online": 65,
+      "wiki": 2,
       "pending": 0
     },
     "pendingByTier": {
       "strong": 0,
-      "secondary": 0,
+      "secondary": 10,
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 0,
+      "online": 10,
       "wiki": 0
     },
     "verifiedNames": [
-      "Royal Defense",
-      "Mini Games",
-      "Shelves and Sorcery: Tidy Up the Enchanted Shop"
+      "Ninja on the Run",
+      "Rail in the Air",
+      "Word Solitaire",
+      "Kin and Conquest",
+      "Talking Tom Gold Run",
+      "Stickman Fury",
+      "Maldives Hidden Objects",
+      "Interstellar Legends",
+      "Phone CASE DIY",
+      "Ragdoll Playground",
+      "Monkey Bubble Defense",
+      "Ball vs Block",
+      "Fishing Anomaly",
+      "Zombie Merge",
+      "Push Titans",
+      "Kitty Jewel Quest",
+      "Help Me: Tricky Puzzle Games",
+      "Draw Action Freestyle Fight",
+      "Rubinite",
+      "Going Balls",
+      "Hospital Surgeon Doctor",
+      "Jelly Fruit Merge",
+      "Sandwich Runner",
+      "Hyper Cars Ramp Crash",
+      "Ice Cream Stack Run",
+      "Wood Hexa Factory!",
+      "World Cup Eye Art",
+      "Tictoc Catwalk Fashion",
+      "Pizza Dash",
+      "Flat Baseball",
+      "Oozy's Lab",
+      "Punch Master",
+      "Home Builder Clicker",
+      "Draft Wars",
+      "DIY Desk Designer",
+      "Mine and Dig",
+      "Stunt Protocol",
+      "Spacebar Clicker",
+      "Real Animal Transport Cargo",
+      "Circle Jump",
+      "Stickman Merge",
+      "Tower Destiny Survive",
+      "Quantum Rush",
+      "Train Miner",
+      "Ten Million Clicks Together",
+      "Critter Chaos",
+      "Trucktopolis Cooking Chaos",
+      "Streetlight Syndicate",
+      "Broken Depths RPG",
+      "Supercar Legends",
+      "Dessert Maker",
+      "Project Parcel — Dispatch Network Demo",
+      "Trash Master",
+      "Knights & Brides",
+      "Tuning Car Racing",
+      "Ironcurse Mobile Demo Test",
+      "Cyber-runner/private🤫",
+      "FUN VIDEO STORE",
+      "Hide and Paint",
+      "Cat Simulator",
+      "Bedevil's Hidden Objects 1 - Farm",
+      "Tusg io",
+      "Escape from Vlogger: Runaway",
+      "Benjie and Jelan \"ALCANTARA QUEST\"",
+      "World Wars: Tanks",
+      "Wolfoo Word Search",
+      "Traffic Racer"
     ],
     "caps": {
       "online": 999,
@@ -528,26 +591,26 @@
         "envName": "SERPAPI_API_KEY_4",
         "ok": true,
         "error": null,
-        "verified": 3,
+        "verified": 67,
         "channelVerified": {
-          "online": 2,
-          "wiki": 1,
+          "online": 65,
+          "wiki": 2,
           "pending": 0
         },
-        "errors": 0,
-        "quotaStopped": false
+        "errors": 1,
+        "quotaStopped": true
       }
     },
-    "ranAt": "2026-08-12T09:32:03.209Z"
+    "ranAt": "2026-08-12T10:47:32.412Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-08",
-    "monthUsed": 912,
+    "monthUsed": 980,
     "day": "2026-08-12",
-    "dayUsed": 13,
+    "dayUsed": 81,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -577,21 +640,21 @@
       },
       "4": {
         "envName": "SERPAPI_API_KEY_4",
-        "monthUsed": 177,
-        "dayUsed": 13,
+        "monthUsed": 245,
+        "dayUsed": 81,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-08-12T09:31:59.623Z"
+        "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-12T09:32:03.258Z"
+    "updatedAt": "2026-08-12T10:47:32.489Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-01T07:14:58.707Z",
+    "updatedAt": "2026-08-12T10:47:32.942Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -600,11 +663,11 @@
     "verifyLimit": 95,
     "effectiveLimit": 6,
     "remainingAtStart": 6,
-    "queueSize": 0,
+    "queueSize": 6,
     "verified": 0,
-    "errors": 0,
+    "errors": 1,
     "requests": 0,
-    "quotaStopped": false,
+    "quotaStopped": true,
     "concurrency": 1,
     "channelVerified": {
       "online": 0,
@@ -617,16 +680,21 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 0,
+      "online": 10,
       "wiki": 0
     },
     "pendingByTier": {
       "strong": 0,
-      "secondary": 0,
+      "secondary": 10,
       "strategic": 0
     },
     "verifiedNames": [],
-    "errorNames": [],
-    "ranAt": "2026-08-12T09:32:03.650Z"
+    "errorNames": [
+      {
+        "name": "Cube Dash",
+        "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
+      }
+    ],
+    "ranAt": "2026-08-12T10:47:33.102Z"
   }
 }
