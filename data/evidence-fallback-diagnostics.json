@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-08-12T21:27:47.267Z",
+  "generatedAt": "2026-08-12T22:24:47.643Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2629,
+  "pendingSeo": 2630,
   "channelCounts": {
-    "pending": 150,
-    "online": 2460,
+    "pending": 160,
+    "online": 2451,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 150,
-    "online:pending": 2460,
+    "pending:pending": 160,
+    "online:pending": 2451,
     "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 148,
+    "pending:0": 158,
     "online:3": 1,
-    "online:2": 176,
+    "online:2": 179,
     "pending:1": 2,
-    "online:1": 2283,
+    "online:1": 2271,
     "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2441
+      "count": 2431
     },
     {
       "id": "itch-newest-web",
-      "count": 2424
+      "count": 2414
     },
     {
       "id": "itch-new-feed",
-      "count": 2403
+      "count": 2393
     },
     {
       "id": "itch-new-popular-web",
-      "count": 150
+      "count": 152
     },
     {
       "id": "itch-popular",
-      "count": 150
+      "count": 152
     },
     {
       "id": "trends-rising-7d",
-      "count": 82
+      "count": 89
     },
     {
       "id": "trends-rising-30d",
-      "count": 61
+      "count": 69
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 36
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 30
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -75,15 +75,15 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 25
+      "count": 27
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 20
+      "count": 22
     },
     {
       "id": "steam-popular-new",
@@ -91,7 +91,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 11
+      "count": 13
+    },
+    {
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -99,10 +103,6 @@
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -136,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Digging Yourself Deeper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -388,14 +411,14 @@
       ]
     },
     {
-      "name": "Aura Farming",
+      "name": "Necromancer Idle: The Endless Drain Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -407,14 +430,14 @@
       ]
     },
     {
-      "name": "Necromancer Idle: The Endless Drain Demo",
+      "name": "Sim Analyst",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -693,6 +716,25 @@
     },
     {
       "name": "Picture Day",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Aura Farming",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1023,44 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lights in the Sky",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Touhou ~ By My Hand",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
