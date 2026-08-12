@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-12T22:24:47.643Z",
+  "generatedAt": "2026-08-12T23:23:23.102Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2630,
+  "pendingSeo": 2629,
   "channelCounts": {
-    "pending": 160,
-    "online": 2451,
-    "wiki": 19
+    "pending": 159,
+    "online": 2450,
+    "wiki": 20
   },
   "fastClassCounts": {
-    "pending:pending": 160,
-    "online:pending": 2451,
-    "wiki:pending": 19
+    "pending:pending": 159,
+    "online:pending": 2450,
+    "wiki:pending": 20
   },
   "strategicCounts": {
-    "pending:0": 158,
+    "pending:0": 157,
     "online:3": 1,
-    "online:2": 179,
+    "online:2": 178,
     "pending:1": 2,
     "online:1": 2271,
-    "wiki:1": 19
+    "wiki:1": 20
   },
   "topSources": [
     {
@@ -43,19 +43,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 89
+      "count": 88
     },
     {
       "id": "trends-rising-30d",
-      "count": 69
+      "count": 68
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 40
+      "count": 39
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 34
+      "count": 33
     },
     {
       "id": "newgrounds-latest",
@@ -87,15 +87,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 19
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
-    },
-    {
-      "id": "y8-new",
-      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -103,6 +99,10 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,10 +116,6 @@
     {
       "id": "steam-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -381,25 +377,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Fortune Falls",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -716,6 +693,25 @@
     },
     {
       "name": "Picture Day",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Fortune Falls",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
