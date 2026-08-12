@@ -1,45 +1,46 @@
 {
-  "generatedAt": "2026-08-12T05:01:34.277Z",
+  "generatedAt": "2026-08-12T06:41:42.967Z",
   "totalCandidates": 3000,
   "pendingSeo": 2631,
   "channelCounts": {
     "pending": 151,
-    "online": 2467,
-    "wiki": 13
+    "online": 2465,
+    "wiki": 15
   },
   "fastClassCounts": {
     "pending:pending": 151,
-    "online:pending": 2467,
-    "wiki:pending": 13
+    "online:pending": 2465,
+    "wiki:pending": 15
   },
   "strategicCounts": {
     "pending:0": 149,
     "online:3": 1,
-    "online:2": 168,
+    "online:2": 170,
     "pending:1": 2,
-    "online:1": 2298,
+    "wiki:2": 2,
+    "online:1": 2294,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2448
+      "count": 2446
     },
     {
       "id": "itch-newest-web",
-      "count": 2431
+      "count": 2429
     },
     {
       "id": "itch-new-feed",
-      "count": 2410
+      "count": 2408
     },
     {
       "id": "itch-new-popular-web",
-      "count": 142
+      "count": 144
     },
     {
       "id": "itch-popular",
-      "count": 142
+      "count": 144
     },
     {
       "id": "trends-rising-7d",
@@ -87,11 +88,19 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 14
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 11
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -136,6 +137,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Arcade Mogul",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -350,25 +370,6 @@
       ]
     },
     {
-      "name": "Sleight of Claw",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Gearworks",
       "channel": "online",
       "fastClass": "pending",
@@ -393,6 +394,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Click to Obsolete",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
@@ -624,6 +644,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sleight of Claw",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1023,44 +1062,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 11,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Glory ghosts",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Necromancer Idle: The Endless Drain Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
