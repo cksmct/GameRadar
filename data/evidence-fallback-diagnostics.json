@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-12T14:06:05.209Z",
+  "generatedAt": "2026-08-12T15:14:23.812Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2630,
+  "pendingSeo": 2629,
   "channelCounts": {
     "pending": 151,
-    "online": 2464,
-    "wiki": 15
+    "online": 2462,
+    "wiki": 16
   },
   "fastClassCounts": {
     "pending:pending": 151,
-    "online:pending": 2464,
-    "wiki:pending": 15
+    "online:pending": 2462,
+    "wiki:pending": 16
   },
   "strategicCounts": {
     "pending:0": 149,
     "online:3": 1,
-    "online:2": 175,
+    "online:2": 174,
     "pending:1": 2,
-    "online:1": 2288,
-    "wiki:1": 15
+    "online:1": 2287,
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2444
+      "count": 2443
     },
     {
       "id": "itch-newest-web",
-      "count": 2427
+      "count": 2426
     },
     {
       "id": "itch-new-feed",
-      "count": 2406
+      "count": 2405
     },
     {
       "id": "itch-new-popular-web",
@@ -87,15 +87,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 15
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 11
-    },
-    {
-      "id": "y8-new",
-      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -103,6 +99,10 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,10 +116,6 @@
     {
       "id": "steam-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -419,6 +415,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Necromancer Idle: The Endless Drain Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1039,25 +1054,6 @@
     },
     {
       "name": "Down Deep",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Weekend Ritual",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
