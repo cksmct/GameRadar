@@ -1,61 +1,62 @@
 {
-  "generatedAt": "2026-08-13T00:44:06.833Z",
+  "generatedAt": "2026-08-13T03:14:59.010Z",
   "totalCandidates": 3000,
   "pendingSeo": 2629,
   "channelCounts": {
-    "pending": 158,
-    "online": 2456,
-    "wiki": 15
+    "pending": 157,
+    "online": 2453,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 158,
-    "online:pending": 2456,
-    "wiki:pending": 15
+    "pending:pending": 157,
+    "online:pending": 2453,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 156,
+    "pending:0": 155,
     "online:3": 1,
-    "online:2": 178,
+    "online:2": 180,
     "pending:1": 2,
-    "online:1": 2277,
-    "wiki:1": 15
+    "wiki:2": 3,
+    "online:1": 2272,
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2437
+      "count": 2434
     },
     {
       "id": "itch-newest-web",
-      "count": 2420
+      "count": 2417
     },
     {
       "id": "itch-new-feed",
-      "count": 2399
+      "count": 2396
     },
     {
       "id": "itch-new-popular-web",
-      "count": 152
+      "count": 154
     },
     {
       "id": "itch-popular",
-      "count": 152
+      "count": 154
     },
     {
       "id": "trends-rising-7d",
-      "count": 87
+      "count": 86
     },
     {
       "id": "trends-rising-30d",
-      "count": 67
+      "count": 66
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 38
+      "count": 37
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -87,11 +88,19 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 5
+    },
+    {
+      "id": "steam-new",
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -396,6 +397,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Vega Sentinels",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Bun Bun Gym",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1023,44 +1062,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lighthouse",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Harvest Them",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
