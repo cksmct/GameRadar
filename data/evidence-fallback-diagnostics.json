@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-13T09:32:59.330Z",
+  "generatedAt": "2026-08-13T10:44:30.515Z",
   "totalCandidates": 3000,
   "pendingSeo": 2623,
   "channelCounts": {
-    "pending": 156,
-    "online": 2450,
+    "pending": 155,
+    "online": 2451,
     "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 156,
-    "online:pending": 2450,
+    "pending:pending": 155,
+    "online:pending": 2451,
     "wiki:pending": 17
   },
   "strategicCounts": {
     "pending:0": 154,
     "online:3": 1,
     "online:2": 180,
-    "pending:1": 2,
-    "online:1": 2269,
+    "pending:1": 1,
+    "online:1": 2270,
     "wiki:1": 17
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2430
+      "count": 2432
     },
     {
       "id": "itch-newest-web",
-      "count": 2414
+      "count": 2416
     },
     {
       "id": "itch-new-feed",
-      "count": 2392
+      "count": 2394
     },
     {
       "id": "itch-new-popular-web",
-      "count": 154
+      "count": 155
     },
     {
       "id": "itch-popular",
-      "count": 154
+      "count": 155
     },
     {
       "id": "trends-rising-7d",
@@ -95,15 +95,15 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "itch-featured-feed",
-      "count": 3
+      "count": 2
     },
     {
       "id": "itch-featured",
-      "count": 3
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -116,10 +116,6 @@
     {
       "id": "steam-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -564,6 +560,25 @@
     },
     {
       "name": "Dwarven Digging Machine",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Winning Won't Save You",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1046,25 +1061,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "First You Draw a Circle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
