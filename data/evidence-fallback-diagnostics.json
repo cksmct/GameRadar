@@ -1,45 +1,46 @@
 {
-  "generatedAt": "2026-08-13T12:32:15.033Z",
+  "generatedAt": "2026-08-13T14:08:21.526Z",
   "totalCandidates": 3000,
   "pendingSeo": 2623,
   "channelCounts": {
-    "pending": 155,
-    "online": 2451,
-    "wiki": 17
+    "wiki": 19,
+    "pending": 154,
+    "online": 2450
   },
   "fastClassCounts": {
-    "pending:pending": 155,
-    "online:pending": 2451,
-    "wiki:pending": 17
+    "wiki:pending": 19,
+    "pending:pending": 154,
+    "online:pending": 2450
   },
   "strategicCounts": {
-    "pending:0": 154,
+    "wiki:1": 18,
+    "pending:0": 153,
     "online:3": 1,
-    "online:2": 181,
+    "online:2": 184,
     "pending:1": 1,
-    "online:1": 2269,
-    "wiki:1": 17
+    "wiki:2": 1,
+    "online:1": 2265
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2432
+      "count": 2431
     },
     {
       "id": "itch-newest-web",
-      "count": 2416
+      "count": 2415
     },
     {
       "id": "itch-new-feed",
-      "count": 2393
+      "count": 2392
     },
     {
       "id": "itch-new-popular-web",
-      "count": 156
+      "count": 159
     },
     {
       "id": "itch-popular",
-      "count": 156
+      "count": 159
     },
     {
       "id": "trends-rising-7d",
@@ -87,11 +88,19 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 12
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
     },
     {
       "id": "y8-new",
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -320,6 +321,63 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Styx and Bones",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Realms",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Hearts Before The Arrow",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1012,63 +1070,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
-      ]
-    },
-    {
-      "name": "CHRONOSPIRE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Hexatown",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "想和魏菊OOXX",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
