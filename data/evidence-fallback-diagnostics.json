@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:44:30.515Z",
+  "generatedAt": "2026-08-13T11:29:08.503Z",
   "totalCandidates": 3000,
   "pendingSeo": 2623,
   "channelCounts": {
@@ -15,9 +15,9 @@
   "strategicCounts": {
     "pending:0": 154,
     "online:3": 1,
-    "online:2": 180,
+    "online:2": 181,
     "pending:1": 1,
-    "online:1": 2270,
+    "online:1": 2269,
     "wiki:1": 17
   },
   "topSources": [
@@ -31,15 +31,15 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 2394
+      "count": 2393
     },
     {
       "id": "itch-new-popular-web",
-      "count": 155
+      "count": 156
     },
     {
       "id": "itch-popular",
-      "count": 155
+      "count": 156
     },
     {
       "id": "trends-rising-7d",
