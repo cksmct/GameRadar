@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-13T03:14:59.010Z",
+  "generatedAt": "2026-08-13T05:06:42.842Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2629,
+  "pendingSeo": 2626,
   "channelCounts": {
-    "pending": 157,
-    "online": 2453,
-    "wiki": 19
+    "pending": 155,
+    "online": 2454,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 157,
-    "online:pending": 2453,
-    "wiki:pending": 19
+    "pending:pending": 155,
+    "online:pending": 2454,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 155,
+    "pending:0": 153,
     "online:3": 1,
-    "online:2": 180,
+    "online:2": 181,
     "pending:1": 2,
-    "wiki:2": 3,
+    "wiki:2": 1,
     "online:1": 2272,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2434
+      "count": 2433
     },
     {
       "id": "itch-newest-web",
@@ -32,7 +32,7 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 2396
+      "count": 2395
     },
     {
       "id": "itch-new-popular-web",
@@ -44,19 +44,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 86
+      "count": 85
     },
     {
       "id": "trends-rising-30d",
-      "count": 66
+      "count": 65
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 37
+      "count": 36
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 31
+      "count": 30
     },
     {
       "id": "newgrounds-latest",
@@ -88,19 +88,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
     },
     {
-      "id": "steam-latest-indie",
-      "count": 5
-    },
-    {
-      "id": "steam-new",
-      "count": 5
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -111,12 +107,16 @@
       "count": 3
     },
     {
-      "id": "y8-new",
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
       "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     }
   ],
   "samples": [
@@ -237,25 +237,6 @@
       ]
     },
     {
-      "name": "Evolving Valley",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Transit Expanse",
       "channel": "online",
       "fastClass": "pending",
@@ -352,25 +333,6 @@
     },
     {
       "name": "Hourheart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Ooglabucks",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -541,6 +503,25 @@
       ]
     },
     {
+      "name": "Evolving Valley",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Bowl Big - demo",
       "channel": "online",
       "fastClass": "pending",
@@ -675,6 +656,25 @@
     },
     {
       "name": "Xfire",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Ooglabucks",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
