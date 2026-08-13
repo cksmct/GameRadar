@@ -1,45 +1,46 @@
 {
-  "generatedAt": "2026-08-13T21:28:38.935Z",
+  "generatedAt": "2026-08-13T22:24:34.165Z",
   "totalCandidates": 3000,
   "pendingSeo": 2620,
   "channelCounts": {
-    "pending": 161,
-    "online": 2433,
-    "wiki": 26
+    "pending": 160,
+    "online": 2432,
+    "wiki": 28
   },
   "fastClassCounts": {
-    "pending:pending": 161,
-    "online:pending": 2433,
-    "wiki:pending": 26
+    "pending:pending": 160,
+    "online:pending": 2432,
+    "wiki:pending": 28
   },
   "strategicCounts": {
     "pending:0": 159,
     "online:3": 1,
-    "online:2": 187,
-    "pending:1": 2,
-    "online:1": 2245,
-    "wiki:1": 26
+    "online:2": 189,
+    "pending:1": 1,
+    "wiki:2": 1,
+    "online:1": 2242,
+    "wiki:1": 27
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2413
+      "count": 2412
     },
     {
       "id": "itch-newest-web",
-      "count": 2398
+      "count": 2397
     },
     {
       "id": "itch-new-feed",
-      "count": 2374
+      "count": 2373
     },
     {
       "id": "itch-new-popular-web",
-      "count": 162
+      "count": 164
     },
     {
       "id": "itch-popular",
-      "count": 162
+      "count": 164
     },
     {
       "id": "trends-rising-7d",
@@ -70,6 +71,10 @@
       "count": 29
     },
     {
+      "id": "steam-popular-new",
+      "count": 27
+    },
+    {
       "id": "newgrounds-daily-top",
       "count": 27
     },
@@ -82,10 +87,6 @@
       "count": 25
     },
     {
-      "id": "steam-popular-new",
-      "count": 25
-    },
-    {
       "id": "trends-rising-30d-itch-io",
       "count": 21
     },
@@ -94,11 +95,11 @@
       "count": 11
     },
     {
-      "id": "itch-featured-feed",
+      "id": "steam-latest-indie",
       "count": 3
     },
     {
-      "id": "itch-featured",
+      "id": "steam-new",
       "count": 3
     },
     {
@@ -106,15 +107,15 @@
       "count": 3
     },
     {
+      "id": "itch-featured-feed",
+      "count": 2
+    },
+    {
+      "id": "itch-featured",
+      "count": 2
+    },
+    {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -136,6 +137,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Donuts",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -358,6 +378,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Paw Pantry",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1029,44 +1068,6 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Resting Place",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Incremental Booster Packs",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web",
         "itch-new-popular-web",
         "itch-popular"
       ]
