@@ -1,38 +1,37 @@
 {
-  "generatedAt": "2026-08-13T16:10:47.920Z",
+  "generatedAt": "2026-08-13T17:12:21.070Z",
   "totalCandidates": 3000,
   "pendingSeo": 2622,
   "channelCounts": {
     "pending": 153,
-    "online": 2449,
-    "wiki": 20
+    "online": 2448,
+    "wiki": 21
   },
   "fastClassCounts": {
     "pending:pending": 153,
-    "online:pending": 2449,
-    "wiki:pending": 20
+    "online:pending": 2448,
+    "wiki:pending": 21
   },
   "strategicCounts": {
     "pending:0": 152,
     "online:3": 1,
-    "online:2": 184,
+    "online:2": 186,
     "pending:1": 1,
-    "wiki:2": 2,
-    "online:1": 2264,
-    "wiki:1": 18
+    "online:1": 2261,
+    "wiki:1": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2429
+      "count": 2427
     },
     {
       "id": "itch-newest-web",
-      "count": 2414
+      "count": 2412
     },
     {
       "id": "itch-new-feed",
-      "count": 2390
+      "count": 2388
     },
     {
       "id": "itch-new-popular-web",
@@ -88,23 +87,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 19
+      "count": 20
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 11
     },
     {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
-      "count": 4
-    },
-    {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -115,7 +106,19 @@
       "count": 2
     },
     {
+      "id": "gamepix-new",
+      "count": 2
+    },
+    {
       "id": "lagged-new",
+      "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
       "count": 2
     }
   ],
@@ -139,6 +142,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Magnet Shift",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "gamepix-new"
       ]
     },
     {
@@ -1051,25 +1072,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Internet Cafe 98",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
       ]
     }
   ]
