@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-13T08:05:59.866Z",
+  "generatedAt": "2026-08-13T09:32:59.330Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2624,
+  "pendingSeo": 2623,
   "channelCounts": {
-    "pending": 157,
-    "online": 2451,
-    "wiki": 16
+    "pending": 156,
+    "online": 2450,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 157,
-    "online:pending": 2451,
-    "wiki:pending": 16
+    "pending:pending": 156,
+    "online:pending": 2450,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 155,
+    "pending:0": 154,
     "online:3": 1,
-    "online:2": 179,
+    "online:2": 180,
     "pending:1": 2,
-    "online:1": 2271,
-    "wiki:1": 16
+    "online:1": 2269,
+    "wiki:1": 17
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2432
+      "count": 2430
     },
     {
       "id": "itch-newest-web",
-      "count": 2416
+      "count": 2414
     },
     {
       "id": "itch-new-feed",
-      "count": 2394
+      "count": 2392
     },
     {
       "id": "itch-new-popular-web",
@@ -43,15 +43,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 88
+      "count": 87
     },
     {
       "id": "trends-rising-30d",
-      "count": 64
+      "count": 63
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 36
+      "count": 35
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -79,7 +79,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 25
+      "count": 24
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -87,11 +87,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 13
+      "count": 12
+    },
+    {
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -99,10 +103,6 @@
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
