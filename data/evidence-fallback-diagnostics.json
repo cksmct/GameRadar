@@ -1,45 +1,46 @@
 {
-  "generatedAt": "2026-08-13T17:12:21.070Z",
+  "generatedAt": "2026-08-13T18:06:50.273Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2622,
+  "pendingSeo": 2620,
   "channelCounts": {
     "pending": 153,
-    "online": 2448,
-    "wiki": 21
+    "online": 2444,
+    "wiki": 23
   },
   "fastClassCounts": {
     "pending:pending": 153,
-    "online:pending": 2448,
-    "wiki:pending": 21
+    "online:pending": 2444,
+    "wiki:pending": 23
   },
   "strategicCounts": {
     "pending:0": 152,
     "online:3": 1,
-    "online:2": 186,
+    "online:2": 187,
     "pending:1": 1,
-    "online:1": 2261,
-    "wiki:1": 21
+    "wiki:2": 1,
+    "online:1": 2256,
+    "wiki:1": 22
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2427
+      "count": 2424
     },
     {
       "id": "itch-newest-web",
-      "count": 2412
+      "count": 2409
     },
     {
       "id": "itch-new-feed",
-      "count": 2388
+      "count": 2385
     },
     {
       "id": "itch-new-popular-web",
-      "count": 159
+      "count": 162
     },
     {
       "id": "itch-popular",
-      "count": 159
+      "count": 162
     },
     {
       "id": "trends-rising-7d",
@@ -82,20 +83,28 @@
       "count": 24
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 21
+      "id": "steam-popular-new",
+      "count": 22
     },
     {
-      "id": "steam-popular-new",
-      "count": 20
+      "id": "trends-rising-30d-itch-io",
+      "count": 21
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 11
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "itch-featured-feed",
@@ -106,19 +115,7 @@
       "count": 2
     },
     {
-      "id": "gamepix-new",
-      "count": 2
-    },
-    {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -145,21 +142,41 @@
       ]
     },
     {
-      "name": "Magnet Shift",
+      "name": "Dwarves: Idle Battles",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
+      "discoveryScore": 17,
+      "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 6,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 5,
       "sourceIds": [
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
-        "gamepix-new"
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Eco Fishing™",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -342,6 +359,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dreadbleed",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1032,44 +1068,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Infinite Lunch",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Hunter Diorama",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
