@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-08-14T16:05:46.752Z",
+  "generatedAt": "2026-08-14T17:11:23.201Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2609,
+  "pendingSeo": 2610,
   "channelCounts": {
-    "pending": 174,
-    "online": 2414,
+    "pending": 172,
+    "online": 2417,
     "wiki": 21
   },
   "fastClassCounts": {
-    "pending:pending": 174,
-    "online:pending": 2414,
+    "pending:pending": 172,
+    "online:pending": 2417,
     "wiki:pending": 21
   },
   "strategicCounts": {
-    "pending:0": 173,
+    "pending:0": 171,
     "online:3": 1,
-    "online:2": 190,
-    "online:1": 2223,
+    "online:2": 191,
+    "online:1": 2225,
     "pending:1": 1,
     "wiki:1": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2394
+      "count": 2396
     },
     {
       "id": "itch-newest-web",
-      "count": 2379
+      "count": 2382
     },
     {
       "id": "itch-new-feed",
-      "count": 2355
+      "count": 2357
     },
     {
       "id": "itch-new-popular-web",
-      "count": 165
+      "count": 166
     },
     {
       "id": "itch-popular",
-      "count": 165
+      "count": 166
     },
     {
       "id": "trends-rising-7d",
-      "count": 109
+      "count": 108
     },
     {
       "id": "trends-rising-30d",
-      "count": 71
+      "count": 70
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -63,7 +63,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -83,7 +83,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 21
     },
     {
       "id": "steam-popular-new",
@@ -260,6 +260,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "A Shock of Dimension (Demo out!)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
@@ -1042,25 +1061,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Butcher-Me-Not",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
