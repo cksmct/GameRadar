@@ -1,25 +1,24 @@
 {
-  "generatedAt": "2026-08-14T00:43:26.410Z",
+  "generatedAt": "2026-08-14T03:13:01.896Z",
   "totalCandidates": 3000,
   "pendingSeo": 2620,
   "channelCounts": {
-    "pending": 163,
-    "online": 2430,
-    "wiki": 27
+    "pending": 173,
+    "online": 2431,
+    "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 163,
-    "online:pending": 2430,
-    "wiki:pending": 27
+    "pending:pending": 173,
+    "online:pending": 2431,
+    "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 162,
+    "pending:0": 169,
     "online:3": 1,
-    "online:2": 189,
-    "pending:1": 1,
-    "wiki:2": 1,
-    "online:1": 2240,
-    "wiki:1": 26
+    "online:2": 191,
+    "pending:1": 4,
+    "online:1": 2239,
+    "wiki:1": 16
   },
   "topSources": [
     {
@@ -36,31 +35,35 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 164
+      "count": 165
     },
     {
       "id": "itch-popular",
-      "count": 164
+      "count": 165
     },
     {
       "id": "trends-rising-7d",
-      "count": 99
+      "count": 104
     },
     {
       "id": "trends-rising-30d",
-      "count": 65
+      "count": 69
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 42
+      "count": 43
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 32
+      "count": 33
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 32
+      "count": 33
+    },
+    {
+      "id": "trends-rising-7d-indie-game",
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -71,10 +74,6 @@
       "count": 29
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 28
-    },
-    {
       "id": "newgrounds-daily-top",
       "count": 27
     },
@@ -83,40 +82,44 @@
       "count": 27
     },
     {
-      "id": "steam-popular-new",
-      "count": 26
+      "id": "trends-rising-30d-itch-io",
+      "count": 23
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 21
+      "id": "steam-popular-new",
+      "count": 15
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 12
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
-      "count": 3
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
-      "count": 2
+      "count": 5
     },
     {
       "id": "itch-featured",
-      "count": 2
+      "count": 5
+    },
+    {
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
+      "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -137,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "IncreTower",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -321,25 +343,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Psychoballistica: PROJECT RETURN FIRE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -637,6 +640,25 @@
     },
     {
       "name": "Bowl Big - demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Psychoballistica: PROJECT RETURN FIRE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1043,25 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Build The Rock",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
