@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:03:21.571Z",
+  "generatedAt": "2026-08-14T21:39:47.828Z",
   "totalCandidates": 3000,
   "pendingSeo": 2606,
   "channelCounts": {
@@ -421,6 +421,24 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Scam Artist - Prototype",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1042,25 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Camping Tycoon Simulator Alpha",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
