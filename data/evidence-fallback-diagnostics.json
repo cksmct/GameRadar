@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-08-14T19:55:55.011Z",
+  "generatedAt": "2026-08-14T20:45:25.784Z",
   "totalCandidates": 3000,
   "pendingSeo": 2609,
   "channelCounts": {
-    "pending": 173,
-    "online": 2414,
-    "wiki": 22
+    "pending": 179,
+    "online": 2405,
+    "wiki": 25
   },
   "fastClassCounts": {
-    "pending:pending": 173,
-    "online:pending": 2414,
-    "wiki:pending": 22
+    "pending:pending": 179,
+    "online:pending": 2405,
+    "wiki:pending": 25
   },
   "strategicCounts": {
-    "pending:0": 171,
+    "pending:0": 177,
     "online:3": 1,
     "online:2": 194,
-    "online:1": 2219,
+    "wiki:2": 3,
+    "online:1": 2210,
     "pending:1": 2,
     "wiki:1": 22
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2393
+      "count": 2384
     },
     {
       "id": "itch-newest-web",
-      "count": 2379
+      "count": 2370
     },
     {
       "id": "itch-new-feed",
-      "count": 2354
+      "count": 2345
     },
     {
       "id": "itch-new-popular-web",
@@ -43,19 +44,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 108
+      "count": 114
     },
     {
       "id": "trends-rising-30d",
-      "count": 70
+      "count": 72
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 45
+      "count": 47
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 35
+      "count": 37
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -63,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 31
+      "count": 33
     },
     {
       "id": "newgrounds-latest",
@@ -82,16 +83,24 @@
       "count": 27
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 21
+      "id": "steam-popular-new",
+      "count": 24
     },
     {
-      "id": "steam-popular-new",
-      "count": 21
+      "id": "trends-rising-30d-itch-io",
+      "count": 22
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 17
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 5
+    },
+    {
+      "id": "steam-new",
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
