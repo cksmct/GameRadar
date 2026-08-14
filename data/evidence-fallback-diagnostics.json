@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-08-14T06:42:18.966Z",
+  "generatedAt": "2026-08-14T08:01:56.251Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2619,
+  "pendingSeo": 2618,
   "channelCounts": {
-    "pending": 176,
-    "online": 2427,
-    "wiki": 16
+    "pending": 175,
+    "online": 2424,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 176,
-    "online:pending": 2427,
-    "wiki:pending": 16
+    "pending:pending": 175,
+    "online:pending": 2424,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 175,
+    "pending:0": 174,
     "online:3": 1,
     "online:2": 190,
     "pending:1": 1,
-    "online:1": 2236,
-    "wiki:1": 16
+    "wiki:2": 1,
+    "online:1": 2233,
+    "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2407
+      "count": 2404
     },
     {
       "id": "itch-newest-web",
-      "count": 2392
+      "count": 2389
     },
     {
       "id": "itch-new-feed",
-      "count": 2368
+      "count": 2365
     },
     {
       "id": "itch-new-popular-web",
@@ -43,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 110
+      "count": 109
     },
     {
       "id": "trends-rising-30d",
-      "count": 73
+      "count": 72
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -63,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 33
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -83,15 +84,23 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 23
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 15
     },
     {
-      "id": "steam-popular-new",
-      "count": 15
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
     },
     {
       "id": "y8-new",
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -225,25 +226,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Idle Guitar Legend",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -548,6 +530,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Guitar Legend",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
