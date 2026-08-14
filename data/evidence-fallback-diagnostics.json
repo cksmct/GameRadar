@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-08-14T03:13:01.896Z",
+  "generatedAt": "2026-08-14T05:01:25.718Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2620,
+  "pendingSeo": 2622,
   "channelCounts": {
-    "pending": 173,
-    "online": 2431,
-    "wiki": 16
+    "pending": 170,
+    "online": 2435,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 173,
-    "online:pending": 2431,
-    "wiki:pending": 16
+    "pending:pending": 170,
+    "online:pending": 2435,
+    "wiki:pending": 17
   },
   "strategicCounts": {
     "pending:0": 169,
     "online:3": 1,
-    "online:2": 191,
-    "pending:1": 4,
-    "online:1": 2239,
+    "online:2": 193,
+    "pending:1": 1,
+    "wiki:2": 1,
+    "online:1": 2241,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2410
+      "count": 2413
     },
     {
       "id": "itch-newest-web",
-      "count": 2395
+      "count": 2398
     },
     {
       "id": "itch-new-feed",
-      "count": 2371
+      "count": 2374
     },
     {
       "id": "itch-new-popular-web",
@@ -75,11 +76,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -87,39 +88,39 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 16
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 13
     },
     {
-      "id": "itch-featured-feed",
-      "count": 5
-    },
-    {
-      "id": "itch-featured",
-      "count": 5
-    },
-    {
       "id": "y8-new",
-      "count": 4
-    },
-    {
-      "id": "lagged-new",
-      "count": 2
+      "count": 5
     },
     {
       "id": "steam-latest-indie",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-new",
+      "count": 3
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 2
+    },
+    {
+      "id": "itch-featured",
       "count": 2
     },
     {
       "id": "gamepix-new",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -142,6 +143,25 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Jumper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -1046,25 +1066,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Butcher-Me-Not",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
