@@ -1,29 +1,30 @@
 {
-  "scannedAt": "2026-08-14T09:19:43.697Z",
+  "scannedAt": "2026-08-14T10:39:17.859Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 86,
+  "totalAdded": 115,
   "sources": [
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
-      "error": "远程站点返回 429"
+      "total": 36,
+      "added": 33
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 30
+      "added": 32
     },
     {
       "ok": true,
@@ -51,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 4
+      "added": 5
     },
     {
       "ok": true,
@@ -72,7 +73,7 @@
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -86,14 +87,14 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 23
+      "added": 18
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 25
+      "added": 23
     },
     {
       "ok": true,
@@ -101,13 +102,49 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-horror-game",
+      "sourceName": "Trends上涨 30天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 150,
-  "fastWatchCount": 232,
+  "fastPassedCount": 151,
+  "fastWatchCount": 233,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
@@ -117,21 +154,21 @@
   "trendErrors": 2,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": false,
+  "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 263,
-  "trendEligibleCount": 90,
-  "trendPendingCount": 90,
+  "seoPassedCount": 265,
+  "trendEligibleCount": 92,
+  "trendPendingCount": 92,
   "trendValidatedCount": 203,
   "risingCount": 2,
   "globalRisingCount": 0,
   "recommendationCounts": {
     "independent": 0,
     "page": 1,
-    "watch": 287,
+    "watch": 289,
     "reject": 22,
-    "pending": 2690,
+    "pending": 2688,
     "error": 0
   },
   "trendProvider": "serpapi+searchapi",
@@ -152,7 +189,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-14T09:19:42.571Z",
+    "checkedAt": "2026-08-14T10:39:16.485Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -177,7 +214,7 @@
   },
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
-    "evidence-fallback": 47,
+    "evidence-fallback": 49,
     "serper+autocomplete": 263,
     "duckduckgo+autocomplete": 75
   },
@@ -209,15 +246,15 @@
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
     "online": 2717,
-    "wiki": 35,
-    "pending": 248
+    "wiki": 36,
+    "pending": 247
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 0,
     "watch": 1,
-    "weak": 34
+    "weak": 35
   },
   "serperVerification": {
     "rushMode": true,
@@ -234,12 +271,12 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-14T09:20:05.732Z"
+    "ranAt": "2026-08-14T10:39:56.484Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2618,
+    "pendingCount": 2616,
     "eligibleCount": 2,
     "queueSize": 2,
     "verified": 2,
@@ -256,10 +293,10 @@
       "pending": 0
     },
     "verifiedNames": [
-      "Airplane Manager",
-      "Thousand Suns"
+      "Coloring: Mosaic by Symbols",
+      "Wheee"
     ],
-    "ranAt": "2026-08-14T09:20:06.325Z"
+    "ranAt": "2026-08-14T10:39:57.107Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -283,10 +320,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-14T09:20:08.775Z"
+    "ranAt": "2026-08-14T10:39:58.910Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-14T09:20:09.010Z",
+    "checkedAt": "2026-08-14T10:39:59.473Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -356,7 +393,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-14T09:20:08.939Z",
+        "checkedAt": "2026-08-14T10:39:59.174Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -376,7 +413,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-14T09:20:08.963Z",
+        "checkedAt": "2026-08-14T10:39:59.274Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -396,7 +433,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-14T09:20:08.988Z",
+        "checkedAt": "2026-08-14T10:39:59.374Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -416,7 +453,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-14T09:20:09.009Z",
+        "checkedAt": "2026-08-14T10:39:59.473Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -465,12 +502,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 28,
+      "strong": 30,
       "secondary": 48,
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 69,
+      "online": 71,
       "wiki": 7
     },
     "verifiedNames": [],
@@ -534,7 +571,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-14T09:20:10.551Z"
+    "ranAt": "2026-08-14T10:40:01.068Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -580,14 +617,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-14T09:20:10.600Z"
+    "updatedAt": "2026-08-14T10:40:01.114Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-14T09:20:10.986Z",
+    "updatedAt": "2026-08-14T10:40:01.877Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -613,11 +650,11 @@
       "strategic": 0
     },
     "pendingByChannel": {
-      "online": 69,
+      "online": 71,
       "wiki": 7
     },
     "pendingByTier": {
-      "strong": 28,
+      "strong": 30,
       "secondary": 48,
       "strategic": 0
     },
@@ -628,6 +665,6 @@
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-14T09:20:11.260Z"
+    "ranAt": "2026-08-14T10:40:02.053Z"
   }
 }

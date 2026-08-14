@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-14T09:20:06.017Z",
+  "generatedAt": "2026-08-14T10:39:56.791Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2618,
+  "pendingSeo": 2616,
   "channelCounts": {
-    "pending": 175,
-    "online": 2425,
-    "wiki": 18
+    "pending": 174,
+    "online": 2423,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 175,
-    "online:pending": 2425,
-    "wiki:pending": 18
+    "pending:pending": 174,
+    "online:pending": 2423,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 174,
+    "pending:0": 173,
     "online:3": 1,
     "online:2": 192,
     "pending:1": 1,
-    "online:1": 2232,
-    "wiki:1": 18
+    "online:1": 2230,
+    "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2403
+      "count": 2401
     },
     {
       "id": "itch-newest-web",
-      "count": 2388
+      "count": 2386
     },
     {
       "id": "itch-new-feed",
-      "count": 2364
+      "count": 2362
     },
     {
       "id": "itch-new-popular-web",
@@ -43,15 +43,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 109
+      "count": 108
     },
     {
       "id": "trends-rising-30d",
-      "count": 72
+      "count": 71
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 46
+      "count": 45
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -83,11 +83,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 23
+      "count": 22
     },
     {
       "id": "steam-popular-new",
-      "count": 17
+      "count": 18
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -95,7 +95,7 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -106,7 +106,7 @@
       "count": 2
     },
     {
-      "id": "crazygames-new",
+      "id": "gamepix-new",
       "count": 2
     },
     {
@@ -120,14 +120,6 @@
     {
       "id": "steam-new",
       "count": 2
-    },
-    {
-      "id": "poki-new",
-      "count": 1
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
