@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-14T12:28:17.536Z",
+  "generatedAt": "2026-08-14T14:02:26.632Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2614,
+  "pendingSeo": 2612,
   "channelCounts": {
     "pending": 174,
-    "online": 2420,
-    "wiki": 20
+    "online": 2417,
+    "wiki": 21
   },
   "fastClassCounts": {
     "pending:pending": 174,
-    "online:pending": 2420,
-    "wiki:pending": 20
+    "online:pending": 2417,
+    "wiki:pending": 21
   },
   "strategicCounts": {
     "pending:0": 173,
     "online:3": 1,
-    "online:2": 192,
+    "online:2": 190,
     "pending:1": 1,
-    "online:1": 2227,
-    "wiki:1": 20
+    "online:1": 2226,
+    "wiki:1": 21
   },
   "topSources": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2383
+      "count": 2382
     },
     {
       "id": "itch-new-feed",
@@ -43,7 +43,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 108
+      "count": 109
     },
     {
       "id": "trends-rising-30d",
@@ -54,12 +54,12 @@
       "count": 45
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 34
+      "id": "trends-rising-7d-indie-game",
+      "count": 35
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 34
+      "id": "trends-rising-30d-horror-game",
+      "count": 33
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -91,11 +91,19 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 16
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 3
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
     },
     {
       "id": "itch-featured-feed",
@@ -106,19 +114,7 @@
       "count": 2
     },
     {
-      "id": "gamepix-new",
-      "count": 2
-    },
-    {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -286,25 +282,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Last Wand",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -647,6 +624,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Last Wand",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
