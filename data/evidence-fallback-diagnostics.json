@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-08-14T15:06:38.787Z",
+  "generatedAt": "2026-08-14T16:05:46.752Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2611,
+  "pendingSeo": 2609,
   "channelCounts": {
     "pending": 174,
-    "online": 2415,
-    "wiki": 22
+    "online": 2414,
+    "wiki": 21
   },
   "fastClassCounts": {
     "pending:pending": 174,
-    "online:pending": 2415,
-    "wiki:pending": 22
+    "online:pending": 2414,
+    "wiki:pending": 21
   },
   "strategicCounts": {
     "pending:0": 173,
     "online:3": 1,
-    "online:2": 191,
-    "wiki:2": 1,
+    "online:2": 190,
     "online:1": 2223,
     "pending:1": 1,
     "wiki:1": 21
@@ -88,7 +87,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 21
+      "count": 20
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -96,14 +95,6 @@
     },
     {
       "id": "y8-new",
-      "count": 4
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
       "count": 3
     },
     {
@@ -119,8 +110,12 @@
       "count": 2
     },
     {
-      "id": "gamepix-new",
-      "count": 1
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -242,44 +237,6 @@
     },
     {
       "name": "Arcade Mogul",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Transit Expanse",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Seed Worth",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -621,7 +578,45 @@
       ]
     },
     {
+      "name": "Transit Expanse",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Bowl Big - demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Seed Worth",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
