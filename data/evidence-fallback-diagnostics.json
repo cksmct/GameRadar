@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-14T19:13:06.637Z",
+  "generatedAt": "2026-08-14T19:55:55.011Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2610,
+  "pendingSeo": 2609,
   "channelCounts": {
     "pending": 173,
-    "online": 2415,
+    "online": 2414,
     "wiki": 22
   },
   "fastClassCounts": {
     "pending:pending": 173,
-    "online:pending": 2415,
+    "online:pending": 2414,
     "wiki:pending": 22
   },
   "strategicCounts": {
     "pending:0": 171,
     "online:3": 1,
-    "online:2": 195,
+    "online:2": 194,
     "online:1": 2219,
     "pending:1": 2,
     "wiki:1": 22
@@ -23,15 +23,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2394
+      "count": 2393
     },
     {
       "id": "itch-newest-web",
-      "count": 2380
+      "count": 2379
     },
     {
       "id": "itch-new-feed",
-      "count": 2355
+      "count": 2354
     },
     {
       "id": "itch-new-popular-web",
@@ -116,10 +116,6 @@
     {
       "id": "steam-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -142,24 +138,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Red Mahjong",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "gamepix-new"
       ]
     },
     {
@@ -1064,6 +1042,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Camping Tycoon Simulator Alpha",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
