@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-14T11:27:50.505Z",
+  "generatedAt": "2026-08-14T12:28:17.536Z",
   "totalCandidates": 3000,
   "pendingSeo": 2614,
   "channelCounts": {
     "pending": 174,
-    "online": 2421,
-    "wiki": 19
+    "online": 2420,
+    "wiki": 20
   },
   "fastClassCounts": {
     "pending:pending": 174,
-    "online:pending": 2421,
-    "wiki:pending": 19
+    "online:pending": 2420,
+    "wiki:pending": 20
   },
   "strategicCounts": {
     "pending:0": 173,
     "online:3": 1,
-    "online:2": 190,
+    "online:2": 192,
     "pending:1": 1,
-    "online:1": 2230,
-    "wiki:1": 19
+    "online:1": 2227,
+    "wiki:1": 20
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2401
+      "count": 2398
     },
     {
       "id": "itch-newest-web",
-      "count": 2386
+      "count": 2383
     },
     {
       "id": "itch-new-feed",
-      "count": 2362
+      "count": 2359
     },
     {
       "id": "itch-new-popular-web",
@@ -87,7 +87,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 19
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -95,7 +95,7 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -103,6 +103,10 @@
     },
     {
       "id": "itch-featured",
+      "count": 2
+    },
+    {
+      "id": "gamepix-new",
       "count": 2
     },
     {
@@ -187,25 +191,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Eco Fishing™",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -377,6 +362,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Eco Fishing™",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
