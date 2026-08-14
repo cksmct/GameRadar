@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T23:24:38.486Z",
+  "generatedAt": "2026-08-14T00:43:26.410Z",
   "totalCandidates": 3000,
   "pendingSeo": 2620,
   "channelCounts": {
@@ -17,8 +17,9 @@
     "online:3": 1,
     "online:2": 189,
     "pending:1": 1,
+    "wiki:2": 1,
     "online:1": 2240,
-    "wiki:1": 27
+    "wiki:1": 26
   },
   "topSources": [
     {
@@ -94,6 +95,14 @@
       "count": 12
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "y8-new",
       "count": 3
     },
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
