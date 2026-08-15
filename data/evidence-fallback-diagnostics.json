@@ -1,65 +1,65 @@
 {
-  "generatedAt": "2026-08-15T01:49:11.121Z",
+  "generatedAt": "2026-08-15T03:05:11.257Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2607,
+  "pendingSeo": 2606,
   "channelCounts": {
-    "pending": 179,
-    "online": 2410,
+    "pending": 181,
+    "online": 2407,
     "wiki": 18
   },
   "fastClassCounts": {
-    "pending:pending": 179,
-    "online:pending": 2410,
+    "pending:pending": 181,
+    "online:pending": 2407,
     "wiki:pending": 18
   },
   "strategicCounts": {
-    "pending:0": 177,
+    "pending:0": 179,
     "online:3": 1,
-    "online:2": 197,
-    "online:1": 2212,
+    "online:2": 199,
+    "online:1": 2207,
     "pending:1": 2,
     "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2387
+      "count": 2384
     },
     {
       "id": "itch-newest-web",
-      "count": 2375
+      "count": 2372
     },
     {
       "id": "itch-new-feed",
-      "count": 2349
+      "count": 2346
     },
     {
       "id": "itch-new-popular-web",
-      "count": 172
+      "count": 174
     },
     {
       "id": "itch-popular",
-      "count": 172
+      "count": 174
     },
     {
       "id": "trends-rising-7d",
-      "count": 118
+      "count": 120
     },
     {
       "id": "trends-rising-30d",
-      "count": 74
+      "count": 78
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 47
+      "count": 50
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 40
+      "count": 39
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 34
+      "count": 37
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -83,7 +83,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 23
+      "count": 24
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -136,6 +136,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "She Only Visits At Night",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -274,25 +293,6 @@
       ]
     },
     {
-      "name": "CONTAINMENT",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Necromancer Idle: The Endless Drain Demo",
       "channel": "online",
       "fastClass": "pending",
@@ -332,6 +332,25 @@
     },
     {
       "name": "Mini Me-Mao",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "SCARLET PRISM",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -635,6 +654,25 @@
     },
     {
       "name": "Fracture",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "CONTAINMENT",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1022,44 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Hickory",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "By The Numbers",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
