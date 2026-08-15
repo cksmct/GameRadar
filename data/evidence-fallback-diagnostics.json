@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-15T13:43:44.103Z",
+  "generatedAt": "2026-08-15T13:59:31.250Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2599,
+  "pendingSeo": 2598,
   "channelCounts": {
-    "pending": 180,
+    "pending": 179,
     "online": 2401,
     "wiki": 18
   },
   "fastClassCounts": {
-    "pending:pending": 180,
+    "pending:pending": 179,
     "online:pending": 2401,
     "wiki:pending": 18
   },
   "strategicCounts": {
-    "pending:0": 178,
+    "pending:0": 177,
     "online:3": 1,
-    "online:2": 202,
-    "online:1": 2198,
+    "online:2": 205,
+    "online:1": 2195,
     "pending:1": 2,
     "wiki:1": 18
   },
@@ -35,19 +35,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 177
+      "count": 180
     },
     {
       "id": "itch-popular",
-      "count": 177
+      "count": 180
     },
     {
       "id": "trends-rising-7d",
-      "count": 117
+      "count": 116
     },
     {
       "id": "trends-rising-30d",
-      "count": 74
+      "count": 73
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -55,11 +55,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 41
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 35
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -136,6 +136,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Deltarune Chapters 1-5 Web Port",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Fishseum: Lost & Found",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -298,6 +336,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Last Train",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
@@ -1003,63 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Colônia",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Fairview Effect",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Xfire",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
