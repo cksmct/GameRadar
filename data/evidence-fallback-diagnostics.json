@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-15T16:40:41.721Z",
+  "generatedAt": "2026-08-15T16:59:59.729Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2599,
+  "pendingSeo": 2598,
   "channelCounts": {
-    "pending": 178,
-    "online": 2402,
+    "pending": 181,
+    "online": 2398,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 178,
-    "online:pending": 2402,
+    "pending:pending": 181,
+    "online:pending": 2398,
     "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 176,
+    "pending:0": 179,
     "online:3": 1,
-    "online:2": 206,
-    "online:1": 2195,
+    "online:2": 205,
+    "online:1": 2192,
     "pending:1": 2,
     "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2379
+      "count": 2376
     },
     {
       "id": "itch-newest-web",
-      "count": 2366
+      "count": 2363
     },
     {
       "id": "itch-new-feed",
-      "count": 2341
+      "count": 2338
     },
     {
       "id": "itch-new-popular-web",
@@ -43,15 +43,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 115
+      "count": 119
     },
     {
       "id": "trends-rising-30d",
-      "count": 72
+      "count": 73
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 47
+      "count": 49
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -59,11 +59,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 34
+      "count": 35
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 31
+      "count": 33
     },
     {
       "id": "newgrounds-latest",
@@ -94,15 +94,15 @@
       "count": 17
     },
     {
-      "id": "y8-new",
-      "count": 4
-    },
-    {
       "id": "itch-featured-feed",
       "count": 3
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,10 +116,6 @@
     {
       "id": "steam-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -316,25 +312,6 @@
       ]
     },
     {
-      "name": "Dwarves: Idle Battles",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "The Last Train",
       "channel": "online",
       "fastClass": "pending",
@@ -514,6 +491,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dwarves: Idle Battles",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
