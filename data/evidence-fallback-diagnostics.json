@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-15T09:59:17.944Z",
+  "generatedAt": "2026-08-15T10:37:54.715Z",
   "totalCandidates": 3000,
   "pendingSeo": 2600,
   "channelCounts": {
-    "pending": 180,
-    "online": 2402,
+    "pending": 179,
+    "online": 2403,
     "wiki": 18
   },
   "fastClassCounts": {
-    "pending:pending": 180,
-    "online:pending": 2402,
+    "pending:pending": 179,
+    "online:pending": 2403,
     "wiki:pending": 18
   },
   "strategicCounts": {
-    "pending:0": 178,
+    "pending:0": 177,
     "online:3": 1,
-    "online:2": 201,
+    "online:2": 202,
     "online:1": 2200,
     "pending:1": 2,
     "wiki:1": 18
@@ -23,31 +23,31 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2379
+      "count": 2380
     },
     {
       "id": "itch-newest-web",
-      "count": 2367
+      "count": 2368
     },
     {
       "id": "itch-new-feed",
-      "count": 2341
+      "count": 2342
     },
     {
       "id": "itch-new-popular-web",
-      "count": 176
+      "count": 177
     },
     {
       "id": "itch-popular",
-      "count": 176
+      "count": 177
     },
     {
       "id": "trends-rising-7d",
-      "count": 118
+      "count": 117
     },
     {
       "id": "trends-rising-30d",
-      "count": 75
+      "count": 74
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -63,7 +63,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 33
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -83,7 +83,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 23
+      "count": 22
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -298,6 +298,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Merchants and Rails",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
@@ -1041,25 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Shell Collections",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
