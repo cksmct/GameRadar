@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-08-15T06:00:02.684Z",
+  "generatedAt": "2026-08-15T06:57:36.258Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2602,
+  "pendingSeo": 2601,
   "channelCounts": {
-    "pending": 177,
-    "online": 2407,
+    "pending": 178,
+    "online": 2405,
     "wiki": 18
   },
   "fastClassCounts": {
-    "pending:pending": 177,
-    "online:pending": 2407,
+    "pending:pending": 178,
+    "online:pending": 2405,
     "wiki:pending": 18
   },
   "strategicCounts": {
-    "pending:0": 175,
+    "pending:0": 176,
     "online:3": 1,
-    "online:2": 199,
-    "online:1": 2207,
+    "online:2": 201,
+    "online:1": 2203,
     "pending:1": 2,
     "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2384
+      "count": 2382
     },
     {
       "id": "itch-newest-web",
-      "count": 2372
+      "count": 2370
     },
     {
       "id": "itch-new-feed",
-      "count": 2346
+      "count": 2344
     },
     {
       "id": "itch-new-popular-web",
-      "count": 174
+      "count": 176
     },
     {
       "id": "itch-popular",
-      "count": 174
+      "count": 176
     },
     {
       "id": "trends-rising-7d",
-      "count": 116
+      "count": 117
     },
     {
       "id": "trends-rising-30d",
-      "count": 74
+      "count": 75
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 49
+      "count": 50
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -59,7 +59,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 37
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -136,6 +136,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "667 Phantogoria",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -282,6 +301,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Wūūl",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1022,44 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Hourheart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Ooglabucks",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
