@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T19:06:25.626Z",
+  "generatedAt": "2026-08-15T19:33:18.043Z",
   "totalCandidates": 3000,
   "pendingSeo": 2598,
   "channelCounts": {
@@ -350,25 +350,6 @@
       ]
     },
     {
-      "name": "Incremental Donuts",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Path of the idle cultivator",
       "channel": "online",
       "fastClass": "pending",
@@ -560,6 +541,25 @@
     },
     {
       "name": "Paw Pantry",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Donuts",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
