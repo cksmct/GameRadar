@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-15T22:36:31.727Z",
+  "generatedAt": "2026-08-15T22:58:32.832Z",
   "totalCandidates": 3000,
   "pendingSeo": 2600,
   "channelCounts": {
-    "pending": 180,
-    "online": 2398,
+    "pending": 179,
+    "online": 2399,
     "wiki": 22
   },
   "fastClassCounts": {
-    "pending:pending": 180,
-    "online:pending": 2398,
+    "pending:pending": 179,
+    "online:pending": 2399,
     "wiki:pending": 22
   },
   "strategicCounts": {
-    "pending:0": 178,
+    "pending:0": 177,
     "online:3": 1,
     "online:2": 212,
-    "online:1": 2185,
+    "online:1": 2186,
     "pending:1": 2,
     "wiki:1": 22
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2376
+      "count": 2377
     },
     {
       "id": "itch-newest-web",
-      "count": 2363
+      "count": 2364
     },
     {
       "id": "itch-new-feed",
-      "count": 2338
+      "count": 2339
     },
     {
       "id": "itch-new-popular-web",
@@ -43,27 +43,27 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 120
+      "count": 119
     },
     {
       "id": "trends-rising-30d",
-      "count": 71
+      "count": 70
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 49
+      "count": 48
     },
     {
       "id": "trends-rising-7d-indie-game",
       "count": 40
     },
     {
-      "id": "trends-rising-30d-horror-game",
+      "id": "trends-rising-7d-itch-io",
       "count": 34
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 34
+      "id": "trends-rising-30d-horror-game",
+      "count": 33
     },
     {
       "id": "newgrounds-latest",
