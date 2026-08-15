@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-15T17:56:38.343Z",
+  "generatedAt": "2026-08-15T18:47:02.426Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2598,
+  "pendingSeo": 2599,
   "channelCounts": {
     "pending": 179,
-    "online": 2400,
+    "online": 2401,
     "wiki": 19
   },
   "fastClassCounts": {
     "pending:pending": 179,
-    "online:pending": 2400,
+    "online:pending": 2401,
     "wiki:pending": 19
   },
   "strategicCounts": {
     "pending:0": 177,
     "online:3": 1,
-    "online:2": 207,
-    "online:1": 2192,
+    "online:2": 210,
+    "online:1": 2190,
     "pending:1": 2,
     "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2378
+      "count": 2379
     },
     {
       "id": "itch-newest-web",
-      "count": 2365
+      "count": 2366
     },
     {
       "id": "itch-new-feed",
-      "count": 2340
+      "count": 2341
     },
     {
       "id": "itch-new-popular-web",
-      "count": 182
+      "count": 185
     },
     {
       "id": "itch-popular",
-      "count": 182
+      "count": 185
     },
     {
       "id": "trends-rising-7d",
@@ -136,6 +136,63 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "DevilTrade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Zombie Cropse Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Terminal Inference",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -996,63 +1053,6 @@
     },
     {
       "name": "Don't: Obey",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Derrubando Titãs",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "¡HablaBien!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dwarven Digging Machine",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
