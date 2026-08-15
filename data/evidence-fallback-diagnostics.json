@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-08-15T17:34:28.265Z",
+  "generatedAt": "2026-08-15T17:56:38.343Z",
   "totalCandidates": 3000,
   "pendingSeo": 2598,
   "channelCounts": {
-    "pending": 180,
-    "online": 2399,
+    "pending": 179,
+    "online": 2400,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 180,
-    "online:pending": 2399,
+    "pending:pending": 179,
+    "online:pending": 2400,
     "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 178,
+    "pending:0": 177,
     "online:3": 1,
-    "online:2": 205,
-    "online:1": 2193,
+    "online:2": 207,
+    "online:1": 2192,
     "pending:1": 2,
     "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2377
+      "count": 2378
     },
     {
       "id": "itch-newest-web",
-      "count": 2364
+      "count": 2365
     },
     {
       "id": "itch-new-feed",
-      "count": 2339
+      "count": 2340
     },
     {
       "id": "itch-new-popular-web",
-      "count": 180
+      "count": 182
     },
     {
       "id": "itch-popular",
-      "count": 180
+      "count": 182
     },
     {
       "id": "trends-rising-7d",
-      "count": 118
+      "count": 117
     },
     {
       "id": "trends-rising-30d",
-      "count": 72
+      "count": 71
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 48
+      "count": 47
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -59,7 +59,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 34
+      "count": 33
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -298,6 +298,44 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Path of the idle cultivator",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 11,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Wasteland Collector",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -1015,44 +1053,6 @@
     },
     {
       "name": "Dwarven Digging Machine",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Winning Won't Save You",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Colônia",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
