@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:56:40.390Z",
+  "generatedAt": "2026-08-15T16:40:41.721Z",
   "totalCandidates": 3000,
   "pendingSeo": 2599,
   "channelCounts": {
@@ -15,23 +15,23 @@
   "strategicCounts": {
     "pending:0": 176,
     "online:3": 1,
-    "online:2": 205,
-    "online:1": 2196,
+    "online:2": 206,
+    "online:1": 2195,
     "pending:1": 2,
     "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2380
+      "count": 2379
     },
     {
       "id": "itch-newest-web",
-      "count": 2367
+      "count": 2366
     },
     {
       "id": "itch-new-feed",
-      "count": 2342
+      "count": 2341
     },
     {
       "id": "itch-new-popular-web",
@@ -94,15 +94,15 @@
       "count": 17
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "itch-featured-feed",
       "count": 3
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
