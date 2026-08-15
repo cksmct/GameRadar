@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:59:31.250Z",
+  "generatedAt": "2026-08-15T14:38:36.111Z",
   "totalCandidates": 3000,
   "pendingSeo": 2598,
   "channelCounts": {
@@ -15,23 +15,23 @@
   "strategicCounts": {
     "pending:0": 177,
     "online:3": 1,
-    "online:2": 205,
-    "online:1": 2195,
+    "online:2": 206,
+    "online:1": 2194,
     "pending:1": 2,
     "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2379
+      "count": 2378
     },
     {
       "id": "itch-newest-web",
-      "count": 2366
+      "count": 2365
     },
     {
       "id": "itch-new-feed",
-      "count": 2341
+      "count": 2340
     },
     {
       "id": "itch-new-popular-web",
@@ -94,15 +94,15 @@
       "count": 17
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "itch-featured-feed",
       "count": 3
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
       "count": 3
     },
     {
@@ -116,6 +116,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -313,25 +317,6 @@
     },
     {
       "name": "Dwarves: Idle Battles",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Necromancer Idle: The Endless Drain Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1053,6 +1038,25 @@
     },
     {
       "name": "Winning Won't Save You",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Colônia",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
