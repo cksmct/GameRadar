@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-16T09:41:04.720Z",
+  "generatedAt": "2026-08-16T09:59:47.079Z",
   "totalCandidates": 3000,
   "pendingSeo": 2597,
   "channelCounts": {
-    "pending": 178,
-    "online": 2410,
+    "pending": 181,
+    "online": 2407,
     "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 178,
-    "online:pending": 2410,
+    "pending:pending": 181,
+    "online:pending": 2407,
     "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 176,
+    "pending:0": 179,
     "online:3": 1,
-    "online:2": 216,
-    "online:1": 2193,
+    "online:2": 219,
+    "online:1": 2187,
     "pending:1": 2,
     "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2388
+      "count": 2385
     },
     {
       "id": "itch-newest-web",
-      "count": 2375
+      "count": 2372
     },
     {
       "id": "itch-new-feed",
-      "count": 2350
+      "count": 2347
     },
     {
       "id": "itch-new-popular-web",
-      "count": 191
+      "count": 194
     },
     {
       "id": "itch-popular",
-      "count": 191
+      "count": 194
     },
     {
       "id": "trends-rising-7d",
-      "count": 119
+      "count": 121
     },
     {
       "id": "trends-rising-30d",
-      "count": 68
+      "count": 74
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 47
+      "count": 49
     },
     {
       "id": "trends-rising-7d-indie-game",
       "count": 40
     },
     {
-      "id": "trends-rising-7d-itch-io",
+      "id": "trends-rising-30d-horror-game",
       "count": 35
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 32
+      "id": "trends-rising-7d-itch-io",
+      "count": 35
     },
     {
       "id": "newgrounds-latest",
@@ -83,11 +83,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 21
+      "count": 22
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 17
     },
     {
       "id": "steam-popular-new",
@@ -140,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Transcriptions of Time",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -400,6 +419,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Deep Digger",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "MR. SWOP",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1000,63 +1057,6 @@
     },
     {
       "name": "Arcade Mogul",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Click to Obsolete",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Spectral Vigil",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Evolving Valley",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
