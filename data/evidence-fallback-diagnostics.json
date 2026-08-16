@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-16T13:44:23.862Z",
+  "generatedAt": "2026-08-16T14:00:15.167Z",
   "totalCandidates": 3000,
   "pendingSeo": 2596,
   "channelCounts": {
-    "pending": 180,
-    "online": 2407,
+    "pending": 179,
+    "online": 2408,
     "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 180,
-    "online:pending": 2407,
+    "pending:pending": 179,
+    "online:pending": 2408,
     "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 178,
+    "pending:0": 177,
     "online:3": 1,
-    "online:2": 219,
+    "online:2": 220,
     "online:1": 2187,
     "pending:1": 2,
     "wiki:1": 9
@@ -23,46 +23,46 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2385
+      "count": 2386
     },
     {
       "id": "itch-newest-web",
-      "count": 2372
+      "count": 2373
     },
     {
       "id": "itch-new-feed",
-      "count": 2347
+      "count": 2348
     },
     {
       "id": "itch-new-popular-web",
-      "count": 194
+      "count": 195
     },
     {
       "id": "itch-popular",
-      "count": 194
+      "count": 195
     },
     {
       "id": "trends-rising-7d",
-      "count": 120
+      "count": 119
     },
     {
       "id": "trends-rising-30d",
-      "count": 73
+      "count": 72
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 49
+      "count": 48
     },
     {
       "id": "trends-rising-7d-indie-game",
       "count": 40
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 35
+      "id": "trends-rising-7d-itch-io",
+      "count": 34
     },
     {
-      "id": "trends-rising-7d-itch-io",
+      "id": "trends-rising-30d-horror-game",
       "count": 34
     },
     {
@@ -416,6 +416,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "CatalystCore",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
@@ -1045,25 +1064,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Arcade Mogul",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
