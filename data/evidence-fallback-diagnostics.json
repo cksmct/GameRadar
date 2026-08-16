@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-08-16T01:56:46.418Z",
+  "generatedAt": "2026-08-16T03:12:56.024Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2600,
+  "pendingSeo": 2599,
   "channelCounts": {
+    "wiki": 9,
     "pending": 179,
-    "online": 2413,
-    "wiki": 8
+    "online": 2411
   },
   "fastClassCounts": {
+    "wiki:pending": 9,
     "pending:pending": 179,
-    "online:pending": 2413,
-    "wiki:pending": 8
+    "online:pending": 2411
   },
   "strategicCounts": {
+    "wiki:1": 9,
     "pending:0": 177,
     "online:3": 1,
     "online:2": 213,
-    "online:1": 2199,
-    "pending:1": 2,
-    "wiki:1": 8
+    "online:1": 2197,
+    "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2391
+      "count": 2389
     },
     {
       "id": "itch-newest-web",
-      "count": 2378
+      "count": 2376
     },
     {
       "id": "itch-new-feed",
-      "count": 2353
+      "count": 2351
     },
     {
       "id": "itch-new-popular-web",
-      "count": 187
+      "count": 188
     },
     {
       "id": "itch-popular",
-      "count": 187
+      "count": 188
     },
     {
       "id": "trends-rising-7d",
-      "count": 120
+      "count": 121
     },
     {
       "id": "trends-rising-30d",
@@ -55,7 +55,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 41
+      "count": 42
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -91,11 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 7
-    },
-    {
-      "id": "y8-new",
-      "count": 4
+      "count": 8
     },
     {
       "id": "itch-featured-feed",
@@ -103,6 +99,10 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "y8-new",
       "count": 3
     },
     {
@@ -136,6 +136,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki: Frutiger Aero",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1041,25 +1060,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Last Wand",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
