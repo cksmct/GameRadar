@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-16T06:58:24.467Z",
+  "generatedAt": "2026-08-16T07:45:10.965Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2596,
+  "pendingSeo": 2597,
   "channelCounts": {
     "pending": 180,
-    "online": 2407,
+    "online": 2408,
     "wiki": 9
   },
   "fastClassCounts": {
     "pending:pending": 180,
-    "online:pending": 2407,
+    "online:pending": 2408,
     "wiki:pending": 9
   },
   "strategicCounts": {
     "pending:0": 178,
     "online:3": 1,
     "online:2": 216,
-    "online:1": 2190,
+    "online:1": 2191,
     "pending:1": 2,
     "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2385
+      "count": 2386
     },
     {
       "id": "itch-newest-web",
-      "count": 2372
+      "count": 2373
     },
     {
       "id": "itch-new-feed",
-      "count": 2347
+      "count": 2348
     },
     {
       "id": "itch-new-popular-web",
