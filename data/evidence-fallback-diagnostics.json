@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-16T23:33:27.691Z",
+  "generatedAt": "2026-08-16T23:56:03.385Z",
   "totalCandidates": 3000,
   "pendingSeo": 2593,
   "channelCounts": {
     "pending": 179,
-    "online": 2405,
-    "wiki": 9
+    "online": 2404,
+    "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 179,
-    "online:pending": 2405,
-    "wiki:pending": 9
+    "online:pending": 2404,
+    "wiki:pending": 10
   },
   "strategicCounts": {
     "pending:0": 177,
     "online:3": 1,
     "online:2": 230,
-    "online:1": 2174,
+    "online:1": 2173,
     "pending:1": 2,
-    "wiki:1": 9
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2383
+      "count": 2382
     },
     {
       "id": "itch-newest-web",
-      "count": 2370
+      "count": 2369
     },
     {
       "id": "itch-new-feed",
-      "count": 2345
+      "count": 2344
     },
     {
       "id": "itch-new-popular-web",
@@ -91,7 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 9
     },
     {
       "id": "itch-featured-feed",
@@ -172,25 +172,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Paws to the Stars",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -571,6 +552,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Paws to the Stars",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
