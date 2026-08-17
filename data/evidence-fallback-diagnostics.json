@@ -1,23 +1,22 @@
 {
-  "generatedAt": "2026-08-17T13:04:59.819Z",
+  "generatedAt": "2026-08-17T13:52:50.425Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2591,
+  "pendingSeo": 2589,
   "channelCounts": {
-    "pending": 183,
+    "pending": 182,
     "online": 2405,
-    "wiki": 3
+    "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 183,
+    "pending:pending": 182,
     "online:pending": 2405,
-    "wiki:pending": 3
+    "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 181,
+    "pending:0": 180,
     "online:3": 2,
-    "online:2": 237,
-    "wiki:2": 1,
-    "online:1": 2166,
+    "online:2": 239,
+    "online:1": 2164,
     "pending:1": 2,
     "wiki:1": 2
   },
@@ -36,23 +35,23 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 213
+      "count": 215
     },
     {
       "id": "itch-popular",
-      "count": 213
+      "count": 215
     },
     {
       "id": "trends-rising-7d",
-      "count": 126
+      "count": 125
     },
     {
       "id": "trends-rising-30d",
-      "count": 72
+      "count": 71
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 54
+      "count": 53
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -60,7 +59,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 35
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -99,27 +98,27 @@
       "count": 4
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
       "id": "y8-new",
       "count": 3
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 2
     },
     {
       "id": "lagged-new",
       "count": 2
     },
     {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
+      "count": 2
+    },
+    {
       "id": "steam-top-wishlist",
+      "count": 1
+    },
+    {
+      "id": "steam-popular-new",
       "count": 1
     }
   ],
@@ -187,25 +186,6 @@
     },
     {
       "name": "Knight Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lucky Claw",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -490,11 +470,49 @@
       ]
     },
     {
-      "name": "Stellar Nursery",
+      "name": "Engineering Marvels From Hell",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Little Big Space Clicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Lucky Claw",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -1003,6 +1021,25 @@
       ]
     },
     {
+      "name": "Stellar Nursery",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "DAROMA",
       "channel": "online",
       "fastClass": "pending",
@@ -1023,44 +1060,6 @@
     },
     {
       "name": "Not a Trolley Problem",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Placement",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "IncreTower",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
