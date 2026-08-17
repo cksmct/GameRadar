@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-17T07:15:59.744Z",
+  "generatedAt": "2026-08-17T08:02:09.839Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2593,
+  "pendingSeo": 2592,
   "channelCounts": {
     "pending": 182,
-    "online": 2409,
+    "online": 2408,
     "wiki": 2
   },
   "fastClassCounts": {
     "pending:pending": 182,
-    "online:pending": 2409,
+    "online:pending": 2408,
     "wiki:pending": 2
   },
   "strategicCounts": {
     "pending:0": 180,
     "online:3": 1,
-    "online:2": 236,
+    "online:2": 235,
     "online:1": 2172,
     "pending:1": 2,
     "wiki:1": 2
@@ -90,10 +90,6 @@
       "count": 15
     },
     {
-      "id": "y8-new",
-      "count": 4
-    },
-    {
       "id": "itch-featured-feed",
       "count": 3
     },
@@ -102,8 +98,12 @@
       "count": 3
     },
     {
-      "id": "lagged-new",
+      "id": "y8-new",
       "count": 3
+    },
+    {
+      "id": "lagged-new",
+      "count": 2
     },
     {
       "id": "steam-latest-indie",
@@ -457,25 +457,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Placement",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -982,6 +963,25 @@
     },
     {
       "name": "Not a Trolley Problem",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Placement",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
