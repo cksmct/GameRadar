@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-17T13:52:50.425Z",
+  "generatedAt": "2026-08-17T14:43:31.592Z",
   "totalCandidates": 3000,
   "pendingSeo": 2589,
   "channelCounts": {
-    "pending": 182,
-    "online": 2405,
+    "online": 2406,
+    "pending": 181,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 182,
-    "online:pending": 2405,
+    "online:pending": 2406,
+    "pending:pending": 181,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 180,
     "online:3": 2,
-    "online:2": 239,
-    "online:1": 2164,
+    "pending:0": 179,
+    "online:2": 241,
+    "online:1": 2163,
     "pending:1": 2,
     "wiki:1": 2
   },
@@ -35,35 +35,35 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 215
+      "count": 216
     },
     {
       "id": "itch-popular",
-      "count": 215
+      "count": 216
     },
     {
       "id": "trends-rising-7d",
-      "count": 125
+      "count": 124
     },
     {
       "id": "trends-rising-30d",
-      "count": 71
+      "count": 70
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 53
+      "count": 52
     },
     {
       "id": "trends-rising-7d-indie-game",
       "count": 40
     },
     {
-      "id": "trends-rising-30d-horror-game",
+      "id": "trends-rising-7d-itch-io",
       "count": 35
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 35
+      "id": "trends-rising-30d-horror-game",
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -115,6 +115,14 @@
     },
     {
       "id": "steam-top-wishlist",
+      "count": 1
+    },
+    {
+      "id": "crazygames-new",
+      "count": 1
+    },
+    {
+      "id": "poki-new",
       "count": 1
     },
     {
@@ -497,6 +505,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Ensis IDLE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1041,25 +1068,6 @@
     },
     {
       "name": "DAROMA",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Not a Trolley Problem",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
