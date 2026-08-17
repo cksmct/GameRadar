@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-17T09:00:11.208Z",
+  "generatedAt": "2026-08-17T09:56:53.217Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2592,
+  "pendingSeo": 2591,
   "channelCounts": {
+    "online": 2407,
     "pending": 182,
-    "online": 2408,
     "wiki": 2
   },
   "fastClassCounts": {
+    "online:pending": 2407,
     "pending:pending": 182,
-    "online:pending": 2408,
     "wiki:pending": 2
   },
   "strategicCounts": {
+    "online:2": 236,
     "pending:0": 180,
     "online:3": 1,
-    "online:2": 236,
-    "online:1": 2171,
+    "online:1": 2170,
     "pending:1": 2,
     "wiki:1": 2
   },
@@ -27,7 +27,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2372
+      "count": 2371
     },
     {
       "id": "itch-new-feed",
@@ -35,11 +35,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 210
+      "count": 211
     },
     {
       "id": "itch-popular",
-      "count": 210
+      "count": 211
     },
     {
       "id": "trends-rising-7d",
@@ -90,15 +90,15 @@
       "count": 15
     },
     {
-      "id": "y8-new",
+      "id": "itch-featured-feed",
       "count": 4
     },
     {
-      "id": "itch-featured-feed",
-      "count": 3
+      "id": "itch-featured",
+      "count": 4
     },
     {
-      "id": "itch-featured",
+      "id": "y8-new",
       "count": 3
     },
     {
@@ -115,10 +115,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "crazygames-new",
       "count": 1
     },
     {
@@ -146,6 +142,26 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Little Troubles in Spooky Town",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed",
+        "itch-new",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1050,25 +1066,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dreadbleed",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [

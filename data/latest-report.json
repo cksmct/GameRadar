@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-08-17T08:59:50.402Z",
+  "scannedAt": "2026-08-17T09:56:31.935Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 84,
+  "totalAdded": 76,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 15
+      "added": 13
     },
     {
       "ok": true,
@@ -24,14 +24,14 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 29
+      "added": 27
     },
     {
       "ok": true,
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
       "total": 10,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 3
     },
     {
       "ok": true,
@@ -66,14 +66,14 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 7
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 28
+      "added": 30
     },
     {
       "ok": true,
@@ -108,7 +108,7 @@
   "seoErrors": 0,
   "fastModelVersion": 3,
   "fastPassedCount": 177,
-  "fastWatchCount": 231,
+  "fastWatchCount": 232,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
@@ -121,9 +121,9 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 287,
-  "trendEligibleCount": 112,
-  "trendPendingCount": 112,
+  "seoPassedCount": 288,
+  "trendEligibleCount": 113,
+  "trendPendingCount": 113,
   "trendValidatedCount": 203,
   "risingCount": 2,
   "globalRisingCount": 0,
@@ -153,7 +153,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-17T08:59:49.281Z",
+    "checkedAt": "2026-08-17T09:56:30.389Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -235,31 +235,29 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-17T09:00:10.912Z"
+    "ranAt": "2026-08-17T09:56:52.920Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2592,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2591,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
-      "online": 1,
+      "online": 0,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
+      "pass": 0,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Sniper For Brainrot"
-    ],
-    "ranAt": "2026-08-17T09:00:11.532Z"
+    "verifiedNames": [],
+    "ranAt": "2026-08-17T09:56:53.539Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -268,25 +266,25 @@
       "youtube"
     ],
     "limit": 35,
-    "queueSize": 2,
-    "verified": 2,
+    "queueSize": 35,
+    "verified": 35,
     "classifications": {
       "viral": 0,
       "pass": 0,
       "watch": 0,
       "weak": 0,
-      "pending": 2
+      "pending": 35
     },
     "errors": {
-      "youtube": 2,
+      "youtube": 35,
       "reddit": 0,
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-17T09:00:12.534Z"
+    "ranAt": "2026-08-17T09:56:56.342Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-17T09:00:12.760Z",
+    "checkedAt": "2026-08-17T09:56:56.850Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -356,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T09:00:12.699Z",
+        "checkedAt": "2026-08-17T09:56:56.570Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -376,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T09:00:12.720Z",
+        "checkedAt": "2026-08-17T09:56:56.667Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -396,7 +394,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T09:00:12.738Z",
+        "checkedAt": "2026-08-17T09:56:56.755Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -416,7 +414,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T09:00:12.760Z",
+        "checkedAt": "2026-08-17T09:56:56.850Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -534,7 +532,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-17T09:00:14.461Z"
+    "ranAt": "2026-08-17T09:56:58.430Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -580,14 +578,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-17T09:00:14.518Z"
+    "updatedAt": "2026-08-17T09:56:58.481Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-17T09:00:14.903Z",
+    "updatedAt": "2026-08-17T09:56:58.852Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -628,6 +626,6 @@
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-17T09:00:15.107Z"
+    "ranAt": "2026-08-17T09:56:59.052Z"
   }
 }
