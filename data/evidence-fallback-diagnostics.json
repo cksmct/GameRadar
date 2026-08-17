@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-17T21:59:24.360Z",
+  "generatedAt": "2026-08-17T22:40:06.221Z",
   "totalCandidates": 3000,
   "pendingSeo": 2580,
   "channelCounts": {
-    "pending": 180,
-    "online": 2396,
+    "pending": 179,
+    "online": 2397,
     "wiki": 4
   },
   "fastClassCounts": {
-    "pending:pending": 180,
-    "online:pending": 2396,
+    "pending:pending": 179,
+    "online:pending": 2397,
     "wiki:pending": 4
   },
   "strategicCounts": {
-    "pending:0": 179,
+    "pending:0": 178,
     "online:3": 2,
-    "online:2": 241,
-    "online:1": 2153,
+    "online:2": 244,
+    "online:1": 2151,
     "pending:1": 1,
     "wiki:1": 4
   },
@@ -27,7 +27,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2360
+      "count": 2361
     },
     {
       "id": "itch-new-feed",
@@ -35,11 +35,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 217
+      "count": 220
     },
     {
       "id": "itch-popular",
-      "count": 217
+      "count": 220
     },
     {
       "id": "trends-rising-7d",
@@ -161,6 +161,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Bumper to Billions",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -337,25 +356,6 @@
       ]
     },
     {
-      "name": "Torn Edges",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Reforge & Rebirth",
       "channel": "online",
       "fastClass": "pending",
@@ -486,6 +486,44 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Plink Lab Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Flow Architect",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -831,6 +869,25 @@
       ]
     },
     {
+      "name": "Torn Edges",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Shroom: The Gathering",
       "channel": "online",
       "fastClass": "pending",
@@ -926,25 +983,6 @@
       ]
     },
     {
-      "name": "Wūūl",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "667 Phantogoria",
       "channel": "online",
       "fastClass": "pending",
@@ -1022,44 +1060,6 @@
     },
     {
       "name": "She Only Visits At Night",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "A Shock of Dimension (Demo out!)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Stellar Nursery",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
