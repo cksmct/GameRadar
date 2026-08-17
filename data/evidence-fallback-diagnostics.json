@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-17T18:04:00.157Z",
+  "generatedAt": "2026-08-17T18:57:10.713Z",
   "totalCandidates": 3000,
   "pendingSeo": 2584,
   "channelCounts": {
     "online": 2401,
-    "pending": 180,
-    "wiki": 3
+    "pending": 179,
+    "wiki": 4
   },
   "fastClassCounts": {
     "online:pending": 2401,
-    "pending:pending": 180,
-    "wiki:pending": 3
+    "pending:pending": 179,
+    "wiki:pending": 4
   },
   "strategicCounts": {
     "online:3": 2,
     "pending:0": 178,
-    "online:2": 241,
-    "online:1": 2158,
-    "pending:1": 2,
-    "wiki:1": 3
+    "online:2": 243,
+    "online:1": 2156,
+    "pending:1": 1,
+    "wiki:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2378
+      "count": 2377
     },
     {
       "id": "itch-newest-web",
-      "count": 2366
+      "count": 2365
     },
     {
       "id": "itch-new-feed",
-      "count": 2340
+      "count": 2339
     },
     {
       "id": "itch-new-popular-web",
@@ -67,11 +67,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -90,20 +90,24 @@
       "count": 15
     },
     {
-      "id": "itch-featured-feed",
-      "count": 4
-    },
-    {
-      "id": "itch-featured",
+      "id": "steam-popular-new",
       "count": 4
     },
     {
       "id": "y8-new",
+      "count": 4
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 3
+    },
+    {
+      "id": "itch-featured",
       "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
@@ -111,10 +115,6 @@
     },
     {
       "id": "steam-new",
-      "count": 2
-    },
-    {
-      "id": "steam-popular-new",
       "count": 2
     },
     {
@@ -163,6 +163,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki(?)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "lagged-new"
       ]
     },
     {
@@ -1048,25 +1066,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Stellar Nursery",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
