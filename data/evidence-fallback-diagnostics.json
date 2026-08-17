@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-08-17T01:54:28.470Z",
+  "generatedAt": "2026-08-17T03:12:53.850Z",
   "totalCandidates": 3000,
   "pendingSeo": 2593,
   "channelCounts": {
-    "pending": 179,
-    "online": 2412,
-    "wiki": 2
+    "wiki": 3,
+    "pending": 183,
+    "online": 2407
   },
   "fastClassCounts": {
-    "pending:pending": 179,
-    "online:pending": 2412,
-    "wiki:pending": 2
+    "wiki:pending": 3,
+    "pending:pending": 183,
+    "online:pending": 2407
   },
   "strategicCounts": {
-    "pending:0": 177,
+    "wiki:1": 3,
+    "pending:0": 181,
     "online:3": 1,
-    "online:2": 230,
-    "online:1": 2181,
-    "pending:1": 2,
-    "wiki:1": 2
+    "online:2": 233,
+    "online:1": 2173,
+    "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2390
+      "count": 2384
     },
     {
       "id": "itch-newest-web",
-      "count": 2377
+      "count": 2372
     },
     {
       "id": "itch-new-feed",
-      "count": 2352
+      "count": 2346
     },
     {
       "id": "itch-new-popular-web",
-      "count": 205
+      "count": 208
     },
     {
       "id": "itch-popular",
-      "count": 205
+      "count": 208
     },
     {
       "id": "trends-rising-7d",
-      "count": 119
+      "count": 125
     },
     {
       "id": "trends-rising-30d",
-      "count": 69
+      "count": 73
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 50
+      "count": 53
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 38
-    },
-    {
-      "id": "trends-rising-7d-itch-io",
-      "count": 34
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 34
+      "count": 36
+    },
+    {
+      "id": "trends-rising-7d-itch-io",
+      "count": 35
     },
     {
       "id": "newgrounds-latest",
@@ -87,7 +87,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 14
+      "count": 16
     },
     {
       "id": "itch-featured-feed",
@@ -100,6 +100,10 @@
     {
       "id": "y8-new",
       "count": 3
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -115,10 +119,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "steam-popular-new",
       "count": 1
     }
   ],
@@ -140,6 +140,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Lucky Claw",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -172,6 +191,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Biggest Flame",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -373,44 +411,6 @@
       ]
     },
     {
-      "name": "667 Phantogoria",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "She Only Visits At Night",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Stellar Nursery",
       "channel": "online",
       "fastClass": "pending",
@@ -457,6 +457,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PinkCat - Idle Game (Name too long)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -791,6 +810,25 @@
       ]
     },
     {
+      "name": "667 Phantogoria",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Zone Idle",
       "channel": "online",
       "fastClass": "pending",
@@ -830,6 +868,25 @@
     },
     {
       "name": "SCARLET PRISM",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "She Only Visits At Night",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1008,62 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Styx and Bones",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Scam Artist - Prototype",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Realms",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
