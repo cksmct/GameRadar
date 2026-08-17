@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-08-17T09:56:53.217Z",
+  "generatedAt": "2026-08-17T10:48:26.703Z",
   "totalCandidates": 3000,
   "pendingSeo": 2591,
   "channelCounts": {
-    "online": 2407,
-    "pending": 182,
+    "pending": 184,
+    "online": 2405,
     "wiki": 2
   },
   "fastClassCounts": {
-    "online:pending": 2407,
-    "pending:pending": 182,
+    "pending:pending": 184,
+    "online:pending": 2405,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "online:2": 236,
-    "pending:0": 180,
-    "online:3": 1,
-    "online:1": 2170,
+    "pending:0": 182,
+    "online:3": 2,
+    "online:2": 237,
+    "online:1": 2166,
     "pending:1": 2,
     "wiki:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2384
+      "count": 2382
     },
     {
       "id": "itch-newest-web",
-      "count": 2371
+      "count": 2370
     },
     {
       "id": "itch-new-feed",
-      "count": 2346
+      "count": 2344
     },
     {
       "id": "itch-new-popular-web",
-      "count": 211
+      "count": 213
     },
     {
       "id": "itch-popular",
-      "count": 211
+      "count": 213
     },
     {
       "id": "trends-rising-7d",
-      "count": 124
+      "count": 127
     },
     {
       "id": "trends-rising-30d",
-      "count": 71
+      "count": 73
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 52
+      "count": 55
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -59,7 +59,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 35
+      "count": 37
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -124,6 +124,27 @@
   ],
   "samples": [
     {
+      "name": "Little Troubles in Spooky Town",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 3,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed",
+        "itch-new",
+        "itch-featured-feed",
+        "itch-featured",
+        "itch-newest-web"
+      ]
+    },
+    {
       "name": "The Snake That Eats Puzzle Game Mechanics",
       "channel": "online",
       "fastClass": "pending",
@@ -145,27 +166,26 @@
       ]
     },
     {
-      "name": "Little Troubles in Spooky Town",
+      "name": "Universal Swordsmith",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 20,
+      "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 4,
+      "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 6,
+      "sourceCount": 5,
       "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed",
+        "itch-newest-web",
         "itch-new",
-        "itch-featured-feed",
-        "itch-featured"
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
-      "name": "Universal Swordsmith",
+      "name": "Knight Shift",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -716,6 +736,25 @@
       ]
     },
     {
+      "name": "Lil Pharma",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "RPG Maker But A Picture Of A Horse Keeps Getting Bigger",
       "channel": "online",
       "fastClass": "pending",
@@ -1028,44 +1067,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Paw Pantry",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Incremental Donuts",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
