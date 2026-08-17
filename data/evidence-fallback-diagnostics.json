@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-17T05:50:08.252Z",
+  "generatedAt": "2026-08-17T07:15:59.744Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2592,
+  "pendingSeo": 2593,
   "channelCounts": {
     "pending": 182,
-    "online": 2408,
+    "online": 2409,
     "wiki": 2
   },
   "fastClassCounts": {
     "pending:pending": 182,
-    "online:pending": 2408,
+    "online:pending": 2409,
     "wiki:pending": 2
   },
   "strategicCounts": {
     "pending:0": 180,
     "online:3": 1,
-    "online:2": 234,
-    "online:1": 2173,
+    "online:2": 236,
+    "online:1": 2172,
     "pending:1": 2,
     "wiki:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2384
+      "count": 2385
     },
     {
       "id": "itch-newest-web",
-      "count": 2372
+      "count": 2373
     },
     {
       "id": "itch-new-feed",
-      "count": 2346
+      "count": 2347
     },
     {
       "id": "itch-new-popular-web",
-      "count": 208
+      "count": 210
     },
     {
       "id": "itch-popular",
-      "count": 208
+      "count": 210
     },
     {
       "id": "trends-rising-7d",
@@ -103,7 +103,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
@@ -115,10 +115,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "crazygames-new",
       "count": 1
     },
     {
@@ -149,7 +145,45 @@
       ]
     },
     {
+      "name": "Universal Swordsmith",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Lucky Claw",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Delivery_Exe",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1031,44 +1065,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dwarves: Idle Battles",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Eco Fishing™",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
