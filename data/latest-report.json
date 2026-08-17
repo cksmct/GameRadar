@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-08-17T14:43:12.005Z",
+  "scannedAt": "2026-08-17T15:01:17.701Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 63,
+  "totalAdded": 20,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 12
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 4
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 31
+      "added": 6
     },
     {
       "ok": true,
@@ -45,14 +45,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 0
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
@@ -79,15 +79,15 @@
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 143,
-      "added": 2
+      "total": 141,
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 12
+      "added": 5
     },
     {
       "ok": true,
@@ -107,8 +107,8 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 178,
-  "fastWatchCount": 233,
+  "fastPassedCount": 177,
+  "fastWatchCount": 235,
   "fastRejectedCount": 0,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
@@ -121,9 +121,9 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 290,
-  "trendEligibleCount": 115,
-  "trendPendingCount": 115,
+  "seoPassedCount": 291,
+  "trendEligibleCount": 116,
+  "trendPendingCount": 116,
   "trendValidatedCount": 203,
   "risingCount": 2,
   "globalRisingCount": 0,
@@ -153,7 +153,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-17T14:43:10.923Z",
+    "checkedAt": "2026-08-17T15:01:16.535Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -210,15 +210,15 @@
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
     "online": 2713,
-    "wiki": 19,
-    "pending": 268
+    "wiki": 20,
+    "pending": 267
   },
   "wikiPrelaunchModelVersion": 1,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 0,
     "watch": 1,
-    "weak": 18
+    "weak": 19
   },
   "serperVerification": {
     "rushMode": true,
@@ -235,31 +235,29 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-17T14:43:31.383Z"
+    "ranAt": "2026-08-17T15:01:37.183Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2589,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2588,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
-      "online": 1,
+      "online": 0,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
+      "pass": 0,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "SWAT: Squad Tactics"
-    ],
-    "ranAt": "2026-08-17T14:43:31.772Z"
+    "verifiedNames": [],
+    "ranAt": "2026-08-17T15:01:37.767Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 1,
@@ -268,25 +266,25 @@
       "youtube"
     ],
     "limit": 35,
-    "queueSize": 35,
-    "verified": 35,
+    "queueSize": 4,
+    "verified": 4,
     "classifications": {
       "viral": 0,
       "pass": 0,
       "watch": 0,
       "weak": 0,
-      "pending": 35
+      "pending": 4
     },
     "errors": {
-      "youtube": 35,
+      "youtube": 4,
       "reddit": 0,
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-17T14:43:33.421Z"
+    "ranAt": "2026-08-17T15:01:38.912Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-17T14:43:33.933Z",
+    "checkedAt": "2026-08-17T15:01:39.369Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -356,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T14:43:33.622Z",
+        "checkedAt": "2026-08-17T15:01:39.306Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -376,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T14:43:33.726Z",
+        "checkedAt": "2026-08-17T15:01:39.326Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -396,7 +394,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T14:43:33.832Z",
+        "checkedAt": "2026-08-17T15:01:39.348Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -416,7 +414,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-17T14:43:33.933Z",
+        "checkedAt": "2026-08-17T15:01:39.368Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -534,7 +532,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-17T14:43:35.086Z"
+    "ranAt": "2026-08-17T15:01:40.940Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -580,14 +578,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-17T14:43:35.344Z"
+    "updatedAt": "2026-08-17T15:01:40.986Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-17T14:43:36.320Z",
+    "updatedAt": "2026-08-17T15:01:41.296Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -628,6 +626,6 @@
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-17T14:43:36.424Z"
+    "ranAt": "2026-08-17T15:01:41.512Z"
   }
 }
