@@ -1,23 +1,22 @@
 {
-  "generatedAt": "2026-08-18T17:42:46.236Z",
+  "generatedAt": "2026-08-18T18:01:23.626Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2600,
+  "pendingSeo": 2598,
   "channelCounts": {
     "online": 2403,
     "pending": 183,
-    "wiki": 14
+    "wiki": 12
   },
   "fastClassCounts": {
     "online:pending": 2403,
     "pending:pending": 183,
-    "wiki:pending": 14
+    "wiki:pending": 12
   },
   "strategicCounts": {
     "online:3": 2,
     "pending:0": 182,
-    "online:2": 251,
-    "wiki:2": 2,
-    "online:1": 2150,
+    "online:2": 253,
+    "online:1": 2148,
     "pending:1": 1,
     "wiki:1": 12
   },
@@ -36,11 +35,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 227
+      "count": 229
     },
     {
       "id": "itch-popular",
-      "count": 227
+      "count": 229
     },
     {
       "id": "trends-rising-7d",
@@ -92,15 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
-      "count": 4
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -116,6 +107,14 @@
     },
     {
       "id": "lagged-new",
+      "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
       "count": 2
     },
     {
@@ -373,6 +372,44 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Cook the Dungeon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Progress Bar MMO",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1030,44 +1067,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Terminal Inference",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Deltarune Chapters 1-5 Web Port",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
