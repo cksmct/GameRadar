@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-08-18T01:50:24.227Z",
+  "generatedAt": "2026-08-18T03:08:36.529Z",
   "totalCandidates": 3000,
   "pendingSeo": 2580,
   "channelCounts": {
-    "pending": 180,
-    "online": 2394,
-    "wiki": 6
+    "pending": 182,
+    "online": 2390,
+    "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 180,
-    "online:pending": 2394,
-    "wiki:pending": 6
+    "pending:pending": 182,
+    "online:pending": 2390,
+    "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 179,
+    "pending:0": 181,
     "online:3": 2,
-    "online:2": 244,
-    "online:1": 2148,
+    "online:2": 245,
+    "online:1": 2143,
     "pending:1": 1,
-    "wiki:1": 6
+    "wiki:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2367
+      "count": 2363
     },
     {
       "id": "itch-newest-web",
-      "count": 2358
+      "count": 2354
     },
     {
       "id": "itch-new-feed",
-      "count": 2329
+      "count": 2325
     },
     {
       "id": "itch-new-popular-web",
-      "count": 220
+      "count": 221
     },
     {
       "id": "itch-popular",
-      "count": 220
+      "count": 221
     },
     {
       "id": "trends-rising-7d",
-      "count": 125
+      "count": 128
     },
     {
       "id": "trends-rising-30d",
-      "count": 73
+      "count": 74
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -55,11 +55,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 40
+      "count": 42
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 36
+      "count": 37
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -87,11 +87,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 16
     },
     {
       "id": "steam-popular-new",
-      "count": 6
+      "count": 8
     },
     {
       "id": "y8-new",
@@ -161,6 +161,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "spider cat",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1041,25 +1060,6 @@
     },
     {
       "name": "SCARLET PRISM",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "She Only Visits At Night",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
