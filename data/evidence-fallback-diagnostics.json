@@ -1,21 +1,22 @@
 {
-  "generatedAt": "2026-08-18T03:08:36.529Z",
+  "generatedAt": "2026-08-18T03:57:04.536Z",
   "totalCandidates": 3000,
   "pendingSeo": 2580,
   "channelCounts": {
-    "pending": 182,
+    "pending": 181,
     "online": 2390,
-    "wiki": 8
+    "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 182,
+    "pending:pending": 181,
     "online:pending": 2390,
-    "wiki:pending": 8
+    "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 181,
+    "pending:0": 180,
     "online:3": 2,
     "online:2": 245,
+    "wiki:2": 1,
     "online:1": 2143,
     "pending:1": 1,
     "wiki:1": 8
@@ -43,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 128
+      "count": 127
     },
     {
       "id": "trends-rising-30d",
-      "count": 74
+      "count": 73
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -55,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 42
+      "count": 41
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -87,11 +88,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 15
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
@@ -106,15 +107,15 @@
       "count": 3
     },
     {
-      "id": "lagged-new",
-      "count": 2
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-new",
+      "count": 3
+    },
+    {
+      "id": "lagged-new",
       "count": 2
     },
     {
@@ -440,25 +441,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Deltarune Chapters 1-5 Web Port",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -953,6 +935,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Deltarune Chapters 1-5 Web Port",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
