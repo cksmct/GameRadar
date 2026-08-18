@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-08-18T09:48:07.116Z",
+  "generatedAt": "2026-08-18T10:46:19.753Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2600,
+  "pendingSeo": 2601,
   "channelCounts": {
-    "pending": 184,
-    "online": 2407,
+    "pending": 186,
+    "online": 2406,
     "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 184,
-    "online:pending": 2407,
+    "pending:pending": 186,
+    "online:pending": 2406,
     "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 183,
+    "pending:0": 185,
     "online:3": 2,
-    "online:2": 246,
-    "online:1": 2159,
+    "online:2": 247,
+    "online:1": 2157,
     "pending:1": 1,
     "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2380
+      "count": 2379
     },
     {
       "id": "itch-newest-web",
-      "count": 2371
+      "count": 2370
     },
     {
       "id": "itch-new-feed",
-      "count": 2342
+      "count": 2341
     },
     {
       "id": "itch-new-popular-web",
-      "count": 222
+      "count": 223
     },
     {
       "id": "itch-popular",
-      "count": 222
+      "count": 223
     },
     {
       "id": "trends-rising-7d",
-      "count": 130
+      "count": 131
     },
     {
       "id": "trends-rising-30d",
-      "count": 73
+      "count": 74
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -59,11 +59,11 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 39
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 35
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -342,6 +342,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Neon Shades",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -1048,25 +1067,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Mini Me-Mao",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
