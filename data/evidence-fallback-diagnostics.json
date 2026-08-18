@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-18T05:44:36.644Z",
+  "generatedAt": "2026-08-18T06:03:07.014Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2579,
+  "pendingSeo": 2578,
   "channelCounts": {
     "pending": 180,
-    "online": 2391,
+    "online": 2390,
     "wiki": 8
   },
   "fastClassCounts": {
     "pending:pending": 180,
-    "online:pending": 2391,
+    "online:pending": 2390,
     "wiki:pending": 8
   },
   "strategicCounts": {
     "pending:0": 179,
     "online:3": 2,
-    "online:2": 246,
+    "online:2": 245,
     "online:1": 2143,
     "pending:1": 1,
     "wiki:1": 8
@@ -23,15 +23,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2364
+      "count": 2363
     },
     {
       "id": "itch-newest-web",
-      "count": 2355
+      "count": 2354
     },
     {
       "id": "itch-new-feed",
-      "count": 2326
+      "count": 2325
     },
     {
       "id": "itch-new-popular-web",
@@ -67,11 +67,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
