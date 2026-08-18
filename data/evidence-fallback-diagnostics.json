@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-18T08:52:46.113Z",
+  "generatedAt": "2026-08-18T09:48:07.116Z",
   "totalCandidates": 3000,
   "pendingSeo": 2600,
   "channelCounts": {
     "pending": 184,
-    "online": 2405,
-    "wiki": 11
+    "online": 2407,
+    "wiki": 9
   },
   "fastClassCounts": {
     "pending:pending": 184,
-    "online:pending": 2405,
-    "wiki:pending": 11
+    "online:pending": 2407,
+    "wiki:pending": 9
   },
   "strategicCounts": {
     "pending:0": 183,
     "online:3": 2,
     "online:2": 246,
-    "online:1": 2157,
+    "online:1": 2159,
     "pending:1": 1,
-    "wiki:1": 11
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2378
+      "count": 2380
     },
     {
       "id": "itch-newest-web",
-      "count": 2369
+      "count": 2371
     },
     {
       "id": "itch-new-feed",
-      "count": 2340
+      "count": 2342
     },
     {
       "id": "itch-new-popular-web",
@@ -91,7 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 9
     },
     {
       "id": "y8-new",
@@ -224,25 +224,6 @@
     },
     {
       "name": "Knight Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Delivery_Exe",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -509,6 +490,25 @@
     },
     {
       "name": "Lucky Claw",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Delivery_Exe",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
