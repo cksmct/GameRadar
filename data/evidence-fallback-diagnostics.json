@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-18T21:00:27.268Z",
+  "generatedAt": "2026-08-18T21:37:27.745Z",
   "totalCandidates": 3000,
   "pendingSeo": 2597,
   "channelCounts": {
-    "pending": 185,
-    "online": 2398,
+    "pending": 184,
+    "online": 2399,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 185,
-    "online:pending": 2398,
+    "pending:pending": 184,
+    "online:pending": 2399,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 184,
+    "pending:0": 183,
     "online:3": 2,
     "online:2": 255,
-    "online:1": 2141,
+    "online:1": 2142,
     "pending:1": 1,
     "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2371
+      "count": 2372
     },
     {
       "id": "itch-newest-web",
-      "count": 2362
+      "count": 2363
     },
     {
       "id": "itch-new-feed",
-      "count": 2333
+      "count": 2334
     },
     {
       "id": "itch-new-popular-web",
@@ -43,15 +43,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 128
+      "count": 127
     },
     {
       "id": "trends-rising-30d",
-      "count": 74
+      "count": 73
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 52
+      "count": 51
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -63,7 +63,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 35
     },
     {
       "id": "newgrounds-latest",
@@ -945,25 +945,6 @@
       ]
     },
     {
-      "name": "RPG Maker But A Picture Of A Horse Keeps Getting Bigger",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Torn Edges",
       "channel": "online",
       "fastClass": "pending",
@@ -1067,6 +1048,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "DevilTrade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
