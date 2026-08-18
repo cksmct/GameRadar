@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:57:24.194Z",
+  "generatedAt": "2026-08-18T22:41:06.041Z",
   "totalCandidates": 3000,
   "pendingSeo": 2597,
   "channelCounts": {
@@ -15,8 +15,8 @@
   "strategicCounts": {
     "pending:0": 183,
     "online:3": 2,
-    "online:2": 256,
-    "online:1": 2141,
+    "online:2": 257,
+    "online:1": 2140,
     "pending:1": 1,
     "wiki:1": 14
   },
@@ -35,11 +35,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 232
+      "count": 233
     },
     {
       "id": "itch-popular",
-      "count": 232
+      "count": 233
     },
     {
       "id": "trends-rising-7d",
@@ -167,6 +167,25 @@
     },
     {
       "name": "Mochibox Remastered",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "BEAM Inc.",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1048,25 +1067,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "DevilTrade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
