@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:51:14.393Z",
+  "generatedAt": "2026-08-18T05:44:36.644Z",
   "totalCandidates": 3000,
   "pendingSeo": 2579,
   "channelCounts": {
@@ -15,8 +15,8 @@
   "strategicCounts": {
     "pending:0": 179,
     "online:3": 2,
-    "online:2": 245,
-    "online:1": 2144,
+    "online:2": 246,
+    "online:1": 2143,
     "pending:1": 1,
     "wiki:1": 8
   },
@@ -67,11 +67,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
