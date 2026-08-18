@@ -1,53 +1,54 @@
 {
-  "generatedAt": "2026-08-18T16:48:02.926Z",
+  "generatedAt": "2026-08-18T17:42:46.236Z",
   "totalCandidates": 3000,
   "pendingSeo": 2600,
   "channelCounts": {
-    "online": 2405,
+    "online": 2403,
     "pending": 183,
-    "wiki": 12
+    "wiki": 14
   },
   "fastClassCounts": {
-    "online:pending": 2405,
+    "online:pending": 2403,
     "pending:pending": 183,
-    "wiki:pending": 12
+    "wiki:pending": 14
   },
   "strategicCounts": {
     "online:3": 2,
     "pending:0": 182,
-    "online:2": 250,
-    "online:1": 2153,
+    "online:2": 251,
+    "wiki:2": 2,
+    "online:1": 2150,
     "pending:1": 1,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2378
+      "count": 2376
     },
     {
       "id": "itch-newest-web",
-      "count": 2369
+      "count": 2367
     },
     {
       "id": "itch-new-feed",
-      "count": 2340
+      "count": 2338
     },
     {
       "id": "itch-new-popular-web",
-      "count": 226
+      "count": 227
     },
     {
       "id": "itch-popular",
-      "count": 226
+      "count": 227
     },
     {
       "id": "trends-rising-7d",
-      "count": 128
+      "count": 127
     },
     {
       "id": "trends-rising-30d",
-      "count": 71
+      "count": 72
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -59,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 39
+      "count": 38
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -83,7 +84,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 22
+      "count": 23
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -91,7 +92,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 14
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     },
     {
       "id": "y8-new",
@@ -107,14 +116,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     },
     {
@@ -353,6 +354,25 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "CARD ABA",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
       ]
     },
     {
@@ -1048,25 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Fishseum: Lost & Found",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
