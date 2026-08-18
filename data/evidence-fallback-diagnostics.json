@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:03:49.997Z",
+  "generatedAt": "2026-08-18T16:48:02.926Z",
   "totalCandidates": 3000,
   "pendingSeo": 2600,
   "channelCounts": {
@@ -338,25 +338,6 @@
     },
     {
       "name": "Sprunki: Frutiger Aero",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Reforge & Rebirth",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -915,6 +896,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Reforge & Rebirth",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
