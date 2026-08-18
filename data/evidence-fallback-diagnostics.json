@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-18T07:03:16.723Z",
+  "generatedAt": "2026-08-18T07:53:33.720Z",
   "totalCandidates": 3000,
   "pendingSeo": 2600,
   "channelCounts": {
-    "pending": 184,
-    "online": 2395,
-    "wiki": 21
+    "pending": 191,
+    "online": 2396,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 184,
-    "online:pending": 2395,
-    "wiki:pending": 21
+    "pending:pending": 191,
+    "online:pending": 2396,
+    "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 183,
     "online:3": 2,
     "online:2": 246,
-    "online:1": 2147,
-    "pending:1": 1,
-    "wiki:1": 21
+    "online:1": 2148,
+    "pending:1": 8,
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2368
+      "count": 2369
     },
     {
       "id": "itch-newest-web",
-      "count": 2359
+      "count": 2360
     },
     {
       "id": "itch-new-feed",
-      "count": 2330
+      "count": 2331
     },
     {
       "id": "itch-new-popular-web",
@@ -86,24 +86,24 @@
       "count": 23
     },
     {
-      "id": "steam-popular-new",
-      "count": 21
-    },
-    {
       "id": "trends-rising-30d-indie-game",
       "count": 15
     },
     {
-      "id": "y8-new",
-      "count": 4
+      "id": "steam-popular-new",
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
-      "count": 3
+      "count": 10
     },
     {
       "id": "itch-featured",
-      "count": 3
+      "count": 10
+    },
+    {
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "lagged-new",
@@ -402,44 +402,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Zombie Cropse Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Terminal Inference",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -953,6 +915,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Zombie Cropse Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Terminal Inference",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
