@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-08-19T23:35:19.555Z",
+  "scannedAt": "2026-08-19T23:57:33.466Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 28,
+  "totalAdded": 21,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 6
+      "added": 7
     },
     {
       "ok": true,
@@ -24,7 +24,7 @@
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 16
+      "added": 7
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 4
+      "added": 7
     },
     {
       "ok": true,
@@ -107,23 +107,23 @@
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 172,
-  "fastWatchCount": 231,
+  "fastPassedCount": 175,
+  "fastWatchCount": 229,
   "fastRejectedCount": 7,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
   "youtubeErrors": 10,
   "trendsVerified": 0,
-  "trendErrors": 2,
-  "trendBatchRan": true,
-  "trendQueueSize": 1,
+  "trendErrors": 1,
+  "trendBatchRan": false,
+  "trendQueueSize": 0,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
   "seoPassedCount": 291,
   "trendEligibleCount": 118,
-  "trendPendingCount": 118,
+  "trendPendingCount": 117,
   "trendValidatedCount": 181,
   "risingCount": 2,
   "globalRisingCount": 0,
@@ -153,7 +153,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-19T23:35:18.340Z",
+    "checkedAt": "2026-08-19T23:57:32.188Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -179,8 +179,8 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 249,
-    "evidence-fallback": 73,
-    "duckduckgo+autocomplete": 89
+    "duckduckgo+autocomplete": 90,
+    "evidence-fallback": 73
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -235,12 +235,12 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-19T23:35:40.329Z"
+    "ranAt": "2026-08-19T23:57:47.497Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2590,
+    "pendingCount": 2589,
     "eligibleCount": 0,
     "queueSize": 0,
     "verified": 0,
@@ -257,7 +257,7 @@
       "pending": 0
     },
     "verifiedNames": [],
-    "ranAt": "2026-08-19T23:35:41.027Z"
+    "ranAt": "2026-08-19T23:57:48.180Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 2,
@@ -266,25 +266,25 @@
       "youtube"
     ],
     "limit": 35,
-    "queueSize": 35,
-    "verified": 35,
+    "queueSize": 1,
+    "verified": 1,
     "classifications": {
       "viral": 0,
       "pass": 0,
       "watch": 0,
       "weak": 0,
-      "pending": 35
+      "pending": 1
     },
     "errors": {
-      "youtube": 35,
+      "youtube": 1,
       "reddit": 0,
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-19T23:35:43.659Z"
+    "ranAt": "2026-08-19T23:57:49.147Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-19T23:35:44.049Z",
+    "checkedAt": "2026-08-19T23:57:49.639Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -354,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-19T23:35:43.861Z",
+        "checkedAt": "2026-08-19T23:57:49.424Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -374,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-19T23:35:43.923Z",
+        "checkedAt": "2026-08-19T23:57:49.495Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -394,7 +394,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-19T23:35:43.985Z",
+        "checkedAt": "2026-08-19T23:57:49.569Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -414,7 +414,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-19T23:35:44.049Z",
+        "checkedAt": "2026-08-19T23:57:49.639Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -463,12 +463,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 64,
+      "strong": 63,
       "secondary": 154,
       "strategic": 8
     },
     "pendingByChannel": {
-      "online": 198,
+      "online": 197,
       "wiki": 28
     },
     "verifiedNames": [],
@@ -532,7 +532,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-19T23:35:45.835Z"
+    "ranAt": "2026-08-19T23:57:51.347Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -578,14 +578,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-19T23:35:45.879Z"
+    "updatedAt": "2026-08-19T23:57:51.419Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-19T23:35:46.431Z",
+    "updatedAt": "2026-08-19T23:57:51.907Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -622,10 +622,10 @@
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Tile Family: Match Puzzle",
+        "name": "Shift At Midnight",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-19T23:35:46.640Z"
+    "ranAt": "2026-08-19T23:57:52.111Z"
   }
 }
