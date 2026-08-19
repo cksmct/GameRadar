@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:58:36.190Z",
+  "generatedAt": "2026-08-19T18:53:04.228Z",
   "totalCandidates": 3000,
   "pendingSeo": 2593,
   "channelCounts": {
@@ -16,31 +16,31 @@
     "online:3": 2,
     "pending:0": 187,
     "wiki:0": 1,
-    "online:2": 268,
-    "online:1": 2118,
+    "online:2": 271,
+    "online:1": 2115,
     "pending:1": 1,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2361
+      "count": 2360
     },
     {
       "id": "itch-newest-web",
-      "count": 2352
+      "count": 2351
     },
     {
       "id": "itch-new-feed",
-      "count": 2322
+      "count": 2321
     },
     {
       "id": "itch-new-popular-web",
-      "count": 244
+      "count": 246
     },
     {
       "id": "itch-popular",
-      "count": 244
+      "count": 246
     },
     {
       "id": "trends-rising-7d",
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -121,6 +121,10 @@
     {
       "id": "steam-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -162,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Escape From Friend's House",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -300,25 +323,6 @@
       ]
     },
     {
-      "name": "Sigilsmith",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Universal Swordsmith",
       "channel": "online",
       "fastClass": "pending",
@@ -346,6 +350,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "WomboCombo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -631,6 +654,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sigilsmith",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1030,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Deep Digger",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Transcriptions of Time",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
