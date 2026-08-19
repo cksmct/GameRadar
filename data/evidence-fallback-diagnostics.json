@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:03:21.357Z",
+  "generatedAt": "2026-08-19T11:39:03.516Z",
   "totalCandidates": 3000,
   "pendingSeo": 2595,
   "channelCounts": {
@@ -384,44 +384,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Biggest Flame",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Bureaucracy Simulator",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -870,6 +832,25 @@
       ]
     },
     {
+      "name": "The Biggest Flame",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Dungeonlings",
       "channel": "online",
       "fastClass": "pending",
@@ -935,6 +916,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Bureaucracy Simulator",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
