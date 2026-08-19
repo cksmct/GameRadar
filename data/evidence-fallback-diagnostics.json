@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-19T09:48:42.176Z",
+  "generatedAt": "2026-08-19T10:45:24.131Z",
   "totalCandidates": 3000,
   "pendingSeo": 2595,
   "channelCounts": {
     "pending": 189,
-    "online": 2392,
-    "wiki": 14
+    "online": 2391,
+    "wiki": 15
   },
   "fastClassCounts": {
     "pending:pending": 189,
-    "online:pending": 2392,
-    "wiki:pending": 14
+    "online:pending": 2391,
+    "wiki:pending": 15
   },
   "strategicCounts": {
     "pending:0": 188,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 262,
-    "online:1": 2128,
+    "online:2": 264,
+    "online:1": 2125,
     "pending:1": 1,
-    "wiki:1": 13
+    "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2365
+      "count": 2364
     },
     {
       "id": "itch-newest-web",
-      "count": 2356
+      "count": 2355
     },
     {
       "id": "itch-new-feed",
-      "count": 2326
+      "count": 2325
     },
     {
       "id": "itch-new-popular-web",
-      "count": 238
+      "count": 240
     },
     {
       "id": "itch-popular",
-      "count": 238
+      "count": 240
     },
     {
       "id": "trends-rising-7d",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 14
     },
     {
       "id": "y8-new",
@@ -262,6 +262,25 @@
       ]
     },
     {
+      "name": "Token Tycoon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "spider cat",
       "channel": "online",
       "fastClass": "pending",
@@ -403,6 +422,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "GET RICH QUICK 101",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1030,44 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lil Pharma",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Torn Edges",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
