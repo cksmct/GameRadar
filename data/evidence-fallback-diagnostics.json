@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-08-19T21:39:55.140Z",
+  "generatedAt": "2026-08-19T22:00:22.402Z",
   "totalCandidates": 3000,
   "pendingSeo": 2592,
   "channelCounts": {
-    "online": 2387,
-    "pending": 188,
+    "pending": 194,
+    "online": 2381,
     "wiki": 17
   },
   "fastClassCounts": {
-    "online:pending": 2387,
-    "pending:pending": 188,
+    "pending:pending": 194,
+    "online:pending": 2381,
     "wiki:pending": 17
   },
   "strategicCounts": {
+    "pending:0": 193,
     "online:3": 2,
-    "pending:0": 187,
     "wiki:0": 1,
-    "online:2": 270,
-    "online:1": 2115,
+    "online:2": 272,
+    "online:1": 2107,
     "pending:1": 1,
     "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2360
+      "count": 2354
     },
     {
       "id": "itch-newest-web",
-      "count": 2351
+      "count": 2345
     },
     {
       "id": "itch-new-feed",
-      "count": 2321
+      "count": 2315
     },
     {
       "id": "itch-new-popular-web",
-      "count": 246
+      "count": 248
     },
     {
       "id": "itch-popular",
-      "count": 246
+      "count": 248
     },
     {
       "id": "trends-rising-7d",
-      "count": 129
+      "count": 136
     },
     {
       "id": "trends-rising-30d",
-      "count": 75
+      "count": 82
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 51
+      "count": 56
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 43
+      "count": 44
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 39
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 38
     },
     {
       "id": "newgrounds-latest",
@@ -75,6 +75,10 @@
       "count": 29
     },
     {
+      "id": "trends-rising-30d-itch-io",
+      "count": 28
+    },
+    {
       "id": "newgrounds-daily-top",
       "count": 27
     },
@@ -83,16 +87,12 @@
       "count": 27
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 25
+      "id": "trends-rising-30d-indie-game",
+      "count": 17
     },
     {
       "id": "steam-popular-new",
       "count": 16
-    },
-    {
-      "id": "trends-rising-30d-indie-game",
-      "count": 15
     },
     {
       "id": "y8-new",
@@ -324,6 +324,44 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "1999 Midnight Dispatch",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Life Shift",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -1030,44 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Paws to the Stars",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "CatalystCore",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
