@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-19T13:57:04.233Z",
+  "generatedAt": "2026-08-19T14:53:01.883Z",
   "totalCandidates": 3000,
   "pendingSeo": 2593,
   "channelCounts": {
-    "pending": 189,
-    "online": 2389,
+    "online": 2390,
+    "pending": 188,
     "wiki": 15
   },
   "fastClassCounts": {
-    "pending:pending": 189,
-    "online:pending": 2389,
+    "online:pending": 2390,
+    "pending:pending": 188,
     "wiki:pending": 15
   },
   "strategicCounts": {
-    "pending:0": 188,
     "online:3": 2,
+    "pending:0": 187,
     "wiki:0": 1,
-    "online:2": 267,
+    "online:2": 268,
     "online:1": 2120,
     "pending:1": 1,
     "wiki:1": 14
@@ -24,35 +24,35 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2362
+      "count": 2363
     },
     {
       "id": "itch-newest-web",
-      "count": 2353
+      "count": 2354
     },
     {
       "id": "itch-new-feed",
-      "count": 2323
+      "count": 2324
     },
     {
       "id": "itch-new-popular-web",
-      "count": 243
+      "count": 244
     },
     {
       "id": "itch-popular",
-      "count": 243
+      "count": 244
     },
     {
       "id": "trends-rising-7d",
-      "count": 130
+      "count": 129
     },
     {
       "id": "trends-rising-30d",
-      "count": 76
+      "count": 75
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 52
+      "count": 51
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 37
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -162,6 +162,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "STARLINE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -289,25 +308,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Bumper to Billions",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -631,6 +631,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Bumper to Billions",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1049,25 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Transcriptions of Time",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
