@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-19T17:05:21.888Z",
+  "generatedAt": "2026-08-19T17:39:22.169Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2594,
+  "pendingSeo": 2593,
   "channelCounts": {
-    "online": 2389,
+    "online": 2388,
     "pending": 188,
     "wiki": 17
   },
   "fastClassCounts": {
-    "online:pending": 2389,
+    "online:pending": 2388,
     "pending:pending": 188,
     "wiki:pending": 17
   },
@@ -17,23 +17,22 @@
     "pending:0": 187,
     "wiki:0": 1,
     "online:2": 268,
-    "wiki:2": 1,
-    "online:1": 2119,
+    "online:1": 2118,
     "pending:1": 1,
-    "wiki:1": 15
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2362
+      "count": 2361
     },
     {
       "id": "itch-newest-web",
-      "count": 2353
+      "count": 2352
     },
     {
       "id": "itch-new-feed",
-      "count": 2323
+      "count": 2322
     },
     {
       "id": "itch-new-popular-web",
@@ -108,19 +107,19 @@
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
+      "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
       "count": 2
     }
   ],
