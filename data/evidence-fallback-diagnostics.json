@@ -1,22 +1,23 @@
 {
-  "generatedAt": "2026-08-19T16:46:06.773Z",
+  "generatedAt": "2026-08-19T17:05:21.888Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2593,
+  "pendingSeo": 2594,
   "channelCounts": {
     "online": 2389,
     "pending": 188,
-    "wiki": 16
+    "wiki": 17
   },
   "fastClassCounts": {
     "online:pending": 2389,
     "pending:pending": 188,
-    "wiki:pending": 16
+    "wiki:pending": 17
   },
   "strategicCounts": {
     "online:3": 2,
     "pending:0": 187,
     "wiki:0": 1,
     "online:2": 268,
+    "wiki:2": 1,
     "online:1": 2119,
     "pending:1": 1,
     "wiki:1": 15
@@ -87,11 +88,11 @@
       "count": 25
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "id": "steam-popular-new",
+      "count": 16
     },
     {
-      "id": "steam-popular-new",
+      "id": "trends-rising-30d-indie-game",
       "count": 15
     },
     {
@@ -107,19 +108,19 @@
       "count": 3
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -851,25 +852,6 @@
       ]
     },
     {
-      "name": "PinkCat - Idle Game (Name too long)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Penguin Farm",
       "channel": "online",
       "fastClass": "pending",
@@ -1068,6 +1050,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Transcriptions of Time",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
