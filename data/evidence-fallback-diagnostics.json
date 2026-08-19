@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-19T13:08:04.083Z",
+  "generatedAt": "2026-08-19T13:57:04.233Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2595,
+  "pendingSeo": 2593,
   "channelCounts": {
-    "pending": 190,
-    "online": 2390,
+    "pending": 189,
+    "online": 2389,
     "wiki": 15
   },
   "fastClassCounts": {
-    "pending:pending": 190,
-    "online:pending": 2390,
+    "pending:pending": 189,
+    "online:pending": 2389,
     "wiki:pending": 15
   },
   "strategicCounts": {
-    "pending:0": 189,
+    "pending:0": 188,
     "online:3": 2,
-    "online:1": 2124,
     "wiki:0": 1,
-    "online:2": 264,
+    "online:2": 267,
+    "online:1": 2120,
     "pending:1": 1,
     "wiki:1": 14
   },
@@ -36,19 +36,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 240
+      "count": 243
     },
     {
       "id": "itch-popular",
-      "count": 240
+      "count": 243
     },
     {
       "id": "trends-rising-7d",
-      "count": 132
+      "count": 130
     },
     {
       "id": "trends-rising-30d",
-      "count": 77
+      "count": 76
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +56,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 44
+      "count": 43
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 40
+      "count": 39
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 15
     },
     {
       "id": "steam-popular-new",
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -187,25 +187,6 @@
     },
     {
       "name": "Idland Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Mochibox Remastered",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -376,14 +357,14 @@
       ]
     },
     {
-      "name": "Don't forget to hydrate!",
+      "name": "SkillTeam (Amstrad CPC)",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 4,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -396,6 +377,44 @@
     },
     {
       "name": "GET RICH QUICK 101",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Hellhop",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "O, Your Heavenly Stars!",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -434,6 +453,25 @@
     },
     {
       "name": "Sprunki: Splunko Drip V2",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Mochibox Remastered",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -756,6 +794,25 @@
       ]
     },
     {
+      "name": "Don't forget to hydrate!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Thanks, Mom...",
       "channel": "online",
       "fastClass": "pending",
@@ -1011,63 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "MR. SWOP",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki: Frutiger Aero",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "GRIDMINE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
