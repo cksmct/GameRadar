@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-20T21:11:49.598Z",
+  "generatedAt": "2026-08-20T21:43:13.463Z",
   "totalCandidates": 3000,
   "pendingSeo": 2575,
   "channelCounts": {
     "pending": 199,
-    "online": 2362,
-    "wiki": 14
+    "online": 2360,
+    "wiki": 16
   },
   "fastClassCounts": {
     "pending:pending": 199,
-    "online:pending": 2362,
-    "wiki:pending": 14
+    "online:pending": 2360,
+    "wiki:pending": 16
   },
   "strategicCounts": {
     "pending:0": 198,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 287,
-    "online:1": 2073,
+    "online:2": 288,
+    "online:1": 2070,
     "pending:1": 1,
-    "wiki:1": 13
+    "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2335
+      "count": 2333
     },
     {
       "id": "itch-newest-web",
-      "count": 2326
+      "count": 2324
     },
     {
       "id": "itch-new-feed",
-      "count": 2296
+      "count": 2294
     },
     {
       "id": "itch-new-popular-web",
-      "count": 263
+      "count": 264
     },
     {
       "id": "itch-popular",
-      "count": 263
+      "count": 264
     },
     {
       "id": "trends-rising-7d",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 15
     },
     {
       "id": "y8-new",
@@ -441,6 +441,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Threads of Tomot",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1049,25 +1068,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Little Big Space Clicker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
