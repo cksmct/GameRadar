@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-08-20T03:10:03.918Z",
+  "generatedAt": "2026-08-20T03:58:20.429Z",
   "totalCandidates": 3000,
   "pendingSeo": 2589,
   "channelCounts": {
     "pending": 193,
-    "online": 2386,
-    "wiki": 10
+    "online": 2385,
+    "wiki": 11
   },
   "fastClassCounts": {
     "pending:pending": 193,
-    "online:pending": 2386,
-    "wiki:pending": 10
+    "online:pending": 2385,
+    "wiki:pending": 11
   },
   "strategicCounts": {
     "pending:0": 192,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 277,
-    "online:1": 2107,
+    "wiki:2": 1,
+    "online:1": 2106,
     "pending:1": 1,
     "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2359
+      "count": 2358
     },
     {
       "id": "itch-newest-web",
-      "count": 2350
+      "count": 2349
     },
     {
       "id": "itch-new-feed",
-      "count": 2320
+      "count": 2319
     },
     {
       "id": "itch-new-popular-web",
@@ -92,7 +93,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 10
     },
     {
       "id": "y8-new",
@@ -107,19 +108,19 @@
       "count": 3
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -358,25 +359,6 @@
     },
     {
       "name": "spider cat",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Universal Swordsmith",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -916,6 +898,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Universal Swordsmith",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
