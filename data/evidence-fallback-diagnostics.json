@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:43:13.463Z",
+  "generatedAt": "2026-08-20T22:01:28.169Z",
   "totalCandidates": 3000,
   "pendingSeo": 2575,
   "channelCounts": {
@@ -16,8 +16,8 @@
     "pending:0": 198,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 288,
-    "online:1": 2070,
+    "online:2": 289,
+    "online:1": 2069,
     "pending:1": 1,
     "wiki:1": 15
   },
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 264
+      "count": 265
     },
     {
       "id": "itch-popular",
-      "count": 264
+      "count": 265
     },
     {
       "id": "trends-rising-7d",
@@ -433,14 +433,14 @@
       ]
     },
     {
-      "name": "spider cat",
+      "name": "Gamma",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -965,6 +965,25 @@
       ]
     },
     {
+      "name": "spider cat",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Sigilsmith",
       "channel": "online",
       "fastClass": "pending",
@@ -1042,25 +1061,6 @@
     },
     {
       "name": "Flow Architect",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Engineering Marvels From Hell",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
