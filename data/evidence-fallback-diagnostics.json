@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-08-20T18:04:16.577Z",
+  "generatedAt": "2026-08-20T18:58:44.933Z",
   "totalCandidates": 3000,
   "pendingSeo": 2576,
   "channelCounts": {
     "pending": 201,
-    "online": 2362,
-    "wiki": 13
+    "online": 2360,
+    "wiki": 15
   },
   "fastClassCounts": {
     "pending:pending": 201,
-    "online:pending": 2362,
-    "wiki:pending": 13
+    "online:pending": 2360,
+    "wiki:pending": 15
   },
   "strategicCounts": {
     "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 284,
-    "online:1": 2076,
+    "online:2": 287,
+    "wiki:2": 1,
+    "online:1": 2071,
     "pending:1": 1,
-    "wiki:1": 12
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2335
+      "count": 2333
     },
     {
       "id": "itch-newest-web",
-      "count": 2326
+      "count": 2324
     },
     {
       "id": "itch-new-feed",
-      "count": 2296
+      "count": 2294
     },
     {
       "id": "itch-new-popular-web",
-      "count": 260
+      "count": 263
     },
     {
       "id": "itch-popular",
-      "count": 260
+      "count": 263
     },
     {
       "id": "trends-rising-7d",
@@ -92,7 +93,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 14
     },
     {
       "id": "y8-new",
@@ -107,19 +108,19 @@
       "count": 3
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -167,7 +168,45 @@
       ]
     },
     {
+      "name": "Adventurers Wanted!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Ty's Closet",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Last Hope: Zombie Autobattler",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -403,6 +442,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Fairy's Hero",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1011,63 +1069,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Ensis IDLE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Universal Swordsmith",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Knight Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
