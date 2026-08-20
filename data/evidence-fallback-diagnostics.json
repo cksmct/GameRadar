@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-08-20T13:58:22.578Z",
+  "generatedAt": "2026-08-20T14:54:38.080Z",
   "totalCandidates": 3000,
   "pendingSeo": 2585,
   "channelCounts": {
-    "pending": 198,
-    "online": 2375,
-    "wiki": 12
+    "pending": 200,
+    "online": 2371,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 198,
-    "online:pending": 2375,
-    "wiki:pending": 12
+    "pending:pending": 200,
+    "online:pending": 2371,
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 197,
+    "pending:0": 199,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 283,
-    "online:1": 2090,
+    "online:2": 284,
+    "wiki:2": 2,
+    "online:1": 2085,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2348
+      "count": 2344
     },
     {
       "id": "itch-newest-web",
-      "count": 2339
+      "count": 2335
     },
     {
       "id": "itch-new-feed",
-      "count": 2309
+      "count": 2305
     },
     {
       "id": "itch-new-popular-web",
-      "count": 259
+      "count": 260
     },
     {
       "id": "itch-popular",
-      "count": 259
+      "count": 260
     },
     {
       "id": "trends-rising-7d",
@@ -48,7 +49,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 82
+      "count": 84
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -75,6 +76,10 @@
       "count": 29
     },
     {
+      "id": "trends-rising-30d-itch-io",
+      "count": 27
+    },
+    {
       "id": "newgrounds-daily-top",
       "count": 27
     },
@@ -83,16 +88,20 @@
       "count": 27
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 25
-    },
-    {
       "id": "trends-rising-30d-indie-game",
       "count": 19
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 13
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     },
     {
       "id": "y8-new",
@@ -112,14 +121,6 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -263,6 +264,25 @@
     },
     {
       "name": "STARLINE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Commandment",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1042,25 +1062,6 @@
     },
     {
       "name": "Knight Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Lucky Claw",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
