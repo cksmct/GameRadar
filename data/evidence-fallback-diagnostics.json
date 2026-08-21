@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-21T19:56:36.768Z",
+  "generatedAt": "2026-08-21T20:40:26.152Z",
   "totalCandidates": 3000,
   "pendingSeo": 2563,
   "channelCounts": {
-    "pending": 202,
+    "pending": 201,
     "online": 2348,
-    "wiki": 13
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 202,
+    "pending:pending": 201,
     "online:pending": 2348,
-    "wiki:pending": 13
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 201,
+    "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 302,
     "online:1": 2044,
     "pending:1": 1,
-    "wiki:1": 12
+    "wiki:1": 13
   },
   "topSources": [
     {
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 144
+      "count": 143
     },
     {
       "id": "trends-rising-30d",
-      "count": 81
+      "count": 80
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 60
+      "count": 59
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 37
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 13
     },
     {
       "id": "y8-new",
@@ -426,25 +426,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Containment Protocol",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -951,6 +932,25 @@
     },
     {
       "name": "Sprunki: Splunko Drip V2",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Containment Protocol",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
