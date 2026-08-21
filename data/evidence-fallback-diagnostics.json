@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-08-21T07:56:14.328Z",
+  "generatedAt": "2026-08-21T08:57:53.657Z",
   "totalCandidates": 3000,
   "pendingSeo": 2572,
   "channelCounts": {
-    "pending": 198,
-    "online": 2362,
-    "wiki": 12
+    "pending": 202,
+    "online": 2357,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 198,
-    "online:pending": 2362,
-    "wiki:pending": 12
+    "pending:pending": 202,
+    "online:pending": 2357,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 197,
+    "pending:0": 201,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 297,
-    "online:1": 2063,
+    "wiki:2": 1,
+    "online:1": 2058,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2335
+      "count": 2330
     },
     {
       "id": "itch-newest-web",
-      "count": 2326
+      "count": 2321
     },
     {
       "id": "itch-new-feed",
-      "count": 2296
+      "count": 2291
     },
     {
       "id": "itch-new-popular-web",
@@ -44,27 +45,27 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 138
+      "count": 144
     },
     {
       "id": "trends-rising-30d",
-      "count": 79
+      "count": 82
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 56
+      "count": 59
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 46
+      "count": 48
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 40
+      "count": 41
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 37
     },
     {
       "id": "newgrounds-latest",
@@ -88,11 +89,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 18
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -107,19 +108,19 @@
       "count": 3
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
       "count": 2
     }
   ],
@@ -396,25 +397,6 @@
     },
     {
       "name": "Containment Protocol",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Idland Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -928,6 +910,25 @@
     },
     {
       "name": "Sprunki: Splunko Drip V2",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idland Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
