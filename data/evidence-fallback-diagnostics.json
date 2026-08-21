@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-21T05:48:20.788Z",
+  "generatedAt": "2026-08-21T07:07:00.264Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2573,
+  "pendingSeo": 2572,
   "channelCounts": {
     "pending": 198,
-    "online": 2363,
+    "online": 2362,
     "wiki": 12
   },
   "fastClassCounts": {
     "pending:pending": 198,
-    "online:pending": 2363,
+    "online:pending": 2362,
     "wiki:pending": 12
   },
   "strategicCounts": {
     "pending:0": 197,
-    "online:3": 3,
+    "online:3": 2,
     "wiki:0": 1,
-    "online:2": 294,
-    "online:1": 2066,
+    "online:2": 297,
+    "online:1": 2063,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2336
+      "count": 2335
     },
     {
       "id": "itch-newest-web",
-      "count": 2327
+      "count": 2326
     },
     {
       "id": "itch-new-feed",
-      "count": 2297
+      "count": 2296
     },
     {
       "id": "itch-new-popular-web",
-      "count": 271
+      "count": 273
     },
     {
       "id": "itch-popular",
-      "count": 271
+      "count": 273
     },
     {
       "id": "trends-rising-7d",
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -124,26 +124,6 @@
     }
   ],
   "samples": [
-    {
-      "name": "Plinko RNG",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 3,
-      "sourceCount": 6,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "y8-new"
-      ]
-    },
     {
       "name": "Little Troubles in Spooky Town",
       "channel": "online",
@@ -195,6 +175,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dice & Faeries",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -480,6 +479,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Cat Wrecking Ball",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Cat Shoot to Move",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1024,44 +1061,6 @@
     },
     {
       "name": "Neon Shades",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Hiragana Drops",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Storm Cell",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,

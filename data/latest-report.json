@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-08-21T05:47:39.599Z",
+  "scannedAt": "2026-08-21T07:06:38.948Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 35,
+  "totalAdded": 74,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 6
+      "added": 13
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 13
+      "added": 24
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 0
+      "added": 8
     },
     {
       "ok": true,
@@ -87,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 15
+      "added": 25
     },
     {
       "ok": true,
@@ -102,48 +102,12 @@
       "sourceName": "Lagged 新游戏",
       "total": 82,
       "added": 0
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
-    },
-    {
-      "ok": false,
-      "sourceId": "trends-rising-30d-horror-game",
-      "sourceName": "Trends上涨 30天 · horror game",
-      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 176,
+  "fastPassedCount": 177,
   "fastWatchCount": 239,
   "fastRejectedCount": 12,
   "youtubeEnabled": true,
@@ -154,12 +118,12 @@
   "trendErrors": 2,
   "trendBatchRan": true,
   "trendQueueSize": 1,
-  "risingDiscoveryRan": true,
+  "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 304,
-  "trendEligibleCount": 116,
-  "trendPendingCount": 116,
+  "seoPassedCount": 305,
+  "trendEligibleCount": 117,
+  "trendPendingCount": 117,
   "trendValidatedCount": 181,
   "risingCount": 2,
   "globalRisingCount": 0,
@@ -189,7 +153,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-21T05:47:38.155Z",
+    "checkedAt": "2026-08-21T07:06:37.646Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -271,31 +235,29 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-21T05:48:20.460Z"
+    "ranAt": "2026-08-21T07:06:59.904Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2573,
-    "eligibleCount": 1,
-    "queueSize": 1,
-    "verified": 1,
+    "pendingCount": 2572,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
-      "online": 1,
+      "online": 0,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
+      "pass": 0,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Plinko RNG"
-    ],
-    "ranAt": "2026-08-21T05:48:21.149Z"
+    "verifiedNames": [],
+    "ranAt": "2026-08-21T07:07:00.623Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 2,
@@ -319,10 +281,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-21T05:48:24.204Z"
+    "ranAt": "2026-08-21T07:07:03.803Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-21T05:48:24.715Z",
+    "checkedAt": "2026-08-21T07:07:04.279Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -392,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-21T05:48:24.428Z",
+        "checkedAt": "2026-08-21T07:07:04.072Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -412,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-21T05:48:24.527Z",
+        "checkedAt": "2026-08-21T07:07:04.139Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -432,7 +394,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-21T05:48:24.615Z",
+        "checkedAt": "2026-08-21T07:07:04.210Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -452,7 +414,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-21T05:48:24.714Z",
+        "checkedAt": "2026-08-21T07:07:04.279Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -501,12 +463,12 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 66,
+      "strong": 65,
       "secondary": 163,
       "strategic": 14
     },
     "pendingByChannel": {
-      "online": 200,
+      "online": 199,
       "wiki": 43
     },
     "verifiedNames": [],
@@ -570,7 +532,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-21T05:48:26.627Z"
+    "ranAt": "2026-08-21T07:07:06.121Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -616,14 +578,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-21T05:48:26.674Z"
+    "updatedAt": "2026-08-21T07:07:06.177Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-21T05:48:27.203Z",
+    "updatedAt": "2026-08-21T07:07:06.628Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -660,10 +622,10 @@
     "verifiedNames": [],
     "errorNames": [
       {
-        "name": "Plinko RNG",
+        "name": "Shift At Midnight",
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-21T05:48:27.444Z"
+    "ranAt": "2026-08-21T07:07:06.841Z"
   }
 }
