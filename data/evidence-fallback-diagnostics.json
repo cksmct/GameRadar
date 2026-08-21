@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-08-21T13:57:46.530Z",
+  "generatedAt": "2026-08-21T14:53:14.982Z",
   "totalCandidates": 3000,
   "pendingSeo": 2568,
   "channelCounts": {
     "pending": 201,
-    "online": 2355,
-    "wiki": 12
+    "online": 2354,
+    "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 201,
-    "online:pending": 2355,
-    "wiki:pending": 12
+    "online:pending": 2354,
+    "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 300,
-    "online:1": 2053,
+    "online:2": 301,
+    "wiki:2": 1,
+    "online:1": 2051,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2328
+      "count": 2326
     },
     {
       "id": "itch-newest-web",
-      "count": 2318
+      "count": 2316
     },
     {
       "id": "itch-new-feed",
-      "count": 2289
+      "count": 2287
     },
     {
       "id": "itch-new-popular-web",
@@ -92,7 +93,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 12
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     },
     {
       "id": "y8-new",
@@ -107,20 +116,20 @@
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "poki-new",
+      "count": 1
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     },
     {
       "id": "crazygames-new",
@@ -476,25 +485,6 @@
     },
     {
       "name": "Lonely Rover",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Token Tycoon",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1042,6 +1032,25 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Token Tycoon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
