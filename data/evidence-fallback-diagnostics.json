@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-21T16:50:37.319Z",
+  "generatedAt": "2026-08-21T17:44:26.798Z",
   "totalCandidates": 3000,
   "pendingSeo": 2566,
   "channelCounts": {
     "pending": 201,
-    "online": 2353,
-    "wiki": 12
+    "online": 2352,
+    "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 201,
-    "online:pending": 2353,
-    "wiki:pending": 12
+    "online:pending": 2352,
+    "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 300,
-    "online:1": 2051,
+    "online:1": 2050,
     "pending:1": 1,
-    "wiki:1": 11
+    "wiki:1": 12
   },
   "topSources": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2316
+      "count": 2315
     },
     {
       "id": "itch-new-feed",
@@ -99,19 +99,19 @@
       "count": 4
     },
     {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
+    },
+    {
       "id": "itch-featured-feed",
       "count": 3
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
       "count": 3
     },
     {
@@ -438,25 +438,6 @@
     },
     {
       "name": "Containment Protocol",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "BEAM Inc.",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -951,6 +932,25 @@
     },
     {
       "name": "Idland Demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "BEAM Inc.",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
