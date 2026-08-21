@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-21T09:51:46.037Z",
+  "generatedAt": "2026-08-21T10:47:08.939Z",
   "totalCandidates": 3000,
   "pendingSeo": 2571,
   "channelCounts": {
     "pending": 201,
-    "online": 2358,
-    "wiki": 12
+    "online": 2357,
+    "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 201,
-    "online:pending": 2358,
-    "wiki:pending": 12
+    "online:pending": 2357,
+    "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 297,
-    "online:1": 2059,
+    "online:2": 299,
+    "online:1": 2056,
     "pending:1": 1,
-    "wiki:1": 11
+    "wiki:1": 12
   },
   "topSources": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2321
+      "count": 2319
     },
     {
       "id": "itch-new-feed",
@@ -96,6 +96,14 @@
     },
     {
       "id": "y8-new",
+      "count": 5
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
       "count": 4
     },
     {
@@ -107,15 +115,11 @@
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
       "id": "steam-top-wishlist",
+      "count": 2
+    },
+    {
+      "id": "crazygames-new",
       "count": 2
     },
     {
@@ -123,7 +127,7 @@
       "count": 2
     },
     {
-      "id": "crazygames-new",
+      "id": "gamepix-new",
       "count": 1
     }
   ],
@@ -168,6 +172,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Lumen",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "crazygames-new"
       ]
     },
     {
@@ -1053,25 +1075,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Neon Shades",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
