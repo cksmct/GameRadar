@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-21T17:44:26.798Z",
+  "generatedAt": "2026-08-21T18:03:19.280Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2566,
+  "pendingSeo": 2565,
   "channelCounts": {
-    "pending": 201,
-    "online": 2352,
-    "wiki": 13
+    "pending": 200,
+    "online": 2353,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 201,
-    "online:pending": 2352,
-    "wiki:pending": 13
+    "pending:pending": 200,
+    "online:pending": 2353,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 200,
+    "pending:0": 199,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 300,
-    "online:1": 2050,
+    "online:2": 302,
+    "online:1": 2049,
     "pending:1": 1,
-    "wiki:1": 12
+    "wiki:1": 11
   },
   "topSources": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2315
+      "count": 2316
     },
     {
       "id": "itch-new-feed",
@@ -36,23 +36,23 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 276
+      "count": 278
     },
     {
       "id": "itch-popular",
-      "count": 276
+      "count": 278
     },
     {
       "id": "trends-rising-7d",
-      "count": 143
+      "count": 142
     },
     {
       "id": "trends-rising-30d",
-      "count": 81
+      "count": 80
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 58
+      "count": 57
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 37
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -99,19 +99,19 @@
       "count": 4
     },
     {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
-      "count": 4
-    },
-    {
       "id": "itch-featured-feed",
       "count": 3
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
       "count": 3
     },
     {
@@ -179,6 +179,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Empire Ticker (エンパイアティッカー) — Prototype",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -445,6 +464,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "NULL RUSH!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1027,44 +1065,6 @@
     },
     {
       "name": "Token Tycoon",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Cook the Dungeon",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "More Slots More Money",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
