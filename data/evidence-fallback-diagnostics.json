@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-08-21T04:53:49.918Z",
+  "generatedAt": "2026-08-21T05:48:20.788Z",
   "totalCandidates": 3000,
   "pendingSeo": 2573,
   "channelCounts": {
     "pending": 198,
-    "online": 2362,
-    "wiki": 13
+    "online": 2363,
+    "wiki": 12
   },
   "fastClassCounts": {
     "pending:pending": 198,
-    "online:pending": 2362,
-    "wiki:pending": 13
+    "online:pending": 2363,
+    "wiki:pending": 12
   },
   "strategicCounts": {
     "pending:0": 197,
-    "online:3": 2,
+    "online:3": 3,
     "wiki:0": 1,
-    "online:2": 295,
-    "wiki:2": 1,
-    "online:1": 2065,
+    "online:2": 294,
+    "online:1": 2066,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2335
+      "count": 2336
     },
     {
       "id": "itch-newest-web",
-      "count": 2326
+      "count": 2327
     },
     {
       "id": "itch-new-feed",
-      "count": 2296
+      "count": 2297
     },
     {
       "id": "itch-new-popular-web",
@@ -93,11 +92,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 11
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -108,23 +107,43 @@
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
+    },
+    {
+      "id": "steam-new",
+      "count": 2
     }
   ],
   "samples": [
+    {
+      "name": "Plinko RNG",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 3,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "y8-new"
+      ]
+    },
     {
       "name": "Little Troubles in Spooky Town",
       "channel": "online",
@@ -492,25 +511,6 @@
     },
     {
       "name": "CONTOUR: Recurring Descent",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Plinko RNG",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
