@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-21T21:59:15.787Z",
+  "generatedAt": "2026-08-21T22:40:58.766Z",
   "totalCandidates": 3000,
   "pendingSeo": 2560,
   "channelCounts": {
-    "pending": 202,
+    "pending": 201,
     "online": 2343,
-    "wiki": 15
+    "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 202,
+    "pending:pending": 201,
     "online:pending": 2343,
-    "wiki:pending": 15
+    "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 201,
+    "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 302,
-    "online:1": 2039,
+    "online:2": 304,
+    "online:1": 2037,
     "pending:1": 1,
-    "wiki:1": 14
+    "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2316
+      "count": 2315
     },
     {
       "id": "itch-newest-web",
-      "count": 2306
+      "count": 2305
     },
     {
       "id": "itch-new-feed",
-      "count": 2277
+      "count": 2276
     },
     {
       "id": "itch-new-popular-web",
-      "count": 278
+      "count": 279
     },
     {
       "id": "itch-popular",
-      "count": 278
+      "count": 279
     },
     {
       "id": "trends-rising-7d",
-      "count": 145
+      "count": 144
     },
     {
       "id": "trends-rising-30d",
-      "count": 81
+      "count": 80
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 47
+      "count": 46
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,15 +88,15 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 18
+      "count": 17
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 15
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -121,6 +121,10 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     },
     {
       "id": "crazygames-new",
@@ -166,6 +170,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Toss Office",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1046,25 +1069,6 @@
     },
     {
       "name": "Lonely Rover",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Token Tycoon",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
