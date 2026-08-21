@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-21T01:57:19.831Z",
+  "generatedAt": "2026-08-21T03:15:34.475Z",
   "totalCandidates": 3000,
   "pendingSeo": 2574,
   "channelCounts": {
-    "pending": 201,
-    "online": 2362,
+    "pending": 200,
+    "online": 2363,
     "wiki": 11
   },
   "fastClassCounts": {
-    "pending:pending": 201,
-    "online:pending": 2362,
+    "pending:pending": 200,
+    "online:pending": 2363,
     "wiki:pending": 11
   },
   "strategicCounts": {
-    "pending:0": 200,
+    "pending:0": 199,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 294,
+    "online:2": 295,
     "online:1": 2066,
     "pending:1": 1,
     "wiki:1": 10
@@ -24,31 +24,31 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2335
+      "count": 2336
     },
     {
       "id": "itch-newest-web",
-      "count": 2326
+      "count": 2327
     },
     {
       "id": "itch-new-feed",
-      "count": 2296
+      "count": 2297
     },
     {
       "id": "itch-new-popular-web",
-      "count": 270
+      "count": 271
     },
     {
       "id": "itch-popular",
-      "count": 270
+      "count": 271
     },
     {
       "id": "trends-rising-7d",
-      "count": 141
+      "count": 140
     },
     {
       "id": "trends-rising-30d",
-      "count": 82
+      "count": 81
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 49
+      "count": 48
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 19
+      "count": 18
     },
     {
       "id": "steam-popular-new",
@@ -162,6 +162,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Pixel Cult v0.1",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1042,25 +1061,6 @@
     },
     {
       "name": "Storm Cell",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "spider cat",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
