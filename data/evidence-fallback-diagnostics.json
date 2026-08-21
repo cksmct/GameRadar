@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-21T22:40:58.766Z",
+  "generatedAt": "2026-08-21T23:00:22.819Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2560,
+  "pendingSeo": 2559,
   "channelCounts": {
     "pending": 201,
-    "online": 2343,
+    "online": 2342,
     "wiki": 16
   },
   "fastClassCounts": {
     "pending:pending": 201,
-    "online:pending": 2343,
+    "online:pending": 2342,
     "wiki:pending": 16
   },
   "strategicCounts": {
     "pending:0": 200,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 304,
+    "online:2": 303,
     "online:1": 2037,
     "pending:1": 1,
     "wiki:1": 15
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -121,10 +121,6 @@
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     },
     {
       "id": "crazygames-new",
