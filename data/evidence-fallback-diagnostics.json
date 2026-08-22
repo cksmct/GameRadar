@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-22T20:38:46.007Z",
+  "generatedAt": "2026-08-22T20:59:35.407Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2552,
+  "pendingSeo": 2551,
   "channelCounts": {
     "pending": 197,
-    "online": 2341,
+    "online": 2340,
     "wiki": 14
   },
   "fastClassCounts": {
     "pending:pending": 197,
-    "online:pending": 2341,
+    "online:pending": 2340,
     "wiki:pending": 14
   },
   "strategicCounts": {
     "pending:0": 196,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 311,
+    "online:2": 310,
     "online:1": 2028,
     "pending:1": 1,
     "wiki:1": 13
@@ -24,15 +24,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2314
+      "count": 2313
     },
     {
       "id": "itch-newest-web",
-      "count": 2304
+      "count": 2303
     },
     {
       "id": "itch-new-feed",
-      "count": 2275
+      "count": 2274
     },
     {
       "id": "itch-new-popular-web",
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -388,44 +388,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Last Hope: Zombie Autobattler",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "8-Ball Idle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -787,6 +749,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Last Hope: Zombie Autobattler",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "8-Ball Idle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
