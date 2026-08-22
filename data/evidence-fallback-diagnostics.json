@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-22T06:00:49.527Z",
+  "generatedAt": "2026-08-22T06:58:43.635Z",
   "totalCandidates": 3000,
   "pendingSeo": 2556,
   "channelCounts": {
-    "pending": 201,
-    "online": 2341,
+    "pending": 200,
+    "online": 2342,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 201,
-    "online:pending": 2341,
+    "pending:pending": 200,
+    "online:pending": 2342,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 200,
+    "pending:0": 199,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 303,
-    "online:1": 2036,
+    "online:2": 305,
+    "online:1": 2035,
     "pending:1": 1,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2314
+      "count": 2315
     },
     {
       "id": "itch-newest-web",
-      "count": 2304
+      "count": 2305
     },
     {
       "id": "itch-new-feed",
-      "count": 2275
+      "count": 2276
     },
     {
       "id": "itch-new-popular-web",
-      "count": 279
+      "count": 281
     },
     {
       "id": "itch-popular",
-      "count": 279
+      "count": 281
     },
     {
       "id": "trends-rising-7d",
-      "count": 145
+      "count": 144
     },
     {
       "id": "trends-rising-30d",
-      "count": 79
+      "count": 78
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 47
+      "count": 46
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 15
     },
     {
       "id": "steam-popular-new",
@@ -166,6 +166,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "HALFLIGHT",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Earth ReGen",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1027,44 +1065,6 @@
     },
     {
       "name": "Mochibox Remastered",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "CARD ABA",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Lonely Rover",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
