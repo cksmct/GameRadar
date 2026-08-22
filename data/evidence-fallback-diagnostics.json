@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:56:00.789Z",
+  "generatedAt": "2026-08-22T20:38:46.007Z",
   "totalCandidates": 3000,
   "pendingSeo": 2552,
   "channelCounts": {
@@ -16,8 +16,8 @@
     "pending:0": 196,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 310,
-    "online:1": 2029,
+    "online:2": 311,
+    "online:1": 2028,
     "pending:1": 1,
     "wiki:1": 13
   },
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
