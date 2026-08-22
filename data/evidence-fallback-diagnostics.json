@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T10:59:08.401Z",
+  "generatedAt": "2026-08-22T11:34:23.325Z",
   "totalCandidates": 3000,
   "pendingSeo": 2555,
   "channelCounts": {
-    "pending": 196,
-    "online": 2345,
+    "pending": 197,
+    "online": 2344,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 196,
-    "online:pending": 2345,
+    "pending:pending": 197,
+    "online:pending": 2344,
     "wiki:pending": 14
   },
   "strategicCounts": {
@@ -17,22 +17,22 @@
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 306,
-    "online:1": 2037,
-    "pending:1": 1,
+    "online:1": 2036,
+    "pending:1": 2,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2318
+      "count": 2317
     },
     {
       "id": "itch-newest-web",
-      "count": 2308
+      "count": 2307
     },
     {
       "id": "itch-new-feed",
-      "count": 2279
+      "count": 2278
     },
     {
       "id": "itch-new-popular-web",
@@ -95,16 +95,16 @@
       "count": 13
     },
     {
-      "id": "y8-new",
+      "id": "itch-featured-feed",
       "count": 4
     },
     {
-      "id": "itch-featured-feed",
-      "count": 3
+      "id": "itch-featured",
+      "count": 4
     },
     {
-      "id": "itch-featured",
-      "count": 3
+      "id": "y8-new",
+      "count": 4
     },
     {
       "id": "steam-latest-indie",
@@ -419,25 +419,6 @@
     },
     {
       "name": "Woo Woo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Escape From Friend's House",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -844,6 +825,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Escape From Friend's House",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
