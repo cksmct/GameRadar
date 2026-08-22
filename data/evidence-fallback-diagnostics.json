@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-22T13:59:01.856Z",
+  "generatedAt": "2026-08-22T14:37:06.839Z",
   "totalCandidates": 3000,
   "pendingSeo": 2555,
   "channelCounts": {
-    "pending": 198,
-    "online": 2343,
+    "pending": 197,
+    "online": 2344,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 198,
-    "online:pending": 2343,
+    "pending:pending": 197,
+    "online:pending": 2344,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 197,
+    "pending:0": 196,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 306,
+    "online:2": 307,
     "online:1": 2035,
     "pending:1": 1,
     "wiki:1": 13
@@ -24,31 +24,31 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2316
+      "count": 2317
     },
     {
       "id": "itch-newest-web",
-      "count": 2306
+      "count": 2307
     },
     {
       "id": "itch-new-feed",
-      "count": 2277
+      "count": 2278
     },
     {
       "id": "itch-new-popular-web",
-      "count": 282
+      "count": 283
     },
     {
       "id": "itch-popular",
-      "count": 282
+      "count": 283
     },
     {
       "id": "trends-rising-7d",
-      "count": 143
+      "count": 142
     },
     {
       "id": "trends-rising-30d",
-      "count": 79
+      "count": 78
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 46
+      "count": 45
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 15
     },
     {
       "id": "steam-popular-new",
@@ -179,6 +179,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Novafall: Idle Space Empire",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -806,25 +825,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Clix",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
