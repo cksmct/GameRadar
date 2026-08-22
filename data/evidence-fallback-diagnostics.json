@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-22T17:57:57.778Z",
+  "generatedAt": "2026-08-22T18:48:39.202Z",
   "totalCandidates": 3000,
   "pendingSeo": 2553,
   "channelCounts": {
-    "pending": 195,
-    "online": 2344,
+    "pending": 199,
+    "online": 2340,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 195,
-    "online:pending": 2344,
+    "pending:pending": 199,
+    "online:pending": 2340,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 194,
+    "pending:0": 198,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 307,
-    "online:1": 2035,
+    "online:2": 310,
+    "online:1": 2028,
     "pending:1": 1,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2317
+      "count": 2313
     },
     {
       "id": "itch-newest-web",
-      "count": 2307
+      "count": 2303
     },
     {
       "id": "itch-new-feed",
-      "count": 2278
+      "count": 2274
     },
     {
       "id": "itch-new-popular-web",
-      "count": 283
+      "count": 286
     },
     {
       "id": "itch-popular",
-      "count": 283
+      "count": 286
     },
     {
       "id": "trends-rising-7d",
-      "count": 141
+      "count": 142
     },
     {
       "id": "trends-rising-30d",
-      "count": 76
+      "count": 82
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 45
+      "count": 46
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 37
+      "count": 39
     },
     {
       "id": "newgrounds-latest",
@@ -84,11 +84,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 18
     },
     {
       "id": "steam-popular-new",
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dragon's Hoard Playtest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -418,14 +437,14 @@
       ]
     },
     {
-      "name": "Nine Heavens Sect",
+      "name": "the Cellarer",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -437,11 +456,11 @@
       ]
     },
     {
-      "name": "Woo Woo",
+      "name": "MAGNI PARK",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -817,6 +836,44 @@
       ]
     },
     {
+      "name": "Nine Heavens Sect",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Woo Woo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "BounceWorks: Ball Refinery PlayTest",
       "channel": "online",
       "fastClass": "pending",
@@ -1015,63 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Containment Protocol",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Idland Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "BEAM Inc.",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
