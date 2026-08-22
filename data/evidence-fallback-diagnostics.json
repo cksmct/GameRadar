@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-22T09:41:38.761Z",
+  "generatedAt": "2026-08-22T09:58:54.381Z",
   "totalCandidates": 3000,
   "pendingSeo": 2555,
   "channelCounts": {
-    "pending": 199,
-    "online": 2342,
+    "pending": 197,
+    "online": 2344,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 199,
-    "online:pending": 2342,
+    "pending:pending": 197,
+    "online:pending": 2344,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 197,
+    "pending:0": 196,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 305,
-    "online:1": 2035,
-    "pending:1": 2,
+    "online:2": 306,
+    "online:1": 2036,
+    "pending:1": 1,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2315
+      "count": 2317
     },
     {
       "id": "itch-newest-web",
-      "count": 2305
+      "count": 2307
     },
     {
       "id": "itch-new-feed",
-      "count": 2276
+      "count": 2278
     },
     {
       "id": "itch-new-popular-web",
-      "count": 281
+      "count": 282
     },
     {
       "id": "itch-popular",
-      "count": 281
+      "count": 282
     },
     {
       "id": "trends-rising-7d",
-      "count": 144
+      "count": 143
     },
     {
       "id": "trends-rising-30d",
-      "count": 78
+      "count": 77
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 47
+      "count": 46
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,23 +88,23 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 17
+      "count": 16
     },
     {
       "id": "steam-popular-new",
       "count": 13
     },
     {
-      "id": "itch-featured-feed",
+      "id": "y8-new",
       "count": 4
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 3
     },
     {
       "id": "itch-featured",
-      "count": 4
-    },
-    {
-      "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "LCK Manager 26",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1046,25 +1065,6 @@
     },
     {
       "name": "BEAM Inc.",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Mochibox Remastered",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
