@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-22T21:35:02.292Z",
+  "generatedAt": "2026-08-22T21:58:01.745Z",
   "totalCandidates": 3000,
   "pendingSeo": 2551,
   "channelCounts": {
-    "pending": 197,
-    "online": 2340,
+    "pending": 198,
+    "online": 2339,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 197,
-    "online:pending": 2340,
+    "pending:pending": 198,
+    "online:pending": 2339,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 196,
+    "pending:0": 197,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 310,
-    "online:1": 2028,
+    "online:2": 311,
+    "online:1": 2026,
     "pending:1": 1,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2313
+      "count": 2312
     },
     {
       "id": "itch-newest-web",
-      "count": 2303
+      "count": 2302
     },
     {
       "id": "itch-new-feed",
-      "count": 2274
+      "count": 2273
     },
     {
       "id": "itch-new-popular-web",
-      "count": 286
+      "count": 287
     },
     {
       "id": "itch-popular",
-      "count": 286
+      "count": 287
     },
     {
       "id": "trends-rising-7d",
@@ -48,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 80
+      "count": 82
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -59,11 +59,11 @@
       "count": 44
     },
     {
-      "id": "trends-rising-7d-itch-io",
-      "count": 39
+      "id": "trends-rising-30d-horror-game",
+      "count": 40
     },
     {
-      "id": "trends-rising-30d-horror-game",
+      "id": "trends-rising-7d-itch-io",
       "count": 39
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 17
     },
     {
       "id": "steam-popular-new",
@@ -445,6 +445,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Winter Storm",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Commandment",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
