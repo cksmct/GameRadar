@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-22T04:48:19.375Z",
+  "generatedAt": "2026-08-22T05:42:07.434Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2558,
+  "pendingSeo": 2557,
   "channelCounts": {
-    "pending": 200,
-    "online": 2344,
+    "pending": 202,
+    "online": 2341,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 200,
-    "online:pending": 2344,
+    "pending:pending": 202,
+    "online:pending": 2341,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 199,
+    "pending:0": 201,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 303,
-    "online:1": 2039,
+    "online:2": 304,
+    "online:1": 2035,
     "pending:1": 1,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2317
+      "count": 2313
     },
     {
       "id": "itch-newest-web",
-      "count": 2307
+      "count": 2303
     },
     {
       "id": "itch-new-feed",
-      "count": 2278
+      "count": 2274
     },
     {
       "id": "itch-new-popular-web",
@@ -44,23 +44,23 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 143
+      "count": 146
     },
     {
       "id": "trends-rising-30d",
-      "count": 79
+      "count": 80
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 62
+      "count": 63
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 46
+      "count": 48
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 39
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -84,7 +84,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -121,6 +121,10 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     },
     {
       "id": "crazygames-new",
@@ -388,25 +392,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "STARLINE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -894,6 +879,25 @@
     },
     {
       "name": "O, Your Heavenly Stars!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "STARLINE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
