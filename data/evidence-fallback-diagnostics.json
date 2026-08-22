@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-21T23:58:45.123Z",
+  "generatedAt": "2026-08-22T01:50:02.924Z",
   "totalCandidates": 3000,
   "pendingSeo": 2559,
   "channelCounts": {
-    "pending": 200,
-    "online": 2343,
-    "wiki": 16
+    "pending": 202,
+    "online": 2344,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 200,
-    "online:pending": 2343,
-    "wiki:pending": 16
+    "pending:pending": 202,
+    "online:pending": 2344,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 199,
+    "pending:0": 201,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 303,
-    "online:1": 2038,
+    "online:1": 2039,
     "pending:1": 1,
-    "wiki:1": 15
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2316
+      "count": 2317
     },
     {
       "id": "itch-newest-web",
-      "count": 2306
+      "count": 2307
     },
     {
       "id": "itch-new-feed",
-      "count": 2277
+      "count": 2278
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 143
+      "count": 145
     },
     {
       "id": "trends-rising-30d",
-      "count": 79
+      "count": 81
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +56,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 46
+      "count": 47
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 39
+      "count": 40
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -84,15 +84,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 24
+      "count": 25
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 17
+      "count": 18
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -304,25 +304,6 @@
       ]
     },
     {
-      "name": "Ty's Closet",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Last Hope: Zombie Autobattler",
       "channel": "online",
       "fastClass": "pending",
@@ -419,25 +400,6 @@
     },
     {
       "name": "STARLINE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Commandment",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -760,6 +722,25 @@
       ]
     },
     {
+      "name": "Ty's Closet",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "1999 Midnight Dispatch",
       "channel": "online",
       "fastClass": "pending",
@@ -958,6 +939,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Commandment",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
