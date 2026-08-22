@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-22T08:02:34.428Z",
+  "generatedAt": "2026-08-22T08:47:33.346Z",
   "totalCandidates": 3000,
   "pendingSeo": 2556,
   "channelCounts": {
-    "pending": 198,
-    "online": 2344,
+    "pending": 200,
+    "online": 2342,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 198,
-    "online:pending": 2344,
+    "pending:pending": 200,
+    "online:pending": 2342,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 197,
+    "pending:0": 199,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 305,
-    "online:1": 2037,
+    "online:2": 306,
+    "online:1": 2034,
     "pending:1": 1,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2317
+      "count": 2315
     },
     {
       "id": "itch-newest-web",
-      "count": 2307
+      "count": 2305
     },
     {
       "id": "itch-new-feed",
-      "count": 2278
+      "count": 2276
     },
     {
       "id": "itch-new-popular-web",
@@ -44,27 +44,27 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 142
+      "count": 146
     },
     {
       "id": "trends-rising-30d",
-      "count": 76
+      "count": 80
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 61
+      "count": 62
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 46
+      "count": 47
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 40
+      "count": 42
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 36
+      "count": 37
     },
     {
       "id": "newgrounds-latest",
@@ -84,11 +84,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 25
+      "count": 26
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 17
     },
     {
       "id": "steam-popular-new",
@@ -96,7 +96,7 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
