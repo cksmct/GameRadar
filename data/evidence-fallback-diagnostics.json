@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-23T14:01:35.189Z",
+  "generatedAt": "2026-08-23T14:38:24.025Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2550,
+  "pendingSeo": 2549,
   "channelCounts": {
     "pending": 204,
-    "online": 2339,
+    "online": 2338,
     "wiki": 7
   },
   "fastClassCounts": {
     "pending:pending": 204,
-    "online:pending": 2339,
+    "online:pending": 2338,
     "wiki:pending": 7
   },
   "strategicCounts": {
     "pending:0": 203,
     "online:3": 2,
-    "online:1": 2019,
     "wiki:0": 1,
-    "online:2": 318,
+    "online:2": 322,
+    "online:1": 2014,
     "pending:1": 1,
     "wiki:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2311
+      "count": 2310
     },
     {
       "id": "itch-newest-web",
-      "count": 2302
+      "count": 2301
     },
     {
       "id": "itch-new-feed",
-      "count": 2272
+      "count": 2271
     },
     {
       "id": "itch-new-popular-web",
-      "count": 294
+      "count": 298
     },
     {
       "id": "itch-popular",
-      "count": 294
+      "count": 298
     },
     {
       "id": "trends-rising-7d",
-      "count": 148
+      "count": 147
     },
     {
       "id": "trends-rising-30d",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 38
+      "count": 37
     },
     {
       "id": "newgrounds-latest",
@@ -171,7 +171,64 @@
       ]
     },
     {
+      "name": "Embers",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Underground Landlord",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "The great balding",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Pieces of Escape",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -514,6 +571,25 @@
     },
     {
       "name": "Provision",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Legends Idle Orc Rising",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -989,82 +1065,6 @@
     },
     {
       "name": "Life Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nine Heavens Sect",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Woo Woo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "BounceWorks: Ball Refinery PlayTest",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Escape From Friend's House",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
