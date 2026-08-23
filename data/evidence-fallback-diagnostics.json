@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-23T06:02:55.687Z",
+  "generatedAt": "2026-08-23T07:00:52.514Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2552,
+  "pendingSeo": 2551,
   "channelCounts": {
-    "pending": 206,
+    "pending": 205,
     "online": 2339,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 206,
+    "pending:pending": 205,
     "online:pending": 2339,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 205,
+    "pending:0": 204,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 316,
-    "online:1": 2021,
+    "online:2": 317,
+    "online:1": 2020,
     "pending:1": 1,
     "wiki:1": 6
   },
@@ -36,19 +36,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 292
+      "count": 293
     },
     {
       "id": "itch-popular",
-      "count": 292
+      "count": 293
     },
     {
       "id": "trends-rising-7d",
-      "count": 150
+      "count": 149
     },
     {
       "id": "trends-rising-30d",
-      "count": 81
+      "count": 80
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -59,12 +59,12 @@
       "count": 50
     },
     {
-      "id": "trends-rising-7d-itch-io",
+      "id": "trends-rising-30d-horror-game",
       "count": 39
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 39
+      "id": "trends-rising-7d-itch-io",
+      "count": 38
     },
     {
       "id": "newgrounds-latest",
@@ -84,7 +84,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 26
+      "count": 25
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -464,6 +464,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Provision",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "GET RICH QUICK 101",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
