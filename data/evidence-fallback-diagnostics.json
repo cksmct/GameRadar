@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-08-23T21:35:15.554Z",
+  "generatedAt": "2026-08-23T21:57:29.323Z",
   "totalCandidates": 3000,
   "pendingSeo": 2549,
   "channelCounts": {
-    "pending": 206,
-    "online": 2336,
+    "pending": 209,
+    "online": 2333,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 206,
-    "online:pending": 2336,
+    "pending:pending": 209,
+    "online:pending": 2333,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 205,
+    "pending:0": 208,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 324,
-    "online:1": 2010,
+    "online:2": 325,
+    "online:1": 2006,
     "pending:1": 1,
     "wiki:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2308
+      "count": 2305
     },
     {
       "id": "itch-newest-web",
-      "count": 2299
+      "count": 2296
     },
     {
       "id": "itch-new-feed",
-      "count": 2269
+      "count": 2266
     },
     {
       "id": "itch-new-popular-web",
-      "count": 300
+      "count": 301
     },
     {
       "id": "itch-popular",
-      "count": 300
+      "count": 301
     },
     {
       "id": "trends-rising-7d",
-      "count": 147
+      "count": 150
     },
     {
       "id": "trends-rising-30d",
-      "count": 82
+      "count": 83
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 63
+      "count": 64
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 50
+      "count": 52
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 16
     },
     {
       "id": "steam-popular-new",
@@ -518,6 +518,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "microChess",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
@@ -1046,25 +1065,6 @@
     },
     {
       "name": "Ty's Closet",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Last Hope: Zombie Autobattler",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
