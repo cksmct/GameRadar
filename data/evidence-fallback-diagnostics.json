@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-23T09:59:15.370Z",
+  "generatedAt": "2026-08-23T10:39:07.795Z",
   "totalCandidates": 3000,
   "pendingSeo": 2550,
   "channelCounts": {
-    "pending": 204,
-    "online": 2339,
+    "pending": 203,
+    "online": 2340,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 204,
-    "online:pending": 2339,
+    "pending:pending": 203,
+    "online:pending": 2340,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 203,
+    "pending:0": 202,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 317,
+    "online:2": 318,
     "online:1": 2020,
     "pending:1": 1,
     "wiki:1": 6
@@ -24,35 +24,35 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2312
+      "count": 2313
     },
     {
       "id": "itch-newest-web",
-      "count": 2302
+      "count": 2303
     },
     {
       "id": "itch-new-feed",
-      "count": 2273
+      "count": 2274
     },
     {
       "id": "itch-new-popular-web",
-      "count": 293
+      "count": 294
     },
     {
       "id": "itch-popular",
-      "count": 293
+      "count": 294
     },
     {
       "id": "trends-rising-7d",
-      "count": 147
+      "count": 146
     },
     {
       "id": "trends-rising-30d",
-      "count": 82
+      "count": 81
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 64
+      "count": 63
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 41
+      "count": 40
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The great balding",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "SkillTeam (Amstrad CPC)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
