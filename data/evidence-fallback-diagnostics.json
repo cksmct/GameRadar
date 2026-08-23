@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-23T13:45:24.514Z",
+  "generatedAt": "2026-08-23T14:01:35.189Z",
   "totalCandidates": 3000,
   "pendingSeo": 2550,
   "channelCounts": {
-    "pending": 205,
-    "online": 2338,
+    "pending": 204,
+    "online": 2339,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 205,
-    "online:pending": 2338,
+    "pending:pending": 204,
+    "online:pending": 2339,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 204,
+    "pending:0": 203,
     "online:3": 2,
+    "online:1": 2019,
     "wiki:0": 1,
     "online:2": 318,
-    "online:1": 2018,
     "pending:1": 1,
     "wiki:1": 6
   },
@@ -28,7 +28,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2301
+      "count": 2302
     },
     {
       "id": "itch-new-feed",
@@ -483,6 +483,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Fracture",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "WomboCombo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
