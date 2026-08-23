@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:48:21.614Z",
+  "generatedAt": "2026-08-23T19:34:29.305Z",
   "totalCandidates": 3000,
   "pendingSeo": 2548,
   "channelCounts": {
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "name": "Dice & Faeries",
+      "name": "Knight Shift",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -836,6 +836,25 @@
       ]
     },
     {
+      "name": "Dice & Faeries",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Threads of Tomot",
       "channel": "online",
       "fastClass": "pending",
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "8-Ball Idle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
