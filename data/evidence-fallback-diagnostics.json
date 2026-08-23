@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T17:33:49.934Z",
+  "generatedAt": "2026-08-23T17:56:28.722Z",
   "totalCandidates": 3000,
   "pendingSeo": 2549,
   "channelCounts": {
@@ -16,8 +16,8 @@
     "pending:0": 202,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 322,
-    "online:1": 2015,
+    "online:2": 324,
+    "online:1": 2013,
     "pending:1": 1,
     "wiki:1": 6
   },
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 298
+      "count": 299
     },
     {
       "id": "itch-popular",
-      "count": 298
+      "count": 299
     },
     {
       "id": "trends-rising-7d",
@@ -123,6 +123,10 @@
       "count": 2
     },
     {
+      "id": "poki-new",
+      "count": 1
+    },
+    {
       "id": "crazygames-new",
       "count": 1
     }
@@ -168,6 +172,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Cleanup Crew",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "poki-new"
       ]
     },
     {
@@ -521,6 +543,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Jurassic Love",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1034,44 +1075,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "1999 Midnight Dispatch",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Life Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
