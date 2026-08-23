@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-23T17:56:28.722Z",
+  "generatedAt": "2026-08-23T18:48:21.614Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2549,
+  "pendingSeo": 2548,
   "channelCounts": {
-    "pending": 203,
-    "online": 2339,
+    "pending": 207,
+    "online": 2334,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 203,
-    "online:pending": 2339,
+    "pending:pending": 207,
+    "online:pending": 2334,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 202,
+    "pending:0": 206,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 324,
-    "online:1": 2013,
+    "online:1": 2008,
     "pending:1": 1,
     "wiki:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2311
+      "count": 2306
     },
     {
       "id": "itch-newest-web",
-      "count": 2302
+      "count": 2297
     },
     {
       "id": "itch-new-feed",
-      "count": 2272
+      "count": 2267
     },
     {
       "id": "itch-new-popular-web",
-      "count": 299
+      "count": 300
     },
     {
       "id": "itch-popular",
-      "count": 299
+      "count": 300
     },
     {
       "id": "trends-rising-7d",
-      "count": 146
+      "count": 148
     },
     {
       "id": "trends-rising-30d",
-      "count": 80
+      "count": 83
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,15 +56,15 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 50
+      "count": 51
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 40
+      "count": 42
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 37
+      "count": 38
     },
     {
       "id": "newgrounds-latest",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 16
     },
     {
       "id": "steam-popular-new",
@@ -121,10 +121,6 @@
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "poki-new",
-      "count": 1
     },
     {
       "id": "crazygames-new",
@@ -172,24 +168,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Cleanup Crew",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "poki-new"
       ]
     },
     {
@@ -562,6 +540,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "tamaemu",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
