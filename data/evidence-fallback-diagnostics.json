@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-22T23:57:21.994Z",
+  "generatedAt": "2026-08-23T01:59:24.661Z",
   "totalCandidates": 3000,
   "pendingSeo": 2552,
   "channelCounts": {
-    "pending": 198,
-    "online": 2340,
-    "wiki": 14
+    "pending": 206,
+    "online": 2339,
+    "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 198,
-    "online:pending": 2340,
-    "wiki:pending": 14
+    "pending:pending": 206,
+    "online:pending": 2339,
+    "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 197,
+    "pending:0": 205,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 314,
-    "online:1": 2024,
+    "online:1": 2023,
     "pending:1": 1,
-    "wiki:1": 13
+    "wiki:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2313
+      "count": 2312
     },
     {
       "id": "itch-newest-web",
-      "count": 2303
+      "count": 2302
     },
     {
       "id": "itch-new-feed",
-      "count": 2274
+      "count": 2273
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 140
+      "count": 148
     },
     {
       "id": "trends-rising-30d",
@@ -52,11 +52,11 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 61
+      "count": 64
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 44
+      "count": 49
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -84,15 +84,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 25
+      "count": 26
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 17
+      "count": 16
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -323,25 +323,6 @@
       ]
     },
     {
-      "name": "Toss Office",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Splunko Drip V2 ALT Version",
       "channel": "online",
       "fastClass": "pending",
@@ -476,6 +457,25 @@
     },
     {
       "name": "MAGNI PARK",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Toss Office",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
