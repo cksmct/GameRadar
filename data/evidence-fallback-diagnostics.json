@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:58:16.811Z",
+  "generatedAt": "2026-08-23T23:34:51.731Z",
   "totalCandidates": 3000,
   "pendingSeo": 2549,
   "channelCounts": {
@@ -513,25 +513,6 @@
       ]
     },
     {
-      "name": "Pixel Cult v0.1",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Knight Shift",
       "channel": "online",
       "fastClass": "pending",
@@ -818,6 +799,25 @@
     },
     {
       "name": "Cat Shoot to Move",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Pixel Cult v0.1",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
