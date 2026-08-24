@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-24T11:06:48.556Z",
+  "generatedAt": "2026-08-24T11:43:41.845Z",
   "totalCandidates": 3000,
   "pendingSeo": 2546,
   "channelCounts": {
-    "pending": 213,
-    "online": 2331,
+    "pending": 216,
+    "online": 2328,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 213,
-    "online:pending": 2331,
+    "pending:pending": 216,
+    "online:pending": 2328,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 212,
+    "pending:0": 215,
+    "online:1": 1991,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 334,
-    "online:1": 1995,
+    "online:2": 335,
     "pending:1": 1,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2303
+      "count": 2299
     },
     {
       "id": "itch-newest-web",
-      "count": 2294
+      "count": 2290
     },
     {
       "id": "itch-new-feed",
-      "count": 2264
+      "count": 2260
     },
     {
       "id": "itch-new-popular-web",
@@ -44,23 +44,23 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 154
+      "count": 158
     },
     {
       "id": "trends-rising-30d",
-      "count": 82
+      "count": 84
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 65
+      "count": 68
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 53
+      "count": 54
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 42
+      "count": 43
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 15
+      "count": 16
     },
     {
       "id": "y8-new",
@@ -100,6 +100,10 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "lagged-new",
       "count": 3
     },
     {
@@ -115,11 +119,11 @@
       "count": 2
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "steam-popular-new",
+      "count": 1
     },
     {
-      "id": "steam-popular-new",
+      "id": "gamepix-new",
       "count": 1
     },
     {
