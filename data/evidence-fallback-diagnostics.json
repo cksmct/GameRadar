@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-08-24T19:01:11.107Z",
+  "generatedAt": "2026-08-24T19:44:29.644Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2542,
+  "pendingSeo": 2540,
   "channelCounts": {
     "pending": 216,
-    "online": 2320,
-    "wiki": 6
+    "online": 2319,
+    "wiki": 5
   },
   "fastClassCounts": {
     "pending:pending": 216,
-    "online:pending": 2320,
-    "wiki:pending": 6
+    "online:pending": 2319,
+    "wiki:pending": 5
   },
   "strategicCounts": {
     "pending:0": 215,
     "online:3": 2,
     "wiki:0": 1,
     "online:1": 1975,
-    "online:2": 343,
-    "wiki:2": 1,
+    "online:2": 342,
     "pending:1": 1,
     "wiki:1": 4
   },
@@ -93,18 +92,10 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 6
-    },
-    {
-      "id": "y8-new",
       "count": 5
     },
     {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
+      "id": "y8-new",
       "count": 4
     },
     {
@@ -116,16 +107,20 @@
       "count": 3
     },
     {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
+    },
+    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     },
     {
       "id": "crazygames-new",
