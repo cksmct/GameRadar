@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-24T05:01:00.691Z",
+  "generatedAt": "2026-08-24T05:52:46.576Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2548,
+  "pendingSeo": 2547,
   "channelCounts": {
     "pending": 214,
-    "online": 2332,
+    "online": 2331,
     "wiki": 2
   },
   "fastClassCounts": {
     "pending:pending": 214,
-    "online:pending": 2332,
+    "online:pending": 2331,
     "wiki:pending": 2
   },
   "strategicCounts": {
     "pending:0": 213,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 332,
+    "online:2": 331,
     "online:1": 1998,
     "pending:1": 1,
     "wiki:1": 1
@@ -24,15 +24,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2304
+      "count": 2303
     },
     {
       "id": "itch-newest-web",
-      "count": 2295
+      "count": 2294
     },
     {
       "id": "itch-new-feed",
-      "count": 2265
+      "count": 2264
     },
     {
       "id": "itch-new-popular-web",
@@ -92,7 +92,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -168,24 +168,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Tanks",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "y8-new"
       ]
     },
     {
@@ -501,25 +483,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Empire Ticker (エンパイアティッカー) — Prototype",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -854,6 +817,25 @@
       ]
     },
     {
+      "name": "Empire Ticker (エンパイアティッカー) — Prototype",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Neon Foundry Idle",
       "channel": "online",
       "fastClass": "pending",
@@ -1071,6 +1053,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Fairy's Hero",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
