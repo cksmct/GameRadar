@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-24T04:07:57.052Z",
+  "generatedAt": "2026-08-24T05:01:00.691Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2549,
+  "pendingSeo": 2548,
   "channelCounts": {
-    "pending": 213,
-    "online": 2334,
+    "pending": 214,
+    "online": 2332,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 213,
-    "online:pending": 2334,
+    "pending:pending": 214,
+    "online:pending": 2332,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 212,
+    "pending:0": 213,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 331,
-    "online:1": 2001,
+    "online:2": 332,
+    "online:1": 1998,
     "pending:1": 1,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2306
+      "count": 2304
     },
     {
       "id": "itch-newest-web",
-      "count": 2297
+      "count": 2295
     },
     {
       "id": "itch-new-feed",
-      "count": 2267
+      "count": 2265
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 154
+      "count": 155
     },
     {
       "id": "trends-rising-30d",
-      "count": 83
+      "count": 82
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 54
+      "count": 53
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 38
+      "count": 40
     },
     {
       "id": "newgrounds-latest",
@@ -88,11 +88,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 16
+      "count": 15
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -168,6 +168,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Tanks",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "y8-new"
       ]
     },
     {
@@ -1053,25 +1071,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Fairy's Hero",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
