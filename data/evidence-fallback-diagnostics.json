@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-24T08:26:24.265Z",
+  "generatedAt": "2026-08-24T09:29:28.589Z",
   "totalCandidates": 3000,
   "pendingSeo": 2546,
   "channelCounts": {
-    "pending": 214,
-    "online": 2330,
+    "pending": 213,
+    "online": 2331,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 214,
-    "online:pending": 2330,
+    "pending:pending": 213,
+    "online:pending": 2331,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 213,
+    "pending:0": 212,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 332,
-    "online:1": 1996,
+    "online:1": 1997,
     "pending:1": 1,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2302
+      "count": 2303
     },
     {
       "id": "itch-newest-web",
-      "count": 2293
+      "count": 2294
     },
     {
       "id": "itch-new-feed",
-      "count": 2263
+      "count": 2264
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 155
+      "count": 154
     },
     {
       "id": "trends-rising-30d",
-      "count": 83
+      "count": 82
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 66
+      "count": 65
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 43
+      "count": 42
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -475,25 +475,6 @@
       ]
     },
     {
-      "name": "Splunko Drip V2 ALT Version",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Knight Shift",
       "channel": "online",
       "fastClass": "pending",
@@ -825,6 +806,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Splunko Drip V2 ALT Version",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
