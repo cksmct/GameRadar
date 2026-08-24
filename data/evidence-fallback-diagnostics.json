@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-23T23:56:53.213Z",
+  "generatedAt": "2026-08-24T01:57:25.008Z",
   "totalCandidates": 3000,
   "pendingSeo": 2549,
   "channelCounts": {
-    "pending": 209,
-    "online": 2333,
-    "wiki": 7
+    "pending": 213,
+    "online": 2334,
+    "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 209,
-    "online:pending": 2333,
-    "wiki:pending": 7
+    "pending:pending": 213,
+    "online:pending": 2334,
+    "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 208,
+    "pending:0": 212,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 327,
-    "online:1": 2004,
+    "online:1": 2005,
     "pending:1": 1,
-    "wiki:1": 6
+    "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2305
+      "count": 2306
     },
     {
       "id": "itch-newest-web",
-      "count": 2296
+      "count": 2297
     },
     {
       "id": "itch-new-feed",
-      "count": 2266
+      "count": 2267
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 150
+      "count": 154
     },
     {
       "id": "trends-rising-30d",
@@ -52,11 +52,11 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 64
+      "count": 66
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 52
+      "count": 54
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -91,10 +91,6 @@
       "count": 16
     },
     {
-      "id": "steam-popular-new",
-      "count": 6
-    },
-    {
       "id": "y8-new",
       "count": 4
     },
@@ -121,6 +117,10 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 1
     },
     {
       "id": "crazygames-new",
@@ -494,25 +494,6 @@
       ]
     },
     {
-      "name": "Neon Foundry Idle",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Knight Shift",
       "channel": "online",
       "fastClass": "pending",
@@ -768,6 +749,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Neon Foundry Idle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
