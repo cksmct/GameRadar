@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-08-24T17:46:38.616Z",
+  "generatedAt": "2026-08-24T18:15:25.082Z",
   "totalCandidates": 3000,
   "pendingSeo": 2543,
   "channelCounts": {
     "pending": 216,
-    "online": 2323,
-    "wiki": 4
+    "online": 2322,
+    "wiki": 5
   },
   "fastClassCounts": {
     "pending:pending": 216,
-    "online:pending": 2323,
-    "wiki:pending": 4
+    "online:pending": 2322,
+    "wiki:pending": 5
   },
   "strategicCounts": {
     "pending:0": 215,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 339,
-    "online:1": 1982,
+    "online:2": 342,
+    "wiki:2": 1,
+    "online:1": 1978,
     "pending:1": 1,
     "wiki:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2295
+      "count": 2294
     },
     {
       "id": "itch-newest-web",
-      "count": 2286
+      "count": 2285
     },
     {
       "id": "itch-new-feed",
-      "count": 2256
+      "count": 2255
     },
     {
       "id": "itch-new-popular-web",
-      "count": 315
+      "count": 318
     },
     {
       "id": "itch-popular",
-      "count": 315
+      "count": 318
     },
     {
       "id": "trends-rising-7d",
@@ -91,6 +92,18 @@
       "count": 16
     },
     {
+      "id": "steam-popular-new",
+      "count": 4
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
+    },
+    {
       "id": "y8-new",
       "count": 4
     },
@@ -100,18 +113,6 @@
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 3
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
       "count": 3
     },
     {
@@ -166,6 +167,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Into the Shimmer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -551,6 +571,25 @@
       ]
     },
     {
+      "name": "Great March",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Sapphic Tactics",
       "channel": "online",
       "fastClass": "pending",
@@ -616,6 +655,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Steal the Core",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1008,63 +1066,6 @@
     },
     {
       "name": "Cat Wrecking Ball",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Cat Shoot to Move",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pixel Cult v0.1",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Neo-Nyke",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
