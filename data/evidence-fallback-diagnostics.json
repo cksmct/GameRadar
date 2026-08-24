@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:12:15.460Z",
+  "generatedAt": "2026-08-24T14:01:47.952Z",
   "totalCandidates": 3000,
   "pendingSeo": 2543,
   "channelCounts": {
@@ -16,8 +16,8 @@
     "pending:0": 215,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 334,
-    "online:1": 1989,
+    "online:2": 339,
+    "online:1": 1984,
     "pending:1": 1,
     "wiki:1": 1
   },
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 310
+      "count": 315
     },
     {
       "id": "itch-popular",
-      "count": 310
+      "count": 315
     },
     {
       "id": "trends-rising-7d",
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PokéClicker: Winter Wishes",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -518,6 +537,82 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sapphic Tactics",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dispatches 1940",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sharpest Spear",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "DEXFUSAL",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
@@ -970,101 +1065,6 @@
     },
     {
       "name": "Neo-Nyke",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "CONTOUR: Recurring Descent",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Gamma",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dice & Faeries",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Threads of Tomot",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Goblin Miners",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
