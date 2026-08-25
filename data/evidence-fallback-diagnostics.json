@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-25T15:59:29.567Z",
+  "generatedAt": "2026-08-25T16:54:32.551Z",
   "totalCandidates": 3000,
   "pendingSeo": 2531,
   "channelCounts": {
     "pending": 220,
-    "online": 2302,
-    "wiki": 9
+    "online": 2301,
+    "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 220,
-    "online:pending": 2302,
-    "wiki:pending": 9
+    "online:pending": 2301,
+    "wiki:pending": 10
   },
   "strategicCounts": {
     "pending:0": 219,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 353,
-    "online:1": 1947,
+    "online:1": 1946,
     "pending:1": 1,
-    "wiki:1": 8
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2273
+      "count": 2272
     },
     {
       "id": "itch-newest-web",
-      "count": 2264
+      "count": 2263
     },
     {
       "id": "itch-new-feed",
-      "count": 2234
+      "count": 2233
     },
     {
       "id": "itch-new-popular-web",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 10
     },
     {
       "id": "y8-new",
@@ -407,25 +407,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "デスクの小さな工場 / Desk Gribbles",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -958,6 +939,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "デスクの小さな工場 / Desk Gribbles",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
