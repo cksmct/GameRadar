@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-25T07:11:41.227Z",
+  "generatedAt": "2026-08-25T07:57:54.410Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2536,
+  "pendingSeo": 2535,
   "channelCounts": {
-    "pending": 218,
-    "online": 2310,
+    "pending": 219,
+    "online": 2308,
     "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 218,
-    "online:pending": 2310,
+    "pending:pending": 219,
+    "online:pending": 2308,
     "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 217,
+    "pending:0": 218,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 351,
-    "online:1": 1957,
+    "online:1": 1955,
     "pending:1": 1,
     "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2281
+      "count": 2279
     },
     {
       "id": "itch-newest-web",
-      "count": 2272
+      "count": 2270
     },
     {
       "id": "itch-new-feed",
-      "count": 2242
+      "count": 2240
     },
     {
       "id": "itch-new-popular-web",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 44
+      "count": 43
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 17
+      "count": 18
     },
     {
       "id": "steam-popular-new",
@@ -418,64 +418,7 @@
       ]
     },
     {
-      "name": "Packager",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "デスクの小さな工場 / Desk Gribbles",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dude where's my flying car!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dragon's Hoard Playtest",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -969,6 +912,25 @@
       ]
     },
     {
+      "name": "Packager",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Oh Shear!",
       "channel": "online",
       "fastClass": "pending",
@@ -996,6 +958,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dude where's my flying car!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dragon's Hoard Playtest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
