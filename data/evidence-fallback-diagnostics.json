@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:46:51.111Z",
+  "generatedAt": "2026-08-25T06:17:34.442Z",
   "totalCandidates": 3000,
   "pendingSeo": 2536,
   "channelCounts": {
@@ -16,8 +16,8 @@
     "pending:0": 218,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 350,
-    "online:1": 1957,
+    "online:2": 351,
+    "online:1": 1956,
     "pending:1": 1,
     "wiki:1": 7
   },
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 327
+      "count": 328
     },
     {
       "id": "itch-popular",
-      "count": 327
+      "count": 328
     },
     {
       "id": "trends-rising-7d",
@@ -521,6 +521,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Long Dives",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Earth ReGen",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
