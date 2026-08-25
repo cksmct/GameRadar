@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-08-25T13:10:29.315Z",
+  "scannedAt": "2026-08-25T14:03:05.964Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 67,
+  "totalAdded": 66,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 8
+      "added": 12
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 34
+      "added": 23
     },
     {
       "ok": true,
@@ -45,14 +45,14 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 5
+      "added": 4
     },
     {
       "ok": true,
@@ -66,7 +66,7 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 2
+      "added": 0
     },
     {
       "ok": true,
@@ -79,15 +79,15 @@
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 146,
-      "added": 0
+      "total": 147,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 16
+      "added": 22
     },
     {
       "ok": true,
@@ -101,14 +101,14 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 81,
-      "added": 1
+      "added": 0
     }
   ],
   "seoVerified": 1,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 213,
-  "fastWatchCount": 225,
+  "fastPassedCount": 211,
+  "fastWatchCount": 229,
   "fastRejectedCount": 30,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
@@ -121,7 +121,7 @@
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 345,
+  "seoPassedCount": 347,
   "trendEligibleCount": 145,
   "trendPendingCount": 145,
   "trendValidatedCount": 180,
@@ -153,7 +153,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-25T13:10:28.149Z",
+    "checkedAt": "2026-08-25T14:03:04.538Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -179,8 +179,8 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 248,
-    "duckduckgo+autocomplete": 102,
-    "evidence-fallback": 121
+    "evidence-fallback": 121,
+    "duckduckgo+autocomplete": 102
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -209,9 +209,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2616,
+    "online": 2617,
     "wiki": 66,
-    "pending": 318
+    "pending": 317
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
@@ -235,32 +235,29 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-25T13:10:52.970Z"
+    "ranAt": "2026-08-25T14:03:28.199Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 300,
-    "pendingCount": 2532,
-    "eligibleCount": 2,
-    "queueSize": 2,
-    "verified": 2,
+    "pendingCount": 2530,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
       "online": 0,
-      "wiki": 2,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 2,
+      "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Hapunan",
-      "ASTRAL COURT DX"
-    ],
-    "ranAt": "2026-08-25T13:10:53.674Z"
+    "verifiedNames": [],
+    "ranAt": "2026-08-25T14:03:28.939Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 2,
@@ -284,10 +281,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-25T13:10:56.383Z"
+    "ranAt": "2026-08-25T14:03:32.037Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-25T13:10:56.630Z",
+    "checkedAt": "2026-08-25T14:03:32.552Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
@@ -357,7 +354,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-25T13:10:56.550Z",
+        "checkedAt": "2026-08-25T14:03:32.266Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -377,7 +374,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-25T13:10:56.578Z",
+        "checkedAt": "2026-08-25T14:03:32.359Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -397,7 +394,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-25T13:10:56.604Z",
+        "checkedAt": "2026-08-25T14:03:32.459Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -417,7 +414,7 @@
         "planSearchesLeft": 0,
         "totalSearchesLeft": 0,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-25T13:10:56.629Z",
+        "checkedAt": "2026-08-25T14:03:32.552Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -535,7 +532,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-25T13:10:58.482Z"
+    "ranAt": "2026-08-25T14:03:34.612Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -581,14 +578,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-25T13:10:58.534Z"
+    "updatedAt": "2026-08-25T14:03:34.664Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-25T13:10:59.001Z",
+    "updatedAt": "2026-08-25T14:03:35.283Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -629,6 +626,6 @@
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-25T13:10:59.237Z"
+    "ranAt": "2026-08-25T14:03:35.535Z"
   }
 }

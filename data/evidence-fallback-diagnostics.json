@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-25T13:10:53.304Z",
+  "generatedAt": "2026-08-25T14:03:28.534Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2532,
+  "pendingSeo": 2530,
   "channelCounts": {
-    "pending": 219,
-    "online": 2303,
-    "wiki": 10
+    "pending": 218,
+    "online": 2304,
+    "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 219,
-    "online:pending": 2303,
-    "wiki:pending": 10
+    "pending:pending": 218,
+    "online:pending": 2304,
+    "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 218,
+    "pending:0": 217,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 352,
+    "online:2": 353,
     "online:1": 1949,
     "pending:1": 1,
-    "wiki:1": 9
+    "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2276
+      "count": 2275
     },
     {
       "id": "itch-newest-web",
-      "count": 2265
+      "count": 2266
     },
     {
       "id": "itch-new-feed",
-      "count": 2237
+      "count": 2236
     },
     {
       "id": "itch-new-popular-web",
-      "count": 329
+      "count": 330
     },
     {
       "id": "itch-popular",
-      "count": 329
+      "count": 330
     },
     {
       "id": "trends-rising-7d",
-      "count": 157
+      "count": 156
     },
     {
       "id": "trends-rising-30d",
-      "count": 87
+      "count": 86
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 53
+      "count": 52
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -88,19 +88,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 19
+      "count": 18
     },
     {
       "id": "steam-popular-new",
       "count": 8
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 5
-    },
-    {
-      "id": "steam-new",
-      "count": 5
     },
     {
       "id": "y8-new",
@@ -112,6 +104,14 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
       "count": 3
     },
     {
@@ -521,6 +521,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Where's my red ball",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Novafall: Idle Space Empire",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
