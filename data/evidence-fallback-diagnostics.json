@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-25T21:04:49.700Z",
+  "generatedAt": "2026-08-25T21:43:51.491Z",
   "totalCandidates": 3000,
   "pendingSeo": 2528,
   "channelCounts": {
-    "pending": 220,
-    "online": 2296,
+    "pending": 223,
+    "online": 2293,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 220,
-    "online:pending": 2296,
+    "pending:pending": 223,
+    "online:pending": 2293,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 219,
+    "pending:0": 222,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 355,
-    "online:1": 1939,
+    "online:2": 356,
+    "online:1": 1935,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2267
+      "count": 2264
     },
     {
       "id": "itch-newest-web",
-      "count": 2258
+      "count": 2255
     },
     {
       "id": "itch-new-feed",
-      "count": 2227
+      "count": 2224
     },
     {
       "id": "itch-new-popular-web",
-      "count": 332
+      "count": 333
     },
     {
       "id": "itch-popular",
-      "count": 332
+      "count": 333
     },
     {
       "id": "trends-rising-7d",
-      "count": 157
+      "count": 160
     },
     {
       "id": "trends-rising-30d",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 52
+      "count": 54
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 42
+      "count": 43
     },
     {
       "id": "newgrounds-latest",
@@ -464,6 +464,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "11 - Minute Hero",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dragon's Hoard Playtest",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
