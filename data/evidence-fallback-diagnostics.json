@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-25T23:03:49.323Z",
+  "generatedAt": "2026-08-25T23:36:54.535Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2528,
+  "pendingSeo": 2529,
   "channelCounts": {
     "pending": 223,
-    "online": 2293,
+    "online": 2294,
     "wiki": 12
   },
   "fastClassCounts": {
     "pending:pending": 223,
-    "online:pending": 2293,
+    "online:pending": 2294,
     "wiki:pending": 12
   },
   "strategicCounts": {
@@ -17,22 +17,22 @@
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 361,
-    "online:1": 1930,
+    "online:1": 1931,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2264
+      "count": 2265
     },
     {
       "id": "itch-newest-web",
-      "count": 2255
+      "count": 2256
     },
     {
       "id": "itch-new-feed",
-      "count": 2224
+      "count": 2225
     },
     {
       "id": "itch-new-popular-web",
@@ -445,25 +445,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The great balding",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1015,6 +996,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The great balding",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
