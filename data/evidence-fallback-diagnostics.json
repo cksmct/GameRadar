@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-25T17:45:13.856Z",
+  "generatedAt": "2026-08-25T18:05:36.838Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2531,
+  "pendingSeo": 2530,
   "channelCounts": {
-    "pending": 220,
-    "online": 2301,
-    "wiki": 10
+    "pending": 221,
+    "online": 2298,
+    "wiki": 11
   },
   "fastClassCounts": {
-    "pending:pending": 220,
-    "online:pending": 2301,
-    "wiki:pending": 10
+    "pending:pending": 221,
+    "online:pending": 2298,
+    "wiki:pending": 11
   },
   "strategicCounts": {
-    "pending:0": 219,
+    "pending:0": 220,
     "online:3": 2,
+    "online:1": 1941,
     "wiki:0": 1,
-    "online:2": 353,
-    "online:1": 1946,
+    "online:2": 355,
     "pending:1": 1,
-    "wiki:1": 9
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2272
+      "count": 2269
     },
     {
       "id": "itch-newest-web",
-      "count": 2263
+      "count": 2260
     },
     {
       "id": "itch-new-feed",
-      "count": 2233
+      "count": 2230
     },
     {
       "id": "itch-new-popular-web",
-      "count": 330
+      "count": 332
     },
     {
       "id": "itch-popular",
-      "count": 330
+      "count": 332
     },
     {
       "id": "trends-rising-7d",
-      "count": 158
+      "count": 159
     },
     {
       "id": "trends-rising-30d",
-      "count": 86
+      "count": 88
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,11 +60,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 43
+      "count": 44
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 41
+      "count": 42
     },
     {
       "id": "newgrounds-latest",
@@ -88,11 +88,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 18
+      "count": 19
     },
     {
       "id": "steam-popular-new",
-      "count": 10
+      "count": 11
     },
     {
       "id": "y8-new",
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Protect The Light Machine",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -445,6 +464,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Whiskers Inc. — Make Earth Purrfect Again",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1027,44 +1065,6 @@
     },
     {
       "name": "Dragon's Hoard Playtest",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "LCK Manager 26",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "MAGNI PARK",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
