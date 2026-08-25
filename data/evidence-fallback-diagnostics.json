@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-08-25T19:45:07.368Z",
+  "generatedAt": "2026-08-25T20:02:39.342Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2529,
+  "pendingSeo": 2528,
   "channelCounts": {
-    "pending": 221,
-    "online": 2295,
-    "wiki": 13
+    "pending": 220,
+    "online": 2296,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 221,
-    "online:pending": 2295,
-    "wiki:pending": 13
+    "pending:pending": 220,
+    "online:pending": 2296,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 220,
+    "pending:0": 219,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 355,
-    "online:1": 1938,
-    "wiki:2": 1,
+    "online:1": 1939,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2266
+      "count": 2267
     },
     {
       "id": "itch-newest-web",
-      "count": 2257
+      "count": 2258
     },
     {
       "id": "itch-new-feed",
-      "count": 2226
+      "count": 2227
     },
     {
       "id": "itch-new-popular-web",
@@ -45,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 158
+      "count": 157
     },
     {
       "id": "trends-rising-30d",
-      "count": 88
+      "count": 87
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -57,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 53
+      "count": 52
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -89,19 +88,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 19
+      "count": 18
     },
     {
       "id": "steam-popular-new",
-      "count": 13
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
-      "count": 4
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -113,6 +104,14 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
       "count": 3
     },
     {
