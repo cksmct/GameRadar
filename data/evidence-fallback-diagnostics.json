@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-25T09:50:44.823Z",
+  "generatedAt": "2026-08-25T10:49:14.252Z",
   "totalCandidates": 3000,
   "pendingSeo": 2534,
   "channelCounts": {
-    "pending": 219,
+    "pending": 218,
     "online": 2307,
-    "wiki": 8
+    "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 219,
+    "pending:pending": 218,
     "online:pending": 2307,
-    "wiki:pending": 8
+    "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 218,
+    "pending:0": 217,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 351,
-    "online:1": 1954,
-    "pending:1": 1,
-    "wiki:1": 7
+    "wiki:1": 8,
+    "online:2": 353,
+    "online:1": 1952,
+    "pending:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2278
+      "count": 2277
     },
     {
       "id": "itch-newest-web",
-      "count": 2269
+      "count": 2268
     },
     {
       "id": "itch-new-feed",
-      "count": 2239
+      "count": 2238
     },
     {
       "id": "itch-new-popular-web",
-      "count": 328
+      "count": 329
     },
     {
       "id": "itch-popular",
-      "count": 328
+      "count": 329
     },
     {
       "id": "trends-rising-7d",
@@ -96,6 +96,14 @@
     },
     {
       "id": "y8-new",
+      "count": 5
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
       "count": 4
     },
     {
@@ -107,20 +115,16 @@
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
-      "count": 3
-    },
-    {
       "id": "steam-top-wishlist",
       "count": 2
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     },
     {
       "id": "crazygames-new",
@@ -464,6 +468,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "I have no pass but i must enter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1053,25 +1076,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "HALFLIGHT",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
