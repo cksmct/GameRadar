@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-26T16:58:48.235Z",
+  "generatedAt": "2026-08-26T19:19:21.679Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2524,
+  "pendingSeo": 2521,
   "channelCounts": {
-    "pending": 228,
-    "online": 2277,
-    "wiki": 19
+    "pending": 229,
+    "online": 2275,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 228,
-    "online:pending": 2277,
-    "wiki:pending": 19
+    "pending:pending": 229,
+    "online:pending": 2275,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 227,
+    "pending:0": 228,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 371,
-    "online:1": 1904,
-    "wiki:2": 2,
+    "online:2": 378,
+    "online:1": 1895,
+    "wiki:2": 1,
     "pending:1": 1,
-    "wiki:1": 16
+    "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2249
+      "count": 2246
     },
     {
       "id": "itch-newest-web",
-      "count": 2239
+      "count": 2237
     },
     {
       "id": "itch-new-feed",
-      "count": 2209
+      "count": 2206
     },
     {
       "id": "itch-new-popular-web",
-      "count": 348
+      "count": 355
     },
     {
       "id": "itch-popular",
-      "count": 348
+      "count": 355
     },
     {
       "id": "trends-rising-7d",
@@ -49,7 +49,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 93
+      "count": 94
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -61,7 +61,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 49
+      "count": 50
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -93,15 +93,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 17
     },
     {
       "id": "steam-latest-indie",
-      "count": 6
+      "count": 4
     },
     {
       "id": "steam-new",
-      "count": 6
+      "count": 4
     },
     {
       "id": "y8-new",
@@ -167,6 +167,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Runeclicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Still Dreaming",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -495,14 +533,14 @@
       ]
     },
     {
-      "name": "Roulette Idle",
+      "name": "SUPER YIPPIE CLICKER",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -514,14 +552,71 @@
       ]
     },
     {
-      "name": "Knight Shift",
+      "name": "Cherry Picking Bot Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PJSK: Surprises Abound's wish adventure",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Ashmarch",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "insignificance",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -978,101 +1073,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "microChess",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Jurassic Love",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "tamaemu",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Murder on the Fursonacon Express",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Black Hole Explorer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
