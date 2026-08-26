@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-25T23:59:11.617Z",
+  "generatedAt": "2026-08-26T01:58:19.094Z",
   "totalCandidates": 3000,
   "pendingSeo": 2529,
   "channelCounts": {
-    "pending": 223,
-    "online": 2294,
+    "pending": 225,
+    "online": 2292,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 223,
-    "online:pending": 2294,
+    "pending:pending": 225,
+    "online:pending": 2292,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 222,
+    "pending:0": 224,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 361,
-    "online:1": 1931,
+    "online:2": 365,
+    "online:1": 1925,
     "pending:1": 1,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2265
+      "count": 2263
     },
     {
       "id": "itch-newest-web",
-      "count": 2256
+      "count": 2254
     },
     {
       "id": "itch-new-feed",
-      "count": 2225
+      "count": 2223
     },
     {
       "id": "itch-new-popular-web",
-      "count": 338
+      "count": 341
     },
     {
       "id": "itch-popular",
-      "count": 338
+      "count": 341
     },
     {
       "id": "trends-rising-7d",
@@ -48,31 +48,31 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 87
+      "count": 92
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 67
+      "count": 68
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 54
+      "count": 55
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 44
+      "count": 48
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 43
+      "count": 42
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -84,11 +84,11 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 25
+      "count": 26
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 18
+      "count": 19
     },
     {
       "id": "steam-popular-new",
@@ -166,6 +166,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki.APK",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Hard Spinning Blades",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -418,25 +456,6 @@
       ]
     },
     {
-      "name": "Embers",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Underground Landlord",
       "channel": "online",
       "fastClass": "pending",
@@ -483,6 +502,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "BELTRUNNER (Web, Mac, Linux, Wii, DC)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -988,6 +1026,25 @@
       ]
     },
     {
+      "name": "Embers",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Provision",
       "channel": "online",
       "fastClass": "pending",
@@ -1015,63 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Legends Idle Orc Rising",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pieces of Escape",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Today's Star Is...",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
