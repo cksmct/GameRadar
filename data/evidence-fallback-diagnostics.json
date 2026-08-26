@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-26T01:58:19.094Z",
+  "generatedAt": "2026-08-26T03:17:36.621Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2529,
+  "pendingSeo": 2527,
   "channelCounts": {
-    "pending": 225,
-    "online": 2292,
+    "pending": 224,
+    "online": 2291,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 225,
-    "online:pending": 2292,
+    "pending:pending": 224,
+    "online:pending": 2291,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 224,
+    "pending:0": 223,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 365,
+    "online:2": 364,
     "online:1": 1925,
     "pending:1": 1,
     "wiki:1": 11
@@ -24,15 +24,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2263
+      "count": 2262
     },
     {
       "id": "itch-newest-web",
-      "count": 2254
+      "count": 2253
     },
     {
       "id": "itch-new-feed",
-      "count": 2223
+      "count": 2222
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 160
+      "count": 159
     },
     {
       "id": "trends-rising-30d",
-      "count": 92
+      "count": 91
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 68
+      "count": 67
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 48
+      "count": 47
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -68,11 +68,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
@@ -438,25 +438,6 @@
     },
     {
       "name": "Sketch Kingdom - Full Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Underground Landlord",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1053,6 +1034,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Underground Landlord",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
