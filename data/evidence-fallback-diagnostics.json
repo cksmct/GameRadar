@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-26T05:51:57.680Z",
+  "generatedAt": "2026-08-26T07:08:16.877Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2527,
+  "pendingSeo": 2526,
   "channelCounts": {
-    "pending": 226,
+    "pending": 225,
     "online": 2288,
     "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 226,
+    "pending:pending": 225,
     "online:pending": 2288,
     "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 225,
+    "pending:0": 224,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 364,
-    "online:1": 1922,
+    "online:2": 367,
+    "online:1": 1919,
     "pending:1": 1,
     "wiki:1": 12
   },
@@ -36,19 +36,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 341
+      "count": 344
     },
     {
       "id": "itch-popular",
-      "count": 341
+      "count": 344
     },
     {
       "id": "trends-rising-7d",
-      "count": 160
+      "count": 159
     },
     {
       "id": "trends-rising-30d",
-      "count": 92
+      "count": 91
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 42
+      "count": 41
     },
     {
       "id": "newgrounds-latest",
@@ -84,7 +84,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 26
+      "count": 25
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -171,6 +171,25 @@
       ]
     },
     {
+      "name": "Frozen Ground",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Sprunki.APK",
       "channel": "online",
       "fastClass": "pending",
@@ -236,6 +255,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Rattle Spring: Overture",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1034,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Underground Landlord",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The great balding",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
