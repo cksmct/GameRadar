@@ -1,55 +1,54 @@
 {
-  "generatedAt": "2026-08-26T19:19:21.679Z",
+  "generatedAt": "2026-08-26T22:31:01.642Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2521,
+  "pendingSeo": 2520,
   "channelCounts": {
     "pending": 229,
-    "online": 2275,
+    "online": 2274,
     "wiki": 17
   },
   "fastClassCounts": {
     "pending:pending": 229,
-    "online:pending": 2275,
+    "online:pending": 2274,
     "wiki:pending": 17
   },
   "strategicCounts": {
     "pending:0": 228,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 378,
-    "online:1": 1895,
-    "wiki:2": 1,
+    "online:2": 381,
+    "online:1": 1891,
     "pending:1": 1,
-    "wiki:1": 15
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2246
+      "count": 2245
     },
     {
       "id": "itch-newest-web",
-      "count": 2237
+      "count": 2236
     },
     {
       "id": "itch-new-feed",
-      "count": 2206
+      "count": 2205
     },
     {
       "id": "itch-new-popular-web",
-      "count": 355
+      "count": 358
     },
     {
       "id": "itch-popular",
-      "count": 355
+      "count": 358
     },
     {
       "id": "trends-rising-7d",
-      "count": 161
+      "count": 162
     },
     {
       "id": "trends-rising-30d",
-      "count": 94
+      "count": 93
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -61,11 +60,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 50
+      "count": 49
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 41
+      "count": 42
     },
     {
       "id": "newgrounds-latest",
@@ -96,14 +95,6 @@
       "count": 17
     },
     {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
-      "count": 4
-    },
-    {
       "id": "y8-new",
       "count": 4
     },
@@ -113,6 +104,14 @@
     },
     {
       "id": "itch-featured",
+      "count": 3
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
       "count": 3
     },
     {
@@ -172,7 +171,45 @@
       ]
     },
     {
+      "name": "Trillion Dollar Cart",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Runeclicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Kingdomsweeper",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -237,6 +274,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Liar's Door",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -477,25 +533,6 @@
     },
     {
       "name": "Your Other Half",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Into the Shimmer",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -989,6 +1026,25 @@
       ]
     },
     {
+      "name": "Into the Shimmer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Zero Pressure",
       "channel": "online",
       "fastClass": "pending",
@@ -1016,63 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "PW7A",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Polícia e Ladrão",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Down To Detonate",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
