@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-08-26T15:52:42.705Z",
+  "generatedAt": "2026-08-26T16:58:48.235Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2525,
+  "pendingSeo": 2524,
   "channelCounts": {
-    "pending": 229,
-    "online": 2280,
-    "wiki": 16
+    "pending": 228,
+    "online": 2277,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 229,
-    "online:pending": 2280,
-    "wiki:pending": 16
+    "pending:pending": 228,
+    "online:pending": 2277,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 228,
+    "pending:0": 227,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 371,
-    "online:1": 1907,
-    "wiki:2": 1,
+    "online:1": 1904,
+    "wiki:2": 2,
     "pending:1": 1,
-    "wiki:1": 14
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2251
+      "count": 2249
     },
     {
       "id": "itch-newest-web",
-      "count": 2242
+      "count": 2239
     },
     {
       "id": "itch-new-feed",
-      "count": 2211
+      "count": 2209
     },
     {
       "id": "itch-new-popular-web",
@@ -45,15 +45,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 162
+      "count": 161
     },
     {
       "id": "trends-rising-30d",
-      "count": 94
+      "count": 93
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 72
+      "count": 71
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -61,7 +61,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 50
+      "count": 49
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -93,15 +93,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 18
     },
     {
       "id": "steam-latest-indie",
-      "count": 4
+      "count": 6
     },
     {
       "id": "steam-new",
-      "count": 4
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -465,25 +465,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "PokéClicker: Winter Wishes",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -921,6 +902,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "PokéClicker: Winter Wishes",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
