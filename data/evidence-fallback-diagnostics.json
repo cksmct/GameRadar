@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-08-26T14:06:12.111Z",
+  "generatedAt": "2026-08-26T15:52:42.705Z",
   "totalCandidates": 3000,
   "pendingSeo": 2525,
   "channelCounts": {
-    "pending": 225,
-    "online": 2286,
-    "wiki": 14
+    "pending": 229,
+    "online": 2280,
+    "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 225,
-    "online:pending": 2286,
-    "wiki:pending": 14
+    "pending:pending": 229,
+    "online:pending": 2280,
+    "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 224,
+    "pending:0": 228,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 371,
-    "online:1": 1913,
+    "online:1": 1907,
+    "wiki:2": 1,
     "pending:1": 1,
-    "wiki:1": 13
+    "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2257
+      "count": 2251
     },
     {
       "id": "itch-newest-web",
-      "count": 2248
+      "count": 2242
     },
     {
       "id": "itch-new-feed",
-      "count": 2217
+      "count": 2211
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +45,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 159
+      "count": 162
     },
     {
       "id": "trends-rising-30d",
-      "count": 91
+      "count": 94
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 69
+      "count": 72
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -60,7 +61,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 48
+      "count": 50
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,11 +89,19 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 19
+      "count": 20
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 16
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     },
     {
       "id": "y8-new",
@@ -104,14 +113,6 @@
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
       "count": 3
     },
     {
@@ -521,25 +522,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Black Hole Explorer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1072,6 +1054,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Black Hole Explorer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
