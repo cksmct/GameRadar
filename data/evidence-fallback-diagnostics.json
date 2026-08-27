@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-08-26T22:31:01.642Z",
+  "generatedAt": "2026-08-27T03:34:27.777Z",
   "totalCandidates": 3000,
   "pendingSeo": 2520,
   "channelCounts": {
-    "pending": 229,
-    "online": 2274,
-    "wiki": 17
+    "pending": 236,
+    "online": 2273,
+    "wiki": 11
   },
   "fastClassCounts": {
-    "pending:pending": 229,
-    "online:pending": 2274,
-    "wiki:pending": 17
+    "pending:pending": 236,
+    "online:pending": 2273,
+    "wiki:pending": 11
   },
   "strategicCounts": {
-    "pending:0": 228,
+    "pending:0": 234,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 381,
-    "online:1": 1891,
-    "pending:1": 1,
-    "wiki:1": 16
+    "online:2": 382,
+    "online:1": 1889,
+    "pending:1": 2,
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2245
+      "count": 2244
     },
     {
       "id": "itch-newest-web",
-      "count": 2236
+      "count": 2235
     },
     {
       "id": "itch-new-feed",
-      "count": 2205
+      "count": 2204
     },
     {
       "id": "itch-new-popular-web",
-      "count": 358
+      "count": 359
     },
     {
       "id": "itch-popular",
-      "count": 358
+      "count": 359
     },
     {
       "id": "trends-rising-7d",
-      "count": 162
+      "count": 168
     },
     {
       "id": "trends-rising-30d",
-      "count": 93
+      "count": 97
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 71
+      "count": 74
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 54
+      "count": 55
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 49
+      "count": 50
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 42
+      "count": 44
     },
     {
       "id": "newgrounds-latest",
@@ -75,6 +75,10 @@
       "count": 29
     },
     {
+      "id": "trends-rising-30d-itch-io",
+      "count": 27
+    },
+    {
       "id": "newgrounds-daily-top",
       "count": 27
     },
@@ -83,28 +87,24 @@
       "count": 27
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 25
-    },
-    {
       "id": "trends-rising-30d-indie-game",
-      "count": 20
+      "count": 21
     },
     {
       "id": "steam-popular-new",
-      "count": 17
+      "count": 11
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 4
+    },
+    {
+      "id": "itch-featured",
+      "count": 4
     },
     {
       "id": "y8-new",
       "count": 4
-    },
-    {
-      "id": "itch-featured-feed",
-      "count": 3
-    },
-    {
-      "id": "itch-featured",
-      "count": 3
     },
     {
       "id": "steam-latest-indie",
@@ -475,25 +475,6 @@
       ]
     },
     {
-      "name": "Protect The Light Machine",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Pirate Themed Fishing",
       "channel": "online",
       "fastClass": "pending",
@@ -551,14 +532,14 @@
       ]
     },
     {
-      "name": "ValeFall",
+      "name": "Rosa Quest 2026",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -749,6 +730,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Protect The Light Machine",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
