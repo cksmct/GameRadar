@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-27T03:34:27.777Z",
+  "generatedAt": "2026-08-27T14:46:51.971Z",
   "totalCandidates": 3000,
   "pendingSeo": 2520,
   "channelCounts": {
     "pending": 236,
-    "online": 2273,
-    "wiki": 11
+    "online": 2269,
+    "wiki": 15
   },
   "fastClassCounts": {
     "pending:pending": 236,
-    "online:pending": 2273,
-    "wiki:pending": 11
+    "online:pending": 2269,
+    "wiki:pending": 15
   },
   "strategicCounts": {
     "pending:0": 234,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 382,
-    "online:1": 1889,
+    "online:2": 384,
+    "online:1": 1883,
     "pending:1": 2,
-    "wiki:1": 10
+    "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2244
+      "count": 2240
     },
     {
       "id": "itch-newest-web",
-      "count": 2235
+      "count": 2231
     },
     {
       "id": "itch-new-feed",
-      "count": 2204
+      "count": 2200
     },
     {
       "id": "itch-new-popular-web",
-      "count": 359
+      "count": 361
     },
     {
       "id": "itch-popular",
-      "count": 359
+      "count": 361
     },
     {
       "id": "trends-rising-7d",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 15
     },
     {
       "id": "itch-featured-feed",
@@ -456,6 +456,25 @@
       ]
     },
     {
+      "name": "The Challenge of Julie",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Mercy - Prototype",
       "channel": "online",
       "fastClass": "pending",
@@ -513,14 +532,14 @@
       ]
     },
     {
-      "name": "Your Other Half",
+      "name": "Dark Slayer — Pixel Hack & Slash",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -874,6 +893,25 @@
       ]
     },
     {
+      "name": "Your Other Half",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Department 98",
       "channel": "online",
       "fastClass": "pending",
@@ -1034,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Zero Pressure",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "PokéClicker: Winter Wishes",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
