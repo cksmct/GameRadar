@@ -1,66 +1,67 @@
 {
-  "generatedAt": "2026-08-27T14:46:51.971Z",
+  "generatedAt": "2026-08-28T00:03:43.080Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2520,
+  "pendingSeo": 2519,
   "channelCounts": {
-    "pending": 236,
-    "online": 2269,
-    "wiki": 15
+    "pending": 243,
+    "online": 2259,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 236,
-    "online:pending": 2269,
-    "wiki:pending": 15
+    "pending:pending": 243,
+    "online:pending": 2259,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 234,
+    "pending:0": 241,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 384,
-    "online:1": 1883,
+    "online:2": 386,
+    "online:1": 1871,
+    "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 14
+    "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2240
+      "count": 2229
     },
     {
       "id": "itch-newest-web",
-      "count": 2231
+      "count": 2220
     },
     {
       "id": "itch-new-feed",
-      "count": 2200
+      "count": 2189
     },
     {
       "id": "itch-new-popular-web",
-      "count": 361
+      "count": 362
     },
     {
       "id": "itch-popular",
-      "count": 361
+      "count": 362
     },
     {
       "id": "trends-rising-7d",
-      "count": 168
+      "count": 174
     },
     {
       "id": "trends-rising-30d",
-      "count": 97
+      "count": 100
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 74
+      "count": 78
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 55
+      "count": 57
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 50
+      "count": 52
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,11 +89,15 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 21
+      "count": 22
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 17
+    },
+    {
+      "id": "y8-new",
+      "count": 5
     },
     {
       "id": "itch-featured-feed",
@@ -103,16 +108,16 @@
       "count": 4
     },
     {
-      "id": "y8-new",
+      "id": "steam-latest-indie",
       "count": 4
     },
     {
-      "id": "steam-latest-indie",
-      "count": 3
+      "id": "steam-new",
+      "count": 4
     },
     {
-      "id": "steam-new",
-      "count": 3
+      "id": "crazygames-new",
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -120,10 +125,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -172,6 +173,25 @@
     },
     {
       "name": "Trillion Dollar Cart",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "TrustMe Social™",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -437,25 +457,6 @@
       ]
     },
     {
-      "name": "Rattle Spring: Overture",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "The Challenge of Julie",
       "channel": "online",
       "fastClass": "pending",
@@ -476,44 +477,6 @@
     },
     {
       "name": "Mercy - Prototype",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pirate Themed Fishing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki:Colors Like you Wanted",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -703,6 +666,25 @@
       ]
     },
     {
+      "name": "Rattle Spring: Overture",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Elite Soccer Manager",
       "channel": "online",
       "fastClass": "pending",
@@ -779,25 +761,6 @@
       ]
     },
     {
-      "name": "I have no pass but i must enter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -844,6 +807,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Pirate Themed Fishing",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki:Colors Like you Wanted",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
