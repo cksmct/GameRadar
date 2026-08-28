@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-28T06:08:08.534Z",
+  "generatedAt": "2026-08-28T11:22:26.360Z",
   "totalCandidates": 3000,
   "pendingSeo": 2517,
   "channelCounts": {
-    "pending": 243,
-    "online": 2258,
+    "pending": 246,
+    "online": 2255,
     "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 243,
-    "online:pending": 2258,
+    "pending:pending": 246,
+    "online:pending": 2255,
     "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 241,
+    "pending:0": 244,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 387,
-    "online:1": 1869,
+    "online:2": 390,
+    "online:1": 1863,
     "pending:1": 2,
     "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2229
+      "count": 2226
     },
     {
       "id": "itch-newest-web",
-      "count": 2220
+      "count": 2217
     },
     {
       "id": "itch-new-feed",
-      "count": 2189
+      "count": 2186
     },
     {
       "id": "itch-new-popular-web",
-      "count": 364
+      "count": 366
     },
     {
       "id": "itch-popular",
-      "count": 364
+      "count": 366
     },
     {
       "id": "trends-rising-7d",
-      "count": 175
+      "count": 178
     },
     {
       "id": "trends-rising-30d",
@@ -52,11 +52,11 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 79
+      "count": 82
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 57
+      "count": 58
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -95,15 +95,15 @@
       "count": 16
     },
     {
+      "id": "y8-new",
+      "count": 5
+    },
+    {
       "id": "itch-featured-feed",
       "count": 4
     },
     {
       "id": "itch-featured",
-      "count": 4
-    },
-    {
-      "id": "y8-new",
       "count": 4
     },
     {
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Mines",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -491,6 +510,25 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Core!1!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1034,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sharpest Spear",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "DEXFUSAL",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
