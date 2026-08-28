@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-08-28T00:03:43.080Z",
+  "generatedAt": "2026-08-28T06:08:08.534Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2519,
+  "pendingSeo": 2517,
   "channelCounts": {
     "pending": 243,
-    "online": 2259,
-    "wiki": 17
+    "online": 2258,
+    "wiki": 16
   },
   "fastClassCounts": {
     "pending:pending": 243,
-    "online:pending": 2259,
-    "wiki:pending": 17
+    "online:pending": 2258,
+    "wiki:pending": 16
   },
   "strategicCounts": {
     "pending:0": 241,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 386,
-    "online:1": 1871,
-    "wiki:2": 1,
+    "online:2": 387,
+    "online:1": 1869,
     "pending:1": 2,
     "wiki:1": 15
   },
@@ -37,23 +36,23 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 362
+      "count": 364
     },
     {
       "id": "itch-popular",
-      "count": 362
+      "count": 364
     },
     {
       "id": "trends-rising-7d",
-      "count": 174
+      "count": 175
     },
     {
       "id": "trends-rising-30d",
-      "count": 100
+      "count": 102
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 78
+      "count": 79
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -61,7 +60,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 52
+      "count": 53
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -77,7 +76,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 27
+      "count": 28
     },
     {
       "id": "newgrounds-daily-top",
@@ -93,11 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 17
-    },
-    {
-      "id": "y8-new",
-      "count": 5
+      "count": 16
     },
     {
       "id": "itch-featured-feed",
@@ -108,16 +103,16 @@
       "count": 4
     },
     {
-      "id": "steam-latest-indie",
+      "id": "y8-new",
       "count": 4
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 4
-    },
-    {
-      "id": "crazygames-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "lagged-new",
@@ -125,6 +120,10 @@
     },
     {
       "id": "steam-top-wishlist",
+      "count": 1
+    },
+    {
+      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -381,25 +380,6 @@
       ]
     },
     {
-      "name": "Hard Spinning Blades",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Quarterheart",
       "channel": "online",
       "fastClass": "pending",
@@ -481,6 +461,44 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Color Cascade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Crash Miner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -636,6 +654,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Hard Spinning Blades",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1035,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Steal the Core",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Into the Shimmer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
