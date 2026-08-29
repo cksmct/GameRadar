@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-08-28T21:31:49.280Z",
+  "generatedAt": "2026-08-29T03:23:06.198Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2516,
+  "pendingSeo": 2515,
   "channelCounts": {
-    "pending": 247,
-    "online": 2249,
-    "wiki": 20
+    "pending": 250,
+    "online": 2251,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 247,
-    "online:pending": 2249,
-    "wiki:pending": 20
+    "pending:pending": 250,
+    "online:pending": 2251,
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 245,
+    "pending:0": 248,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 390,
-    "online:1": 1857,
+    "online:1": 1859,
     "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 18
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2220
+      "count": 2222
     },
     {
       "id": "itch-newest-web",
-      "count": 2211
+      "count": 2213
     },
     {
       "id": "itch-new-feed",
-      "count": 2180
+      "count": 2182
     },
     {
       "id": "itch-new-popular-web",
@@ -45,27 +45,27 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 179
+      "count": 182
     },
     {
       "id": "trends-rising-30d",
-      "count": 104
+      "count": 106
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 83
+      "count": 84
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 58
+      "count": 59
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 55
+      "count": 56
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 44
+      "count": 45
     },
     {
       "id": "newgrounds-latest",
@@ -89,11 +89,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 22
+      "count": 23
     },
     {
       "id": "steam-popular-new",
-      "count": 20
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -287,82 +287,6 @@
     },
     {
       "name": "Jump Army",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki: REVAMPED",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Liar's Door",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Frozen Ground",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki.APK",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -590,6 +514,63 @@
       ]
     },
     {
+      "name": "Sprunki: REVAMPED",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Liar's Door",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Frozen Ground",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "BELTRUNNER (Web, Mac, Linux, Wii, DC)",
       "channel": "online",
       "fastClass": "pending",
@@ -598,6 +579,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki.APK",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [

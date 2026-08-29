@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-08-28T21:31:17.348Z",
+  "scannedAt": "2026-08-29T03:22:35.342Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 218,
+  "totalAdded": 160,
   "sources": [
     {
       "ok": true,
@@ -17,7 +17,7 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 10
+      "added": 4
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 50
+      "added": 5
     },
     {
       "ok": true,
@@ -66,28 +66,28 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 11
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 3
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
       "total": 146,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 45
+      "added": 38
     },
     {
       "ok": true,
@@ -107,43 +107,43 @@
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 5
+      "total": 9,
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 14,
-      "added": 3
+      "total": 18,
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 8,
-      "added": 3
+      "total": 9,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 10,
+      "total": 7,
       "added": 4
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 10,
-      "added": 5
+      "total": 9,
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 18,
-      "added": 4
+      "total": 17,
+      "added": 5
     }
   ],
   "seoVerified": 0,
@@ -151,7 +151,7 @@
   "fastModelVersion": 3,
   "fastPassedCount": 218,
   "fastWatchCount": 227,
-  "fastRejectedCount": 39,
+  "fastRejectedCount": 40,
   "youtubeEnabled": true,
   "youtubeConfigured": true,
   "youtubeVerified": 0,
@@ -163,9 +163,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 360,
-  "trendEligibleCount": 152,
-  "trendPendingCount": 152,
+  "seoPassedCount": 361,
+  "trendEligibleCount": 153,
+  "trendPendingCount": 153,
   "trendValidatedCount": 180,
   "risingCount": 2,
   "globalRisingCount": 0,
@@ -173,9 +173,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 1,
-    "watch": 339,
+    "watch": 338,
     "reject": 0,
-    "pending": 2660,
+    "pending": 2661,
     "error": 0
   },
   "trendProvider": "serpapi+searchapi",
@@ -188,7 +188,7 @@
     "enabled": true,
     "month": "2026-08",
     "monthUsed": 245,
-    "day": "2026-08-28",
+    "day": "2026-08-29",
     "dayUsed": 0,
     "monthlyLimit": 245,
     "dailyLimit": 245,
@@ -196,7 +196,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-08-28T21:31:16.052Z",
+    "checkedAt": "2026-08-29T03:22:34.092Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -222,8 +222,8 @@
   "seoProvider": "serper-google-search",
   "seoProviderCounts": {
     "serper+autocomplete": 248,
-    "evidence-fallback": 134,
-    "duckduckgo+autocomplete": 104
+    "duckduckgo+autocomplete": 104,
+    "evidence-fallback": 135
   },
   "serperConfigured": true,
   "serperUsage": {
@@ -240,7 +240,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-08-28",
+    "day": "2026-08-29",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -252,16 +252,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2567,
-    "wiki": 85,
-    "pending": 348
+    "online": 2569,
+    "wiki": 80,
+    "pending": 351
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
     "watch": 1,
-    "weak": 83
+    "weak": 78
   },
   "serperVerification": {
     "rushMode": true,
@@ -274,7 +274,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 90,
+    "queueSize": 89,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -284,12 +284,12 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-08-28T21:31:48.939Z"
+    "ranAt": "2026-08-29T03:23:05.862Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2516,
+    "pendingCount": 2515,
     "eligibleCount": 1,
     "queueSize": 1,
     "verified": 1,
@@ -300,15 +300,15 @@
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 1,
-      "weak": 0,
+      "watch": 0,
+      "weak": 1,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Allumeria"
+      "House 2"
     ],
-    "ranAt": "2026-08-28T21:31:49.689Z"
+    "ranAt": "2026-08-29T03:23:06.573Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -332,16 +332,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-08-28T21:31:52.435Z"
+    "ranAt": "2026-08-29T03:23:09.360Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-08-28T21:31:52.710Z",
+    "checkedAt": "2026-08-29T03:23:09.607Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 0,
+    "totalIndependentSearchesLeft": 1000,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -350,9 +350,9 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "totalSearchesLeft": 0,
-        "renewalDate": "2026-08-29"
+        "thisMonthUsage": 0,
+        "totalSearchesLeft": 250,
+        "renewalDate": "2026-09-29"
       },
       {
         "accountFingerprint": "5124b31098ad",
@@ -361,9 +361,9 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "totalSearchesLeft": 0,
-        "renewalDate": "2026-08-29"
+        "thisMonthUsage": 0,
+        "totalSearchesLeft": 250,
+        "renewalDate": "2026-09-29"
       },
       {
         "accountFingerprint": "fa061d828750",
@@ -372,9 +372,9 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "totalSearchesLeft": 0,
-        "renewalDate": "2026-08-29"
+        "thisMonthUsage": 0,
+        "totalSearchesLeft": 250,
+        "renewalDate": "2026-09-29"
       },
       {
         "accountFingerprint": "c56df0ffdca3",
@@ -383,9 +383,9 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "totalSearchesLeft": 0,
-        "renewalDate": "2026-08-29"
+        "thisMonthUsage": 0,
+        "totalSearchesLeft": 250,
+        "renewalDate": "2026-09-29"
       }
     ],
     "slots": [
@@ -395,17 +395,17 @@
         "configured": true,
         "ok": true,
         "accountFingerprint": "5dfaa092f348",
-        "accountStatus": "Your account has run out of searches.",
+        "accountStatus": "Active",
         "planId": "free",
         "planName": "Free Plan",
         "planMonthlyPrice": 0,
-        "renewalDate": "2026-08-29",
+        "renewalDate": "2026-09-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "planSearchesLeft": 0,
-        "totalSearchesLeft": 0,
+        "thisMonthUsage": 0,
+        "planSearchesLeft": 250,
+        "totalSearchesLeft": 250,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-28T21:31:52.586Z",
+        "checkedAt": "2026-08-29T03:23:09.531Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -415,17 +415,17 @@
         "configured": true,
         "ok": true,
         "accountFingerprint": "5124b31098ad",
-        "accountStatus": "Your account has run out of searches.",
+        "accountStatus": "Active",
         "planId": "free",
         "planName": "Free Plan",
         "planMonthlyPrice": 0,
-        "renewalDate": "2026-08-29",
+        "renewalDate": "2026-09-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "planSearchesLeft": 0,
-        "totalSearchesLeft": 0,
+        "thisMonthUsage": 0,
+        "planSearchesLeft": 250,
+        "totalSearchesLeft": 250,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-28T21:31:52.612Z",
+        "checkedAt": "2026-08-29T03:23:09.556Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -435,17 +435,17 @@
         "configured": true,
         "ok": true,
         "accountFingerprint": "fa061d828750",
-        "accountStatus": "Your account has run out of searches.",
+        "accountStatus": "Active",
         "planId": "free",
         "planName": "Free Plan",
         "planMonthlyPrice": 0,
-        "renewalDate": "2026-08-29",
+        "renewalDate": "2026-09-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "planSearchesLeft": 0,
-        "totalSearchesLeft": 0,
+        "thisMonthUsage": 0,
+        "planSearchesLeft": 250,
+        "totalSearchesLeft": 250,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-28T21:31:52.686Z",
+        "checkedAt": "2026-08-29T03:23:09.580Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -455,17 +455,17 @@
         "configured": true,
         "ok": true,
         "accountFingerprint": "c56df0ffdca3",
-        "accountStatus": "Your account has run out of searches.",
+        "accountStatus": "Active",
         "planId": "free",
         "planName": "Free Plan",
         "planMonthlyPrice": 0,
-        "renewalDate": "2026-08-29",
+        "renewalDate": "2026-09-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 250,
-        "planSearchesLeft": 0,
-        "totalSearchesLeft": 0,
+        "thisMonthUsage": 0,
+        "planSearchesLeft": 250,
+        "totalSearchesLeft": 250,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-08-28T21:31:52.710Z",
+        "checkedAt": "2026-08-29T03:23:09.606Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -514,13 +514,13 @@
       "pending": 0
     },
     "pendingByTier": {
-      "strong": 94,
-      "secondary": 154,
-      "strategic": 41
+      "strong": 95,
+      "secondary": 152,
+      "strategic": 43
     },
     "pendingByChannel": {
       "online": 225,
-      "wiki": 64
+      "wiki": 65
     },
     "verifiedNames": [],
     "caps": {
@@ -583,7 +583,7 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-08-28T21:31:54.707Z"
+    "ranAt": "2026-08-29T03:23:11.516Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
@@ -591,7 +591,7 @@
     "configuredSlots": 4,
     "month": "2026-08",
     "monthUsed": 980,
-    "day": "2026-08-28",
+    "day": "2026-08-29",
     "dayUsed": 0,
     "monthlyLimit": 980,
     "dailyLimit": 980,
@@ -629,14 +629,14 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-08-28T21:31:54.753Z"
+    "updatedAt": "2026-08-29T03:23:11.564Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
     "enabled": true,
     "totalUsed": 89,
     "totalLimit": 95,
-    "updatedAt": "2026-08-28T21:31:55.223Z",
+    "updatedAt": "2026-08-29T03:23:12.105Z",
     "lastError": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
   },
   "searchApiTrendsVerification": {
@@ -663,12 +663,12 @@
     },
     "pendingByChannel": {
       "online": 225,
-      "wiki": 64
+      "wiki": 65
     },
     "pendingByTier": {
-      "strong": 94,
-      "secondary": 154,
-      "strategic": 41
+      "strong": 95,
+      "secondary": 152,
+      "strategic": 43
     },
     "verifiedNames": [],
     "errorNames": [
@@ -677,6 +677,6 @@
         "error": "You have used all of the searches for the month. Please upgrade your plan on SearchApi.io."
       }
     ],
-    "ranAt": "2026-08-28T21:31:55.465Z"
+    "ranAt": "2026-08-29T03:23:12.346Z"
   }
 }
