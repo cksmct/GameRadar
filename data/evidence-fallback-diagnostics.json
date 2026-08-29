@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-29T10:25:48.944Z",
+  "generatedAt": "2026-08-29T15:20:19.209Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2514,
+  "pendingSeo": 2513,
   "channelCounts": {
-    "pending": 250,
-    "online": 2250,
-    "wiki": 14
+    "pending": 252,
+    "online": 2248,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 250,
-    "online:pending": 2250,
-    "wiki:pending": 14
+    "pending:pending": 252,
+    "online:pending": 2248,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 248,
+    "pending:0": 250,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 390,
-    "online:1": 1858,
+    "online:1": 1856,
     "pending:1": 2,
-    "wiki:1": 13
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2222
+      "count": 2219
     },
     {
       "id": "itch-newest-web",
-      "count": 2212
+      "count": 2210
     },
     {
       "id": "itch-new-feed",
-      "count": 2182
+      "count": 2179
     },
     {
       "id": "itch-new-popular-web",
@@ -44,23 +44,23 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 182
+      "count": 184
     },
     {
       "id": "trends-rising-30d",
-      "count": 108
+      "count": 111
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 84
+      "count": 85
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 59
+      "count": 60
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 56
+      "count": 58
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -88,7 +88,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 24
+      "count": 25
     },
     {
       "id": "steam-popular-new",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "lagged-new",
@@ -179,63 +179,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Trillion Dollar Cart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Runeclicker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Kingdomsweeper",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -380,6 +323,25 @@
       ]
     },
     {
+      "name": "Trillion Dollar Cart",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "TrustMe Social™",
       "channel": "online",
       "fastClass": "pending",
@@ -426,6 +388,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Runeclicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Kingdomsweeper",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
