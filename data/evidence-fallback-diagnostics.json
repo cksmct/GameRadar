@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T03:23:06.198Z",
+  "generatedAt": "2026-08-29T10:25:48.944Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2515,
+  "pendingSeo": 2514,
   "channelCounts": {
     "pending": 250,
-    "online": 2251,
+    "online": 2250,
     "wiki": 14
   },
   "fastClassCounts": {
     "pending:pending": 250,
-    "online:pending": 2251,
+    "online:pending": 2250,
     "wiki:pending": 14
   },
   "strategicCounts": {
@@ -17,10 +17,9 @@
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 390,
-    "online:1": 1859,
-    "wiki:2": 1,
+    "online:1": 1858,
     "pending:1": 2,
-    "wiki:1": 12
+    "wiki:1": 13
   },
   "topSources": [
     {
@@ -29,7 +28,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 2213
+      "count": 2212
     },
     {
       "id": "itch-new-feed",
@@ -49,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 106
+      "count": 108
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -68,16 +67,16 @@
       "count": 45
     },
     {
+      "id": "trends-rising-30d-itch-io",
+      "count": 29
+    },
+    {
       "id": "newgrounds-latest",
       "count": 29
     },
     {
       "id": "newgrounds-new",
       "count": 29
-    },
-    {
-      "id": "trends-rising-30d-itch-io",
-      "count": 28
     },
     {
       "id": "newgrounds-daily-top",
@@ -89,11 +88,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 23
+      "count": 24
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -104,15 +103,15 @@
       "count": 4
     },
     {
+      "id": "y8-new",
+      "count": 4
+    },
+    {
       "id": "steam-latest-indie",
       "count": 4
     },
     {
       "id": "steam-new",
-      "count": 4
-    },
-    {
-      "id": "y8-new",
       "count": 4
     },
     {
@@ -210,25 +209,6 @@
       ]
     },
     {
-      "name": "TrustMe Social™",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Runeclicker",
       "channel": "online",
       "fastClass": "pending",
@@ -256,44 +236,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Still Dreaming",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Jump Army",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -438,6 +380,25 @@
       ]
     },
     {
+      "name": "TrustMe Social™",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Cherry Picking Bot Demo",
       "channel": "online",
       "fastClass": "pending",
@@ -495,6 +456,25 @@
       ]
     },
     {
+      "name": "Still Dreaming",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "insignificance",
       "channel": "online",
       "fastClass": "pending",
@@ -503,6 +483,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Jump Army",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
