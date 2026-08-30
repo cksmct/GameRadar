@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-30T17:46:24.520Z",
+  "generatedAt": "2026-08-30T20:04:37.847Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2512,
+  "pendingSeo": 2511,
   "channelCounts": {
-    "wiki": 8,
     "pending": 258,
-    "online": 2246
+    "online": 2246,
+    "wiki": 7
   },
   "fastClassCounts": {
-    "wiki:pending": 8,
     "pending:pending": 258,
-    "online:pending": 2246
+    "online:pending": 2246,
+    "wiki:pending": 7
   },
   "strategicCounts": {
-    "wiki:1": 7,
     "pending:0": 257,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 396,
-    "online:1": 1848,
-    "pending:1": 1
+    "online:2": 398,
+    "online:1": 1846,
+    "pending:1": 1,
+    "wiki:1": 6
   },
   "topSources": [
     {
@@ -36,15 +36,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 373
+      "count": 375
     },
     {
       "id": "itch-popular",
-      "count": 373
+      "count": 375
     },
     {
       "id": "trends-rising-7d",
-      "count": 192
+      "count": 191
     },
     {
       "id": "trends-rising-30d",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 62
+      "count": 61
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 7
     },
     {
       "id": "y8-new",
@@ -179,6 +179,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "SWALLET",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "IDOLIFE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1034,44 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Slopmachine",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Your Other Half",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
