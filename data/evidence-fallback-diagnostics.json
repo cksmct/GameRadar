@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-30T13:18:09.444Z",
+  "generatedAt": "2026-08-30T17:46:24.520Z",
   "totalCandidates": 3000,
   "pendingSeo": 2512,
   "channelCounts": {
+    "wiki": 8,
     "pending": 258,
-    "online": 2247,
-    "wiki": 7
+    "online": 2246
   },
   "fastClassCounts": {
+    "wiki:pending": 8,
     "pending:pending": 258,
-    "online:pending": 2247,
-    "wiki:pending": 7
+    "online:pending": 2246
   },
   "strategicCounts": {
+    "wiki:1": 7,
     "pending:0": 257,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 395,
-    "online:1": 1850,
-    "pending:1": 1,
-    "wiki:1": 6
+    "online:2": 396,
+    "online:1": 1848,
+    "pending:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2218
+      "count": 2217
     },
     {
       "id": "itch-newest-web",
-      "count": 2209
+      "count": 2208
     },
     {
       "id": "itch-new-feed",
-      "count": 2178
+      "count": 2177
     },
     {
       "id": "itch-new-popular-web",
-      "count": 372
+      "count": 373
     },
     {
       "id": "itch-popular",
-      "count": 372
+      "count": 373
     },
     {
       "id": "trends-rising-7d",
-      "count": 191
+      "count": 192
     },
     {
       "id": "trends-rising-30d",
-      "count": 112
+      "count": 113
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,11 +56,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 61
+      "count": 62
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 59
+      "count": 60
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 7
+      "count": 8
     },
     {
       "id": "y8-new",
@@ -166,6 +166,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Love Rush",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Department 98",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
