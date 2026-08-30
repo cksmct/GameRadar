@@ -1,81 +1,81 @@
 {
-  "generatedAt": "2026-08-30T01:40:27.333Z",
+  "generatedAt": "2026-08-30T07:25:47.528Z",
   "totalCandidates": 3000,
   "pendingSeo": 2513,
   "channelCounts": {
-    "pending": 250,
-    "online": 2256,
+    "pending": 256,
+    "online": 2250,
     "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 250,
-    "online:pending": 2256,
+    "pending:pending": 256,
+    "online:pending": 2250,
     "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 249,
+    "pending:0": 255,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 393,
-    "online:1": 1861,
+    "online:2": 396,
+    "online:1": 1852,
     "pending:1": 1,
     "wiki:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2227
+      "count": 2220
     },
     {
       "id": "itch-newest-web",
-      "count": 2218
+      "count": 2211
     },
     {
       "id": "itch-new-feed",
-      "count": 2187
+      "count": 2180
     },
     {
       "id": "itch-new-popular-web",
-      "count": 370
+      "count": 373
     },
     {
       "id": "itch-popular",
-      "count": 370
+      "count": 373
     },
     {
       "id": "trends-rising-7d",
-      "count": 184
+      "count": 190
     },
     {
       "id": "trends-rising-30d",
-      "count": 110
+      "count": 111
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 85
+      "count": 88
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 60
+      "count": 61
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 57
+      "count": 58
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 45
-    },
-    {
-      "id": "trends-rising-30d-itch-io",
-      "count": 29
+      "count": 47
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
+      "count": 30
+    },
+    {
+      "id": "trends-rising-30d-itch-io",
       "count": 29
     },
     {
@@ -171,6 +171,25 @@
       ]
     },
     {
+      "name": "Thought Rot",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "The Big Suck Demo",
       "channel": "online",
       "fastClass": "pending",
@@ -195,6 +214,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Bowling demo",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -305,25 +343,6 @@
     },
     {
       "name": "Crash Miner",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dark Slayer — Pixel Hack & Slash",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1053,25 +1072,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "ABSOLUTE HIGHLOAD",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
