@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-08-31T07:02:14.225Z",
+  "generatedAt": "2026-08-31T15:05:24.513Z",
   "totalCandidates": 3000,
   "pendingSeo": 2511,
   "channelCounts": {
-    "pending": 260,
-    "online": 2249,
-    "wiki": 2
+    "pending": 262,
+    "online": 2246,
+    "wiki": 3
   },
   "fastClassCounts": {
-    "pending:pending": 260,
-    "online:pending": 2249,
-    "wiki:pending": 2
+    "pending:pending": 262,
+    "online:pending": 2246,
+    "wiki:pending": 3
   },
   "strategicCounts": {
-    "pending:0": 259,
+    "pending:0": 261,
     "online:3": 2,
     "online:2": 398,
     "wiki:0": 1,
-    "online:1": 1849,
+    "online:1": 1846,
+    "wiki:2": 1,
     "pending:1": 1,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2220
+      "count": 2217
     },
     {
       "id": "itch-newest-web",
-      "count": 2211
+      "count": 2208
     },
     {
       "id": "itch-new-feed",
-      "count": 2180
+      "count": 2177
     },
     {
       "id": "itch-new-popular-web",
@@ -44,19 +45,19 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 192
+      "count": 193
     },
     {
       "id": "trends-rising-30d",
-      "count": 115
+      "count": 117
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 88
+      "count": 89
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 61
+      "count": 62
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -68,7 +69,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 30
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -92,11 +93,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 4
+      "count": 5
     },
     {
       "id": "steam-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "y8-new",
@@ -112,7 +113,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "lagged-new",
@@ -268,14 +269,14 @@
       ]
     },
     {
-      "name": "The Big Suck Demo",
+      "name": "Incremental Bowling demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -287,14 +288,14 @@
       ]
     },
     {
-      "name": "Incremental Bowling demo",
+      "name": "The Big Suck Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
