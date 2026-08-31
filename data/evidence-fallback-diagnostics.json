@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-31T00:51:53.935Z",
+  "generatedAt": "2026-08-31T07:02:14.225Z",
   "totalCandidates": 3000,
   "pendingSeo": 2511,
   "channelCounts": {
-    "pending": 259,
-    "online": 2250,
+    "pending": 260,
+    "online": 2249,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 259,
-    "online:pending": 2250,
+    "pending:pending": 260,
+    "online:pending": 2249,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 258,
+    "pending:0": 259,
     "online:3": 2,
-    "wiki:0": 1,
     "online:2": 398,
-    "online:1": 1850,
+    "wiki:0": 1,
+    "online:1": 1849,
     "pending:1": 1,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2221
+      "count": 2220
     },
     {
       "id": "itch-newest-web",
-      "count": 2212
+      "count": 2211
     },
     {
       "id": "itch-new-feed",
-      "count": 2181
+      "count": 2180
     },
     {
       "id": "itch-new-popular-web",
@@ -48,19 +48,19 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 114
+      "count": 115
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 88
     },
     {
-      "id": "trends-rising-7d-indie-game",
+      "id": "trends-rising-30d-horror-game",
       "count": 61
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 60
+      "id": "trends-rising-7d-indie-game",
+      "count": 61
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -91,6 +91,14 @@
       "count": 25
     },
     {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
+    },
+    {
       "id": "y8-new",
       "count": 4
     },
@@ -100,14 +108,6 @@
     },
     {
       "id": "itch-featured",
-      "count": 3
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 3
-    },
-    {
-      "id": "steam-new",
       "count": 3
     },
     {
@@ -168,6 +168,27 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Long Dives",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -266,25 +287,6 @@
       ]
     },
     {
-      "name": "Incremental Mines",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Incremental Bowling demo",
       "channel": "online",
       "fastClass": "pending",
@@ -350,6 +352,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Mines",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -958,25 +979,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Long Dives",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
