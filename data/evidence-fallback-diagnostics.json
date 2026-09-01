@@ -1,50 +1,51 @@
 {
-  "generatedAt": "2026-09-01T15:12:00.729Z",
+  "generatedAt": "2026-09-01T18:29:58.297Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2562,
+  "pendingSeo": 2561,
   "channelCounts": {
-    "pending": 273,
-    "online": 2266,
-    "wiki": 23
+    "online": 2276,
+    "pending": 271,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 273,
-    "online:pending": 2266,
-    "wiki:pending": 23
+    "online:pending": 2276,
+    "pending:pending": 271,
+    "wiki:pending": 14
   },
   "strategicCounts": {
+    "online:1": 1871,
     "pending:0": 268,
     "online:3": 2,
-    "online:2": 401,
+    "online:2": 403,
     "wiki:0": 1,
-    "online:1": 1863,
-    "pending:1": 5,
-    "wiki:1": 22
+    "wiki:2": 1,
+    "pending:1": 3,
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2232
+      "count": 2246
     },
     {
       "id": "itch-newest-web",
-      "count": 2223
+      "count": 2236
     },
     {
       "id": "itch-new-feed",
-      "count": 2192
+      "count": 2205
     },
     {
       "id": "itch-new-popular-web",
-      "count": 378
+      "count": 382
     },
     {
       "id": "itch-popular",
-      "count": 378
+      "count": 382
     },
     {
       "id": "trends-rising-7d",
-      "count": 202
+      "count": 204
     },
     {
       "id": "trends-rising-30d",
@@ -64,51 +65,51 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 51
+      "count": 53
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 31
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 31
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 31
-    },
-    {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 29
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 28
     },
     {
+      "id": "newgrounds-daily-top",
+      "count": 27
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 27
+    },
+    {
       "id": "steam-popular-new",
-      "count": 23
-    },
-    {
-      "id": "itch-featured-feed",
-      "count": 7
-    },
-    {
-      "id": "itch-featured",
-      "count": 7
+      "count": 13
     },
     {
       "id": "steam-latest-indie",
-      "count": 7
+      "count": 9
     },
     {
       "id": "steam-new",
-      "count": 7
+      "count": 9
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 5
+    },
+    {
+      "id": "itch-featured",
+      "count": 5
     },
     {
       "id": "y8-new",
@@ -189,6 +190,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Pongcremental",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Thock Factory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1029,44 +1068,6 @@
     },
     {
       "name": "Incremental Pain Profit",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Where's my red ball",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pirate Themed Fishing",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
