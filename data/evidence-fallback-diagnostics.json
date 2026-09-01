@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-09-01T10:27:46.700Z",
+  "generatedAt": "2026-09-01T15:12:00.729Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2564,
+  "pendingSeo": 2562,
   "channelCounts": {
-    "pending": 274,
-    "online": 2251,
-    "wiki": 39
+    "pending": 273,
+    "online": 2266,
+    "wiki": 23
   },
   "fastClassCounts": {
-    "pending:pending": 274,
-    "online:pending": 2251,
-    "wiki:pending": 39
+    "pending:pending": 273,
+    "online:pending": 2266,
+    "wiki:pending": 23
   },
   "strategicCounts": {
-    "pending:0": 267,
-    "online:1": 1849,
+    "pending:0": 268,
     "online:3": 2,
-    "online:2": 400,
+    "online:2": 401,
     "wiki:0": 1,
-    "pending:1": 7,
-    "wiki:1": 38
+    "online:1": 1863,
+    "pending:1": 5,
+    "wiki:1": 22
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2220
+      "count": 2232
     },
     {
       "id": "itch-newest-web",
-      "count": 2211
+      "count": 2223
     },
     {
       "id": "itch-new-feed",
-      "count": 2180
+      "count": 2192
     },
     {
       "id": "itch-new-popular-web",
-      "count": 375
+      "count": 378
     },
     {
       "id": "itch-popular",
-      "count": 375
+      "count": 378
     },
     {
       "id": "trends-rising-7d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 90
+      "count": 91
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,59 +64,59 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 52
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 39
+      "count": 51
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 31
     },
     {
+      "id": "newgrounds-daily-top",
+      "count": 31
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 31
+    },
+    {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "trends-rising-30d-indie-game",
       "count": 28
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 27
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 27
+      "id": "steam-popular-new",
+      "count": 23
     },
     {
       "id": "itch-featured-feed",
-      "count": 9
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 9
+      "count": 7
     },
     {
       "id": "steam-latest-indie",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 4
     },
     {
       "id": "lagged-new",
-      "count": 4
+      "count": 2
     },
     {
       "id": "steam-top-wishlist",
@@ -211,14 +211,33 @@
       ]
     },
     {
-      "name": "Thought Rot",
+      "name": "The Grand Book Archive: Tidy Up",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dystopia: The Jester's Obsession",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -257,6 +276,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Thought Rot",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1029,44 +1067,6 @@
     },
     {
       "name": "Pirate Themed Fishing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki:Colors Like you Wanted",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Fish Fishing",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,

@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-09-01T10:27:15.784Z",
+  "scannedAt": "2026-09-01T15:11:23.092Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 157,
+  "totalAdded": 194,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 32
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 5
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 36
+      "added": 35
     },
     {
       "ok": true,
@@ -52,7 +52,7 @@
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 32
+      "added": 28
     },
     {
       "ok": true,
@@ -66,14 +66,14 @@
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 5
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 1
+      "added": 0
     },
     {
       "ok": true,
@@ -87,69 +87,68 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 73,
-      "added": 32
+      "added": 37
     },
     {
       "ok": true,
       "sourceId": "gamepix-new",
       "sourceName": "GamePix 新游戏",
       "total": 60,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 0
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 11,
-      "added": 0
+      "total": 14,
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
       "total": 16,
-      "added": 2
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 4,
-      "added": 0
+      "total": 10,
+      "added": 7
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 7,
-      "added": 1
+      "total": 9,
+      "added": 4
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 9,
-      "added": 2
+      "total": 14,
+      "added": 9
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 20,
-      "added": 2
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 209,
+  "fastPassedCount": 211,
   "fastWatchCount": 225,
   "fastRejectedCount": 2,
   "youtubeEnabled": true,
@@ -163,8 +162,8 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 312,
-  "trendEligibleCount": 146,
+  "seoPassedCount": 314,
+  "trendEligibleCount": 148,
   "trendPendingCount": 60,
   "trendValidatedCount": 246,
   "risingCount": 3,
@@ -173,8 +172,8 @@
     "independent": 0,
     "test-now": 0,
     "page": 3,
-    "watch": 334,
-    "reject": 1,
+    "watch": 335,
+    "reject": 0,
     "pending": 2662,
     "error": 0
   },
@@ -195,7 +194,7 @@
   },
   "apifyConfigured": true,
   "apifyAccountStatus": {
-    "checkedAt": "2026-09-01T10:27:14.357Z",
+    "checkedAt": "2026-09-01T15:11:20.883Z",
     "configured": true,
     "ok": true,
     "provider": "apify",
@@ -251,16 +250,16 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2557,
-    "wiki": 68,
-    "pending": 375
+    "online": 2574,
+    "wiki": 52,
+    "pending": 374
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
     "watch": 1,
-    "weak": 66
+    "weak": 50
   },
   "serperVerification": {
     "rushMode": true,
@@ -283,33 +282,31 @@
     "errors": 0,
     "quotaStopped": true,
     "verifiedNames": [],
-    "ranAt": "2026-09-01T10:27:46.371Z"
+    "ranAt": "2026-09-01T15:12:00.449Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2564,
-    "eligibleCount": 3,
-    "queueSize": 3,
-    "verified": 3,
+    "pendingCount": 2562,
+    "eligibleCount": 1,
+    "queueSize": 1,
+    "verified": 1,
     "channelVerified": {
-      "online": 3,
+      "online": 1,
       "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 3,
+      "pass": 1,
       "watch": 0,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "insomnia",
-      "Shinobi Chronicles",
-      "Toca Coloring Book"
+      "〔Something〕"
     ],
-    "ranAt": "2026-09-01T10:27:47.087Z"
+    "ranAt": "2026-09-01T15:12:01.042Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -333,16 +330,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-09-01T10:27:49.725Z"
+    "ranAt": "2026-09-01T15:12:04.120Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-09-01T10:27:50.035Z",
+    "checkedAt": "2026-09-01T15:12:04.603Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 4,
     "workingKeys": 4,
     "uniqueAccountCount": 4,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 705,
+    "totalIndependentSearchesLeft": 702,
     "accounts": [
       {
         "accountFingerprint": "5dfaa092f348",
@@ -362,8 +359,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 50,
-        "totalSearchesLeft": 200,
+        "thisMonthUsage": 53,
+        "totalSearchesLeft": 197,
         "renewalDate": "2026-09-29"
       },
       {
@@ -406,7 +403,7 @@
         "planSearchesLeft": 5,
         "totalSearchesLeft": 5,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-09-01T10:27:49.967Z",
+        "checkedAt": "2026-09-01T15:12:04.318Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -422,11 +419,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-09-29",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 50,
-        "planSearchesLeft": 200,
-        "totalSearchesLeft": 200,
+        "thisMonthUsage": 53,
+        "planSearchesLeft": 197,
+        "totalSearchesLeft": 197,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-09-01T10:27:49.991Z",
+        "checkedAt": "2026-09-01T15:12:04.414Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -446,7 +443,7 @@
         "planSearchesLeft": 250,
         "totalSearchesLeft": 250,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-09-01T10:27:50.012Z",
+        "checkedAt": "2026-09-01T15:12:04.507Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -466,7 +463,7 @@
         "planSearchesLeft": 250,
         "totalSearchesLeft": 250,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-09-01T10:27:50.035Z",
+        "checkedAt": "2026-09-01T15:12:04.603Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -499,14 +496,14 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 4,
-    "remainingAtStart": 685,
+    "remainingAtStart": 682,
     "queueSize": 3,
     "verified": 3,
     "errors": 0,
     "quotaStopped": false,
     "tierCounts": {
-      "strong": 3,
-      "secondary": 0,
+      "strong": 2,
+      "secondary": 1,
       "strategic": 0
     },
     "channelVerified": {
@@ -524,9 +521,9 @@
       "wiki": 0
     },
     "verifiedNames": [
-      "Toca Coloring Book",
-      "Shinobi Chronicles",
-      "insomnia"
+      "〔Something〕",
+      "Stickman Hook",
+      "Spacebar Clicker"
     ],
     "caps": {
       "online": 999,
@@ -588,16 +585,16 @@
         "quotaStopped": false
       }
     },
-    "ranAt": "2026-09-01T10:28:01.648Z"
+    "ranAt": "2026-09-01T15:12:18.893Z"
   },
   "serpApiConfiguredSlots": 4,
   "serpApiPoolUsage": {
     "enabled": true,
     "configuredSlots": 4,
     "month": "2026-09",
-    "monthUsed": 298,
+    "monthUsed": 301,
     "day": "2026-09-01",
-    "dayUsed": 298,
+    "dayUsed": 301,
     "monthlyLimit": 980,
     "dailyLimit": 980,
     "accounts": {
@@ -611,11 +608,11 @@
       },
       "2": {
         "envName": "SERPAPI_API_KEY_2",
-        "monthUsed": 53,
-        "dayUsed": 53,
+        "monthUsed": 56,
+        "dayUsed": 56,
         "monthlyLimit": 245,
         "dailyLimit": 245,
-        "updatedAt": "2026-09-01T10:27:55.594Z"
+        "updatedAt": "2026-09-01T15:12:08.822Z"
       },
       "3": {
         "envName": "SERPAPI_API_KEY_3",
@@ -634,7 +631,7 @@
         "updatedAt": "2026-08-12T10:47:31.352Z"
       }
     },
-    "updatedAt": "2026-09-01T10:28:01.697Z"
+    "updatedAt": "2026-09-01T15:12:19.015Z"
   },
   "searchApiConfigured": true,
   "searchApiTrendsUsage": {
@@ -677,6 +674,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-09-01T10:28:02.165Z"
+    "ranAt": "2026-09-01T15:12:19.403Z"
   }
 }
