@@ -1,51 +1,50 @@
 {
-  "generatedAt": "2026-09-01T21:20:30.186Z",
+  "generatedAt": "2026-09-01T23:34:28.168Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2559,
+  "pendingSeo": 2558,
   "channelCounts": {
+    "online": 2278,
     "pending": 269,
-    "online": 2279,
     "wiki": 11
   },
   "fastClassCounts": {
+    "online:pending": 2278,
     "pending:pending": 269,
-    "online:pending": 2279,
     "wiki:pending": 11
   },
   "strategicCounts": {
+    "online:1": 1868,
     "pending:0": 268,
     "online:3": 2,
-    "online:2": 403,
+    "online:2": 408,
     "wiki:0": 1,
-    "online:1": 1874,
-    "wiki:2": 1,
     "pending:1": 1,
-    "wiki:1": 9
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2249
+      "count": 2245
     },
     {
       "id": "itch-newest-web",
-      "count": 2240
+      "count": 2236
     },
     {
       "id": "itch-new-feed",
-      "count": 2207
+      "count": 2203
     },
     {
       "id": "itch-new-popular-web",
-      "count": 381
+      "count": 384
     },
     {
       "id": "itch-popular",
-      "count": 381
+      "count": 384
     },
     {
       "id": "trends-rising-7d",
-      "count": 203
+      "count": 204
     },
     {
       "id": "trends-rising-30d",
@@ -65,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 52
+      "count": 53
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -97,14 +96,18 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 8
+      "count": 7
     },
     {
       "id": "steam-new",
-      "count": 8
+      "count": 7
     },
     {
       "id": "y8-new",
+      "count": 4
+    },
+    {
+      "id": "lagged-new",
       "count": 4
     },
     {
@@ -116,8 +119,8 @@
       "count": 3
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "gamepix-new",
+      "count": 3
     },
     {
       "id": "steam-top-wishlist",
@@ -172,6 +175,24 @@
       ]
     },
     {
+      "name": "GridLock",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "gamepix-new"
+      ]
+    },
+    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -190,6 +211,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Heart of Stars",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -239,6 +279,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Mushroom Man 2026",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1018,63 +1077,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Mercy - Prototype",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Protect The Light Machine",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Incremental Pain Profit",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
