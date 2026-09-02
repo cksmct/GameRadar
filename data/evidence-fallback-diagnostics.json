@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-02T15:18:38.763Z",
+  "generatedAt": "2026-09-02T18:57:22.479Z",
   "totalCandidates": 3000,
   "pendingSeo": 2553,
   "channelCounts": {
-    "pending": 271,
-    "online": 2268,
+    "pending": 272,
+    "online": 2267,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 271,
-    "online:pending": 2268,
+    "pending:pending": 272,
+    "online:pending": 2267,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 270,
+    "pending:0": 271,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 408,
-    "online:1": 1858,
+    "online:1": 1857,
     "wiki:2": 1,
     "pending:1": 1,
     "wiki:1": 12
@@ -25,15 +25,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2238
+      "count": 2237
     },
     {
       "id": "itch-newest-web",
-      "count": 2229
+      "count": 2228
     },
     {
       "id": "itch-new-feed",
-      "count": 2196
+      "count": 2195
     },
     {
       "id": "itch-new-popular-web",
@@ -45,11 +45,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 206
+      "count": 207
     },
     {
       "id": "trends-rising-30d",
-      "count": 124
+      "count": 125
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -57,7 +57,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 67
+      "count": 68
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -72,16 +72,16 @@
       "count": 31
     },
     {
+      "id": "trends-rising-30d-indie-game",
+      "count": 29
+    },
+    {
       "id": "newgrounds-latest",
       "count": 29
     },
     {
       "id": "newgrounds-new",
       "count": 29
-    },
-    {
-      "id": "trends-rising-30d-indie-game",
-      "count": 28
     },
     {
       "id": "newgrounds-daily-top",
@@ -191,25 +191,6 @@
       ]
     },
     {
-      "name": "Heart of Stars",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "THE WARM ROOM",
       "channel": "online",
       "fastClass": "pending",
@@ -296,6 +277,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Heart of Stars",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
