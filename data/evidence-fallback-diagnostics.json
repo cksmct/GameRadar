@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-09-02T11:44:11.197Z",
+  "generatedAt": "2026-09-02T15:18:38.763Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2555,
+  "pendingSeo": 2553,
   "channelCounts": {
-    "online": 2273,
-    "pending": 269,
-    "wiki": 13
+    "pending": 271,
+    "online": 2268,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "online:pending": 2273,
-    "pending:pending": 269,
-    "wiki:pending": 13
+    "pending:pending": 271,
+    "online:pending": 2268,
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "online:1": 1863,
-    "pending:0": 268,
+    "pending:0": 270,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 408,
+    "online:1": 1858,
+    "wiki:2": 1,
     "pending:1": 1,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2242
+      "count": 2238
     },
     {
       "id": "itch-newest-web",
-      "count": 2232
+      "count": 2229
     },
     {
       "id": "itch-new-feed",
-      "count": 2200
+      "count": 2196
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +45,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 204
+      "count": 206
     },
     {
       "id": "trends-rising-30d",
@@ -52,14 +53,14 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 91
-    },
-    {
-      "id": "trends-rising-30d-horror-game",
-      "count": 66
+      "count": 92
     },
     {
       "id": "trends-rising-7d-indie-game",
+      "count": 67
+    },
+    {
+      "id": "trends-rising-30d-horror-game",
       "count": 66
     },
     {
@@ -92,7 +93,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 14
     },
     {
       "id": "steam-latest-indie",
@@ -116,14 +117,14 @@
     },
     {
       "id": "lagged-new",
-      "count": 3
-    },
-    {
-      "id": "crazygames-new",
       "count": 2
     },
     {
       "id": "steam-top-wishlist",
+      "count": 1
+    },
+    {
+      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -166,6 +167,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Scratch It! Lucky Cards",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -236,25 +256,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "SWALLET",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -352,6 +353,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "SWALLET",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1055,25 +1075,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Challenge of Julie",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
