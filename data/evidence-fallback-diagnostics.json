@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-01T23:34:28.168Z",
+  "generatedAt": "2026-09-02T01:24:48.502Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2558,
+  "pendingSeo": 2556,
   "channelCounts": {
-    "online": 2278,
     "pending": 269,
+    "online": 2276,
     "wiki": 11
   },
   "fastClassCounts": {
-    "online:pending": 2278,
     "pending:pending": 269,
+    "online:pending": 2276,
     "wiki:pending": 11
   },
   "strategicCounts": {
-    "online:1": 1868,
     "pending:0": 268,
     "online:3": 2,
-    "online:2": 408,
     "wiki:0": 1,
+    "online:2": 405,
+    "online:1": 1869,
     "pending:1": 1,
     "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2245
+      "count": 2246
     },
     {
       "id": "itch-newest-web",
-      "count": 2236
+      "count": 2237
     },
     {
       "id": "itch-new-feed",
-      "count": 2203
+      "count": 2204
     },
     {
       "id": "itch-new-popular-web",
-      "count": 384
+      "count": 383
     },
     {
       "id": "itch-popular",
-      "count": 384
+      "count": 383
     },
     {
       "id": "trends-rising-7d",
-      "count": 204
+      "count": 203
     },
     {
       "id": "trends-rising-30d",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 53
+      "count": 52
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -107,10 +107,6 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
-      "count": 4
-    },
-    {
       "id": "itch-featured-feed",
       "count": 3
     },
@@ -119,8 +115,8 @@
       "count": 3
     },
     {
-      "id": "gamepix-new",
-      "count": 3
+      "id": "lagged-new",
+      "count": 2
     },
     {
       "id": "steam-top-wishlist",
@@ -172,45 +168,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "GridLock",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "gamepix-new"
-      ]
-    },
-    {
-      "name": "Long Dives",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 7,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -287,6 +244,27 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Long Dives",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -1077,6 +1055,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Mercy - Prototype",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
