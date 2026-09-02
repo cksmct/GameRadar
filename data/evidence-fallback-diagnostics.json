@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-09-02T06:26:06.792Z",
+  "generatedAt": "2026-09-02T11:44:11.197Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2556,
+  "pendingSeo": 2555,
   "channelCounts": {
+    "online": 2273,
     "pending": 269,
-    "online": 2275,
-    "wiki": 12
+    "wiki": 13
   },
   "fastClassCounts": {
+    "online:pending": 2273,
     "pending:pending": 269,
-    "online:pending": 2275,
-    "wiki:pending": 12
+    "wiki:pending": 13
   },
   "strategicCounts": {
+    "online:1": 1863,
     "pending:0": 268,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 407,
-    "online:1": 1866,
+    "online:2": 408,
     "pending:1": 1,
-    "wiki:1": 11
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2244
+      "count": 2242
     },
     {
       "id": "itch-newest-web",
-      "count": 2235
+      "count": 2232
     },
     {
       "id": "itch-new-feed",
-      "count": 2202
+      "count": 2200
     },
     {
       "id": "itch-new-popular-web",
-      "count": 384
+      "count": 386
     },
     {
       "id": "itch-popular",
-      "count": 384
+      "count": 386
     },
     {
       "id": "trends-rising-7d",
-      "count": 203
+      "count": 204
     },
     {
       "id": "trends-rising-30d",
-      "count": 123
+      "count": 124
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 91
     },
     {
+      "id": "trends-rising-30d-horror-game",
+      "count": 66
+    },
+    {
       "id": "trends-rising-7d-indie-game",
       "count": 66
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 65
-    },
-    {
       "id": "trends-rising-7d-itch-io",
-      "count": 52
+      "count": 53
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -96,15 +96,15 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 7
+      "count": 8
     },
     {
       "id": "steam-new",
-      "count": 7
+      "count": 8
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "itch-featured-feed",
@@ -116,18 +116,14 @@
     },
     {
       "id": "lagged-new",
+      "count": 3
+    },
+    {
+      "id": "crazygames-new",
       "count": 2
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
-    },
-    {
-      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -288,6 +284,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Click Cafe",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1059,25 +1074,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Poke the Bug",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
