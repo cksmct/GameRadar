@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-03T00:15:10.521Z",
+  "generatedAt": "2026-09-03T04:35:39.483Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2550,
+  "pendingSeo": 2549,
   "channelCounts": {
-    "pending": 273,
-    "online": 2265,
+    "online": 2262,
+    "pending": 275,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 273,
-    "online:pending": 2265,
+    "online:pending": 2262,
+    "pending:pending": 275,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 271,
+    "online:1": 1848,
+    "pending:0": 273,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 410,
-    "online:1": 1853,
+    "online:2": 412,
     "wiki:2": 1,
     "pending:1": 2,
     "wiki:1": 10
@@ -25,27 +25,27 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2235
+      "count": 2231
     },
     {
       "id": "itch-newest-web",
-      "count": 2226
+      "count": 2222
     },
     {
       "id": "itch-new-feed",
-      "count": 2193
+      "count": 2189
     },
     {
       "id": "itch-new-popular-web",
-      "count": 388
+      "count": 390
     },
     {
       "id": "itch-popular",
-      "count": 388
+      "count": 390
     },
     {
       "id": "trends-rising-7d",
-      "count": 207
+      "count": 210
     },
     {
       "id": "trends-rising-30d",
@@ -53,7 +53,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 92
+      "count": 93
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -65,7 +65,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 53
+      "count": 55
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -124,6 +124,10 @@
       "count": 1
     },
     {
+      "id": "gamepix-new",
+      "count": 1
+    },
+    {
       "id": "crazygames-new",
       "count": 1
     }
@@ -167,6 +171,25 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Eleven Thousand: Deep",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -1056,25 +1079,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "ALATE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
