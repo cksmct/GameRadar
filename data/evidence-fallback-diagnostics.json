@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-09-03T04:35:39.483Z",
+  "generatedAt": "2026-09-03T09:12:44.030Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2549,
+  "pendingSeo": 2547,
   "channelCounts": {
-    "online": 2262,
-    "pending": 275,
-    "wiki": 12
+    "pending": 277,
+    "online": 2259,
+    "wiki": 11
   },
   "fastClassCounts": {
-    "online:pending": 2262,
-    "pending:pending": 275,
-    "wiki:pending": 12
+    "pending:pending": 277,
+    "online:pending": 2259,
+    "wiki:pending": 11
   },
   "strategicCounts": {
-    "online:1": 1848,
-    "pending:0": 273,
+    "pending:0": 275,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 412,
-    "wiki:2": 1,
+    "online:1": 1845,
     "pending:1": 2,
     "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2231
+      "count": 2229
     },
     {
       "id": "itch-newest-web",
-      "count": 2222
+      "count": 2220
     },
     {
       "id": "itch-new-feed",
-      "count": 2189
+      "count": 2187
     },
     {
       "id": "itch-new-popular-web",
@@ -49,23 +48,23 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 125
+      "count": 128
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 93
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 68
+      "id": "trends-rising-30d-horror-game",
+      "count": 69
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 66
+      "id": "trends-rising-7d-indie-game",
+      "count": 69
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 55
+      "count": 54
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -93,15 +92,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 11
     },
     {
       "id": "steam-latest-indie",
-      "count": 8
+      "count": 7
     },
     {
       "id": "steam-new",
-      "count": 8
+      "count": 7
     },
     {
       "id": "itch-featured-feed",
@@ -121,10 +120,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "gamepix-new",
       "count": 1
     },
     {
@@ -289,6 +284,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Gravitor",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1060,25 +1074,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Immortal Ascension",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
