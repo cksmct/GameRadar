@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-03T19:51:21.850Z",
+  "generatedAt": "2026-09-03T22:34:35.564Z",
   "totalCandidates": 3000,
   "pendingSeo": 2548,
   "channelCounts": {
-    "pending": 282,
-    "online": 2251,
+    "online": 2249,
+    "pending": 284,
     "wiki": 15
   },
   "fastClassCounts": {
-    "pending:pending": 282,
-    "online:pending": 2251,
+    "online:pending": 2249,
+    "pending:pending": 284,
     "wiki:pending": 15
   },
   "strategicCounts": {
-    "pending:0": 279,
+    "online:1": 1827,
+    "pending:0": 281,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 412,
-    "online:1": 1837,
+    "online:2": 420,
     "pending:1": 3,
     "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2221
+      "count": 2218
     },
     {
       "id": "itch-newest-web",
-      "count": 2212
+      "count": 2209
     },
     {
       "id": "itch-new-feed",
-      "count": 2179
+      "count": 2173
     },
     {
       "id": "itch-new-popular-web",
-      "count": 390
+      "count": 399
     },
     {
       "id": "itch-popular",
-      "count": 390
+      "count": 399
     },
     {
       "id": "trends-rising-7d",
-      "count": 214
+      "count": 216
     },
     {
       "id": "trends-rising-30d",
-      "count": 132
+      "count": 134
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,7 +56,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 73
+      "count": 74
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -64,11 +64,11 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 54
+      "count": 56
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 31
+      "count": 32
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -166,6 +166,44 @@
         "itch-new-feed",
         "itch-featured-feed",
         "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Hollowing DEMO",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Backstage — Nightclub Tycoon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -284,6 +322,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Six is Devil",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Wizard",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -705,6 +781,25 @@
       ]
     },
     {
+      "name": "One More Floor",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "SUPER YIPPIE CLICKER",
       "channel": "online",
       "fastClass": "pending",
@@ -979,101 +1074,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki.APK",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Just Keep Defending And Mining",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Hard Spinning Blades",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Quarterheart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "11 - Minute Hero",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
