@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-09-04T11:21:00.673Z",
+  "generatedAt": "2026-09-04T17:37:56.745Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2562,
+  "pendingSeo": 2561,
   "channelCounts": {
     "pending": 289,
-    "wiki": 38,
-    "online": 2235
+    "online": 2247,
+    "wiki": 25
   },
   "fastClassCounts": {
     "pending:pending": 289,
-    "wiki:pending": 38,
-    "online:pending": 2235
+    "online:pending": 2247,
+    "wiki:pending": 25
   },
   "strategicCounts": {
-    "pending:0": 282,
-    "wiki:1": 37,
+    "pending:0": 285,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 420,
-    "online:1": 1813,
-    "pending:1": 7
+    "online:1": 1825,
+    "wiki:2": 1,
+    "pending:1": 4,
+    "wiki:1": 23
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2202
+      "count": 2217
     },
     {
       "id": "itch-newest-web",
-      "count": 2193
+      "count": 2208
     },
     {
       "id": "itch-new-feed",
-      "count": 2157
+      "count": 2172
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +45,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 213
+      "count": 216
     },
     {
       "id": "trends-rising-30d",
@@ -52,11 +53,11 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 98
+      "count": 101
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 71
+      "count": 72
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -67,20 +68,8 @@
       "count": 55
     },
     {
-      "id": "steam-popular-new",
-      "count": 38
-    },
-    {
       "id": "trends-rising-30d-itch-io",
       "count": 35
-    },
-    {
-      "id": "newgrounds-daily-top",
-      "count": 29
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 29
     },
     {
       "id": "newgrounds-latest",
@@ -91,24 +80,36 @@
       "count": 29
     },
     {
-      "id": "trends-rising-30d-indie-game",
+      "id": "newgrounds-daily-top",
       "count": 26
     },
     {
-      "id": "itch-featured-feed",
-      "count": 9
+      "id": "newgrounds-top",
+      "count": 26
     },
     {
-      "id": "itch-featured",
-      "count": 9
+      "id": "trends-rising-30d-indie-game",
+      "count": 25
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 25
     },
     {
       "id": "steam-latest-indie",
-      "count": 7
+      "count": 8
     },
     {
       "id": "steam-new",
-      "count": 7
+      "count": 8
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 6
+    },
+    {
+      "id": "itch-featured",
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -244,25 +245,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pongcremental",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -493,6 +475,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Pongcremental",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
