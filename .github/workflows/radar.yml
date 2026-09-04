@@ -162,5 +162,5 @@ jobs:
           git config user.name "game-radar-bot"
           git config user.email "game-radar-bot@users.noreply.github.com"
           git add data/
-          git commit -m "chore: scan and verify game opportunities"
+          git commit -m "chore: scan and verify game opportunities [skip ci]"
           git push
