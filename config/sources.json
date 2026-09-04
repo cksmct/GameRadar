@@ -144,5 +144,23 @@
     "fetchKind": "lagged-listing",
     "enabled": true,
     "baselineOnly": false
+  },
+  {
+    "id": "pockettactics-roblox",
+    "name": "Pocket Tactics Roblox 新游戏与攻略",
+    "url": "https://www.pockettactics.com/roblox/feed",
+    "kind": "roblox-feed",
+    "fetchKind": "feed",
+    "enabled": true,
+    "baselineOnly": false
+  },
+  {
+    "id": "gamerjournalist-guides",
+    "name": "Gamer Journalist 热门游戏攻略与代码",
+    "url": "https://gamerjournalist.com/feed/",
+    "kind": "guide-feed",
+    "fetchKind": "feed",
+    "enabled": true,
+    "baselineOnly": false
   }
 ]
