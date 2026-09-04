@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-09-04T04:08:30.041Z",
+  "generatedAt": "2026-09-04T04:13:47.482Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2565,
+  "pendingSeo": 2561,
   "channelCounts": {
-    "pending": 275,
-    "online": 2241,
-    "wiki": 49
+    "pending": 282,
+    "online": 2229,
+    "wiki": 50
   },
   "fastClassCounts": {
-    "pending:pending": 275,
-    "online:pending": 2241,
-    "wiki:pending": 49
+    "pending:pending": 282,
+    "online:pending": 2229,
+    "wiki:pending": 50
   },
   "strategicCounts": {
-    "pending:0": 268,
-    "online:3": 4,
+    "pending:0": 275,
+    "online:3": 2,
     "wiki:0": 1,
-    "online:2": 420,
-    "online:1": 1817,
+    "online:2": 418,
+    "online:1": 1809,
     "pending:1": 7,
-    "wiki:1": 48
+    "wiki:1": 49
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2189
+      "count": 2193
     },
     {
       "id": "itch-newest-web",
-      "count": 2180
+      "count": 2177
     },
     {
       "id": "itch-new-feed",
-      "count": 2144
+      "count": 2148
     },
     {
       "id": "itch-new-popular-web",
-      "count": 409
+      "count": 401
     },
     {
       "id": "itch-popular",
-      "count": 409
+      "count": 401
     },
     {
       "id": "trends-rising-7d",
@@ -68,15 +68,15 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 49
+      "count": 50
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 36
+      "count": 35
     },
     {
       "id": "newgrounds-top",
-      "count": 36
+      "count": 35
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -84,11 +84,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 29
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -112,15 +112,11 @@
     },
     {
       "id": "y8-new",
-      "count": 5
-    },
-    {
-      "id": "crazygames-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "gamerjournalist-guides",
@@ -135,28 +131,11 @@
       "count": 1
     },
     {
-      "id": "gamepix-new",
+      "id": "crazygames-new",
       "count": 1
     }
   ],
   "samples": [
-    {
-      "name": "Survive",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 3,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 3,
-      "sourceCount": 3,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new",
-        "gamepix-new"
-      ]
-    },
     {
       "name": "Little Troubles in Spooky Town",
       "channel": "online",
@@ -1084,6 +1063,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Frozen Ground",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
