@@ -1,19 +1,44 @@
 {
-  "checkedAt": "2026-09-04T03:25:26.408Z",
+  "checkedAt": "2026-09-04T03:51:28.123Z",
   "accountApiConsumesSearchCredits": false,
-  "configuredKeys": 0,
-  "workingKeys": 0,
-  "uniqueAccountCount": 0,
+  "configuredKeys": 1,
+  "workingKeys": 1,
+  "uniqueAccountCount": 1,
   "duplicateKeyGroups": [],
-  "totalIndependentSearchesLeft": 0,
-  "accounts": [],
+  "totalIndependentSearchesLeft": 250,
+  "accounts": [
+    {
+      "accountFingerprint": "28d23ef6ab05",
+      "slotIds": [
+        "1"
+      ],
+      "planName": "Free Plan",
+      "searchesPerMonth": 250,
+      "thisMonthUsage": 0,
+      "totalSearchesLeft": 250,
+      "renewalDate": "2026-10-04"
+    }
+  ],
   "slots": [
     {
       "id": "1",
       "envName": "SERPAPI_API_KEY",
-      "configured": false,
-      "ok": false,
-      "error": null
+      "configured": true,
+      "ok": true,
+      "accountFingerprint": "28d23ef6ab05",
+      "accountStatus": "Active",
+      "planId": "free",
+      "planName": "Free Plan",
+      "planMonthlyPrice": 0,
+      "renewalDate": "2026-10-04",
+      "searchesPerMonth": 250,
+      "thisMonthUsage": 0,
+      "planSearchesLeft": 250,
+      "totalSearchesLeft": 250,
+      "rateLimitPerHour": 250,
+      "checkedAt": "2026-09-04T03:51:28.122Z",
+      "sharedAccount": false,
+      "sharedWithSlots": []
     },
     {
       "id": "2",
