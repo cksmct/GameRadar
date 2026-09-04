@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-04T03:51:13.764Z",
+  "generatedAt": "2026-09-04T04:08:30.041Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2552,
+  "pendingSeo": 2565,
   "channelCounts": {
-    "pending": 270,
-    "online": 2253,
-    "wiki": 29
+    "pending": 275,
+    "online": 2241,
+    "wiki": 49
   },
   "fastClassCounts": {
-    "pending:pending": 270,
-    "online:pending": 2253,
-    "wiki:pending": 29
+    "pending:pending": 275,
+    "online:pending": 2241,
+    "wiki:pending": 49
   },
   "strategicCounts": {
-    "pending:0": 267,
-    "online:3": 2,
+    "pending:0": 268,
+    "online:3": 4,
     "wiki:0": 1,
     "online:2": 420,
-    "online:1": 1831,
-    "pending:1": 3,
-    "wiki:1": 28
+    "online:1": 1817,
+    "pending:1": 7,
+    "wiki:1": 48
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2218
+      "count": 2189
     },
     {
       "id": "itch-newest-web",
-      "count": 2209
+      "count": 2180
     },
     {
       "id": "itch-new-feed",
-      "count": 2173
+      "count": 2144
     },
     {
       "id": "itch-new-popular-web",
-      "count": 398
+      "count": 409
     },
     {
       "id": "itch-popular",
-      "count": 398
+      "count": 409
     },
     {
       "id": "trends-rising-7d",
-      "count": 202
+      "count": 203
     },
     {
       "id": "trends-rising-30d",
-      "count": 119
+      "count": 120
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,39 +60,47 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 64
+      "count": 65
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 52
     },
     {
+      "id": "steam-popular-new",
+      "count": 49
+    },
+    {
       "id": "newgrounds-daily-top",
-      "count": 32
+      "count": 36
     },
     {
       "id": "newgrounds-top",
-      "count": 32
+      "count": 36
     },
     {
       "id": "trends-rising-30d-itch-io",
       "count": 31
     },
     {
-      "id": "steam-popular-new",
-      "count": 29
-    },
-    {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 23
+      "count": 24
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 9
+    },
+    {
+      "id": "itch-featured",
+      "count": 9
     },
     {
       "id": "steam-latest-indie",
@@ -103,31 +111,52 @@
       "count": 7
     },
     {
-      "id": "itch-featured-feed",
-      "count": 5
-    },
-    {
-      "id": "itch-featured",
-      "count": 5
-    },
-    {
       "id": "y8-new",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "crazygames-new",
+      "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "gamerjournalist-guides",
+      "count": 1
+    },
+    {
+      "id": "guide-feed",
+      "count": 1
     },
     {
       "id": "steam-top-wishlist",
       "count": 1
     },
     {
-      "id": "crazygames-new",
+      "id": "gamepix-new",
       "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "Survive",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 3,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 3,
+      "sourceCount": 3,
+      "sourceIds": [
+        "crazygames-new",
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
     {
       "name": "Little Troubles in Spooky Town",
       "channel": "online",
@@ -190,14 +219,14 @@
       ]
     },
     {
-      "name": "Backstage — Nightclub Tycoon",
+      "name": "Backstage",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -762,6 +791,25 @@
       ]
     },
     {
+      "name": "Dark Slayer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Rosa Quest 2026",
       "channel": "online",
       "fastClass": "pending",
@@ -1036,44 +1084,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Frozen Ground",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "BELTRUNNER (Web, Mac, Linux, Wii, DC)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
