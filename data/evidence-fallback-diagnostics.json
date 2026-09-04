@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-09-04T04:13:47.482Z",
+  "generatedAt": "2026-09-04T07:04:17.269Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2561,
+  "pendingSeo": 2562,
   "channelCounts": {
-    "pending": 282,
-    "online": 2229,
-    "wiki": 50
+    "pending": 289,
+    "online": 2225,
+    "wiki": 48
   },
   "fastClassCounts": {
-    "pending:pending": 282,
-    "online:pending": 2229,
-    "wiki:pending": 50
+    "pending:pending": 289,
+    "online:pending": 2225,
+    "wiki:pending": 48
   },
   "strategicCounts": {
-    "pending:0": 275,
+    "pending:0": 282,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 418,
-    "online:1": 1809,
+    "online:1": 1805,
     "pending:1": 7,
-    "wiki:1": 49
+    "wiki:1": 47
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2193
+      "count": 2186
     },
     {
       "id": "itch-newest-web",
@@ -32,43 +32,47 @@
     },
     {
       "id": "itch-new-feed",
-      "count": 2148
+      "count": 2141
     },
     {
       "id": "itch-new-popular-web",
-      "count": 401
+      "count": 397
     },
     {
       "id": "itch-popular",
-      "count": 401
+      "count": 397
     },
     {
       "id": "trends-rising-7d",
-      "count": 203
+      "count": 212
     },
     {
       "id": "trends-rising-30d",
-      "count": 120
+      "count": 130
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 92
+      "count": 98
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 66
+      "count": 71
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 65
+      "count": 66
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 52
+      "count": 54
     },
     {
       "id": "steam-popular-new",
-      "count": 50
+      "count": 48
+    },
+    {
+      "id": "trends-rising-30d-itch-io",
+      "count": 35
     },
     {
       "id": "newgrounds-daily-top",
@@ -77,10 +81,6 @@
     {
       "id": "newgrounds-top",
       "count": 35
-    },
-    {
-      "id": "trends-rising-30d-itch-io",
-      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -92,7 +92,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 24
+      "count": 25
     },
     {
       "id": "itch-featured-feed",
@@ -218,25 +218,6 @@
     },
     {
       "name": "Eleven Thousand: Deep",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Scratch It! Lucky Cards",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -410,6 +391,25 @@
     },
     {
       "name": "Industrial Knowledge",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Scratch It! Lucky Cards",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
