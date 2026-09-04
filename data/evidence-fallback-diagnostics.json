@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-04T07:04:17.269Z",
+  "generatedAt": "2026-09-04T11:21:00.673Z",
   "totalCandidates": 3000,
   "pendingSeo": 2562,
   "channelCounts": {
     "pending": 289,
-    "online": 2225,
-    "wiki": 48
+    "wiki": 38,
+    "online": 2235
   },
   "fastClassCounts": {
     "pending:pending": 289,
-    "online:pending": 2225,
-    "wiki:pending": 48
+    "wiki:pending": 38,
+    "online:pending": 2235
   },
   "strategicCounts": {
     "pending:0": 282,
+    "wiki:1": 37,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 418,
-    "online:1": 1805,
-    "pending:1": 7,
-    "wiki:1": 47
+    "online:2": 420,
+    "online:1": 1813,
+    "pending:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2186
+      "count": 2202
     },
     {
       "id": "itch-newest-web",
-      "count": 2177
+      "count": 2193
     },
     {
       "id": "itch-new-feed",
-      "count": 2141
+      "count": 2157
     },
     {
       "id": "itch-new-popular-web",
-      "count": 397
+      "count": 399
     },
     {
       "id": "itch-popular",
-      "count": 397
+      "count": 399
     },
     {
       "id": "trends-rising-7d",
-      "count": 212
+      "count": 213
     },
     {
       "id": "trends-rising-30d",
-      "count": 130
+      "count": 131
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,11 +64,11 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 54
+      "count": 55
     },
     {
       "id": "steam-popular-new",
-      "count": 48
+      "count": 38
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -76,11 +76,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 35
+      "count": 29
     },
     {
       "id": "newgrounds-top",
-      "count": 35
+      "count": 29
     },
     {
       "id": "newgrounds-latest",
@@ -92,7 +92,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 25
+      "count": 26
     },
     {
       "id": "itch-featured-feed",
@@ -274,25 +274,6 @@
       ]
     },
     {
-      "name": "Thock Factory",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -311,6 +292,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Green Friends",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "BREAKAWAY",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -474,6 +493,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Thock Factory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1037,44 +1075,6 @@
     },
     {
       "name": "Sprunki: REVAMPED",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Liar's Door",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Frozen Ground",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
