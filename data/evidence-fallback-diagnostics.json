@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-05T16:50:51.653Z",
+  "generatedAt": "2026-09-05T23:55:09.508Z",
   "totalCandidates": 3000,
   "pendingSeo": 2555,
   "channelCounts": {
-    "pending": 296,
-    "online": 2246,
+    "pending": 295,
+    "online": 2247,
     "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 296,
-    "online:pending": 2246,
+    "pending:pending": 295,
+    "online:pending": 2247,
     "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 292,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 422,
-    "online:1": 1822,
-    "pending:1": 4,
+    "online:2": 424,
+    "online:1": 1821,
+    "pending:1": 3,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2216
+      "count": 2215
     },
     {
       "id": "itch-newest-web",
-      "count": 2207
+      "count": 2206
     },
     {
       "id": "itch-new-feed",
-      "count": 2171
+      "count": 2170
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 222
+      "count": 223
     },
     {
       "id": "trends-rising-30d",
-      "count": 136
+      "count": 135
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 103
+      "count": 104
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -68,7 +68,7 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 35
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -96,23 +96,27 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 7
+      "count": 8
     },
     {
       "id": "steam-new",
-      "count": 7
-    },
-    {
-      "id": "itch-featured-feed",
-      "count": 6
-    },
-    {
-      "id": "itch-featured",
-      "count": 6
+      "count": 8
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 6
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 5
+    },
+    {
+      "id": "itch-featured",
+      "count": 5
+    },
+    {
+      "id": "gamepix-new",
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -179,41 +183,24 @@
       ]
     },
     {
-      "name": "Backstage",
+      "name": "Path of the idle cultivator",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 18,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 11,
       "strategicCount": 2,
-      "sourceCount": 5,
+      "sourceCount": 7,
       "sourceIds": [
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Eleven Thousand: Deep",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -314,6 +301,25 @@
       ]
     },
     {
+      "name": "Backstage",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "The Hollowing DEMO",
       "channel": "online",
       "fastClass": "pending",
@@ -379,6 +385,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Eleven Thousand: Deep",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1063,25 +1088,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "insignificance",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
