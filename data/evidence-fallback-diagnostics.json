@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-09-04T17:37:56.745Z",
+  "generatedAt": "2026-09-05T00:08:51.302Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2561,
+  "pendingSeo": 2560,
   "channelCounts": {
-    "pending": 289,
-    "online": 2247,
-    "wiki": 25
+    "pending": 295,
+    "online": 2253,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 289,
-    "online:pending": 2247,
-    "wiki:pending": 25
+    "pending:pending": 295,
+    "online:pending": 2253,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 285,
+    "pending:0": 291,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 420,
-    "online:1": 1825,
+    "online:2": 424,
+    "online:1": 1827,
     "wiki:2": 1,
     "pending:1": 4,
-    "wiki:1": 23
+    "wiki:1": 10
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2217
+      "count": 2220
     },
     {
       "id": "itch-newest-web",
-      "count": 2208
+      "count": 2211
     },
     {
       "id": "itch-new-feed",
-      "count": 2172
+      "count": 2175
     },
     {
       "id": "itch-new-popular-web",
-      "count": 399
+      "count": 400
     },
     {
       "id": "itch-popular",
-      "count": 399
+      "count": 400
     },
     {
       "id": "trends-rising-7d",
-      "count": 216
+      "count": 221
     },
     {
       "id": "trends-rising-30d",
-      "count": 131
+      "count": 136
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 101
+      "count": 103
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 72
+      "count": 73
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 66
+      "count": 67
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 55
+      "count": 57
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 35
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -80,6 +80,10 @@
       "count": 29
     },
     {
+      "id": "trends-rising-30d-indie-game",
+      "count": 28
+    },
+    {
       "id": "newgrounds-daily-top",
       "count": 26
     },
@@ -88,12 +92,8 @@
       "count": 26
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 25
-    },
-    {
       "id": "steam-popular-new",
-      "count": 25
+      "count": 12
     },
     {
       "id": "steam-latest-indie",
@@ -104,6 +104,10 @@
       "count": 8
     },
     {
+      "id": "y8-new",
+      "count": 7
+    },
+    {
       "id": "itch-featured-feed",
       "count": 6
     },
@@ -112,8 +116,8 @@
       "count": 6
     },
     {
-      "id": "y8-new",
-      "count": 4
+      "id": "gamepix-new",
+      "count": 3
     },
     {
       "id": "lagged-new",
@@ -237,25 +241,6 @@
       ]
     },
     {
-      "name": "THE WARM ROOM",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Long Dives",
       "channel": "online",
       "fastClass": "pending",
@@ -274,6 +259,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Olympians",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -449,6 +453,25 @@
     },
     {
       "name": "Heart of Stars",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "THE WARM ROOM",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1057,25 +1080,6 @@
     },
     {
       "name": "Jump Army",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki: REVAMPED",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
