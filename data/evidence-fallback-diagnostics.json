@@ -1,55 +1,54 @@
 {
-  "generatedAt": "2026-09-05T00:08:51.302Z",
+  "generatedAt": "2026-09-05T10:38:10.176Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2560,
+  "pendingSeo": 2557,
   "channelCounts": {
-    "pending": 295,
-    "online": 2253,
+    "pending": 296,
+    "online": 2249,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 295,
-    "online:pending": 2253,
+    "pending:pending": 296,
+    "online:pending": 2249,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 291,
+    "pending:0": 292,
     "online:3": 2,
+    "online:1": 1824,
     "wiki:0": 1,
-    "online:2": 424,
-    "online:1": 1827,
-    "wiki:2": 1,
+    "online:2": 423,
     "pending:1": 4,
-    "wiki:1": 10
+    "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2220
+      "count": 2218
     },
     {
       "id": "itch-newest-web",
-      "count": 2211
+      "count": 2209
     },
     {
       "id": "itch-new-feed",
-      "count": 2175
+      "count": 2173
     },
     {
       "id": "itch-new-popular-web",
-      "count": 400
+      "count": 401
     },
     {
       "id": "itch-popular",
-      "count": 400
+      "count": 401
     },
     {
       "id": "trends-rising-7d",
-      "count": 221
+      "count": 222
     },
     {
       "id": "trends-rising-30d",
-      "count": 136
+      "count": 137
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -57,11 +56,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 73
+      "count": 74
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 67
+      "count": 68
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -73,11 +72,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -97,14 +96,10 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 8
+      "count": 7
     },
     {
       "id": "steam-new",
-      "count": 8
-    },
-    {
-      "id": "y8-new",
       "count": 7
     },
     {
@@ -116,8 +111,8 @@
       "count": 6
     },
     {
-      "id": "gamepix-new",
-      "count": 3
+      "id": "y8-new",
+      "count": 5
     },
     {
       "id": "lagged-new",
@@ -184,25 +179,6 @@
       ]
     },
     {
-      "name": "The Hollowing DEMO",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Backstage",
       "channel": "online",
       "fastClass": "pending",
@@ -262,6 +238,25 @@
       ]
     },
     {
+      "name": "Cottage En",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
+      ]
+    },
+    {
       "name": "Olympians",
       "channel": "online",
       "fastClass": "pending",
@@ -308,6 +303,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Hollowing DEMO",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1068,25 +1082,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Jump Army",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
