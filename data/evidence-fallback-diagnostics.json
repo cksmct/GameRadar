@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-06T17:05:23.667Z",
+  "generatedAt": "2026-09-06T23:56:48.915Z",
   "totalCandidates": 3000,
   "pendingSeo": 2553,
   "channelCounts": {
-    "pending": 301,
-    "online": 2246,
+    "pending": 300,
+    "online": 2247,
     "wiki": 6
   },
   "fastClassCounts": {
-    "pending:pending": 301,
-    "online:pending": 2246,
+    "pending:pending": 300,
+    "online:pending": 2247,
     "wiki:pending": 6
   },
   "strategicCounts": {
-    "pending:0": 298,
+    "pending:0": 297,
     "online:3": 2,
+    "online:1": 1819,
     "wiki:0": 1,
-    "online:2": 423,
-    "online:1": 1821,
+    "online:2": 426,
     "pending:1": 3,
     "wiki:1": 5
   },
@@ -36,11 +36,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 402
+      "count": 406
     },
     {
       "id": "itch-popular",
-      "count": 402
+      "count": 406
     },
     {
       "id": "trends-rising-7d",
@@ -48,15 +48,15 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 136
+      "count": 137
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 107
+      "count": 108
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 74
+      "count": 75
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -197,6 +197,63 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "HorsePower Plant",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Cogwork Carnival",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "SocialHack",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1027,63 +1084,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Runeclicker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Kingdomsweeper",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Ashmarch",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
