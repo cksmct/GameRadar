@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-09-07T12:37:19.715Z",
+  "generatedAt": "2026-09-07T18:45:08.950Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2552,
+  "pendingSeo": 2551,
   "channelCounts": {
-    "pending": 302,
-    "online": 2248,
-    "wiki": 2
+    "pending": 303,
+    "online": 2242,
+    "wiki": 6
   },
   "fastClassCounts": {
-    "pending:pending": 302,
-    "online:pending": 2248,
-    "wiki:pending": 2
+    "pending:pending": 303,
+    "online:pending": 2242,
+    "wiki:pending": 6
   },
   "strategicCounts": {
-    "pending:0": 299,
-    "online:1": 1817,
-    "online:3": 2,
+    "pending:0": 300,
+    "online:3": 3,
     "wiki:0": 1,
-    "online:2": 429,
+    "online:2": 433,
+    "online:1": 1806,
+    "wiki:2": 3,
     "pending:1": 3,
-    "wiki:1": 1
+    "wiki:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2219
+      "count": 2213
     },
     {
       "id": "itch-newest-web",
-      "count": 2210
+      "count": 2203
     },
     {
       "id": "itch-new-feed",
-      "count": 2171
+      "count": 2164
     },
     {
       "id": "itch-new-popular-web",
-      "count": 407
+      "count": 412
     },
     {
       "id": "itch-popular",
-      "count": 407
+      "count": 412
     },
     {
       "id": "trends-rising-7d",
@@ -60,19 +61,19 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 71
+      "count": 70
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 58
+      "count": 59
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 36
+      "count": 37
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -92,11 +93,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 8
+      "count": 12
     },
     {
       "id": "steam-new",
-      "count": 8
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -107,12 +108,12 @@
       "count": 6
     },
     {
-      "id": "y8-new",
-      "count": 4
+      "id": "steam-popular-new",
+      "count": 5
     },
     {
-      "id": "steam-popular-new",
-      "count": 2
+      "id": "y8-new",
+      "count": 5
     },
     {
       "id": "lagged-new",
@@ -131,11 +132,35 @@
       "count": 1
     },
     {
+      "id": "gamepix-new",
+      "count": 1
+    },
+    {
       "id": "crazygames-new",
       "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "About Time!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 3,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-featured-feed",
+        "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
     {
       "name": "Little Troubles in Spooky Town",
       "channel": "online",
@@ -275,6 +300,63 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "drift1k",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Midnight Oil",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "FragMiner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1008,82 +1090,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Trillion Dollar Cart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "TrustMe Social™",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Cherry Picking Bot Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "PJSK: Surprises Abound's wish adventure",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
