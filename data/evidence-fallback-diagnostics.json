@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-09-08T17:56:35.398Z",
+  "generatedAt": "2026-09-09T00:17:18.332Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2545,
+  "pendingSeo": 2541,
   "channelCounts": {
-    "pending": 306,
-    "online": 2233,
+    "pending": 309,
+    "online": 2226,
     "wiki": 6
   },
   "fastClassCounts": {
-    "pending:pending": 306,
-    "online:pending": 2233,
+    "pending:pending": 309,
+    "online:pending": 2226,
     "wiki:pending": 6
   },
   "strategicCounts": {
-    "pending:0": 302,
+    "pending:0": 305,
     "online:3": 3,
-    "wiki:1": 4,
     "wiki:0": 1,
-    "online:2": 436,
-    "online:1": 1794,
+    "online:2": 435,
+    "online:1": 1788,
     "wiki:2": 1,
-    "pending:1": 4
+    "pending:1": 4,
+    "wiki:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2202
+      "count": 2196
     },
     {
       "id": "itch-newest-web",
-      "count": 2193
+      "count": 2187
     },
     {
       "id": "itch-new-feed",
-      "count": 2153
+      "count": 2147
     },
     {
       "id": "itch-new-popular-web",
-      "count": 414
+      "count": 415
     },
     {
       "id": "itch-popular",
-      "count": 414
+      "count": 415
     },
     {
       "id": "trends-rising-7d",
-      "count": 234
+      "count": 235
     },
     {
       "id": "trends-rising-30d",
@@ -53,7 +53,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 110
+      "count": 109
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -61,7 +61,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 71
+      "count": 73
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -116,16 +116,8 @@
       "count": 5
     },
     {
-      "id": "crazygames-new",
-      "count": 2
-    },
-    {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 1
     },
     {
       "id": "gamerjournalist-guides",
@@ -136,11 +128,7 @@
       "count": 1
     },
     {
-      "id": "gamepix-new",
-      "count": 1
-    },
-    {
-      "id": "poki-new",
+      "id": "steam-top-wishlist",
       "count": 1
     },
     {
@@ -149,6 +137,10 @@
     },
     {
       "id": "roblox-feed",
+      "count": 1
+    },
+    {
+      "id": "crazygames-new",
       "count": 1
     }
   ],
@@ -312,6 +304,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "The Written Book: RPG",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1083,25 +1094,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Rosa Quest 2026",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
