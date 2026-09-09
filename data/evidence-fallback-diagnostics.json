@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-09T11:26:36.560Z",
+  "generatedAt": "2026-09-09T17:51:44.516Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2540,
+  "pendingSeo": 2537,
   "channelCounts": {
     "pending": 312,
-    "online": 2219,
-    "wiki": 9
+    "online": 2214,
+    "wiki": 11
   },
   "fastClassCounts": {
     "pending:pending": 312,
-    "online:pending": 2219,
-    "wiki:pending": 9
+    "online:pending": 2214,
+    "wiki:pending": 11
   },
   "strategicCounts": {
     "pending:0": 308,
-    "online:3": 3,
-    "online:2": 438,
+    "online:3": 4,
+    "wiki:1": 7,
     "wiki:0": 1,
+    "online:2": 438,
     "pending:1": 4,
-    "online:1": 1778,
-    "wiki:2": 3,
-    "wiki:1": 5
+    "online:1": 1772,
+    "wiki:2": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2190
+      "count": 2184
     },
     {
       "id": "itch-newest-web",
-      "count": 2180
+      "count": 2174
     },
     {
       "id": "itch-new-feed",
-      "count": 2140
+      "count": 2134
     },
     {
       "id": "itch-new-popular-web",
-      "count": 417
+      "count": 418
     },
     {
       "id": "itch-popular",
-      "count": 417
+      "count": 418
     },
     {
       "id": "trends-rising-7d",
-      "count": 237
+      "count": 238
     },
     {
       "id": "trends-rising-30d",
-      "count": 150
+      "count": 152
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -57,11 +57,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 78
+      "count": 79
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 73
+      "count": 74
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -69,7 +69,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 37
+      "count": 39
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -93,15 +93,15 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 11
+      "count": 12
     },
     {
       "id": "steam-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 10
     },
     {
       "id": "itch-featured-feed",
@@ -113,7 +113,11 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 6
+    },
+    {
+      "id": "lagged-new",
+      "count": 3
     },
     {
       "id": "gamerjournalist-guides",
@@ -132,10 +136,6 @@
       "count": 2
     },
     {
-      "id": "lagged-new",
-      "count": 2
-    },
-    {
       "id": "steam-top-wishlist",
       "count": 1
     },
@@ -145,6 +145,27 @@
     }
   ],
   "samples": [
+    {
+      "name": "Inkarn8: First Pages",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 3,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-featured-feed",
+        "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
     {
       "name": "About Time!",
       "channel": "online",
@@ -208,25 +229,6 @@
       ]
     },
     {
-      "name": "Inkarn8: First Pages",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-featured-feed",
-        "itch-featured"
-      ]
-    },
-    {
       "name": "Treeternal Demo",
       "channel": "online",
       "fastClass": "pending",
@@ -254,25 +256,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "HorsePower Plant",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -410,6 +393,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "HorsePower Plant",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
