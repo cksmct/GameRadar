@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-10T11:22:51.138Z",
+  "generatedAt": "2026-09-10T17:43:39.728Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2530,
+  "pendingSeo": 2528,
   "channelCounts": {
-    "pending": 315,
-    "online": 2204,
-    "wiki": 11
+    "pending": 314,
+    "online": 2197,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 315,
-    "online:pending": 2204,
-    "wiki:pending": 11
+    "pending:pending": 314,
+    "online:pending": 2197,
+    "wiki:pending": 17
   },
   "strategicCounts": {
     "pending:0": 310,
     "online:3": 4,
     "wiki:0": 1,
-    "online:2": 439,
-    "pending:1": 5,
-    "online:1": 1761,
-    "wiki:2": 1,
-    "wiki:1": 9
+    "online:2": 440,
+    "pending:1": 4,
+    "online:1": 1753,
+    "wiki:2": 3,
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2174
+      "count": 2167
     },
     {
       "id": "itch-newest-web",
-      "count": 2164
+      "count": 2157
     },
     {
       "id": "itch-new-feed",
-      "count": 2124
+      "count": 2117
     },
     {
       "id": "itch-new-popular-web",
-      "count": 419
+      "count": 420
     },
     {
       "id": "itch-popular",
-      "count": 419
+      "count": 420
     },
     {
       "id": "trends-rising-7d",
@@ -57,7 +57,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 81
+      "count": 82
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -93,23 +93,23 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 17
     },
     {
       "id": "steam-latest-indie",
-      "count": 10
+      "count": 12
     },
     {
       "id": "steam-new",
-      "count": 10
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
-      "count": 9
+      "count": 8
     },
     {
       "id": "itch-featured",
-      "count": 9
+      "count": 8
     },
     {
       "id": "y8-new",
@@ -124,10 +124,6 @@
       "count": 3
     },
     {
-      "id": "lagged-new",
-      "count": 3
-    },
-    {
       "id": "gamerjournalist-guides",
       "count": 2
     },
@@ -136,11 +132,15 @@
       "count": 2
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 1
+      "id": "crazygames-new",
+      "count": 2
     },
     {
-      "id": "crazygames-new",
+      "id": "lagged-new",
+      "count": 2
+    },
+    {
+      "id": "steam-top-wishlist",
       "count": 1
     }
   ],
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "name": "Treeternal Demo",
+      "name": "Nine Heavens Ascent",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -248,14 +248,14 @@
       ]
     },
     {
-      "name": "Idle Fantasy Shop",
+      "name": "Treeternal Demo",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 6,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -336,6 +336,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Idle Fantasy Shop",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1085,25 +1104,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Color Cascade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
       ]
     }
   ]
