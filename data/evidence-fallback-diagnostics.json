@@ -1,63 +1,63 @@
 {
-  "generatedAt": "2026-09-10T00:17:09.397Z",
+  "generatedAt": "2026-09-10T11:22:51.138Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2532,
+  "pendingSeo": 2530,
   "channelCounts": {
-    "pending": 314,
-    "online": 2206,
-    "wiki": 12
+    "pending": 315,
+    "online": 2204,
+    "wiki": 11
   },
   "fastClassCounts": {
-    "pending:pending": 314,
-    "online:pending": 2206,
-    "wiki:pending": 12
+    "pending:pending": 315,
+    "online:pending": 2204,
+    "wiki:pending": 11
   },
   "strategicCounts": {
-    "pending:0": 309,
+    "pending:0": 310,
     "online:3": 4,
     "wiki:0": 1,
-    "online:2": 437,
+    "online:2": 439,
     "pending:1": 5,
-    "online:1": 1765,
-    "wiki:2": 2,
+    "online:1": 1761,
+    "wiki:2": 1,
     "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2177
+      "count": 2174
     },
     {
       "id": "itch-newest-web",
-      "count": 2167
+      "count": 2164
     },
     {
       "id": "itch-new-feed",
-      "count": 2127
+      "count": 2124
     },
     {
       "id": "itch-new-popular-web",
-      "count": 418
+      "count": 419
     },
     {
       "id": "itch-popular",
-      "count": 418
+      "count": 419
     },
     {
       "id": "trends-rising-7d",
-      "count": 238
+      "count": 239
     },
     {
       "id": "trends-rising-30d",
-      "count": 152
+      "count": 154
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 112
+      "count": 113
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 79
+      "count": 81
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -93,7 +93,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 11
     },
     {
       "id": "steam-latest-indie",
@@ -113,7 +113,19 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 6
+    },
+    {
+      "id": "pockettactics-roblox",
+      "count": 3
+    },
+    {
+      "id": "roblox-feed",
+      "count": 3
+    },
+    {
+      "id": "lagged-new",
+      "count": 3
     },
     {
       "id": "gamerjournalist-guides",
@@ -121,18 +133,6 @@
     },
     {
       "id": "guide-feed",
-      "count": 2
-    },
-    {
-      "id": "pockettactics-roblox",
-      "count": 2
-    },
-    {
-      "id": "roblox-feed",
-      "count": 2
-    },
-    {
-      "id": "lagged-new",
       "count": 2
     },
     {
@@ -306,6 +306,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "MYTHOS LAST SUMMER",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1085,25 +1104,6 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Core!1!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
