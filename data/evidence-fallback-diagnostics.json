@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-09-09T17:51:44.516Z",
+  "generatedAt": "2026-09-10T00:17:09.397Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2537,
+  "pendingSeo": 2532,
   "channelCounts": {
-    "pending": 312,
-    "online": 2214,
-    "wiki": 11
+    "pending": 314,
+    "online": 2206,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 312,
-    "online:pending": 2214,
-    "wiki:pending": 11
+    "pending:pending": 314,
+    "online:pending": 2206,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 308,
+    "pending:0": 309,
     "online:3": 4,
-    "wiki:1": 7,
     "wiki:0": 1,
-    "online:2": 438,
-    "pending:1": 4,
-    "online:1": 1772,
-    "wiki:2": 3
+    "online:2": 437,
+    "pending:1": 5,
+    "online:1": 1765,
+    "wiki:2": 2,
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2184
+      "count": 2177
     },
     {
       "id": "itch-newest-web",
-      "count": 2174
+      "count": 2167
     },
     {
       "id": "itch-new-feed",
-      "count": 2134
+      "count": 2127
     },
     {
       "id": "itch-new-popular-web",
@@ -53,7 +53,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 111
+      "count": 112
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -65,15 +65,15 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 60
+      "count": 59
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 39
+      "count": 40
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 37
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -92,32 +92,28 @@
       "count": 26
     },
     {
-      "id": "steam-latest-indie",
+      "id": "steam-popular-new",
       "count": 12
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 10
     },
     {
       "id": "steam-new",
-      "count": 12
-    },
-    {
-      "id": "steam-popular-new",
       "count": 10
     },
     {
       "id": "itch-featured-feed",
-      "count": 8
+      "count": 9
     },
     {
       "id": "itch-featured",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
-      "count": 6
-    },
-    {
-      "id": "lagged-new",
-      "count": 3
+      "count": 5
     },
     {
       "id": "gamerjournalist-guides",
@@ -133,6 +129,10 @@
     },
     {
       "id": "roblox-feed",
+      "count": 2
+    },
+    {
+      "id": "lagged-new",
       "count": 2
     },
     {
